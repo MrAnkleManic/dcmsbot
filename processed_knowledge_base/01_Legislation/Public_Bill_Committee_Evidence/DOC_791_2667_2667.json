@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "DOC_791",
+    "title": "2667",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "2667",
+    "date": "2022-12-10",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 8,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text (Part 1/2)",
+      "text": "Jeffrey Howard Online Safety Bill Amendments - Evidence 1. Summary : This evidence criticizes the elimination of Category 1 services\u2019 adult-safety duties, which ought to be restored. The proposed user-empowerment tools, while valuable, are an inadequate replacement, and can be improved. Further, the amendments undermine the systemic focus of the Bill, reinforcing a leave-up/take-down binary and disincentivizing alternative tools such as algorithmic deamplification. 2. Proposed user-empowerment tools are insufficient because they reflect an unduly narrow viewofhow speech causes harm. While some speech directly harms its targets (as with racist abuse), other speech causes harm indirectly. User-empowerment tools will do little to mitigate the latter harms. For example, the danger of speech inciting hatred is that it risks inculcating bigoted views in susceptible audiences, potentially even inspiring offline discrimination or violence. The ultimate victims of such speech neednoteversee it, and their decision to opt-out will not protect them. 3. The user-empowerment tools set the wrong default. Given the low value of the speech targeted by these tools, and theharmitcan cause, it would be better for exclusion to be the default, such that users must opt-intoseesuch speech. This is likely to reduce substantially the number of people exposed to directly harmful speech such as abusive content and the promotion of self-harm. 4. The elimination of adult-safety duties neglects speech that is legal yet becomes harmful only when amplified (as with some misin for mation). For such speech, criminal liability for speakers would be inappropriate, yetplatforms have a moral obligation to reduce its reach, or at least announce clear policies. It will be replied that these duties pose a serious threat to freedom of expression. But this is mistaken. Despite widespread misreporting in the press on this point, the Online Safety Billhas never required platforms to remove legal speech that is harmful for adults. Instead past versions would have required platforms to specify, enforce, and risk-assess clear policies for such content\u2014even if their stance is to allow it. Such measures pose no serious threat to users\u2019 free speech, while substantially bolstering large platforms\u2019 accountability for the governance of online content. 5. Taken together, the amendments reinforce a leave-up/take-down binary, and so undermine a systemic and flexible approach to governing harmful content. For example, the renewed focusonstrictlyen for cing terms of service overlooks content that is technically allowed byplatforms, but is alg0rithmically deamplified/demoted (e. g., Meta demotes spam, certain misin for mation, and \u201cborderline\u201d content). Demotion is an increasingly used tool of content governance, yet it remains seriously unclear how demotion policy fits with in the amended architecture of the Bill. Associate Professor of Political Theory and Director of the Online Speech Project, School of Public Policy, University College London. The evidence provided reflects the views of the author. Perversely, demotion may even be disincentivized by the Bill, depending on whether demoting content counts as \u201crestricting users\u2019 access\u201d to it. Requirements toenforce terms of service should be clarified sothatplat for ms enjoy legal latitude to engage in a variety of demotion efforts.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "Jeffrey Howard Online Safety Bill Amendments - Evidence 1. Summary : This evidence criticizes the elimination of Category 1 services\u2019 adult-safety duties, which ought to be restored. The proposed user-empowerment tools, while valuable, are an inadequate replacement, and can be improved. Further, the amendments undermine the systemic focus of the Bill, reinforcing a leave-up/take-down binary and disincentivizing alternative tools such as algorithmic deamplification. 2. Proposed user-empowerment tools are insufficient because they reflect an unduly narrow viewofhow speech causes harm. While some speech directly harms its targets (as with racist abuse), other speech causes harm indirectly. User-empowerment tools will do little to mitigate the latter harms. For example, the danger of speech inciting hatred is that it risks inculcating bigoted views in susceptible audiences, potentially even inspiring offline discrimination or violence. The ultimate victims of such speech neednoteversee it, and their decision to opt-out will not protect them. 3. The user-empowerment tools set the wrong default. Given the low value of the speech targeted by these tools, and theharmitcan cause, it would be better for exclusion to be the default, such that users must opt-intoseesuch speech. This is likely to reduce substantially the number of people exposed to directly harmful speech such as abusive content and the promotion of self-harm. 4. The elimination of adult-safety duties neglects speech that is legal yet becomes harmful only when amplified (as with some misin for mation). For such speech, criminal liability for speakers would be inappropriate, yetplatforms have a moral obligation to reduce its reach, or at least announce clear policies. It will be replied that these duties pose a serious threat to freedom of expression. But this is mistaken. Despite widespread misreporting in the press on this point, the Online Safety Billhas never required platforms to remove legal speech that is harmful for adults. Instead past versions would have required platforms to specify, enforce, and risk-assess clear policies for such content\u2014even if their stance is to allow it. Such measures pose no serious threat to users\u2019 free speech, while substantially bolstering large platforms\u2019 accountability for the governance of online content. 5. Taken together, the amendments reinforce a leave-up/take-down binary, and so undermine a systemic and flexible approach to governing harmful content. For example, the renewed focusonstrictlyen for cing terms of service overlooks content that is technically allowed byplatforms, but is alg0rithmically deamplified/demoted (e. g., Meta demotes spam, certain misin for mation, and \u201cborderline\u201d content). Demotion is an increasingly used tool of content governance, yet it remains seriously unclear how demotion policy fits with in the amended architecture of the Bill. Associate Professor of Political Theory and Director of the Online Speech Project, School of Public Policy, University College London. The evidence provided reflects the views of the author. Perversely, demotion may even be disincentivized by the Bill, depending on whether demoting content counts as \u201crestricting users\u2019 access\u201d to it. Requirements toenforce terms of service should be clarified sothatplat for ms enjoy legal latitude to engage in a variety of demotion efforts.",
+      "chunk_id": "DOC_791::c000000",
+      "chunk_hash": "b24516e205c3",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_791::c000001"
+    },
+    {
+      "header": "Introductory Text (Part 2/2)",
+      "text": "provided reflects the views of the author. Perversely, demotion may even be disincentivized by the Bill, depending on whether demoting content counts as \u201crestricting users\u2019 access\u201d to it. Requirements toenforce terms of service should be clarified sothatplat for ms enjoy legal latitude to engage in a variety of demotion efforts. 10 December 2022",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "10 December 2022",
+      "chunk_id": "DOC_791::c000001",
+      "chunk_hash": "0360dea1f3fa",
+      "prev_chunk_id": "DOC_791::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

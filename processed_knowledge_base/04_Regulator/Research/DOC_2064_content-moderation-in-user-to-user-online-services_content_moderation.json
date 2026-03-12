@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "DOC_2064",
+    "title": "content-moderation-in-user-to-user-online-services",
+    "category": "04_Regulator",
+    "type": "Research",
+    "author": "content moderation",
+    "date": "2023-09-14",
+    "url": "https://www.ofcom.org.uk/online-safety/safety-technology/content-moderation-in-user-to-user-online-services",
+    "encoding": "ascii",
+    "authority_tag": "EVIDENCE_RESEARCH",
+    "authority_weight": 7
+  },
+  "chunks": [
+    {
+      "header": "HTML Content (Part 1/2)",
+      "text": "Content moderation in user-to-user online services\nContent moderation in user-to-user online services\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n14 September 2023\nConcerns about harms related to social media and other online services that host user-generated content (user-to-user services) have become a focus of public debate in recent years, both in the UK and globally. Many of these concerns fall under Ofcom\u2019s remit through our media literacy duties and powers under the video-sharing platform regime, or are likely to fall within our duties under the Online Safety Bill. An important part of service providers\u2019 efforts to limit users\u2019 harm is content moderation \u2013 that is, activities aimed at removing, or reducing the visibility of, potentially harmful content. Content moderation is central to current public discussions about online regulation, in part because it raises implications for how users can express themselves freely online. It will also be relevant to Ofcom\u2019s future work on online services\u2019 safety systems and processes. However, information in the public domain on content moderation is relatively scattered and incomplete, and it may be difficult for non-experts to form a holistic view of common practices and challenges. To help develop our understanding of content moderation, over the last two years we worked with six service providers of different sizes and types, including Facebook (Meta), YouTube (Google), Reddit and Bumble focusing particularly on how providers can identify, tackle and track harm. Service providers engaged on a strictly voluntary basis and we are grateful for the time and effort they devoted to this work. This report presents a summary of our findings from these experiences, as well as our own reflections on some of the decisions and trade-offs that services may face when designing and implementing their content moderation systems and processes. Full report\nContent moderation in user-to-user online services - an overview of processes and challenges (PDF, 521.4 KB)\nAutomated Content Classification (ACC) Systems\nAn investigation into how social media platforms use MLOps software, systems, and processes to manage user-generated content. Evaluating recommender systems in relation to illegal and harmful content\nOfcom commissioned Pattrn Analytics & Intelligence (Pattrn.AI) to examine possible methods for evaluating the impact of recommender systems. Ofcom wanted to understand the different ways in which online services could test whether their recommender system design choices were likely to increase or decrease the likelihood of their users encountering illegal and harmful content\nUse of AI in online content moderation\nA Cambridge Consultants report on the use of artificial intelligence in online content moderation. The A-SPARC model of online platforms\nUnderstanding user and content journeys as consumers access services on online platforms is crucial for a clear and consistent regulation of relevant aspects of the platforms. Exploring Safety in the Online Content Journey\nThe online ecosystem is becoming ever more relevant to Ofcom\u2019s work, and our remit has recently expanded to explicitly include online content for the first time.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Content moderation in user-to-user online services\nContent moderation in user-to-user online services\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n14 September 2023\nConcerns about harms related to social media and other online services that host user-generated content (user-to-user services) have become a focus of public debate in recent years, both in the UK and globally. Many of these concerns fall under Ofcom\u2019s remit through our media literacy duties and powers under the video-sharing platform regime, or are likely to fall within our duties under the Online Safety Bill. An important part of service providers\u2019 efforts to limit users\u2019 harm is content moderation \u2013 that is, activities aimed at removing, or reducing the visibility of, potentially harmful content. Content moderation is central to current public discussions about online regulation, in part because it raises implications for how users can express themselves freely online. It will also be relevant to Ofcom\u2019s future work on online services\u2019 safety systems and processes. However, information in the public domain on content moderation is relatively scattered and incomplete, and it may be difficult for non-experts to form a holistic view of common practices and challenges. To help develop our understanding of content moderation, over the last two years we worked with six service providers of different sizes and types, including Facebook (Meta), YouTube (Google), Reddit and Bumble focusing particularly on how providers can identify, tackle and track harm. Service providers engaged on a strictly voluntary basis and we are grateful for the time and effort they devoted to this work. This report presents a summary of our findings from these experiences, as well as our own reflections on some of the decisions and trade-offs that services may face when designing and implementing their content moderation systems and processes. Full report\nContent moderation in user-to-user online services - an overview of processes and challenges (PDF, 521.4 KB)\nAutomated Content Classification (ACC) Systems\nAn investigation into how social media platforms use MLOps software, systems, and processes to manage user-generated content. Evaluating recommender systems in relation to illegal and harmful content\nOfcom commissioned Pattrn Analytics & Intelligence (Pattrn.AI) to examine possible methods for evaluating the impact of recommender systems. Ofcom wanted to understand the different ways in which online services could test whether their recommender system design choices were likely to increase or decrease the likelihood of their users encountering illegal and harmful content\nUse of AI in online content moderation\nA Cambridge Consultants report on the use of artificial intelligence in online content moderation. The A-SPARC model of online platforms\nUnderstanding user and content journeys as consumers access services on online platforms is crucial for a clear and consistent regulation of relevant aspects of the platforms. Exploring Safety in the Online Content Journey\nThe online ecosystem is becoming ever more relevant to Ofcom\u2019s work, and our remit has recently expanded to explicitly include online content for the first time.",
+      "chunk_id": "DOC_2064::c000000",
+      "chunk_hash": "dadf17758765",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_2064::c000001"
+    },
+    {
+      "header": "HTML Content (Part 2/2)",
+      "text": "on online platforms is crucial for a clear and consistent regulation of relevant aspects of the platforms. Exploring Safety in the Online Content Journey The online ecosystem is becoming ever more relevant to Ofcom\u2019s work, and our remit has recently expanded to explicitly include online content for the first time. What we have learnt about VSPs' user policies This report shines a light on platforms\u2019 approaches to designing and implementing their terms and conditions to protect users and highlights what we consider to be examples of good practice. It is the first of a series of VSP reports we will publish in 2023.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "What we have learnt about VSPs' user policies This report shines a light on platforms\u2019 approaches to designing and implementing their terms and conditions to protect users and highlights what we consider to be examples of good practice. It is the first of a series of VSP reports we will publish in 2023.",
+      "chunk_id": "DOC_2064::c000001",
+      "chunk_hash": "f0b020dfeccc",
+      "prev_chunk_id": "DOC_2064::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

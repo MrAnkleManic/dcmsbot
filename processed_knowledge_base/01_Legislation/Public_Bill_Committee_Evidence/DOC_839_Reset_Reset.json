@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "id": "DOC_839",
+    "title": "Reset",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Reset",
+    "date": "Unknown",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 14,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Key amendment areas",
+      "text": "Transparency As drafted, the Bill requires platforms to document how it complies with the regulations, but this documentation is not made publicly available. In most instances, it is notevenmade available to Ofcom unless Ofcom initiates an investigation. For example, the risk assessment duties require services to assess for and document a wide range of risks across their service, but these documents remain hidden inside the company. There has to be greater transparency by default if services are to be truly accountable. \u25cf Cat 1 and 2A companies should have to publish their risk assessments to Ofcom at the very least - ideally they\u2019dbemade publicly available \u25cf Cat 1 and 2A transparency reports should alsobemade publicly available rather than just submitted to Ofcom -Access to data (cl 136) At present, companies decide who accesses data, how much of it and for what purposes. Only the companies themselves canseethefull picture, and the effect of this opacity is that it has taken years to build upthecase for the Online Safety Bill. Without a greater level of insight enabling policymaking, quality research and harm analysis, regulatory innovation will stagnate. It is a bundantly clear that greater access and availability of data and in for mation about systems and processes would improve the underst and ing of the online environment. We cannot rely solely on OFCOM toactonce problems arise when new issues can be spotted early by experts found elsewhere. Increasingly, researchers who need access to this in for mation anddataare not only based at academic institutions, but also with in civil society organisations. Civil society plays a crucial role in identifying harmful content and poor behaviour, as work by the NSPCC, CCDH, ISD, Glitch and numerous other organisations prove. These and other groups currently achieve this with access to minimal in for mation and ongoing difficulties. Access to publicly available in for mation from online platforms is routinely curtailed, often invoking the protection of users. \u25cf",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Transparency As drafted, the Bill requires platforms to document how it complies with the regulations, but this documentation is not made publicly available. In most instances, it is notevenmade available to Ofcom unless Ofcom initiates an investigation. For example, the risk assessment duties require services to assess for and document a wide range of risks across their service, but these documents remain hidden inside the company. There has to be greater transparency by default if services are to be truly accountable. \u25cf Cat 1 and 2A companies should have to publish their risk assessments to Ofcom at the very least - ideally they\u2019dbemade publicly available \u25cf Cat 1 and 2A transparency reports should alsobemade publicly available rather than just submitted to Ofcom -Access to data (cl 136) At present, companies decide who accesses data, how much of it and for what purposes. Only the companies themselves canseethefull picture, and the effect of this opacity is that it has taken years to build upthecase for the Online Safety Bill. Without a greater level of insight enabling policymaking, quality research and harm analysis, regulatory innovation will stagnate. It is a bundantly clear that greater access and availability of data and in for mation about systems and processes would improve the underst and ing of the online environment. We cannot rely solely on OFCOM toactonce problems arise when new issues can be spotted early by experts found elsewhere. Increasingly, researchers who need access to this in for mation anddataare not only based at academic institutions, but also with in civil society organisations. Civil society plays a crucial role in identifying harmful content and poor behaviour, as work by the NSPCC, CCDH, ISD, Glitch and numerous other organisations prove. These and other groups currently achieve this with access to minimal in for mation and ongoing difficulties. Access to publicly available in for mation from online platforms is routinely curtailed, often invoking the protection of users. \u25cf",
+      "chunk_id": "DOC_839::c000000",
+      "chunk_hash": "cdec9ed0c4e3",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_839::c000001"
+    },
+    {
+      "header": "Clause 136 requires that Ofcom publish a report on access to data in two years. This is too long.",
+      "text": "\u25cf Ofcom should be required toaskhow access to data should be a chieved, not if it should be. And they should havetodoso at an accelerated pace. Content of democratic importance (cl 15) The layers of free speech protections in the Bill make the Bill confusing and hard to implement. A Bill that\u2019s hard to implement will do nothing for online safety, norforfree speech.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "\u25cf Ofcom should be required toaskhow access to data should be a chieved, not if it should be. And they should havetodoso at an accelerated pace. Content of democratic importance (cl 15) The layers of free speech protections in the Bill make the Bill confusing and hard to implement. A Bill that\u2019s hard to implement will do nothing for online safety, norforfree speech.",
+      "chunk_id": "DOC_839::c000001",
+      "chunk_hash": "882d8695323e",
+      "prev_chunk_id": "DOC_839::c000000",
+      "next_chunk_id": "DOC_839::c000002"
+    },
+    {
+      "header": "Clause 15 is particularly high risk as it leaves platforms to determine what content of democratic",
+      "text": "importance really is. It also opens the floodgates for bad actors to promote harmful content on the basis of its democratic importance. COVID disin for mation and false narratives about the fabric of the United Kingdom aretwosuch examples. The clause also risks legitimising hate targeted at people in public and political life. Iftheaim is to protect political engagement online, it would be better to delete this clause and instead insert the language from 15.3 in to Clause 19. Thishasthesame effect but reduces the complexity of the regime, while better protecting free speech. \u25cf Delete clause and insert 15.3 in to clause 19. Bad actors - what does the Billdo? The Bill is silent on coordinated inauthentic behaviour, which it risks encouraging via are as such as clause 15 and the media exemption. Any loopholes willberipe for exploitation by bad actors bent on distributing harmful content. The EU\u2019s Digital Services Act includes measures to account for how service design - including through manipulation- can have serious effects on mental health and wellbeing. This explicitly references coordinated disin for mation campaigns. \u25cf In the Risk Assessment duties (illegal; harmful to children; harmful to adults) explicitly require platforms to account for the risks of coordinated inauthentic behaviour. Media exemption Grave concerns about how this can be exploited by bad actors, as we are a lready seeing play out in the UK and more widely in the Rus/Ukr conflict. 49.10. b. i i i would extend the exemption to UGC which includes links to recognised news publisher content. This is a tactic which is a lready being manipulated at scale to spread falsehoods online. The proposal of an amendment which takes the exemption even further, creating a must carry obligation, is a free pass for disin for mation and hate. Suchadutymust not be included in the Bill. \u25cf Narrow the definition of recognised news publisher in Cl 50. \u25cf",
+      "page": "2",
+      "page_start": 2,
+      "page_end": 2,
+      "pages": [
+        2
+      ],
+      "display_text": "importance really is. It also opens the floodgates for bad actors to promote harmful content on the basis of its democratic importance. COVID disin for mation and false narratives about the fabric of the United Kingdom aretwosuch examples. The clause also risks legitimising hate targeted at people in public and political life. Iftheaim is to protect political engagement online, it would be better to delete this clause and instead insert the language from 15.3 in to Clause 19. Thishasthesame effect but reduces the complexity of the regime, while better protecting free speech. \u25cf Delete clause and insert 15.3 in to clause 19. Bad actors - what does the Billdo? The Bill is silent on coordinated inauthentic behaviour, which it risks encouraging via are as such as clause 15 and the media exemption. Any loopholes willberipe for exploitation by bad actors bent on distributing harmful content. The EU\u2019s Digital Services Act includes measures to account for how service design - including through manipulation- can have serious effects on mental health and wellbeing. This explicitly references coordinated disin for mation campaigns. \u25cf In the Risk Assessment duties (illegal; harmful to children; harmful to adults) explicitly require platforms to account for the risks of coordinated inauthentic behaviour. Media exemption Grave concerns about how this can be exploited by bad actors, as we are a lready seeing play out in the UK and more widely in the Rus/Ukr conflict. 49.10. b. i i i would extend the exemption to UGC which includes links to recognised news publisher content. This is a tactic which is a lready being manipulated at scale to spread falsehoods online. The proposal of an amendment which takes the exemption even further, creating a must carry obligation, is a free pass for disin for mation and hate. Suchadutymust not be included in the Bill. \u25cf Narrow the definition of recognised news publisher in Cl 50. \u25cf",
+      "chunk_id": "DOC_839::c000002",
+      "chunk_hash": "e757f51d0243",
+      "prev_chunk_id": "DOC_839::c000001",
+      "next_chunk_id": "DOC_839::c000003"
+    },
+    {
+      "header": "Clause 49.10.b.iii must be deleted",
+      "text": "Safety by design Thebestway to reduce harm while protecting free speech is to focus on safety by design. The Bill could go further in this regard. For example, the DSA states that: very large online platforms and very large online search engines should assess the systemic risks stemming from the design, functioning and use of their service, as well as from potential misuses by the recipients of the service, and should take appropriate mitigating measures in observance of fundamental rights. It also calls forplatforms to mitigate the negative effects of personalised recommender systems and toadjust recommender systems that \u201clead to the discrimination of persons in vulnerable situations\u201d. These are the sorts of measures that should be included in the OSB. \u25cf Include clearer safety by design metrics as per the DS",
+      "page": "2-3",
+      "page_start": 2,
+      "page_end": 3,
+      "pages": [
+        2,
+        3
+      ],
+      "display_text": "Safety by design Thebestway to reduce harm while protecting free speech is to focus on safety by design. The Bill could go further in this regard. For example, the DSA states that: very large online platforms and very large online search engines should assess the systemic risks stemming from the design, functioning and use of their service, as well as from potential misuses by the recipients of the service, and should take appropriate mitigating measures in observance of fundamental rights. It also calls forplatforms to mitigate the negative effects of personalised recommender systems and toadjust recommender systems that \u201clead to the discrimination of persons in vulnerable situations\u201d. These are the sorts of measures that should be included in the OSB. \u25cf Include clearer safety by design metrics as per the DS",
+      "chunk_id": "DOC_839::c000003",
+      "chunk_hash": "03fd91488384",
+      "prev_chunk_id": "DOC_839::c000002",
+      "next_chunk_id": null
+    }
+  ]
+}

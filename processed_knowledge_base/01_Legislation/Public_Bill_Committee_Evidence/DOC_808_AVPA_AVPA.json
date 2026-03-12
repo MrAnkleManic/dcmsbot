@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "id": "DOC_808",
+    "title": "AVPA",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "AVPA",
+    "date": "2022-05-30",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 9,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text",
+      "text": "T HE AVPA L IMITED OPERATING AS T HE A GE V ERIFICATION P ROVIDERS A SSOCIATION (C OMPANY N O 11961982) R EGISTERED A DDRESS : 557B W ANDSWORTH R OAD L ONDON , SW8 3JD. G ENERAL E NQUIRIES : AVPA @ AVPASSOCIATION . COM M EDIA E NQUIRIES : PRESS @ AVPASSOCIATION . COM Chair and Members Public Bill Committee (Online Safety Bill) House of Commons, London, SW1A 0AA 30 May 2022 Dear Chairs and Members of the Committee Online Safety Bill (supplementary evidence): Virtual Private Networks are not an issue During the Committee\u2019s witness sessions, concerns were raised at several points that the use of Virtual Private Networks (VPNs) could circumvent the provisions of the Online Safety Bill. We want to reassure the Committee that these worries are misplaced. Without using a VPN, an internet user discloses their Internet Protocol (IP) address which usually allows websites to know roughly where the user is located. A VPN creates a secure tunnel to a different location, allowing a user to pretend to be elsewhere, often abroad. The concern raised was that, if a UK-based user can simply use a VPN to pretend they are in, for example, the USA, then online services would not apply the requirements of the UK\u2019s Online Safety Bill, suchasage verification for pornography. But it is important to recognise that the newlaw will not excuse services from compliance just because a user has a VPN . For example, the requirement is to ensure children in the UK cannot normally access pornography, and that applies whether or not they use a VPN, thedarkweb, or any other, perhaps yet-to-be-invented, technology. So, services will need to comply with all of the Bill\u2019s provisions foranyuser which they either (a) know to be in the UK or (b) donotknow is NOT in the UK includin all those accessing services via a VPN. Netflix, Hulu, Amazon, and the BBC are well-known examples which already aim to block such traffic altogether. Services can usually spot traffic coming through a VPN and commercial companies provide VPN spotting to the likes of these video sharing platforms, financial institutions etc. These services are highly effective. They arealsoinuse by some AV providers already. Children could use premium VPNs, but these comeatacost. There will always be something of a cat and mouse game in preventing VPN access, butsofar the services are generally winning, unless users have plenty of money to pay to evade the controls. The simple answer for services, of course, is to comply with UK lawforall their users, and apply age assurance whenever it is required to protect children, regardless of their location. As more jurisdictions legislate for this, that will become the norm anyway. Yours sincerely, I a in Corby Executive Director Age Verification Providers Association",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "T HE AVPA L IMITED OPERATING AS T HE A GE V ERIFICATION P ROVIDERS A SSOCIATION (C OMPANY N O 11961982) R EGISTERED A DDRESS : 557B W ANDSWORTH R OAD L ONDON , SW8 3JD. G ENERAL E NQUIRIES : AVPA @ AVPASSOCIATION . COM M EDIA E NQUIRIES : PRESS @ AVPASSOCIATION . COM Chair and Members Public Bill Committee (Online Safety Bill) House of Commons, London, SW1A 0AA 30 May 2022 Dear Chairs and Members of the Committee Online Safety Bill (supplementary evidence): Virtual Private Networks are not an issue During the Committee\u2019s witness sessions, concerns were raised at several points that the use of Virtual Private Networks (VPNs) could circumvent the provisions of the Online Safety Bill. We want to reassure the Committee that these worries are misplaced. Without using a VPN, an internet user discloses their Internet Protocol (IP) address which usually allows websites to know roughly where the user is located. A VPN creates a secure tunnel to a different location, allowing a user to pretend to be elsewhere, often abroad. The concern raised was that, if a UK-based user can simply use a VPN to pretend they are in, for example, the USA, then online services would not apply the requirements of the UK\u2019s Online Safety Bill, suchasage verification for pornography. But it is important to recognise that the newlaw will not excuse services from compliance just because a user has a VPN . For example, the requirement is to ensure children in the UK cannot normally access pornography, and that applies whether or not they use a VPN, thedarkweb, or any other, perhaps yet-to-be-invented, technology. So, services will need to comply with all of the Bill\u2019s provisions foranyuser which they either (a) know to be in the UK or (b) donotknow is NOT in the UK includin all those accessing services via a VPN. Netflix, Hulu, Amazon, and the BBC are well-known examples which already aim to block such traffic altogether. Services can usually spot traffic coming through a VPN and commercial companies provide VPN spotting to the likes of these video sharing platforms, financial institutions etc. These services are highly effective. They arealsoinuse by some AV providers already. Children could use premium VPNs, but these comeatacost. There will always be something of a cat and mouse game in preventing VPN access, butsofar the services are generally winning, unless users have plenty of money to pay to evade the controls. The simple answer for services, of course, is to comply with UK lawforall their users, and apply age assurance whenever it is required to protect children, regardless of their location. As more jurisdictions legislate for this, that will become the norm anyway. Yours sincerely, I a in Corby Executive Director Age Verification Providers Association",
+      "chunk_id": "DOC_808::c000000",
+      "chunk_hash": "ea339b3ea319",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

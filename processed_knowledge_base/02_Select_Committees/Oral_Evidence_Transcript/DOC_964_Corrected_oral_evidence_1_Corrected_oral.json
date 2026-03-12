@@ -1,0 +1,1106 @@
+{
+  "metadata": {
+    "id": "DOC_964",
+    "title": "Corrected oral evidence 1",
+    "category": "02_Select_Committees",
+    "type": "Oral Evidence Transcript",
+    "author": "Corrected oral",
+    "date": "2021-10-27",
+    "url": "https://committees.parliament.uk/oralevidence/2907/html/",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Speaker Turn",
+      "text": "#\n\n!Text\nDescription automatically generated\n\nJoint Committee on the Draft Online Safety Bill\n\nC orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nWednesday 27 October 2021\n\n9 am\n\nWatch the meeting: https://parliamentlive.tv/event/index/47212f70-89bd-4c5e-8451-ab51fe3693c2\n\nMembers present: Damian Collins MP (The Chair); Lord Black of Brentwood; Lord Clement-Jones; Baroness Kidron; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 12 Heard in Public Questions 193 - 199\n\nWitness\n\nI: Maria Ressa, CEO, Rappler.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": null,
+      "display_text": "#\n\n!Text\nDescription automatically generated\n\nJoint Committee on the Draft Online Safety Bill\n\nC orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nWednesday 27 October 2021\n\n9 am\n\nWatch the meeting: https://parliamentlive.tv/event/index/47212f70-89bd-4c5e-8451-ab51fe3693c2\n\nMembers present: Damian Collins MP (The Chair); Lord Black of Brentwood; Lord Clement-Jones; Baroness Kidron; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 12 Heard in Public Questions 193 - 199\n\nWitness\n\nI: Maria Ressa, CEO, Rappler.",
+      "chunk_id": "DOC_964::c000000",
+      "chunk_hash": "730ecb6dccb9",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_964::c000001"
+    },
+    {
+      "header": "USE OF THE TRANSCRIPT",
+      "text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n18\n\nExamination of witness\n\nMaria Ressa.\n\nQ193 The Chair: Welcome to this further evidence session of the Joint Committee on the draft Online Safety Bill. Our witness, Maria Ressa, joins us from Manila. Maria, thank you for joining us. On behalf of the committee, I want formally to congratulate you on your Nobel Peace Prize, which was a wonderful recognition of the very important work that you have done for people in the Philippines and as a beacon of light around the world. It is an honour to have you with us today.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "USE OF THE TRANSCRIPT",
+      "display_text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n18\n\nExamination of witness\n\nMaria Ressa.\n\nQ193 The Chair: Welcome to this further evidence session of the Joint Committee on the draft Online Safety Bill. Our witness, Maria Ressa, joins us from Manila. Maria, thank you for joining us. On behalf of the committee, I want formally to congratulate you on your Nobel Peace Prize, which was a wonderful recognition of the very important work that you have done for people in the Philippines and as a beacon of light around the world. It is an honour to have you with us today.",
+      "chunk_id": "DOC_964::c000001",
+      "chunk_hash": "0a8f3dc10e83",
+      "prev_chunk_id": "DOC_964::c000000",
+      "next_chunk_id": "DOC_964::c000002"
+    },
+    {
+      "header": "The Chair",
+      "text": "I would like to start with a question that is close to home for you\u2014the nature of disinformation in a country such as the Philippines. One of the issues that we have to consider with the draft Online Safety Bill is its scope and to what extent it should include things such as harmful disinformation that can affect democracy and society.\n\nOne of the challenges that we constantly face when we discuss that question is, if you start to regulate the disinformation, will oppressive regimes not use that as a guide to suppressing speech in their own countries even more? As a journalist who operates in what is effectively for you an oppressive regime, what are your views on that? Can we afford to leave things as they are? Should we seek to create guidelines and regulations on harmful disinformation?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "The Chair",
+      "display_text": "I would like to start with a question that is close to home for you\u2014the nature of disinformation in a country such as the Philippines. One of the issues that we have to consider with the draft Online Safety Bill is its scope and to what extent it should include things such as harmful disinformation that can affect democracy and society.\n\nOne of the challenges that we constantly face when we discuss that question is, if you start to regulate the disinformation, will oppressive regimes not use that as a guide to suppressing speech in their own countries even more? As a journalist who operates in what is effectively for you an oppressive regime, what are your views on that? Can we afford to leave things as they are? Should we seek to create guidelines and regulations on harmful disinformation?",
+      "chunk_id": "DOC_964::c000002",
+      "chunk_hash": "185fa8abd2b5",
+      "prev_chunk_id": "DOC_964::c000001",
+      "next_chunk_id": "DOC_964::c000003"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Regulation is our last pillar. We are having elections in the Philippines in May next year, and we will not have integrity of elections if we do not have integrity of facts. We have shown in our research\u2014in the data that we have been able to gather\u2014that the very platforms that distribute the news, and distribute facts at a large scale, are biased against facts.\n\nPart of the reason that I wanted to speak with you today is that there will be a lot of pressure to delay and delay, but we have to live through this. I am at the front line on both ends: the weaponisation of the law\u2014I am concerned about the nuances of the law\u2014and at the same time the weaponisation of social media, and they are intertwined. I think that a law is necessary. Regulation is our last hope.\n\nAs you know, I am also a partner of Facebook. Rappler is one of two Filipino fact-checking partners. Since we discovered what was happening online\u2014the insidious manipulation in 2016\u2014we have constantly worked behind the scenes for a few years, and then finally I started calling it out because it was not moving. As you can see from the Facebook Files, almost everything that has come out are things that we have lived through, so we definitely need legislation.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 3,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "Regulation is our last pillar. We are having elections in the Philippines in May next year, and we will not have integrity of elections if we do not have integrity of facts. We have shown in our research\u2014in the data that we have been able to gather\u2014that the very platforms that distribute the news, and distribute facts at a large scale, are biased against facts.\n\nPart of the reason that I wanted to speak with you today is that there will be a lot of pressure to delay and delay, but we have to live through this. I am at the front line on both ends: the weaponisation of the law\u2014I am concerned about the nuances of the law\u2014and at the same time the weaponisation of social media, and they are intertwined. I think that a law is necessary. Regulation is our last hope.\n\nAs you know, I am also a partner of Facebook. Rappler is one of two Filipino fact-checking partners. Since we discovered what was happening online\u2014the insidious manipulation in 2016\u2014we have constantly worked behind the scenes for a few years, and then finally I started calling it out because it was not moving. As you can see from the Facebook Files, almost everything that has come out are things that we have lived through, so we definitely need legislation.",
+      "chunk_id": "DOC_964::c000003",
+      "chunk_hash": "b0503b393050",
+      "prev_chunk_id": "DOC_964::c000002",
+      "next_chunk_id": "DOC_964::c000004"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "2016\u2014we have constantly worked behind the scenes for a few years, and then finally I started calling it out because it was not moving. As you can see from the Facebook Files, almost everything that has come out are things that we have lived through, so we definitely need legislation. The question, of course, is what is at stake for the UK. I love that you are pushing forward with it, and I thought that your earlier report that looked at the global scope was unique. The problem is that you will be a model for everyone else around the world, so you must be a gold standard. That is tough. At the same time, if you do nothing, this also cannot stay, so please do something. I will try to help as much as I can from our experience.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 3,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "2016\u2014we have constantly worked behind the scenes for a few years, and then finally I started calling it out because it was not moving. As you can see from the Facebook Files, almost everything that has come out are things that we have lived through, so we definitely need legislation. The question, of course, is what is at stake for the UK. I love that you are pushing forward with it, and I thought that your earlier report that looked at the global scope was unique. The problem is that you will be a model for everyone else around the world, so you must be a gold standard. That is tough. At the same time, if you do nothing, this also cannot stay, so please do something. I will try to help as much as I can from our experience.",
+      "chunk_id": "DOC_964::c000004",
+      "chunk_hash": "2589fcf3d5c3",
+      "prev_chunk_id": "DOC_964::c000003",
+      "next_chunk_id": "DOC_964::c000005"
+    },
+    {
+      "header": "The Chair",
+      "text": "From what you say, it sounds as though, if we do nothing, effectively, it is still doing something. It could be sending a signal to the rest of the world that we do not think that disinformation is important.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "The Chair",
+      "display_text": "From what you say, it sounds as though, if we do nothing, effectively, it is still doing something. It could be sending a signal to the rest of the world that we do not think that disinformation is important.",
+      "chunk_id": "DOC_964::c000005",
+      "chunk_hash": "aef692862711",
+      "prev_chunk_id": "DOC_964::c000004",
+      "next_chunk_id": "DOC_964::c000006"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Doing nothing pushes the world closer to fascism. The Oxford University Computational Propaganda Research Project earlier this year said that cheap armies on social media are rolling back democracy in 81 countries around the world. I know this myself. There was a big data study done by the International Center for Journalists, UNESCO, the University of Sheffield and our Rappler research team of almost 500,000 social media attacks against me. It showed that 60% of the attacks were meant to tear down my credibility and 40% were meant to tear down my spirit\u2014dehumanising, sexist at best and misogynistic at worst.\n\nWhat I have gone through is what every female journalist and every user o f social media is going through. I am looking at the reaction in the United States to Frances Haugen, and we are talking about children and teenagers, but t hink about it as poison in the information ecosystem. That poison is going to attack kids as well as adults, as well as everyone else.\n\nDoing nothing is not an option. I continue to appeal behind the scenes to all the tech platforms for enlightened self-interest because the road that they have set the world on is not sustainable.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 5,
+      "speaker_name": "Maria Ressa",
+      "display_text": "Doing nothing pushes the world closer to fascism. The Oxford University Computational Propaganda Research Project earlier this year said that cheap armies on social media are rolling back democracy in 81 countries around the world. I know this myself. There was a big data study done by the International Center for Journalists, UNESCO, the University of Sheffield and our Rappler research team of almost 500,000 social media attacks against me. It showed that 60% of the attacks were meant to tear down my credibility and 40% were meant to tear down my spirit\u2014dehumanising, sexist at best and misogynistic at worst.\n\nWhat I have gone through is what every female journalist and every user o f social media is going through. I am looking at the reaction in the United States to Frances Haugen, and we are talking about children and teenagers, but t hink about it as poison in the information ecosystem. That poison is going to attack kids as well as adults, as well as everyone else.\n\nDoing nothing is not an option. I continue to appeal behind the scenes to all the tech platforms for enlightened self-interest because the road that they have set the world on is not sustainable.",
+      "chunk_id": "DOC_964::c000006",
+      "chunk_hash": "9b4fc77fa9f1",
+      "prev_chunk_id": "DOC_964::c000005",
+      "next_chunk_id": "DOC_964::c000007"
+    },
+    {
+      "header": "The Chair",
+      "text": "The problem that you experience in the Philippines seem s to be not just that the Government are failing to regulate social media, but that the Government are an active participant in the spread of disinformation and the targeting and drowning out of dissident voices.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 6,
+      "speaker_name": "The Chair",
+      "display_text": "The problem that you experience in the Philippines seem s to be not just that the Government are failing to regulate social media, but that the Government are an active participant in the spread of disinformation and the targeting and drowning out of dissident voices.",
+      "chunk_id": "DOC_964::c000007",
+      "chunk_hash": "0c36559f07ba",
+      "prev_chunk_id": "DOC_964::c000006",
+      "next_chunk_id": "DOC_964::c000008"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "That is correct. They are a major state-sponsored force. I was in one of 12 research groups that were working under Camille Fran\u00e7ois, who is now with Graphika. We saw that this is state-sponsored online abuse. It is meant to do two things. For the target, it pounds you into silence and it creates astroturfing\u2014a fake reality. We in the Philippines even quantified that. How do you create a fake reality? You have sock puppet networks, meaning you create fake accounts, and those fake accounts follow each other and manufacture a reality.\n\nThis all sounds like words, but I can tell you what it means when you are the target. It means waking up to 90 hate messages per hour on your feed, having to deal with that and having to deal with your family and friends and anyone else you do not know asking you questions about outright lies. Government officials are targeted in similar ways, I suppose.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "That is correct. They are a major state-sponsored force. I was in one of 12 research groups that were working under Camille Fran\u00e7ois, who is now with Graphika. We saw that this is state-sponsored online abuse. It is meant to do two things. For the target, it pounds you into silence and it creates astroturfing\u2014a fake reality. We in the Philippines even quantified that. How do you create a fake reality? You have sock puppet networks, meaning you create fake accounts, and those fake accounts follow each other and manufacture a reality.\n\nThis all sounds like words, but I can tell you what it means when you are the target. It means waking up to 90 hate messages per hour on your feed, having to deal with that and having to deal with your family and friends and anyone else you do not know asking you questions about outright lies. Government officials are targeted in similar ways, I suppose.",
+      "chunk_id": "DOC_964::c000008",
+      "chunk_hash": "550c44bad1f6",
+      "prev_chunk_id": "DOC_964::c000007",
+      "next_chunk_id": "DOC_964::c000009"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "target. It means waking up to 90 hate messages per hour on your feed, having to deal with that and having to deal with your family and friends and anyone else you do not know asking you questions about outright lies. Government officials are targeted in similar ways, I suppose. Here in the Philippines, it was one of the ways that a brutal drug war was accepted, because Facebook is essentially our internet. This is the sixth year in a row that Filipinos spent the most time online and on social media globally. The Cambridge Analytica whistleblower, Chris Wylie, called us the P etri dish for the parent company of Cambridge Analytica, SCL, which was operating here. It was trying these tactics of mass manipulation, and if they worked it used them on you guys. We were the guinea pigs. Beyond that, Facebook itself admitted that we were ground zero. Why is that important? I will state the five main findings because we do our own research on this. What sets Rappler apart is that we have a database which we call the Sharktank. S ome of this comes from our partnership with Facebook; w e work with Facebook to try to make it safer. It is just not enough when it is exponential. The first part was the discovery of information operations, let us call it, because I sometimes rail against what western media calls misinformation. Misinformation is, \u201cI made a mistake\u201d. Disinformation is meant to manipulate you. It is a half-truth or a half-life; it is done with a purpose, it is done by an actor, and it is about power and money in many instances.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "target. It means waking up to 90 hate messages per hour on your feed, having to deal with that and having to deal with your family and friends and anyone else you do not know asking you questions about outright lies. Government officials are targeted in similar ways, I suppose. Here in the Philippines, it was one of the ways that a brutal drug war was accepted, because Facebook is essentially our internet. This is the sixth year in a row that Filipinos spent the most time online and on social media globally. The Cambridge Analytica whistleblower, Chris Wylie, called us the P etri dish for the parent company of Cambridge Analytica, SCL, which was operating here. It was trying these tactics of mass manipulation, and if they worked it used them on you guys. We were the guinea pigs. Beyond that, Facebook itself admitted that we were ground zero. Why is that important? I will state the five main findings because we do our own research on this. What sets Rappler apart is that we have a database which we call the Sharktank. S ome of this comes from our partnership with Facebook; w e work with Facebook to try to make it safer. It is just not enough when it is exponential. The first part was the discovery of information operations, let us call it, because I sometimes rail against what western media calls misinformation. Misinformation is, \u201cI made a mistake\u201d. Disinformation is meant to manipulate you. It is a half-truth or a half-life; it is done with a purpose, it is done by an actor, and it is about power and money in many instances.",
+      "chunk_id": "DOC_964::c000009",
+      "chunk_hash": "333711c363b9",
+      "prev_chunk_id": "DOC_964::c000008",
+      "next_chunk_id": "DOC_964::c000010"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I sometimes rail against what western media calls misinformation. Misinformation is, \u201cI made a mistake\u201d. Disinformation is meant to manipulate you. It is a half-truth or a half-life; it is done with a purpose, it is done by an actor, and it is about power and money in many instances. Our first discovery was that we found the Government were involved\u2014these are content creators who are now employed by the Government\u2014in a brutal drug war. There were times in July 2016 all the way to 2017 when there would be at least eight dead bodies a night. Later figures would say up to 33 people were killed every night in those early months. By January 2017, the Philippine police had said that 7,000 people had been killed, which they rolled back in plain sight to 2,000. As violence was happening in the real world, on Facebook in the virtual world, people were posting about it, but if you posted about it, you got clobbered. The first victims were ordinary citizens, so that stopped the questions. Then when the journalists started asking questions, we became the target. Rappler was the third news organisation attacked by President Duterte. The methodology is bottom-up attacks on social media and then top-down attacks by Government, and they work hand in hand because online violence, as you know, does not stay online; it seeps into the real world.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 2,
+      "display_text": "I sometimes rail against what western media calls misinformation. Misinformation is, \u201cI made a mistake\u201d. Disinformation is meant to manipulate you. It is a half-truth or a half-life; it is done with a purpose, it is done by an actor, and it is about power and money in many instances. Our first discovery was that we found the Government were involved\u2014these are content creators who are now employed by the Government\u2014in a brutal drug war. There were times in July 2016 all the way to 2017 when there would be at least eight dead bodies a night. Later figures would say up to 33 people were killed every night in those early months. By January 2017, the Philippine police had said that 7,000 people had been killed, which they rolled back in plain sight to 2,000. As violence was happening in the real world, on Facebook in the virtual world, people were posting about it, but if you posted about it, you got clobbered. The first victims were ordinary citizens, so that stopped the questions. Then when the journalists started asking questions, we became the target. Rappler was the third news organisation attacked by President Duterte. The methodology is bottom-up attacks on social media and then top-down attacks by Government, and they work hand in hand because online violence, as you know, does not stay online; it seeps into the real world.",
+      "chunk_id": "DOC_964::c000010",
+      "chunk_hash": "6e56f208c690",
+      "prev_chunk_id": "DOC_964::c000009",
+      "next_chunk_id": "DOC_964::c000011"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "we became the target. Rappler was the third news organisation attacked by President Duterte. The methodology is bottom-up attacks on social media and then top-down attacks by Government, and they work hand in hand because online violence, as you know, does not stay online; it seeps into the real world. The first was our discovery of it. The second was seeing the Government, after they took office and after the drug war, apply it in different ways instead of answering questions\u2014the checks and balance s of our American-style democracy. Our constitution is patterned after the United States. They used information operations to attack the journalists. I can send a link to that. There were information operations for something simple and minor, such as the Southeast Asian Games and allegations of corruption there. The third was Marcos historical revisionism. As early as 2015, the son of our former dictator Ferdinand Marcos, Ferdinand Marcos Jr\u2014his name is Bongbong Marcos\u2014was running for vice-president in 2016. The networks of disinformation began as early as 2015, and they have continued. We exposed them in 2019. Thirty-five years after a people-power revolt ousted the Marcos family and forced them into exile, Ferdinand Marcos Jr is running for President. He announced this a few weeks ago. Those networks of disinformation were the ones that also essentially attacked me and Rappler after the Nobel and after we kept exposing them. That is part of the problem. It has just become far more dangerous.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 3,
+      "display_text": "we became the target. Rappler was the third news organisation attacked by President Duterte. The methodology is bottom-up attacks on social media and then top-down attacks by Government, and they work hand in hand because online violence, as you know, does not stay online; it seeps into the real world. The first was our discovery of it. The second was seeing the Government, after they took office and after the drug war, apply it in different ways instead of answering questions\u2014the checks and balance s of our American-style democracy. Our constitution is patterned after the United States. They used information operations to attack the journalists. I can send a link to that. There were information operations for something simple and minor, such as the Southeast Asian Games and allegations of corruption there. The third was Marcos historical revisionism. As early as 2015, the son of our former dictator Ferdinand Marcos, Ferdinand Marcos Jr\u2014his name is Bongbong Marcos\u2014was running for vice-president in 2016. The networks of disinformation began as early as 2015, and they have continued. We exposed them in 2019. Thirty-five years after a people-power revolt ousted the Marcos family and forced them into exile, Ferdinand Marcos Jr is running for President. He announced this a few weeks ago. Those networks of disinformation were the ones that also essentially attacked me and Rappler after the Nobel and after we kept exposing them. That is part of the problem. It has just become far more dangerous.",
+      "chunk_id": "DOC_964::c000011",
+      "chunk_hash": "7a1a47521670",
+      "prev_chunk_id": "DOC_964::c000010",
+      "next_chunk_id": "DOC_964::c000012"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Ferdinand Marcos Jr is running for President. He announced this a few weeks ago. Those networks of disinformation were the ones that also essentially attacked me and Rappler after the Nobel and after we kept exposing them. That is part of the problem. It has just become far more dangerous. Finally, the last part, which is not just causing a chilling effect but creating an enabling environment, is something that is called red-tagging\u2014kind of like McCarthyism. We, like Hong Kong, have a new anti-terror law. Right around the same time, the Government passed this law. Red-tagging means calling a human rights activist, a journalist or an opposition politician a \u201cterrorist\u201d. Under this new anti-terror law, you can be arrested without a warrant and jailed for up to 24 days. We saw an upshot of violence at the same time as we saw an upshot of the same tactics from the drug war online, moved to target activists and human rights organisations, and then an increase, beginning in March this year, in the killings of human rights activists. Sorry, I have said so much. I will shut up and take your questions.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 4,
+      "display_text": "Ferdinand Marcos Jr is running for President. He announced this a few weeks ago. Those networks of disinformation were the ones that also essentially attacked me and Rappler after the Nobel and after we kept exposing them. That is part of the problem. It has just become far more dangerous. Finally, the last part, which is not just causing a chilling effect but creating an enabling environment, is something that is called red-tagging\u2014kind of like McCarthyism. We, like Hong Kong, have a new anti-terror law. Right around the same time, the Government passed this law. Red-tagging means calling a human rights activist, a journalist or an opposition politician a \u201cterrorist\u201d. Under this new anti-terror law, you can be arrested without a warrant and jailed for up to 24 days. We saw an upshot of violence at the same time as we saw an upshot of the same tactics from the drug war online, moved to target activists and human rights organisations, and then an increase, beginning in March this year, in the killings of human rights activists. Sorry, I have said so much. I will shut up and take your questions.",
+      "chunk_id": "DOC_964::c000012",
+      "chunk_hash": "da0c3ffd2b0c",
+      "prev_chunk_id": "DOC_964::c000011",
+      "next_chunk_id": "DOC_964::c000013"
+    },
+    {
+      "header": "The Chair",
+      "text": "That is all terrific, thank you. You have set this out. Rappler, your organisation, has set this out. As you say, you work with Facebook as a fact-checking partner in the Philippines. Facebook is well aware of these issues, and other people have also written about the Philippines. What is Facebook\u2019s role? Do you see Facebook as being effectively complicit in the hijacking of its services to manipulate information and target people in the Philippines? What sort of relationship do you think that the company has with the Duterte Government?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 8,
+      "speaker_name": "The Chair",
+      "display_text": "That is all terrific, thank you. You have set this out. Rappler, your organisation, has set this out. As you say, you work with Facebook as a fact-checking partner in the Philippines. Facebook is well aware of these issues, and other people have also written about the Philippines. What is Facebook\u2019s role? Do you see Facebook as being effectively complicit in the hijacking of its services to manipulate information and target people in the Philippines? What sort of relationship do you think that the company has with the Duterte Government?",
+      "chunk_id": "DOC_964::c000013",
+      "chunk_hash": "58ee97ba53dc",
+      "prev_chunk_id": "DOC_964::c000012",
+      "next_chunk_id": "DOC_964::c000014"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Those are three different questions that are tough on their own. As I have said, Facebook and I will call ourselves frenemies. Part of it is the hierarchy that has been created inside Facebook, and the papers lay this out. When I brought the 90 hate messages per hour that I was receiving to Facebook in 2016, I was told, \u201cYou are a public figure\u201d. I am actually not, and the Philippine constitution gives some protection to journalists. But I endured it for many years.\n\nJust a few weeks ago, Facebook rolled out increased protection for journalists. \u201cMove fast and break things\u201d does not work in the real world when the product that you are making insidiously manipulates people\u2019s minds. The question that I would ask is: would I be facing 10 arrest warrants from the Philippine Government if Facebook had not helped to enable an environment where that could happen? Would our democracy and our institutions have been weakened as quickly without Facebook?\n\nI will not single out Facebook. YouTube is now No. 1 in the Philippines. Twitter has been a little bit better in terms of protection for me. That is part of what your legislation should look at. They are different in their own way s. They have different definitions; it is little things. I will jump to the Bill itself.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "Those are three different questions that are tough on their own. As I have said, Facebook and I will call ourselves frenemies. Part of it is the hierarchy that has been created inside Facebook, and the papers lay this out. When I brought the 90 hate messages per hour that I was receiving to Facebook in 2016, I was told, \u201cYou are a public figure\u201d. I am actually not, and the Philippine constitution gives some protection to journalists. But I endured it for many years.\n\nJust a few weeks ago, Facebook rolled out increased protection for journalists. \u201cMove fast and break things\u201d does not work in the real world when the product that you are making insidiously manipulates people\u2019s minds. The question that I would ask is: would I be facing 10 arrest warrants from the Philippine Government if Facebook had not helped to enable an environment where that could happen? Would our democracy and our institutions have been weakened as quickly without Facebook?\n\nI will not single out Facebook. YouTube is now No. 1 in the Philippines. Twitter has been a little bit better in terms of protection for me. That is part of what your legislation should look at. They are different in their own way s. They have different definitions; it is little things. I will jump to the Bill itself.",
+      "chunk_id": "DOC_964::c000014",
+      "chunk_hash": "13d0f35a2b6c",
+      "prev_chunk_id": "DOC_964::c000013",
+      "next_chunk_id": "DOC_964::c000015"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "1 in the Philippines. Twitter has been a little bit better in terms of protection for me. That is part of what your legislation should look at. They are different in their own way s. They have different definitions; it is little things. I will jump to the Bill itself. The biggest problem so far in what we have seen globally is that people look at content moderation. That is when you run into these freedom of speech issues, but in the end that is not the problem. It is not a freedom of speech issue; it is actually the way the platforms are designed and the factors that are included in the algorithmic bias, because every platform chooses the algorithms it uses and A/B tested it to take advantage of the weaknesses of the human psyche. A/B testing chooses what will keep us on the site longer. I know that you know this already, but part of what I would look for far more than I would look for content moderation is radical transparency of algorithmic bias, algorithmic distribution and algorithmic amplification, because those cause the most harms. Those assumptions that they build into the algorithms are the ones that help determine emergent behaviour, not just of one country but of humanity.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "1 in the Philippines. Twitter has been a little bit better in terms of protection for me. That is part of what your legislation should look at. They are different in their own way s. They have different definitions; it is little things. I will jump to the Bill itself. The biggest problem so far in what we have seen globally is that people look at content moderation. That is when you run into these freedom of speech issues, but in the end that is not the problem. It is not a freedom of speech issue; it is actually the way the platforms are designed and the factors that are included in the algorithmic bias, because every platform chooses the algorithms it uses and A/B tested it to take advantage of the weaknesses of the human psyche. A/B testing chooses what will keep us on the site longer. I know that you know this already, but part of what I would look for far more than I would look for content moderation is radical transparency of algorithmic bias, algorithmic distribution and algorithmic amplification, because those cause the most harms. Those assumptions that they build into the algorithms are the ones that help determine emergent behaviour, not just of one country but of humanity.",
+      "chunk_id": "DOC_964::c000015",
+      "chunk_hash": "beb5c05d2745",
+      "prev_chunk_id": "DOC_964::c000014",
+      "next_chunk_id": "DOC_964::c000016"
+    },
+    {
+      "header": "The Chair",
+      "text": "Absolutely. In a country such as the Philippines, where Facebook and YouTube have very strong commercial positions, do they effectively go along with the Government of the country? Do they not cause too much trouble because they are making a lot of money and they are quite happy to keep it like that? Do they operate to a very different standard in the Philippines than would be acceptable in the UK or America?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 10,
+      "speaker_name": "The Chair",
+      "display_text": "Absolutely. In a country such as the Philippines, where Facebook and YouTube have very strong commercial positions, do they effectively go along with the Government of the country? Do they not cause too much trouble because they are making a lot of money and they are quite happy to keep it like that? Do they operate to a very different standard in the Philippines than would be acceptable in the UK or America?",
+      "chunk_id": "DOC_964::c000016",
+      "chunk_hash": "3d89df7af035",
+      "prev_chunk_id": "DOC_964::c000015",
+      "next_chunk_id": "DOC_964::c000017"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Let me put it this way. There have been four Facebook takedowns in the Philippines. I would say that the period from 2016 to 2018 saw virtual impunity. As we called out the impunity of Rodrigo Duterte and the drug war, Mark Zuckerberg and Facebook had impunity. That was also when I saw my reputation, my company\u2019s reputation and human rights activists torn down with relative impunity.\n\nWe are always behind you, the west. At one point, someone told me, \u201cWell, you don\u2019t bring in enough revenue\u201d, so I said, \u201cWell, then maybe turn it off\u201d. We would be better off because things would move slower and then journalists would have a chance to catch up. What I know is that they are afraid of the same things. This is certainly not publicly stated, but when you have an office in a country such as the Philippines, we journalists face these threats. When the President threatens an organisation, it then has to take those risks.\n\nThe giant platforms are here, and their behaviour has been determined partly by the environment that they are operating in, like us, and the ability to kick things back up to the United States.\n\nI do not really have much choice but to accept it, and that is part of the reason that I am looking globally for legislation that will help put these guardrails in place.\n\nQ194 John Nicolson: Thank you so much for joining us, and many congratulations on your wonderful award.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "Let me put it this way. There have been four Facebook takedowns in the Philippines. I would say that the period from 2016 to 2018 saw virtual impunity. As we called out the impunity of Rodrigo Duterte and the drug war, Mark Zuckerberg and Facebook had impunity. That was also when I saw my reputation, my company\u2019s reputation and human rights activists torn down with relative impunity.\n\nWe are always behind you, the west. At one point, someone told me, \u201cWell, you don\u2019t bring in enough revenue\u201d, so I said, \u201cWell, then maybe turn it off\u201d. We would be better off because things would move slower and then journalists would have a chance to catch up. What I know is that they are afraid of the same things. This is certainly not publicly stated, but when you have an office in a country such as the Philippines, we journalists face these threats. When the President threatens an organisation, it then has to take those risks.\n\nThe giant platforms are here, and their behaviour has been determined partly by the environment that they are operating in, like us, and the ability to kick things back up to the United States.\n\nI do not really have much choice but to accept it, and that is part of the reason that I am looking globally for legislation that will help put these guardrails in place.\n\nQ194 John Nicolson: Thank you so much for joining us, and many congratulations on your wonderful award.",
+      "chunk_id": "DOC_964::c000017",
+      "chunk_hash": "190c0101f416",
+      "prev_chunk_id": "DOC_964::c000016",
+      "next_chunk_id": "DOC_964::c000018"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I do not really have much choice but to accept it, and that is part of the reason that I am looking globally for legislation that will help put these guardrails in place. Q194 John Nicolson: Thank you so much for joining us, and many congratulations on your wonderful award. You talked about algorithmic amplifications. As a journalist, how do you think journalism can avoid just being the result of myriad clicks\u2014clickbait? How do we preserve good-quality journalism?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "I do not really have much choice but to accept it, and that is part of the reason that I am looking globally for legislation that will help put these guardrails in place. Q194 John Nicolson: Thank you so much for joining us, and many congratulations on your wonderful award. You talked about algorithmic amplifications. As a journalist, how do you think journalism can avoid just being the result of myriad clicks\u2014clickbait? How do we preserve good-quality journalism?",
+      "chunk_id": "DOC_964::c000018",
+      "chunk_hash": "5c71edcfb892",
+      "prev_chunk_id": "DOC_964::c000017",
+      "next_chunk_id": "DOC_964::c000019"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "It is increasingly difficult to do that, partly because of the incentive scheme of the entire internet. I am sure that you have had others speak to you about surveillance capitalism, but think about it like this. I grew up in an age whe n we had more time and money to do good-quality investigative journalism, but in the age of the internet everything has been reduced to a page view, and that is globally. Even the ad structures come down to that. The incentive scheme is not so much for quality journalism. We try. The news organisations continue to do that. It is the process of journalism, by the way, that creates good journalism; i t is not one person writing on a Substack or in a newsletter. It is the fact that you have a reporter, an editor on top, another editor and legal review. That part is expensive. The incentive scheme reduces everything to the page view and it commodifies news. That is the beginning of the end. When it went there, it moved towards clickbait, as you rightly said.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "It is increasingly difficult to do that, partly because of the incentive scheme of the entire internet. I am sure that you have had others speak to you about surveillance capitalism, but think about it like this. I grew up in an age whe n we had more time and money to do good-quality investigative journalism, but in the age of the internet everything has been reduced to a page view, and that is globally. Even the ad structures come down to that. The incentive scheme is not so much for quality journalism. We try. The news organisations continue to do that. It is the process of journalism, by the way, that creates good journalism; i t is not one person writing on a Substack or in a newsletter. It is the fact that you have a reporter, an editor on top, another editor and legal review. That part is expensive. The incentive scheme reduces everything to the page view and it commodifies news. That is the beginning of the end. When it went there, it moved towards clickbait, as you rightly said.",
+      "chunk_id": "DOC_964::c000019",
+      "chunk_hash": "b0c369ccd26e",
+      "prev_chunk_id": "DOC_964::c000018",
+      "next_chunk_id": "DOC_964::c000020"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "that you have a reporter, an editor on top, another editor and legal review. That part is expensive. The incentive scheme reduces everything to the page view and it commodifies news. That is the beginning of the end. When it went there, it moved towards clickbait, as you rightly said. I handled the largest news organisation in the Philippines, our primetime newscast on television. If I looked only at ratings, I would have had a primetime newscast of crime and entertainment because they brought the most ratings. Because I am a journalist, we tried to balance that with\u2014Facebook used the words we used\u2014vegetables, because it is important. The news agenda needs to be protected. Our citizens need to get the information. Even though it would cost us less money to bring you crime and entertainment, we would send a flyaway to a remote area where conflict was taking place. The commoditisation of news has led to where we are. That is the first part. Now, you add the amplification and algorithms that amplify what keeps you on the site. Take entertainment and crime. As a television news group, you know that that is the case but you cannot do much beyond the square box; everyone will see the same thing. Put it in the multiple worlds that Facebook gives even all of you in the room, and your feed will be different from one another. When this was first explained to me in 2014, I asked, \u201cWhat will happen to the public sphere?\u201d Each of us is now creating our own worlds and is given our own worlds, so by necessity it tears the shared reality apart.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "that you have a reporter, an editor on top, another editor and legal review. That part is expensive. The incentive scheme reduces everything to the page view and it commodifies news. That is the beginning of the end. When it went there, it moved towards clickbait, as you rightly said. I handled the largest news organisation in the Philippines, our primetime newscast on television. If I looked only at ratings, I would have had a primetime newscast of crime and entertainment because they brought the most ratings. Because I am a journalist, we tried to balance that with\u2014Facebook used the words we used\u2014vegetables, because it is important. The news agenda needs to be protected. Our citizens need to get the information. Even though it would cost us less money to bring you crime and entertainment, we would send a flyaway to a remote area where conflict was taking place. The commoditisation of news has led to where we are. That is the first part. Now, you add the amplification and algorithms that amplify what keeps you on the site. Take entertainment and crime. As a television news group, you know that that is the case but you cannot do much beyond the square box; everyone will see the same thing. Put it in the multiple worlds that Facebook gives even all of you in the room, and your feed will be different from one another. When this was first explained to me in 2014, I asked, \u201cWhat will happen to the public sphere?\u201d Each of us is now creating our own worlds and is given our own worlds, so by necessity it tears the shared reality apart.",
+      "chunk_id": "DOC_964::c000020",
+      "chunk_hash": "a23a6112bc0e",
+      "prev_chunk_id": "DOC_964::c000019",
+      "next_chunk_id": "DOC_964::c000021"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "your feed will be different from one another. When this was first explained to me in 2014, I asked, \u201cWhat will happen to the public sphere?\u201d Each of us is now creating our own worlds and is given our own worlds, so by necessity it tears the shared reality apart. The algorithms also decide how you grow your network. How the platforms grow is based on friends of friends. That is straight across all the social media platforms\u2014Twitter and Facebook. When you do that, you are also pulled apart. In the Philippines in 2016, I watched this happen. At the beginning, we were not debating the facts; we were all in the centre. Then, when President Duterte came in, if you were pro-Duterte, \u201cthe friends of friends\u201d algorithm pushed you further right, and if you were anti-Duterte you were pushed further left. That is 2016, 2017 and 2018. This is the shared reality that is torn apart. Beyond that, another algorithm comes in and keeps you there. If you watch a 9/11 conspiracy theory, you will be brought further down the funnel because it keeps you on the site. All these things may be great for business\u2014and they have been good for their business\u2014but it has been horrendous for democracy, for the education of our people, for a thinking-slow process of all the problems in each of our countries that we each need to solve.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 2,
+      "display_text": "your feed will be different from one another. When this was first explained to me in 2014, I asked, \u201cWhat will happen to the public sphere?\u201d Each of us is now creating our own worlds and is given our own worlds, so by necessity it tears the shared reality apart. The algorithms also decide how you grow your network. How the platforms grow is based on friends of friends. That is straight across all the social media platforms\u2014Twitter and Facebook. When you do that, you are also pulled apart. In the Philippines in 2016, I watched this happen. At the beginning, we were not debating the facts; we were all in the centre. Then, when President Duterte came in, if you were pro-Duterte, \u201cthe friends of friends\u201d algorithm pushed you further right, and if you were anti-Duterte you were pushed further left. That is 2016, 2017 and 2018. This is the shared reality that is torn apart. Beyond that, another algorithm comes in and keeps you there. If you watch a 9/11 conspiracy theory, you will be brought further down the funnel because it keeps you on the site. All these things may be great for business\u2014and they have been good for their business\u2014but it has been horrendous for democracy, for the education of our people, for a thinking-slow process of all the problems in each of our countries that we each need to solve.",
+      "chunk_id": "DOC_964::c000021",
+      "chunk_hash": "c048eb4ee6db",
+      "prev_chunk_id": "DOC_964::c000020",
+      "next_chunk_id": "DOC_964::c000022"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "I worked for the BBC. I grew up watching \u201cWeekend World\u201d with Brian Walden\u201445-minute, long-form interviews and only the best-briefed politicians could possibly get through them. I remember when CNN came along and we thought, \u201cOh my goodness. Repetitive, incredibly American and reports that are only one minute 50 seconds long. This is not proper journalism\u201d. Now, we look at CNN and think, \u201cMy goodness, this is incredibly complex, detailed journalism compared to some of the stuff that we are watching online\u201d. Is one of the problems that there is such a gulf between people who grew up at the time that we grew up and folk who are growing up now? Are we lamenting the loss of a golden era without necessarily the means to change the future?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 13,
+      "speaker_name": "John Nicolson",
+      "display_text": "I worked for the BBC. I grew up watching \u201cWeekend World\u201d with Brian Walden\u201445-minute, long-form interviews and only the best-briefed politicians could possibly get through them. I remember when CNN came along and we thought, \u201cOh my goodness. Repetitive, incredibly American and reports that are only one minute 50 seconds long. This is not proper journalism\u201d. Now, we look at CNN and think, \u201cMy goodness, this is incredibly complex, detailed journalism compared to some of the stuff that we are watching online\u201d. Is one of the problems that there is such a gulf between people who grew up at the time that we grew up and folk who are growing up now? Are we lamenting the loss of a golden era without necessarily the means to change the future?",
+      "chunk_id": "DOC_964::c000022",
+      "chunk_hash": "c8b7b40dbb88",
+      "prev_chunk_id": "DOC_964::c000021",
+      "next_chunk_id": "DOC_964::c000023"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I embraced this technology. When we created the idea for Rappler in 2011, my elevator pitch was, \u201cWe build communities of action and the food we feed our communities is journalism\u201d.We started on a Facebook page, and if Facebook search had been better we probably would not have moved off.\n\nThere is a solution. I continue to work with all the platforms because I believe there is. I do not think that we can roll it back. Pandora\u2019s box has been opened. The genie is out of the bottle. I do not know whether you saw this, but an anger emoji would be valued five times more than a like.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Maria Ressa",
+      "display_text": "I embraced this technology. When we created the idea for Rappler in 2011, my elevator pitch was, \u201cWe build communities of action and the food we feed our communities is journalism\u201d.We started on a Facebook page, and if Facebook search had been better we probably would not have moved off.\n\nThere is a solution. I continue to work with all the platforms because I believe there is. I do not think that we can roll it back. Pandora\u2019s box has been opened. The genie is out of the bottle. I do not know whether you saw this, but an anger emoji would be valued five times more than a like.",
+      "chunk_id": "DOC_964::c000023",
+      "chunk_hash": "383cf625b209",
+      "prev_chunk_id": "DOC_964::c000022",
+      "next_chunk_id": "DOC_964::c000024"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "We had a witness appear before the committee this week, the Facebook whistleblower, who said precisely that. She said that\u2014I am paraphrasing\u2014nothing grows the business like anger and rage, and Facebook has discovered that. The angrier they make people, the more people will spend time on Facebook. Joy does not sell.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 15,
+      "speaker_name": "John Nicolson",
+      "display_text": "We had a witness appear before the committee this week, the Facebook whistleblower, who said precisely that. She said that\u2014I am paraphrasing\u2014nothing grows the business like anger and rage, and Facebook has discovered that. The angrier they make people, the more people will spend time on Facebook. Joy does not sell.",
+      "chunk_id": "DOC_964::c000024",
+      "chunk_hash": "c7c62a4bf450",
+      "prev_chunk_id": "DOC_964::c000023",
+      "next_chunk_id": "DOC_964::c000025"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I disagree with that because we have a mood meter and a mood navigator, which we rolled out in 2012. What we saw until 2016 was that \u201chappy\u201d was the top emotion because we did not put our fingers on the scale. That is what I mean by algorithmic amplification. They chose to put their fingers on the scale so that you would stay on longer and they would be able to make more money\u2014surveillance capitalism.\n\nWhen we did it, we had a mood meter, but we wanted to get a clear sense of how stories and emotions travelled through our society, and we did get that. The top emotion was \u201chappy\u201d. The second was \u201cinspired\u201d. The third was \u201canger\u201d. Come 2016, \u201canger\u201d was No. 1 by a huge margin. What I keep saying is that this is insidious manipulation of our biology, and it is geared to that. It undercuts our thinking.\n\nReading parts of the OSB, I think it is fantastic that you guys are setting out to do this, but it cannot be a whack-a-mole approach. It is almost that you are going downstream to the product\u2014the toxic sludge. The content is already tainted by the creator. The gatekeeping could have happened at the creator level or at the algorithms and the factors that go into the m.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 16,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "I disagree with that because we have a mood meter and a mood navigator, which we rolled out in 2012. What we saw until 2016 was that \u201chappy\u201d was the top emotion because we did not put our fingers on the scale. That is what I mean by algorithmic amplification. They chose to put their fingers on the scale so that you would stay on longer and they would be able to make more money\u2014surveillance capitalism.\n\nWhen we did it, we had a mood meter, but we wanted to get a clear sense of how stories and emotions travelled through our society, and we did get that. The top emotion was \u201chappy\u201d. The second was \u201cinspired\u201d. The third was \u201canger\u201d. Come 2016, \u201canger\u201d was No. 1 by a huge margin. What I keep saying is that this is insidious manipulation of our biology, and it is geared to that. It undercuts our thinking.\n\nReading parts of the OSB, I think it is fantastic that you guys are setting out to do this, but it cannot be a whack-a-mole approach. It is almost that you are going downstream to the product\u2014the toxic sludge. The content is already tainted by the creator. The gatekeeping could have happened at the creator level or at the algorithms and the factors that go into the m.",
+      "chunk_id": "DOC_964::c000025",
+      "chunk_hash": "c3aafe80b5fa",
+      "prev_chunk_id": "DOC_964::c000024",
+      "next_chunk_id": "DOC_964::c000026"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "this, but it cannot be a whack-a-mole approach. It is almost that you are going downstream to the product\u2014the toxic sludge. The content is already tainted by the creator. The gatekeeping could have happened at the creator level or at the algorithms and the factors that go into the m. There is a solution, but it requires enlightened self-interest from the platforms, all of wh ich say that they want legislation. I have had discussions. So, what do you want? What are you willing to do? Ultimately, it means making less money.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 16,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "this, but it cannot be a whack-a-mole approach. It is almost that you are going downstream to the product\u2014the toxic sludge. The content is already tainted by the creator. The gatekeeping could have happened at the creator level or at the algorithms and the factors that go into the m. There is a solution, but it requires enlightened self-interest from the platforms, all of wh ich say that they want legislation. I have had discussions. So, what do you want? What are you willing to do? Ultimately, it means making less money.",
+      "chunk_id": "DOC_964::c000026",
+      "chunk_hash": "2fd0e58e16a1",
+      "prev_chunk_id": "DOC_964::c000025",
+      "next_chunk_id": "DOC_964::c000027"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "The trending story here in the UK today, you might like to know, comes from talkRADIO. I declare an interest as having worked for talkRADIO. One of the presenters did an interview yesterday in which he said that he believed that concrete grew in the same way as trees grow. I think that it has 2.6 million views as things stand. It is radio being amplified online. It also shows you how, if a social media team really hate their employers, they can secretly post to cause maximum damage to their employers, which is an interesting thing to watch.\n\nHow do you cope with the horrible harassment that you get? I read how many times you had to post bail\u201410 times just in order to stay free. That must have had a devastating effect on your sense of well-being.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 17,
+      "speaker_name": "John Nicolson",
+      "display_text": "The trending story here in the UK today, you might like to know, comes from talkRADIO. I declare an interest as having worked for talkRADIO. One of the presenters did an interview yesterday in which he said that he believed that concrete grew in the same way as trees grow. I think that it has 2.6 million views as things stand. It is radio being amplified online. It also shows you how, if a social media team really hate their employers, they can secretly post to cause maximum damage to their employers, which is an interesting thing to watch.\n\nHow do you cope with the horrible harassment that you get? I read how many times you had to post bail\u201410 times just in order to stay free. That must have had a devastating effect on your sense of well-being.",
+      "chunk_id": "DOC_964::c000027",
+      "chunk_hash": "c75fbcabeb35",
+      "prev_chunk_id": "DOC_964::c000026",
+      "next_chunk_id": "DOC_964::c000028"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I knew that the world was upside down. We began to see it first on social media because we lived on social media. I do not know if you heard that I had brought the data to Facebook in 2016, and it was alarming to me what was happening in the Philippines. The people I had spoken with basically listened, and then I said, \u201cPlease come back to me immediately because I want to write this\u201d. I expected them to fix it. I did not realise how involved it was to fix it then. I said, \u201cIf you do not fix it, Donald Trump could win\u201d. This was in August 2016. At that point, it did not look like he would, and we all laughed.\n\nAfter he won in November, they asked me for the data again. I saw it coming. I am a journalist. I wish I was not in the place that I am. It feels like the baton was passed to me and I became a news head at exactly the wrong time to be a news head.\n\nMy family has it worse. I am okay. I know what I went in for. I am fighting for justice in the real wor l d and justice in the virtual world. That is what I feel has been taken away from me \u2014justice. I hope you bring back some of it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 18,
+      "speaker_name": "Maria Ressa",
+      "display_text": "I knew that the world was upside down. We began to see it first on social media because we lived on social media. I do not know if you heard that I had brought the data to Facebook in 2016, and it was alarming to me what was happening in the Philippines. The people I had spoken with basically listened, and then I said, \u201cPlease come back to me immediately because I want to write this\u201d. I expected them to fix it. I did not realise how involved it was to fix it then. I said, \u201cIf you do not fix it, Donald Trump could win\u201d. This was in August 2016. At that point, it did not look like he would, and we all laughed.\n\nAfter he won in November, they asked me for the data again. I saw it coming. I am a journalist. I wish I was not in the place that I am. It feels like the baton was passed to me and I became a news head at exactly the wrong time to be a news head.\n\nMy family has it worse. I am okay. I know what I went in for. I am fighting for justice in the real wor l d and justice in the virtual world. That is what I feel has been taken away from me \u2014justice. I hope you bring back some of it.",
+      "chunk_id": "DOC_964::c000028",
+      "chunk_hash": "49f598a5faa2",
+      "prev_chunk_id": "DOC_964::c000027",
+      "next_chunk_id": "DOC_964::c000029"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "You have a voice. We, at Westminster, and people watching around the world are hearing your voice now. We are considering the whole issue of online anonymity. A lot of witnesses want us to recommend that there should be an end to online anonymity and that, even if you retain a nom de plume, for example, you should have to identify who you are. Some people think that that will reduce harassment and bullying. I often worry\u2014and I have not heard an answer to this\u2014about what we do for people who are in oppressive regimes and want to stretch out to parliamentarians like us, tweet us, send us direct messages and tell us what is happening to them. If we introduce verification, how are folk in Belarus going to get to speak to us?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 19,
+      "speaker_name": "John Nicolson",
+      "display_text": "You have a voice. We, at Westminster, and people watching around the world are hearing your voice now. We are considering the whole issue of online anonymity. A lot of witnesses want us to recommend that there should be an end to online anonymity and that, even if you retain a nom de plume, for example, you should have to identify who you are. Some people think that that will reduce harassment and bullying. I often worry\u2014and I have not heard an answer to this\u2014about what we do for people who are in oppressive regimes and want to stretch out to parliamentarians like us, tweet us, send us direct messages and tell us what is happening to them. If we introduce verification, how are folk in Belarus going to get to speak to us?",
+      "chunk_id": "DOC_964::c000029",
+      "chunk_hash": "9613383a387e",
+      "prev_chunk_id": "DOC_964::c000028",
+      "next_chunk_id": "DOC_964::c000030"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "It is one of the tougher questions that you, and we, are handling globally. I have several thoughts, and I will answer first with a lot of caveats. From my experience first, I will put it this way. Since 2016, the attacks that are exponential initially came from anonymous accounts because they are easy to make and easy to throw out. Even if they get blocked or are thrown out by the platform, it is just as easy to create them.\n\nThat is me. I have watched my credibility get whittled away. You cannot respond. If you are the journalist or if you are a government official, your hands are tied. You are responding to a no-name account. You just do not do things like that. The attacks are horrendous. That is my experience.\n\nHaving said that, I have also worked in countries where you have Governments that repress people. I worked under Suharto\u2019s Indonesia. Suharto was in power for almost 32 years. I came in at the tail end. I was president of the Foreign Correspondents\u2019 Club in his last year. I worked in China under Deng Xiaoping. We had put in place processes, when journalists were the gatekeepers, where people who needed help could come to us. I preface all of what I will say with that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "It is one of the tougher questions that you, and we, are handling globally. I have several thoughts, and I will answer first with a lot of caveats. From my experience first, I will put it this way. Since 2016, the attacks that are exponential initially came from anonymous accounts because they are easy to make and easy to throw out. Even if they get blocked or are thrown out by the platform, it is just as easy to create them.\n\nThat is me. I have watched my credibility get whittled away. You cannot respond. If you are the journalist or if you are a government official, your hands are tied. You are responding to a no-name account. You just do not do things like that. The attacks are horrendous. That is my experience.\n\nHaving said that, I have also worked in countries where you have Governments that repress people. I worked under Suharto\u2019s Indonesia. Suharto was in power for almost 32 years. I came in at the tail end. I was president of the Foreign Correspondents\u2019 Club in his last year. I worked in China under Deng Xiaoping. We had put in place processes, when journalists were the gatekeepers, where people who needed help could come to us. I preface all of what I will say with that.",
+      "chunk_id": "DOC_964::c000030",
+      "chunk_hash": "660b4a05b0fb",
+      "prev_chunk_id": "DOC_964::c000029",
+      "next_chunk_id": "DOC_964::c000031"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "end. I was president of the Foreign Correspondents\u2019 Club in his last year. I worked in China under Deng Xiaoping. We had put in place processes, when journalists were the gatekeepers, where people who needed help could come to us. I preface all of what I will say with that. There must be some way whereby the platforms\u2014and it is problematic because Governments can demand this data from the platforms\u2014prevent the mass creation of new accounts. Each of the platforms say s that every account is real. How do they verify that? What was that blue check mark for in the first place? Why was this not verified when I first formed my account? Why is it so easy to form an account? We now know it is because the more people you get, the more accounts you have, the more revenue you make. That is good for the platform. How about fraud\u2014just basic fraud? Starting there. I am not directly answering your question\u2014",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "end. I was president of the Foreign Correspondents\u2019 Club in his last year. I worked in China under Deng Xiaoping. We had put in place processes, when journalists were the gatekeepers, where people who needed help could come to us. I preface all of what I will say with that. There must be some way whereby the platforms\u2014and it is problematic because Governments can demand this data from the platforms\u2014prevent the mass creation of new accounts. Each of the platforms say s that every account is real. How do they verify that? What was that blue check mark for in the first place? Why was this not verified when I first formed my account? Why is it so easy to form an account? We now know it is because the more people you get, the more accounts you have, the more revenue you make. That is good for the platform. How about fraud\u2014just basic fraud? Starting there. I am not directly answering your question\u2014",
+      "chunk_id": "DOC_964::c000031",
+      "chunk_hash": "ba80fa78971d",
+      "prev_chunk_id": "DOC_964::c000030",
+      "next_chunk_id": "DOC_964::c000032"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "It sounds like you are supporting the idea of verification, but at the same time you are saying that the social media companies should not surrender data to oppressive regimes. I suppose they would say, \u201cSo, you are telling us we have to break the law in many of the countries in which we operate\u201d. If Putin says, \u201cYou have to surrender all the stuff\u201d, they simply say \u201c N o\u201d. I am guessing you would close them down.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 21,
+      "speaker_name": "John Nicolson",
+      "display_text": "It sounds like you are supporting the idea of verification, but at the same time you are saying that the social media companies should not surrender data to oppressive regimes. I suppose they would say, \u201cSo, you are telling us we have to break the law in many of the countries in which we operate\u201d. If Putin says, \u201cYou have to surrender all the stuff\u201d, they simply say \u201c N o\u201d. I am guessing you would close them down.",
+      "chunk_id": "DOC_964::c000032",
+      "chunk_hash": "7a827377b851",
+      "prev_chunk_id": "DOC_964::c000031",
+      "next_chunk_id": "DOC_964::c000033"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "T hat is correct. T here are t wo points. One is that none of the platforms has signed up to be news organisations, which have dealt with things such as this. I opened the Jakarta b ureau for CNN. It took eight months t o negotiate with the Indonesian G overnment so that we would be able to operate with the integrity we needed.\n\nT hese companies are not setting out to protect the public sphere. T hey do not have a standards and ethics manual. We keep asking them, \u201cW hat are the values that drive you, beyond an itemise d list of content moderation t hat evolved over a period of time?\u201d\n\nL et us take fraud first before we go to anonymity. I do not want to answer you directly because it is so nuanced. How do you prevent fraud? You make sure, because it is your home, that people are not masquerading as different things; y ou make sure that fraud does not happen. If that first upstream thing happens, everything else follows.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "T hat is correct. T here are t wo points. One is that none of the platforms has signed up to be news organisations, which have dealt with things such as this. I opened the Jakarta b ureau for CNN. It took eight months t o negotiate with the Indonesian G overnment so that we would be able to operate with the integrity we needed.\n\nT hese companies are not setting out to protect the public sphere. T hey do not have a standards and ethics manual. We keep asking them, \u201cW hat are the values that drive you, beyond an itemise d list of content moderation t hat evolved over a period of time?\u201d\n\nL et us take fraud first before we go to anonymity. I do not want to answer you directly because it is so nuanced. How do you prevent fraud? You make sure, because it is your home, that people are not masquerading as different things; y ou make sure that fraud does not happen. If that first upstream thing happens, everything else follows.",
+      "chunk_id": "DOC_964::c000033",
+      "chunk_hash": "990f34c684a8",
+      "prev_chunk_id": "DOC_964::c000032",
+      "next_chunk_id": "DOC_964::c000034"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "not want to answer you directly because it is so nuanced. How do you prevent fraud? You make sure, because it is your home, that people are not masquerading as different things; y ou make sure that fraud does not happen. If that first upstream thing happens, everything else follows. On the issue of anonymity, if you are engaging with A pple, earlier on, or Google n ow you need to put in a credit card and a name. Y ou need something that anchors you in the real world. My response to the B ill is that we want to re- emphasise that the laws in the real world apply in the virtual world. We do not want to create new ones, but we want to make sure that the laws are there. If you give that, nothing should stop you creating a persona, especially if you come from a re pressive country. The second point is that we have a list of repressive nations. The world press freedom index does this on a daily basis. It could just as easily roll out specific features for countries that are ruled by tyrants. T hat prevents the rest of us in other parts of the world who are fighting for our democracy from having to deal with exponential attacks from anonymous accounts. Having said that, some of the most damaging attacks come from real people. This is the conne ction to that. How do real people get misled? They get misled by astroturfing and repetition. When you go on these platforms it is like the difference between an E xcel sheet and big data. W hen you pound that lie a million times o n these platforms it becomes a fact.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "not want to answer you directly because it is so nuanced. How do you prevent fraud? You make sure, because it is your home, that people are not masquerading as different things; y ou make sure that fraud does not happen. If that first upstream thing happens, everything else follows. On the issue of anonymity, if you are engaging with A pple, earlier on, or Google n ow you need to put in a credit card and a name. Y ou need something that anchors you in the real world. My response to the B ill is that we want to re- emphasise that the laws in the real world apply in the virtual world. We do not want to create new ones, but we want to make sure that the laws are there. If you give that, nothing should stop you creating a persona, especially if you come from a re pressive country. The second point is that we have a list of repressive nations. The world press freedom index does this on a daily basis. It could just as easily roll out specific features for countries that are ruled by tyrants. T hat prevents the rest of us in other parts of the world who are fighting for our democracy from having to deal with exponential attacks from anonymous accounts. Having said that, some of the most damaging attacks come from real people. This is the conne ction to that. How do real people get misled? They get misled by astroturfing and repetition. When you go on these platforms it is like the difference between an E xcel sheet and big data. W hen you pound that lie a million times o n these platforms it becomes a fact.",
+      "chunk_id": "DOC_964::c000034",
+      "chunk_hash": "ca4a1d0749cb",
+      "prev_chunk_id": "DOC_964::c000033",
+      "next_chunk_id": "DOC_964::c000035"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "that. How do real people get misled? They get misled by astroturfing and repetition. When you go on these platforms it is like the difference between an E xcel sheet and big data. W hen you pound that lie a million times o n these platforms it becomes a fact. T hat goes right back to why I think that anonymity in general is bad for democracy. Y ou can see what it has done to our politics all around the world and, at the same time, to the countries run by repressive systems. There is a lifeline there and we need to protect both, but not at the expense of each other. Q195 Lord Clement-Jones: May I add to the C hair \u2019 s congratulations on your Nobel P rize? You very cogently described why dis information and misinformation on social media platforms should be regulated in some form. You have described the operation of the algorithms that they use in amplification and the v irality of the messaging in particular. P art of our dra f t legislation is looking at the whole question of what duties we need to impose on the platforms. At the moment,it does not include societal harms, but many of us think that it should include societal harms in the form of misinformation and dis information. The question is: what risk assessment should be imposed on the platforms as regards algorithms? As part of that requirement for risk assessment, is it practical to say that, for instance, social media platforms such as Facebook should limit the virality and amplification of misinformation and disinformation? In a sense, how do you identify what that misinformation and dis information is?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 2,
+      "display_text": "that. How do real people get misled? They get misled by astroturfing and repetition. When you go on these platforms it is like the difference between an E xcel sheet and big data. W hen you pound that lie a million times o n these platforms it becomes a fact. T hat goes right back to why I think that anonymity in general is bad for democracy. Y ou can see what it has done to our politics all around the world and, at the same time, to the countries run by repressive systems. There is a lifeline there and we need to protect both, but not at the expense of each other. Q195 Lord Clement-Jones: May I add to the C hair \u2019 s congratulations on your Nobel P rize? You very cogently described why dis information and misinformation on social media platforms should be regulated in some form. You have described the operation of the algorithms that they use in amplification and the v irality of the messaging in particular. P art of our dra f t legislation is looking at the whole question of what duties we need to impose on the platforms. At the moment,it does not include societal harms, but many of us think that it should include societal harms in the form of misinformation and dis information. The question is: what risk assessment should be imposed on the platforms as regards algorithms? As part of that requirement for risk assessment, is it practical to say that, for instance, social media platforms such as Facebook should limit the virality and amplification of misinformation and disinformation? In a sense, how do you identify what that misinformation and dis information is?",
+      "chunk_id": "DOC_964::c000035",
+      "chunk_hash": "f894df40bb6b",
+      "prev_chunk_id": "DOC_964::c000034",
+      "next_chunk_id": "DOC_964::c000036"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "platforms as regards algorithms? As part of that requirement for risk assessment, is it practical to say that, for instance, social media platforms such as Facebook should limit the virality and amplification of misinformation and disinformation? In a sense, how do you identify what that misinformation and dis information is? There are some fairly tricky issues involved. Y ou made a very strong distinction between misinformation and disinformation. Y ou can fact \\- che ck misinformation, but you cannot really fac t-check dis information. It is basically a value judgment, is it not? H ow do you get to grips with th e question of risk assessment that is required and would be, if you like, policed b y a regulator?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 3,
+      "display_text": "platforms as regards algorithms? As part of that requirement for risk assessment, is it practical to say that, for instance, social media platforms such as Facebook should limit the virality and amplification of misinformation and disinformation? In a sense, how do you identify what that misinformation and dis information is? There are some fairly tricky issues involved. Y ou made a very strong distinction between misinformation and disinformation. Y ou can fact \\- che ck misinformation, but you cannot really fac t-check dis information. It is basically a value judgment, is it not? H ow do you get to grips with th e question of risk assessment that is required and would be, if you like, policed b y a regulator?",
+      "chunk_id": "DOC_964::c000036",
+      "chunk_hash": "af9f469c8e84",
+      "prev_chunk_id": "DOC_964::c000035",
+      "next_chunk_id": "DOC_964::c000037"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I hear three questions. I think that the first one was abou t how to differentiate societal harms and how the Bill is focused on individual h arm s. The second was about how we are g oing to ask for radical transparency, because I think that is what you need when it comes to algorithms. I think the last one is whether we do things such as limit viralit y.\n\nOn the first one, it is impossible to talk only about individual harms because it is the pressure of the group and the emergent behaviour that is being created that is dangerous. With emergent behaviour, I always say that there is a devil and an a ngel on each of our shoulder s and our conscience decides which way we go with difficult choices. All of us are on these platforms.Because of the algorithm ic choices, what is amplified and fed to us in our individual feeds, w e do not know what anyone else \u2019s feed looks like. W hat is fed to us is equal to gagging the a ngel and giving the devil a megaphone, because th at is what is coded into the algorithm s. T oxic sludge is what spread s.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "I hear three questions. I think that the first one was abou t how to differentiate societal harms and how the Bill is focused on individual h arm s. The second was about how we are g oing to ask for radical transparency, because I think that is what you need when it comes to algorithms. I think the last one is whether we do things such as limit viralit y.\n\nOn the first one, it is impossible to talk only about individual harms because it is the pressure of the group and the emergent behaviour that is being created that is dangerous. With emergent behaviour, I always say that there is a devil and an a ngel on each of our shoulder s and our conscience decides which way we go with difficult choices. All of us are on these platforms.Because of the algorithm ic choices, what is amplified and fed to us in our individual feeds, w e do not know what anyone else \u2019s feed looks like. W hat is fed to us is equal to gagging the a ngel and giving the devil a megaphone, because th at is what is coded into the algorithm s. T oxic sludge is what spread s.",
+      "chunk_id": "DOC_964::c000037",
+      "chunk_hash": "a2f0f5a64952",
+      "prev_chunk_id": "DOC_964::c000036",
+      "next_chunk_id": "DOC_964::c000038"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "feeds, w e do not know what anyone else \u2019s feed looks like. W hat is fed to us is equal to gagging the a ngel and giving the devil a megaphone, because th at is what is coded into the algorithm s. T oxic sludge is what spread s. I think it was a 2018 MIT study that showed that a lie is tweeted 7 0% more th an a fact. Facts are really boring. I have spent my career trying to make them interesting, to make people care about the facts.T he algorithms are biased against that. The societal harm is that, if that is happening at an individual level and it is shaping the way we are going to go, is it any wonder that cheap arm ies on social media are rolling back democracy in 81 countries around the world? I use that statistic all the time, because I watched it grow from 10 to 27 to 48 and then to 81. Every year it gets worse. T he emergent behaviour that we are seeing kills democracy and brings fascism. You can see this in the type of digital authoritarians who are being elected and then take the reins of power and collapse institutions from within.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "feeds, w e do not know what anyone else \u2019s feed looks like. W hat is fed to us is equal to gagging the a ngel and giving the devil a megaphone, because th at is what is coded into the algorithm s. T oxic sludge is what spread s. I think it was a 2018 MIT study that showed that a lie is tweeted 7 0% more th an a fact. Facts are really boring. I have spent my career trying to make them interesting, to make people care about the facts.T he algorithms are biased against that. The societal harm is that, if that is happening at an individual level and it is shaping the way we are going to go, is it any wonder that cheap arm ies on social media are rolling back democracy in 81 countries around the world? I use that statistic all the time, because I watched it grow from 10 to 27 to 48 and then to 81. Every year it gets worse. T he emergent behaviour that we are seeing kills democracy and brings fascism. You can see this in the type of digital authoritarians who are being elected and then take the reins of power and collapse institutions from within.",
+      "chunk_id": "DOC_964::c000038",
+      "chunk_hash": "4f70bf44091e",
+      "prev_chunk_id": "DOC_964::c000037",
+      "next_chunk_id": "DOC_964::c000039"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "to 48 and then to 81. Every year it gets worse. T he emergent behaviour that we are seeing kills democracy and brings fascism. You can see this in the type of digital authoritarians who are being elected and then take the reins of power and collapse institutions from within. The answer to your question about exactly what that means is that the fact that we have to rely on whistleblowers to see what is happening is a major problem \u2014in the same way that a new s organisation will do a corrections page if it make s a mistake.It has a standards and ethics page and this is given to the public. These social media platforms are now the operating systems of our societ ies.T hat is a given. They are the world \u2019 s largest distributor of news; t hey are more powerful than any single news organisation. What can we do? I suppose it is like p roduct s afety tests \u2014in the same way they will say that there is A/B testing. That A/B testing may be part of the regulatory process. On blue sky media, I hope that the platforms will co \u2011 operate. I think they will. They can do this better, because they do it but, when they make the final choice, that choice is for greater revenue and greater engagement.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 2,
+      "display_text": "to 48 and then to 81. Every year it gets worse. T he emergent behaviour that we are seeing kills democracy and brings fascism. You can see this in the type of digital authoritarians who are being elected and then take the reins of power and collapse institutions from within. The answer to your question about exactly what that means is that the fact that we have to rely on whistleblowers to see what is happening is a major problem \u2014in the same way that a new s organisation will do a corrections page if it make s a mistake.It has a standards and ethics page and this is given to the public. These social media platforms are now the operating systems of our societ ies.T hat is a given. They are the world \u2019 s largest distributor of news; t hey are more powerful than any single news organisation. What can we do? I suppose it is like p roduct s afety tests \u2014in the same way they will say that there is A/B testing. That A/B testing may be part of the regulatory process. On blue sky media, I hope that the platforms will co \u2011 operate. I think they will. They can do this better, because they do it but, when they make the final choice, that choice is for greater revenue and greater engagement.",
+      "chunk_id": "DOC_964::c000039",
+      "chunk_hash": "9ea30cd0a026",
+      "prev_chunk_id": "DOC_964::c000038",
+      "next_chunk_id": "DOC_964::c000040"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "testing may be part of the regulatory process. On blue sky media, I hope that the platforms will co \u2011 operate. I think they will. They can do this better, because they do it but, when they make the final choice, that choice is for greater revenue and greater engagement. What the regulatory agency needs to do is make the public \u2019s fear part of that equation. I ndependent researchers should be given access to the data, which should include corporate data: product safety tests and the internal research that comes from a whistleblower. T hen you can do an audit. This can be part of a thinking \\-slow debate, instead of being told, \u201cWe have already rolled that out, so this is the impact on you \u201d.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 3,
+      "display_text": "testing may be part of the regulatory process. On blue sky media, I hope that the platforms will co \u2011 operate. I think they will. They can do this better, because they do it but, when they make the final choice, that choice is for greater revenue and greater engagement. What the regulatory agency needs to do is make the public \u2019s fear part of that equation. I ndependent researchers should be given access to the data, which should include corporate data: product safety tests and the internal research that comes from a whistleblower. T hen you can do an audit. This can be part of a thinking \\-slow debate, instead of being told, \u201cWe have already rolled that out, so this is the impact on you \u201d.",
+      "chunk_id": "DOC_964::c000040",
+      "chunk_hash": "2fee6cc318ab",
+      "prev_chunk_id": "DOC_964::c000039",
+      "next_chunk_id": "DOC_964::c000041"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "T hat is fantastic. I know that Baroness K idron will follow up on the issue of safety by design.\n\nQ196 Baroness Kidron: Maria, t hank you for the work that you do, and congratulations. It is incredibly clear.\n\nI want to get down to the basics of what we should do. I am struck by not only your testimony but that of others that the eyes of the world are on us. They are saying, \u201cP lease do something sophisticated and effective and please do something now \u201d. That is the m antl e that we have, and I want a little help from you on it.\n\nPart of the B ill is focused on the idea of a market risk assessment by the regulator. T he regulator says, \u201cW e are going to decide and ascertain what the risks are \u201d. Then it will create a risk profile for different kinds of companies. That picks up on the comment you made that not all companies are the same.\n\nThere is then another set of things. I think that the set of things we are looking at is that the company should do a risk assessment t hat matches it.T hat is where you get the \u201c societal \u201d bit that you referred to in answer to my colleague. Then it has to mitigate it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Lord Clement-Jones",
+      "turn_part_index": 0,
+      "display_text": "T hat is fantastic. I know that Baroness K idron will follow up on the issue of safety by design.\n\nQ196 Baroness Kidron: Maria, t hank you for the work that you do, and congratulations. It is incredibly clear.\n\nI want to get down to the basics of what we should do. I am struck by not only your testimony but that of others that the eyes of the world are on us. They are saying, \u201cP lease do something sophisticated and effective and please do something now \u201d. That is the m antl e that we have, and I want a little help from you on it.\n\nPart of the B ill is focused on the idea of a market risk assessment by the regulator. T he regulator says, \u201cW e are going to decide and ascertain what the risks are \u201d. Then it will create a risk profile for different kinds of companies. That picks up on the comment you made that not all companies are the same.\n\nThere is then another set of things. I think that the set of things we are looking at is that the company should do a risk assessment t hat matches it.T hat is where you get the \u201c societal \u201d bit that you referred to in answer to my colleague. Then it has to mitigate it.",
+      "chunk_id": "DOC_964::c000041",
+      "chunk_hash": "f8edbd65cee9",
+      "prev_chunk_id": "DOC_964::c000040",
+      "next_chunk_id": "DOC_964::c000042"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "things. I think that the set of things we are looking at is that the company should do a risk assessment t hat matches it.T hat is where you get the \u201c societal \u201d bit that you referred to in answer to my colleague. Then it has to mitigate it. I am interested in where you see the strength and weakness of that circle that goes all the way to whether they have failed if they do not mitigate against the harms that the regulator has identified. We have some work to do on enforcement but, were that to be an enforceable loop, do we have it?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Lord Clement-Jones",
+      "turn_part_index": 1,
+      "display_text": "things. I think that the set of things we are looking at is that the company should do a risk assessment t hat matches it.T hat is where you get the \u201c societal \u201d bit that you referred to in answer to my colleague. Then it has to mitigate it. I am interested in where you see the strength and weakness of that circle that goes all the way to whether they have failed if they do not mitigate against the harms that the regulator has identified. We have some work to do on enforcement but, were that to be an enforceable loop, do we have it?",
+      "chunk_id": "DOC_964::c000042",
+      "chunk_hash": "297c793f0c76",
+      "prev_chunk_id": "DOC_964::c000041",
+      "next_chunk_id": "DOC_964::c000043"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I worry. Part of y our problem in trying to regulate is that the best people to understand the technology are in these companies, so you need to get them on board.\n\nI will throw out an idea. Fo r us, whenever we need to get lots of news organisations working together, we get them together, and then they need to give you their assessment of where they are. D iscussion s I have with them such as this are always about how everyone is getting it wrong.I just say, \u201cIf you guys had done this five years ago we would not be at this level \u201d. That is my frustration. Part of it is that if the regulator goes down the wrong path, it will continue because there are infinite possibilities to what can happen, how we can be manipulated and how the platforms can continue to protect their revenue streams.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "I worry. Part of y our problem in trying to regulate is that the best people to understand the technology are in these companies, so you need to get them on board.\n\nI will throw out an idea. Fo r us, whenever we need to get lots of news organisations working together, we get them together, and then they need to give you their assessment of where they are. D iscussion s I have with them such as this are always about how everyone is getting it wrong.I just say, \u201cIf you guys had done this five years ago we would not be at this level \u201d. That is my frustration. Part of it is that if the regulator goes down the wrong path, it will continue because there are infinite possibilities to what can happen, how we can be manipulated and how the platforms can continue to protect their revenue streams.",
+      "chunk_id": "DOC_964::c000043",
+      "chunk_hash": "d83e76c3bda7",
+      "prev_chunk_id": "DOC_964::c000042",
+      "next_chunk_id": "DOC_964::c000044"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "be at this level \u201d. That is my frustration. Part of it is that if the regulator goes down the wrong path, it will continue because there are infinite possibilities to what can happen, how we can be manipulated and how the platforms can continue to protect their revenue streams. P art of it is getting together a group that includes them and their input s and giving short deadlines that you also set. I say this because I see the data from the Philippines. You will see it in the data, because it is not about words or content; it is about recidivist networks that are constantly pushing out lies. Why are they allowed to stay? Why are re cidivist networks not taken down? T hey have the sophistication to go down to traits that define each of these accounts. Why is that not rolled out? It is b ecause it does not necessarily make revenue. The difference is between the content moderat ion of one platform and 180 pages of PageRank, for example.W hat I have learned from the work that we do is that every thing on the i nternet can be gam e d, so there needs to be that transparency. Even Wikipedia has been ga m ed. W hat we have seen so far is that what holds them to higher standards is transparency.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "be at this level \u201d. That is my frustration. Part of it is that if the regulator goes down the wrong path, it will continue because there are infinite possibilities to what can happen, how we can be manipulated and how the platforms can continue to protect their revenue streams. P art of it is getting together a group that includes them and their input s and giving short deadlines that you also set. I say this because I see the data from the Philippines. You will see it in the data, because it is not about words or content; it is about recidivist networks that are constantly pushing out lies. Why are they allowed to stay? Why are re cidivist networks not taken down? T hey have the sophistication to go down to traits that define each of these accounts. Why is that not rolled out? It is b ecause it does not necessarily make revenue. The difference is between the content moderat ion of one platform and 180 pages of PageRank, for example.W hat I have learned from the work that we do is that every thing on the i nternet can be gam e d, so there needs to be that transparency. Even Wikipedia has been ga m ed. W hat we have seen so far is that what holds them to higher standards is transparency.",
+      "chunk_id": "DOC_964::c000044",
+      "chunk_hash": "01465e99d123",
+      "prev_chunk_id": "DOC_964::c000043",
+      "next_chunk_id": "DOC_964::c000045"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "from the work that we do is that every thing on the i nternet can be gam e d, so there needs to be that transparency. Even Wikipedia has been ga m ed. W hat we have seen so far is that what holds them to higher standards is transparency. The first thing I would say in answer to your question\u2014I know this is going out to everyone\u2014is, \u201cWhat are the biggest problems?\u201d You already know what the biggest problems are. Why has no one been held accountable for genocide in Myanmar?W hy is no one held accountable for the se attacks? I think I lost 20 years of my life because of the attacks. These things are illegal in the real world. Why are they legal in the virtual world? The first thing I would do is get them to say, \u201cG ive me your best because I will make it worse if you don \u2019 t.G ive me the problem s you are facing. Y ou know the societal problems you need to deal with \u201d, and give timelines.W e have been talking about this for five years and in that period people have died in the Philippines; in other countries in the global s outh people have died. I do not have a quick answer.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 2,
+      "display_text": "from the work that we do is that every thing on the i nternet can be gam e d, so there needs to be that transparency. Even Wikipedia has been ga m ed. W hat we have seen so far is that what holds them to higher standards is transparency. The first thing I would say in answer to your question\u2014I know this is going out to everyone\u2014is, \u201cWhat are the biggest problems?\u201d You already know what the biggest problems are. Why has no one been held accountable for genocide in Myanmar?W hy is no one held accountable for the se attacks? I think I lost 20 years of my life because of the attacks. These things are illegal in the real world. Why are they legal in the virtual world? The first thing I would do is get them to say, \u201cG ive me your best because I will make it worse if you don \u2019 t.G ive me the problem s you are facing. Y ou know the societal problems you need to deal with \u201d, and give timelines.W e have been talking about this for five years and in that period people have died in the Philippines; in other countries in the global s outh people have died. I do not have a quick answer.",
+      "chunk_id": "DOC_964::c000045",
+      "chunk_hash": "972e9fce4865",
+      "prev_chunk_id": "DOC_964::c000044",
+      "next_chunk_id": "DOC_964::c000046"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "You did give a very clear answer.T o push back, t here are two problems in what you have just said. One is that we cannot rely only on their research because you can push it so that the incentive is not to do research and then you do not find out what is wrong. T here is a little bit of a problem. You need independent research and to set the terms of what problems you are trying to solve.\n\nI really take your point about timelines,mitigation s and the real world. That is something I would like to bring up with you. A couple of times, the c ommittee has heard from people that the best thing to do is not to start redefining harm but to import what we have already decided. To a degree, that support s your point about different countries doing slightly different things because we have slightly different rules. In the UK we would bring in our equality and anti- discrimination law, and if those things were what we perceived a s harmful we would be looking to see, first, that they are upheld and, secondly, the idea of radical transparency. Those two things should mean that the conversation is more realistic. I can see you nodding, but would you like to speak to that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 26,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "You did give a very clear answer.T o push back, t here are two problems in what you have just said. One is that we cannot rely only on their research because you can push it so that the incentive is not to do research and then you do not find out what is wrong. T here is a little bit of a problem. You need independent research and to set the terms of what problems you are trying to solve.\n\nI really take your point about timelines,mitigation s and the real world. That is something I would like to bring up with you. A couple of times, the c ommittee has heard from people that the best thing to do is not to start redefining harm but to import what we have already decided. To a degree, that support s your point about different countries doing slightly different things because we have slightly different rules. In the UK we would bring in our equality and anti- discrimination law, and if those things were what we perceived a s harmful we would be looking to see, first, that they are upheld and, secondly, the idea of radical transparency. Those two things should mean that the conversation is more realistic. I can see you nodding, but would you like to speak to that?",
+      "chunk_id": "DOC_964::c000046",
+      "chunk_hash": "956e03a4ce9f",
+      "prev_chunk_id": "DOC_964::c000045",
+      "next_chunk_id": "DOC_964::c000047"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Yes.For example, let us take something that is video ed. Facebook has admitted that it overstated video by 90%. Yet n ews organisations fired people and shifts happen ed in the real worl d,but nothing happened. No one was held accountable. While you cannot see these things, they ripple through the real world, in the same way that five points for an anger emoji versus a l ike are rippling through the real world and encourag ing behaviour. T he further away you get from that algorithm the more gigantic the tidal wave becomes.\n\nT hose two things are great. I think that independent research ers play a large role in this. We have demanded data for a very long time \u2014 from the very beginning. The one time that data was given, there was a mistake in it and no one was held accountable for that.\n\nPeople \u2019 s lives are at risk in these things. That is what I keep coming back to. My country is on the verge of losing its democracy. We have watched it being eroded. I should not have 10 arrest warrants or face the rest of my life in jai l, yet I do.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 27,
+      "speaker_name": "Maria Ressa",
+      "display_text": "Yes.For example, let us take something that is video ed. Facebook has admitted that it overstated video by 90%. Yet n ews organisations fired people and shifts happen ed in the real worl d,but nothing happened. No one was held accountable. While you cannot see these things, they ripple through the real world, in the same way that five points for an anger emoji versus a l ike are rippling through the real world and encourag ing behaviour. T he further away you get from that algorithm the more gigantic the tidal wave becomes.\n\nT hose two things are great. I think that independent research ers play a large role in this. We have demanded data for a very long time \u2014 from the very beginning. The one time that data was given, there was a mistake in it and no one was held accountable for that.\n\nPeople \u2019 s lives are at risk in these things. That is what I keep coming back to. My country is on the verge of losing its democracy. We have watched it being eroded. I should not have 10 arrest warrants or face the rest of my life in jai l, yet I do.",
+      "chunk_id": "DOC_964::c000047",
+      "chunk_hash": "ea3cb1155c54",
+      "prev_chunk_id": "DOC_964::c000046",
+      "next_chunk_id": "DOC_964::c000048"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "For that, I am sorry. It is a travesty.\n\nMy final question picks up something around anonymity. I f we start by saying what harm is and we have radical transparency \u2014 I hear your point that we make people a nd companies accountable \u2014t here is one obvious point around anonymity. Many of these companies have terms and conditions that prevent abuse, so why are they not taking down those accounts, whether or not we know who they are?D oes it even matter that they are anonymous? Should they not be taken down on the basis of terms and conditions? Do you think that, although it cannot be the only thing because you have to set some basic terms, companies should be fundamentally responsible for their own terms and conditions?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 28,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "For that, I am sorry. It is a travesty.\n\nMy final question picks up something around anonymity. I f we start by saying what harm is and we have radical transparency \u2014 I hear your point that we make people a nd companies accountable \u2014t here is one obvious point around anonymity. Many of these companies have terms and conditions that prevent abuse, so why are they not taking down those accounts, whether or not we know who they are?D oes it even matter that they are anonymous? Should they not be taken down on the basis of terms and conditions? Do you think that, although it cannot be the only thing because you have to set some basic terms, companies should be fundamentally responsible for their own terms and conditions?",
+      "chunk_id": "DOC_964::c000048",
+      "chunk_hash": "06bae1c173f6",
+      "prev_chunk_id": "DOC_964::c000047",
+      "next_chunk_id": "DOC_964::c000049"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "A normal company in the old world would have been.T he product impacts our minds, our version of reality and the facts we have to make decisions in our lives, and the shared reality we live in. I do not think that there is anything more important than that. I became a journalist because I believe that information is power.N ow, the very delivery platforms for information are corrupted, so there need s to be some accountability for that.\n\nThe debate should go further upstream instead of going down to the much more problematic things. We have figured out systems of democracies; w e have figured out that, while imp erfect, the che cks and balances are there. W hat has turned the entire world upside down is that those che ck s and balances are like Alice in Wonderland. We went down the rabbit hole and there was a new system in place where the old geopolitical power system had gone and the bad actors could use the se existing systems for money and to consolidate power. Only the people who have no conscience, do not care or have a scorched earth policy for the future would use this stuff. T hat is what you have.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 29,
+      "speaker_name": "Maria Ressa",
+      "display_text": "A normal company in the old world would have been.T he product impacts our minds, our version of reality and the facts we have to make decisions in our lives, and the shared reality we live in. I do not think that there is anything more important than that. I became a journalist because I believe that information is power.N ow, the very delivery platforms for information are corrupted, so there need s to be some accountability for that.\n\nThe debate should go further upstream instead of going down to the much more problematic things. We have figured out systems of democracies; w e have figured out that, while imp erfect, the che cks and balances are there. W hat has turned the entire world upside down is that those che ck s and balances are like Alice in Wonderland. We went down the rabbit hole and there was a new system in place where the old geopolitical power system had gone and the bad actors could use the se existing systems for money and to consolidate power. Only the people who have no conscience, do not care or have a scorched earth policy for the future would use this stuff. T hat is what you have.",
+      "chunk_id": "DOC_964::c000049",
+      "chunk_hash": "4c74a1a161a8",
+      "prev_chunk_id": "DOC_964::c000048",
+      "next_chunk_id": "DOC_964::c000050"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "Thank you so much for being with us and for your fantastic testimony.\n\nQ197 Suzanne Webb:I am very honoured to have met some amazing people, particularly women, whom I would not have met were it not for this B ill, so it is a delight to meet you, Maria.\n\nYou have talked about the accountability of the tech companies. To me, it is also very much about the immediacy of action and removing the harmful content.The human cost of harmful content concerns me greatly. Pornhub is a classic example, if I have got this right. It implemented verification very quickly. I do not believe that it was done out of the goodness of its heart but more that it saw it would hurt it financially if it did not.\n\nThis B ill will take time. W hat would convince the tech companies to act now and take down harmful content and resolve the algorithms spreading it? What I would like to see is immediacy to prevent what we know is the high personal cost of harmful content online. What are your thoughts on that? I have only one question.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 30,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "Thank you so much for being with us and for your fantastic testimony.\n\nQ197 Suzanne Webb:I am very honoured to have met some amazing people, particularly women, whom I would not have met were it not for this B ill, so it is a delight to meet you, Maria.\n\nYou have talked about the accountability of the tech companies. To me, it is also very much about the immediacy of action and removing the harmful content.The human cost of harmful content concerns me greatly. Pornhub is a classic example, if I have got this right. It implemented verification very quickly. I do not believe that it was done out of the goodness of its heart but more that it saw it would hurt it financially if it did not.\n\nThis B ill will take time. W hat would convince the tech companies to act now and take down harmful content and resolve the algorithms spreading it? What I would like to see is immediacy to prevent what we know is the high personal cost of harmful content online. What are your thoughts on that? I have only one question.",
+      "chunk_id": "DOC_964::c000050",
+      "chunk_hash": "c7390bd03bce",
+      "prev_chunk_id": "DOC_964::c000049",
+      "next_chunk_id": "DOC_964::c000051"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "For every platform there is a basic assumption that we do not really question, which is that if you do not like the information \u2014we will go to the harmful part\u2014and you are being attacked, mute it or block it.Y et it still exists in the public sphere. When was that okay? I will change my reality to make me feel better, but it is still out there. To me, that is harmful content if it is tearing down.\n\nT here are some basic assumptions in algorithmic bias and design that we should be asking questions about. Some of it is bad. The re are multiple realities. Where are the shared realit ies? How do you bring that back v ersus tearing us apart? There is a human cost of harmful content.\n\nOf course, the question is: what is harmful content? Every platform defines it slightly differently. T hey do not carry out everything they say they should. There are some great things i n the Facebook policy, but they are not carried out. The attacks continue.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 31,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "For every platform there is a basic assumption that we do not really question, which is that if you do not like the information \u2014we will go to the harmful part\u2014and you are being attacked, mute it or block it.Y et it still exists in the public sphere. When was that okay? I will change my reality to make me feel better, but it is still out there. To me, that is harmful content if it is tearing down.\n\nT here are some basic assumptions in algorithmic bias and design that we should be asking questions about. Some of it is bad. The re are multiple realities. Where are the shared realit ies? How do you bring that back v ersus tearing us apart? There is a human cost of harmful content.\n\nOf course, the question is: what is harmful content? Every platform defines it slightly differently. T hey do not carry out everything they say they should. There are some great things i n the Facebook policy, but they are not carried out. The attacks continue.",
+      "chunk_id": "DOC_964::c000051",
+      "chunk_hash": "3f792d5fb6fb",
+      "prev_chunk_id": "DOC_964::c000050",
+      "next_chunk_id": "DOC_964::c000052"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "human cost of harmful content. Of course, the question is: what is harmful content? Every platform defines it slightly differently. T hey do not carry out everything they say they should. There are some great things i n the Facebook policy, but they are not carried out. The attacks continue. W e should not be dealing with the after \\- effects of the neglect. T his is a tough one. I guess that accountability will stop it. What stops journalists letting a lie go through? If someone lie s to you and you are not able to che ck it, what stops you putting it out?Y ou are accountable for it. Who is accountable for this? H iding behind algorithms does not work because the algorithm s are ultimately designed by a human being \u2014 the company.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 31,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "human cost of harmful content. Of course, the question is: what is harmful content? Every platform defines it slightly differently. T hey do not carry out everything they say they should. There are some great things i n the Facebook policy, but they are not carried out. The attacks continue. W e should not be dealing with the after \\- effects of the neglect. T his is a tough one. I guess that accountability will stop it. What stops journalists letting a lie go through? If someone lie s to you and you are not able to che ck it, what stops you putting it out?Y ou are accountable for it. Who is accountable for this? H iding behind algorithms does not work because the algorithm s are ultimately designed by a human being \u2014 the company.",
+      "chunk_id": "DOC_964::c000052",
+      "chunk_hash": "6532b6b185ca",
+      "prev_chunk_id": "DOC_964::c000051",
+      "next_chunk_id": "DOC_964::c000053"
+    },
+    {
+      "header": "Suzanne Webb",
+      "text": "My real concern is that, w e are doing work on this B ill with the help of you and brilliant people who have come along and given evidence, b ut with all this stuff it will take time to go through the process. At the moment it is just a dr af t B ill and it has to go through the House of Commons, the House of Lords and then come back. There will probably be a bit of ping \\- pong. I guess that it will take a year or a couple of years before this gets through. I do not know. I am new to all of this, but I think that we are talking about a long time.\n\nI would like to see the moral compass of those tech companies waking up and say ing, \u201cW e do not need to wait for this B ill. We can do something about this now. I do not need a B ill to tell me my moral compass has been going in the wrong direction and I need to put measures in place to stop this\u201d, whatever we all decide. W e should not even have to think about what harmful content is\u2014it is pretty obvious \u2014and the human cost of it. That is where I am coming from. To all those tech companies out there: get on with it now; get your moral compass in the right direction. Maria, am I right in thinking that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 32,
+      "speaker_name": "Suzanne Webb",
+      "display_text": "My real concern is that, w e are doing work on this B ill with the help of you and brilliant people who have come along and given evidence, b ut with all this stuff it will take time to go through the process. At the moment it is just a dr af t B ill and it has to go through the House of Commons, the House of Lords and then come back. There will probably be a bit of ping \\- pong. I guess that it will take a year or a couple of years before this gets through. I do not know. I am new to all of this, but I think that we are talking about a long time.\n\nI would like to see the moral compass of those tech companies waking up and say ing, \u201cW e do not need to wait for this B ill. We can do something about this now. I do not need a B ill to tell me my moral compass has been going in the wrong direction and I need to put measures in place to stop this\u201d, whatever we all decide. W e should not even have to think about what harmful content is\u2014it is pretty obvious \u2014and the human cost of it. That is where I am coming from. To all those tech companies out there: get on with it now; get your moral compass in the right direction. Maria, am I right in thinking that?",
+      "chunk_id": "DOC_964::c000053",
+      "chunk_hash": "80128d7b16ef",
+      "prev_chunk_id": "DOC_964::c000052",
+      "next_chunk_id": "DOC_964::c000054"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "Absolutely. I continue to ask for their enlightened self \u2011 interest. I n the end, it is not in their interest to tear down democracies, to tear the facts down and manipulate people in this way. They looked at it and it happened by, I always say, death by a thousand cuts. A thousand cuts brought them to where they are \u2014a machine.\n\nT he other interesting part is that they have com pressed the human experience. I n the real world we have six degrees of separation; on Facebook you have 3.5 degrees of separation, which means that the virality is faster. Everything moves faster. You can slow it down. In the old days a news organisation would put out a story and civil society, NGOs and G overnments would take that story and have time to think it through. I a m not saying it is for ever, but part of the disconnect in our society today is that the information comes out, y ou are p u mmelled by it, y our perception is shifted,and yet civil society and G overnments do not have the ability to turn it into action that makes a democracy stronger.\n\nI watched this during my career. Technology has made things faster, so part of it is the pace of it. They can still have the platforms and some of these changes can happen gradually.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 33,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "Absolutely. I continue to ask for their enlightened self \u2011 interest. I n the end, it is not in their interest to tear down democracies, to tear the facts down and manipulate people in this way. They looked at it and it happened by, I always say, death by a thousand cuts. A thousand cuts brought them to where they are \u2014a machine.\n\nT he other interesting part is that they have com pressed the human experience. I n the real world we have six degrees of separation; on Facebook you have 3.5 degrees of separation, which means that the virality is faster. Everything moves faster. You can slow it down. In the old days a news organisation would put out a story and civil society, NGOs and G overnments would take that story and have time to think it through. I a m not saying it is for ever, but part of the disconnect in our society today is that the information comes out, y ou are p u mmelled by it, y our perception is shifted,and yet civil society and G overnments do not have the ability to turn it into action that makes a democracy stronger.\n\nI watched this during my career. Technology has made things faster, so part of it is the pace of it. They can still have the platforms and some of these changes can happen gradually.",
+      "chunk_id": "DOC_964::c000054",
+      "chunk_hash": "697f60295c22",
+      "prev_chunk_id": "DOC_964::c000053",
+      "next_chunk_id": "DOC_964::c000055"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "overnments do not have the ability to turn it into action that makes a democracy stronger. I watched this during my career. Technology has made things faster, so part of it is the pace of it. They can still have the platforms and some of these changes can happen gradually. Please do not wait years. I understand that laws are different, but maybe in conjunction with the platforms these shifts can happen with the threat of the law. Here is the difference between G overnment s, news organisations and tech platform s in the way they work.Agile development in tech breaks down everything to the nuts and bolts \u2014to the nails\u2014and then it will build it up from scratch. News organisations and G overnments start with principles and then have to think it through and never go down to the nuts and bolts. I have always felt that old power and new power working together could be transformative for the world, but it is about the basic understanding of how they can fit together and make it better. Their process is also iterative. T hey will try it. If it works they keep moving down that path; if it does not work they drop it. It is a two \\- week or one \\- month build. Given that kind of more iterative experiment, more in tune with the technology that we are using and the way tech platforms work, why cannot a r egulatory agency work that way with them a nd then report back to the public about what it is like, \u201cT his is what we are trying to do this month \u201d? It is an idea.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 33,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "overnments do not have the ability to turn it into action that makes a democracy stronger. I watched this during my career. Technology has made things faster, so part of it is the pace of it. They can still have the platforms and some of these changes can happen gradually. Please do not wait years. I understand that laws are different, but maybe in conjunction with the platforms these shifts can happen with the threat of the law. Here is the difference between G overnment s, news organisations and tech platform s in the way they work.Agile development in tech breaks down everything to the nuts and bolts \u2014to the nails\u2014and then it will build it up from scratch. News organisations and G overnments start with principles and then have to think it through and never go down to the nuts and bolts. I have always felt that old power and new power working together could be transformative for the world, but it is about the basic understanding of how they can fit together and make it better. Their process is also iterative. T hey will try it. If it works they keep moving down that path; if it does not work they drop it. It is a two \\- week or one \\- month build. Given that kind of more iterative experiment, more in tune with the technology that we are using and the way tech platforms work, why cannot a r egulatory agency work that way with them a nd then report back to the public about what it is like, \u201cT his is what we are trying to do this month \u201d? It is an idea.",
+      "chunk_id": "DOC_964::c000055",
+      "chunk_hash": "fc44eb8adcf1",
+      "prev_chunk_id": "DOC_964::c000054",
+      "next_chunk_id": "DOC_964::c000056"
+    },
+    {
+      "header": "Suzanne Webb",
+      "text": "I love the language that you are using, and \u201c agile \u201d is a very good way to describe perhaps how this could go along, but it is most definitely an iterative process. I n basic language, we could have some sort of pilot to make sure that it is working, because it will not work from day one. I think that we are fully aware of that. There will have to be some tweaks to it. Maria, thank you very much.\n\nQ198 Lord Stevenson of Balmacara:I was going to ask a bit about collective harms, but I think that you have already responded on that to my colleague Lord Clement \u2011 Jones.\n\nWhat you have been talking about is the importance of having journalists and journalism of good quality to provide a context in which all these changes are happening and to keep an independent and moderating view on those who have power.W hat are journalist s? Are they born? Are they made? How would you define them?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 34,
+      "speaker_name": "Suzanne Webb",
+      "display_text": "I love the language that you are using, and \u201c agile \u201d is a very good way to describe perhaps how this could go along, but it is most definitely an iterative process. I n basic language, we could have some sort of pilot to make sure that it is working, because it will not work from day one. I think that we are fully aware of that. There will have to be some tweaks to it. Maria, thank you very much.\n\nQ198 Lord Stevenson of Balmacara:I was going to ask a bit about collective harms, but I think that you have already responded on that to my colleague Lord Clement \u2011 Jones.\n\nWhat you have been talking about is the importance of having journalists and journalism of good quality to provide a context in which all these changes are happening and to keep an independent and moderating view on those who have power.W hat are journalist s? Are they born? Are they made? How would you define them?",
+      "chunk_id": "DOC_964::c000056",
+      "chunk_hash": "bc1bd75ac4fa",
+      "prev_chunk_id": "DOC_964::c000055",
+      "next_chunk_id": "DOC_964::c000057"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "I think that my generation grew up in the golden age of journalism. I watched standards and ethics manuals get tested; I watched the mission of journalism, and I also watched the growth of legislation that brought along F ox. I ha ve an American bent becaus e I worked for so long with CNN.T hen, the re was the splintering of each of our world s.\n\nAs for journalism, we have three pillars in Rappler. This is how I work now day to day. T he three pillars are technology, journalism and community. Those three are interlocking circles for us. I look at information cascades in our society. At one point when we set up Rappler, I really thought that technology could help to build institutions bottom up. The rallying cry of Rappler at the beginning was social media for social good, so I did drink the Kool-Aid.\n\nOn the technology part,put ting guardrails in place is the work that you are doing. To take CRISPR technology, for genetic research it was easier to put those guardrails in place for w estern nations, but I think that we have underestimated the impact of information and guardrails on tech. Journalists and I have been pushing to build tech. We are building tech that will roll out in November that will try to have fact and evidence \\- based discussions in time for our elections.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 35,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 0,
+      "display_text": "I think that my generation grew up in the golden age of journalism. I watched standards and ethics manuals get tested; I watched the mission of journalism, and I also watched the growth of legislation that brought along F ox. I ha ve an American bent becaus e I worked for so long with CNN.T hen, the re was the splintering of each of our world s.\n\nAs for journalism, we have three pillars in Rappler. This is how I work now day to day. T he three pillars are technology, journalism and community. Those three are interlocking circles for us. I look at information cascades in our society. At one point when we set up Rappler, I really thought that technology could help to build institutions bottom up. The rallying cry of Rappler at the beginning was social media for social good, so I did drink the Kool-Aid.\n\nOn the technology part,put ting guardrails in place is the work that you are doing. To take CRISPR technology, for genetic research it was easier to put those guardrails in place for w estern nations, but I think that we have underestimated the impact of information and guardrails on tech. Journalists and I have been pushing to build tech. We are building tech that will roll out in November that will try to have fact and evidence \\- based discussions in time for our elections.",
+      "chunk_id": "DOC_964::c000057",
+      "chunk_hash": "f8f790bc1c24",
+      "prev_chunk_id": "DOC_964::c000056",
+      "next_chunk_id": "DOC_964::c000058"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "but I think that we have underestimated the impact of information and guardrails on tech. Journalists and I have been pushing to build tech. We are building tech that will roll out in November that will try to have fact and evidence \\- based discussions in time for our elections. J ournalists need to survive; i ndependent media need to survive this period becaus e, if you look at the dynamics and economics of it, the advertising model is dead for journalism. I have already talked a little bit about the commoditi s ation of news and the incentive structures for it, and yet the law in many democratic countries ha s journalist s speak ing truth to power. W hat makes journalists different? I think that it is courage. It is the standards,ethics and mission of journalism and then the courage to ask you questions that you do not want to answer, and to do it in a way that is professional. I love this part of my job. The other part is that it was never about gotcha. T he other thing the i nternet did was to make it all about trying to one \\- up everyone. The job of journalists was always to be a surrogate for the people. We were there to help you make the right choices moving forwar d because we believed in the collective good in the public sphere.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 35,
+      "speaker_name": "Maria Ressa",
+      "turn_part_index": 1,
+      "display_text": "but I think that we have underestimated the impact of information and guardrails on tech. Journalists and I have been pushing to build tech. We are building tech that will roll out in November that will try to have fact and evidence \\- based discussions in time for our elections. J ournalists need to survive; i ndependent media need to survive this period becaus e, if you look at the dynamics and economics of it, the advertising model is dead for journalism. I have already talked a little bit about the commoditi s ation of news and the incentive structures for it, and yet the law in many democratic countries ha s journalist s speak ing truth to power. W hat makes journalists different? I think that it is courage. It is the standards,ethics and mission of journalism and then the courage to ask you questions that you do not want to answer, and to do it in a way that is professional. I love this part of my job. The other part is that it was never about gotcha. T he other thing the i nternet did was to make it all about trying to one \\- up everyone. The job of journalists was always to be a surrogate for the people. We were there to help you make the right choices moving forwar d because we believed in the collective good in the public sphere.",
+      "chunk_id": "DOC_964::c000058",
+      "chunk_hash": "6c7858c9826a",
+      "prev_chunk_id": "DOC_964::c000057",
+      "next_chunk_id": "DOC_964::c000059"
+    },
+    {
+      "header": "Lord Stevenson of Balmacara",
+      "text": "That is very helpful.\n\nQ199 Lord Black of Brentwood: T hank you for your inspiring and compelling evidence today. You said just now, as is absolutely right, \u201cPl ease do not wait years for this to happen \u201d, although parliamentary processes are time consuming.You t hen said that shifts can perhaps happen at the same time as that legislative process is going on.\n\nThere is one other point to that.T he flip \\- side of the coin of regulation is competition. You talk ed just now about how the business model is in effect dead for trusted independent journalism. Would your message to the UK G overnment be, \u201cDon\u2019t just think about regulation. Get on and deal with the competition issues at the same time \u201d, as indeed they have in Australia?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 36,
+      "speaker_name": "Lord Stevenson of Balmacara",
+      "display_text": "That is very helpful.\n\nQ199 Lord Black of Brentwood: T hank you for your inspiring and compelling evidence today. You said just now, as is absolutely right, \u201cPl ease do not wait years for this to happen \u201d, although parliamentary processes are time consuming.You t hen said that shifts can perhaps happen at the same time as that legislative process is going on.\n\nThere is one other point to that.T he flip \\- side of the coin of regulation is competition. You talk ed just now about how the business model is in effect dead for trusted independent journalism. Would your message to the UK G overnment be, \u201cDon\u2019t just think about regulation. Get on and deal with the competition issues at the same time \u201d, as indeed they have in Australia?",
+      "chunk_id": "DOC_964::c000059",
+      "chunk_hash": "0e68f54ee5ee",
+      "prev_chunk_id": "DOC_964::c000058",
+      "next_chunk_id": "DOC_964::c000060"
+    },
+    {
+      "header": "Maria Ressa",
+      "text": "O n all fronts, the other important thing is data protection.T hat is another lever, but it is th e surveillance capitalism model we all have to deal with. U sing behavioural surplus data for monetisation leads to insidious manipulation. A ntitrust in the US w as a big thing.\n\nT he last part that we have not really talked about is data protection standards, because in the end the question I always have is: is it fair that the atomised post that I put on to Facebook can be pulled together by machine learning to create a model of me that knows me m ore than I know myself and is then sold to the highest bidder without my consent?E ssential l y, it is manipulating me. T hose are some of the protection s that, for us, are still missing. I do not know whether I answered your question. That is the exciting part.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Maria Ressa",
+      "display_text": "O n all fronts, the other important thing is data protection.T hat is another lever, but it is th e surveillance capitalism model we all have to deal with. U sing behavioural surplus data for monetisation leads to insidious manipulation. A ntitrust in the US w as a big thing.\n\nT he last part that we have not really talked about is data protection standards, because in the end the question I always have is: is it fair that the atomised post that I put on to Facebook can be pulled together by machine learning to create a model of me that knows me m ore than I know myself and is then sold to the highest bidder without my consent?E ssential l y, it is manipulating me. T hose are some of the protection s that, for us, are still missing. I do not know whether I answered your question. That is the exciting part.",
+      "chunk_id": "DOC_964::c000060",
+      "chunk_hash": "1df32108cbbb",
+      "prev_chunk_id": "DOC_964::c000059",
+      "next_chunk_id": "DOC_964::c000061"
+    },
+    {
+      "header": "The Chair",
+      "text": "Maria, t hat concludes the questions from the c ommittee today. Thank you so much for joining us. We appreciate your testimony. It has been a real pleasure to hear from you.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "The Chair",
+      "display_text": "Maria, t hat concludes the questions from the c ommittee today. Thank you so much for joining us. We appreciate your testimony. It has been a real pleasure to hear from you.",
+      "chunk_id": "DOC_964::c000061",
+      "chunk_hash": "33c8c9373b13",
+      "prev_chunk_id": "DOC_964::c000060",
+      "next_chunk_id": null
+    }
+  ]
+}

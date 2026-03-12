@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "DOC_857",
+    "title": "1927",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Mark Johnson",
+    "date": "Unknown",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 31,
+    "pdf_layout": "two_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text (Part 1/2)",
+      "text": "Christina Rees MP and Sir Roger Gale MP House of Commons London SW1A 0AA 07.06.22 Dear Christina Rees MP and Sir Roger Gale MP, We are writing to you in your capacity as Chairs of the Public Bill Committee currently scrutising the Online Safety Bill (the Bill). As a coalition of independent organisations committed to protecting freedom of expression and other human rights, we are deeply concerned by thefactthatno human rights and free expression groups were invited togiveoral evidence to the Committee. The Billhasbeen described as a Censor's Charter. In a legal opinion, commissioned by Index on Censorship, Gavin Millar QC setouthisview that the Bill does not comply with Article 10 of the European Convention on Human Rights and will \"significantly curtail freedom of expression\". More recently, Parliament's Joint Committee on Human Rights wrote to the Secretary of State for Digital, Culture, Media and Sport to express concerns about the impact that the Billwillhave on freedom of speech online. The legislation enlists social media companies to act as private online police whowillhave to adjudicate on the legality of online content and restrict whattheydeem illegal. Restrictions could mean taking down, removing, blocking or demoting content, or suspending users' accounts. In order to comply, at scale, this process will be a utomated using content moderation systems. As currently drafted, the Bill will undermine freedom of expression and theruleoflaw. Users are entitled to due process. While illegality may be clear and obvious in some circumstances, these companies are ill-suited to make complex determinations on the legal limitations on speech and will almost certainly over-remove online expression to avoid liability under the Bill. The Bill also creates a new category of speech where the Government deems such expression to be \u201charmful\u201d. Under the threat of penalties, the legislation will cause online intermediaries to censor swathes of legal online discussion including in matters of general discourse and public policy. Harmful content is defined entirely by the Secretary of State whoisalso granted a host of executive powers throughout the legislation. The Bill also poses serious threats to the right to privacy in the UK by creating a new power to compel online intermediaries to use \u201cproactive technologies\u201d to scan, surveil and restrict the content of all users on private messaging channels. In the course of Committee Stage scrutiny of any Bill which engages human rights issues, it is paramount that those with expertise in such legal and policy are as are properly consulted so that members of the Committee are a ppropriately briefed in advance of the line-by-line consideration of the Bill. It is clear that this has not occurred on this occasion. We remain willing to provide oral evidence to the Committee to assist its deliberations on these and other issues. We call on Parliamentarians to pay particular regard to the human rights concerns throughout Committee Stage and would appreciate if this letter was shared with all Members of the Committee accordingly.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "Christina Rees MP and Sir Roger Gale MP House of Commons London SW1A 0AA 07.06.22 Dear Christina Rees MP and Sir Roger Gale MP, We are writing to you in your capacity as Chairs of the Public Bill Committee currently scrutising the Online Safety Bill (the Bill). As a coalition of independent organisations committed to protecting freedom of expression and other human rights, we are deeply concerned by thefactthatno human rights and free expression groups were invited togiveoral evidence to the Committee. The Billhasbeen described as a Censor's Charter. In a legal opinion, commissioned by Index on Censorship, Gavin Millar QC setouthisview that the Bill does not comply with Article 10 of the European Convention on Human Rights and will \"significantly curtail freedom of expression\". More recently, Parliament's Joint Committee on Human Rights wrote to the Secretary of State for Digital, Culture, Media and Sport to express concerns about the impact that the Billwillhave on freedom of speech online. The legislation enlists social media companies to act as private online police whowillhave to adjudicate on the legality of online content and restrict whattheydeem illegal. Restrictions could mean taking down, removing, blocking or demoting content, or suspending users' accounts. In order to comply, at scale, this process will be a utomated using content moderation systems. As currently drafted, the Bill will undermine freedom of expression and theruleoflaw. Users are entitled to due process. While illegality may be clear and obvious in some circumstances, these companies are ill-suited to make complex determinations on the legal limitations on speech and will almost certainly over-remove online expression to avoid liability under the Bill. The Bill also creates a new category of speech where the Government deems such expression to be \u201charmful\u201d. Under the threat of penalties, the legislation will cause online intermediaries to censor swathes of legal online discussion including in matters of general discourse and public policy. Harmful content is defined entirely by the Secretary of State whoisalso granted a host of executive powers throughout the legislation. The Bill also poses serious threats to the right to privacy in the UK by creating a new power to compel online intermediaries to use \u201cproactive technologies\u201d to scan, surveil and restrict the content of all users on private messaging channels. In the course of Committee Stage scrutiny of any Bill which engages human rights issues, it is paramount that those with expertise in such legal and policy are as are properly consulted so that members of the Committee are a ppropriately briefed in advance of the line-by-line consideration of the Bill. It is clear that this has not occurred on this occasion. We remain willing to provide oral evidence to the Committee to assist its deliberations on these and other issues. We call on Parliamentarians to pay particular regard to the human rights concerns throughout Committee Stage and would appreciate if this letter was shared with all Members of the Committee accordingly.",
+      "chunk_id": "DOC_857::c000000",
+      "chunk_hash": "924ce7819f45",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_857::c000001"
+    },
+    {
+      "header": "Introductory Text (Part 2/2)",
+      "text": "We remain willing to provide oral evidence to the Committee to assist its deliberations on these and other issues. We call on Parliamentarians to pay particular regard to the human rights concerns throughout Committee Stage and would appreciate if this letter was shared with all Members of the Committee accordingly. Yours sincerely, Mark Johnson - Big Brother Watch Barbora Bukovsk\u00e1 - ARTICLE 19 Jim Killock - Open Rights Group Ruth Smeeth - Index on Censorship Richard Wingfield - Global Partners Digital",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "Yours sincerely, Mark Johnson - Big Brother Watch Barbora Bukovsk\u00e1 - ARTICLE 19 Jim Killock - Open Rights Group Ruth Smeeth - Index on Censorship Richard Wingfield - Global Partners Digital",
+      "chunk_id": "DOC_857::c000001",
+      "chunk_hash": "b14b65c85121",
+      "prev_chunk_id": "DOC_857::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

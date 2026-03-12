@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+@custom-variant light (&:where(.light, .light *));
+
+@theme {
+  --color-dark-900: #0a0b0d;
+  --color-dark-800: #101215;
+  --color-dark-700: #1a1c21;
+  --color-dark-600: #24272e;
+  --color-dark-500: #2e323a;
+  --color-dark-400: #3d4250;
+  --color-dark-300: #6b7280;
+  --color-warm-50: #fefcfa;
+  --color-warm-100: #f8f4ef;
+  --color-warm-200: #f2e9e1;
+  --color-warm-300: #e0d4c8;
+  --color-warm-400: #b8a99a;
+  --color-accent: #c8956c;
+  --color-accent-light: #e0b08a;
+  --color-accent-muted: #a07850;
+  --color-confidence-high: #4ade80;
+  --color-confidence-medium: #fbbf24;
+  --color-confidence-low: #f87171;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-serif: "Georgia", "Times New Roman", serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+
+  .dark body,
+  .dark {
+    color-scheme: dark;
+  }
+
+  /* Markdown prose styling */
+  .prose h1 { @apply text-xl font-semibold mt-6 mb-3; }
+  .prose h2 { @apply text-lg font-semibold mt-5 mb-2; }
+  .prose h3 { @apply text-base font-semibold mt-4 mb-2; }
+  .prose p { @apply mb-3 leading-relaxed; }
+  .prose ul { @apply list-disc pl-6 mb-3 space-y-1; }
+  .prose ol { @apply list-decimal pl-6 mb-3 space-y-1; }
+  .prose li { @apply leading-relaxed; }
+  .prose strong { @apply font-semibold; }
+  .prose em { @apply italic; }
+  .prose blockquote {
+    @apply border-l-3 pl-4 my-3 italic opacity-80;
+  }
+  .prose code {
+    @apply px-1.5 py-0.5 rounded text-sm;
+  }
+
+  .dark .prose blockquote {
+    @apply border-dark-400;
+  }
+  .light .prose blockquote {
+    @apply border-warm-300;
+  }
+}

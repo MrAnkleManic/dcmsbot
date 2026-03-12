@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_2059",
+    "title": "automated-content-classification-systems",
+    "category": "04_Regulator",
+    "type": "Research",
+    "author": "automated content",
+    "date": "2023-01-25",
+    "url": "https://www.ofcom.org.uk/online-safety/safety-technology/automated-content-classification-systems",
+    "encoding": "ascii",
+    "authority_tag": "EVIDENCE_RESEARCH",
+    "authority_weight": 7
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Automated Content Classification (ACC) Systems\nAutomated Content Classification (ACC) Systems\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n25 January 2023\nLast updated:\n16 March 2023\nIn recent years, a wide-ranging global debate has been taking place about the risks faced by internet users and the steps that can be taken to help protect them from harm. A key element of this debate has centred on the role and capabilities of automated approaches (driven by Artificial Intelligence and Machine Learning techniques) to enhance the effectiveness of online content moderation and offer users greater protection from potentially illegal and harmful material.\nOfcom has commissioned Winder.Ai to produce this report to improve our understanding of the end-to-end processes that support the creation and deployment of automated content classifiers (ACCs) used in moderating online content. We are publishing this report with the overall goal of improving awareness of how these systems work.\nRead the report\nAutomated Content Classification (ACC) Systems (PDF, 901.2 KB)",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Automated Content Classification (ACC) Systems\nAutomated Content Classification (ACC) Systems\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n25 January 2023\nLast updated:\n16 March 2023\nIn recent years, a wide-ranging global debate has been taking place about the risks faced by internet users and the steps that can be taken to help protect them from harm. A key element of this debate has centred on the role and capabilities of automated approaches (driven by Artificial Intelligence and Machine Learning techniques) to enhance the effectiveness of online content moderation and offer users greater protection from potentially illegal and harmful material.\nOfcom has commissioned Winder.Ai to produce this report to improve our understanding of the end-to-end processes that support the creation and deployment of automated content classifiers (ACCs) used in moderating online content. We are publishing this report with the overall goal of improving awareness of how these systems work.\nRead the report\nAutomated Content Classification (ACC) Systems (PDF, 901.2 KB)",
+      "chunk_id": "DOC_2059::c000000",
+      "chunk_hash": "571efec788d9",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

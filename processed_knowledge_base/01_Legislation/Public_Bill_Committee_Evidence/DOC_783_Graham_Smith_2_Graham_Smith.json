@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "id": "DOC_783",
+    "title": "Graham Smith_2",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Graham Smith",
+    "date": "2022-05-30",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 15,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text (Part 1/2)",
+      "text": "ONLINE SAFETY BILL \u2013 SUPPLEMENTARY SUBMISSION TO PUBLIC BILL COMMITTEE 30 May 2022 SUPPLEMENTARY SUBMISSION BY GRAHAM SMITH Graham Smith is a solicitor in private practice in London. He is the editor and main author of the legal textbook Internet Law and Regulation (Sweet & Maxwell, 5 th edition Dec 2019). He also writes the Cyberleagle blog. This submission is made in Mr Smith\u2019s personal capacity. The views expressed are not attributable tothelawfirm at which he works or to any of its clients. 1. OFFENCES EXTENDING ONLY TO PART OF THE UNITED KINGDOM 1.1 This supplementary submission considers further the topic raised in the last sentence of paragraph 4.2 and footnote 16 of my submission of 26 May 2022, namely how the illegality duties under Clause 9 of the Bill apply to offences that extend onlytosome parts of the UK. 1.2 I posed the question: \u201cFor offences that apply onlyinpart of the United Kingdom, does the Bill contemplate that the platform would have in for mation about their applicability (or not) to a given item of content?\u201d The footnote asked whether Clause 52(9) has the effect, for the purposes of the illegality duties, of extending such offences across the whole of the UK. 1.3 The answer appears to be that for the purpose of the illegality duty, the combined effect of Clause 52(9) and (12) is that an offence in part of the UK is to be treated as an offence for the whole of the UK, without regard to the location of any conduct relating to the post in question. Thatcanbeseen from para 299 of the Explanatory Notes: \u201cContent amounting to any offence under the law of England and Wales, Scotland or Northern Ireland which meets the definition under subsection (4) is illegal content (or, as appropriate, priority illegal content, CSEA content etc.) in all parts of the United Kingdom for the purposes of regulation under this Bill\u201d 1.4 This does not, it should be stressed, mean that an individual user anywhere in the UK would commit an offence under a criminal provision limited toonepart of the UK. The territorial extent of the substantive offences remains the same. It does meanthattheplat for m\u2019s illegality duties operate asifsuch offences did extend UK-wide. So a platform would not have to be concerned with the location of the user or their post with in the UK. Indeed it would appear to be contrary to the illegality duty for a platform tomakesuch a distinction. 1.5 Some illustrations of the effect of this are that, in addition to the applicable \u201chome\u201d law, a user\u2019s post would fall to be a djudged by the platform under the illegality duty: 1.5.1 For Scottish and Northern Irish posts, according to the Bill\u2019s new England and Wales Harmful Communications offence. 1.5.2 For English and Welsh posts, according to the Scotland and Northern Ireland S.127(1) Communications Act 2003 (the remainder after repeal for England and Wales).",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "ONLINE SAFETY BILL \u2013 SUPPLEMENTARY SUBMISSION TO PUBLIC BILL COMMITTEE 30 May 2022 SUPPLEMENTARY SUBMISSION BY GRAHAM SMITH Graham Smith is a solicitor in private practice in London. He is the editor and main author of the legal textbook Internet Law and Regulation (Sweet & Maxwell, 5 th edition Dec 2019). He also writes the Cyberleagle blog. This submission is made in Mr Smith\u2019s personal capacity. The views expressed are not attributable tothelawfirm at which he works or to any of its clients. 1. OFFENCES EXTENDING ONLY TO PART OF THE UNITED KINGDOM 1.1 This supplementary submission considers further the topic raised in the last sentence of paragraph 4.2 and footnote 16 of my submission of 26 May 2022, namely how the illegality duties under Clause 9 of the Bill apply to offences that extend onlytosome parts of the UK. 1.2 I posed the question: \u201cFor offences that apply onlyinpart of the United Kingdom, does the Bill contemplate that the platform would have in for mation about their applicability (or not) to a given item of content?\u201d The footnote asked whether Clause 52(9) has the effect, for the purposes of the illegality duties, of extending such offences across the whole of the UK. 1.3 The answer appears to be that for the purpose of the illegality duty, the combined effect of Clause 52(9) and (12) is that an offence in part of the UK is to be treated as an offence for the whole of the UK, without regard to the location of any conduct relating to the post in question. Thatcanbeseen from para 299 of the Explanatory Notes: \u201cContent amounting to any offence under the law of England and Wales, Scotland or Northern Ireland which meets the definition under subsection (4) is illegal content (or, as appropriate, priority illegal content, CSEA content etc.) in all parts of the United Kingdom for the purposes of regulation under this Bill\u201d 1.4 This does not, it should be stressed, mean that an individual user anywhere in the UK would commit an offence under a criminal provision limited toonepart of the UK. The territorial extent of the substantive offences remains the same. It does meanthattheplat for m\u2019s illegality duties operate asifsuch offences did extend UK-wide. So a platform would not have to be concerned with the location of the user or their post with in the UK. Indeed it would appear to be contrary to the illegality duty for a platform tomakesuch a distinction. 1.5 Some illustrations of the effect of this are that, in addition to the applicable \u201chome\u201d law, a user\u2019s post would fall to be a djudged by the platform under the illegality duty: 1.5.1 For Scottish and Northern Irish posts, according to the Bill\u2019s new England and Wales Harmful Communications offence. 1.5.2 For English and Welsh posts, according to the Scotland and Northern Ireland S.127(1) Communications Act 2003 (the remainder after repeal for England and Wales).",
+      "chunk_id": "DOC_783::c000000",
+      "chunk_hash": "2b49aa15d15d",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_783::c000001"
+    },
+    {
+      "header": "Introductory Text (Part 2/2)",
+      "text": "by the platform under the illegality duty: 1.5.1 For Scottish and Northern Irish posts, according to the Bill\u2019s new England and Wales Harmful Communications offence. 1.5.2 For English and Welsh posts, according to the Scotland and Northern Ireland S.127(1) Communications Act 2003 (the remainder after repeal for England and Wales). 1.5.3 For English, Welsh and Nor the rnIrishposts, according to Scotland\u2019s Hate Crime and Public Order Act. 1.5.4 For Scottish and Northern Irish posts, according to the England and Wales Public Order Act 1986 offences. 1.5.5 For Scottish and Northern Irish posts, according to the newly codified England and Wales public nuisance offence (S.78 Police etc Act 2022). 1.5.6 For Scottish posts, under the England, Wales and Northern Ireland Protection from Harassment Act 1997 offence. 1.6 On this basis the illegality duties under Clause 9 could be said to embody a \u2018most restrictive common denominator\u2019 approach to differences between criminal offences with in the UK.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "1.5.3 For English, Welsh and Nor the rnIrishposts, according to Scotland\u2019s Hate Crime and Public Order Act. 1.5.4 For Scottish and Northern Irish posts, according to the England and Wales Public Order Act 1986 offences. 1.5.5 For Scottish and Northern Irish posts, according to the newly codified England and Wales public nuisance offence (S.78 Police etc Act 2022). 1.5.6 For Scottish posts, under the England, Wales and Northern Ireland Protection from Harassment Act 1997 offence. 1.6 On this basis the illegality duties under Clause 9 could be said to embody a \u2018most restrictive common denominator\u2019 approach to differences between criminal offences with in the UK.",
+      "chunk_id": "DOC_783::c000001",
+      "chunk_hash": "154bfb73dfbf",
+      "prev_chunk_id": "DOC_783::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

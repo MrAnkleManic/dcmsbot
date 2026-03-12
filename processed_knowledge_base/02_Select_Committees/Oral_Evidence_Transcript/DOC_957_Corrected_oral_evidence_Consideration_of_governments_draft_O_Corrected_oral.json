@@ -1,0 +1,1110 @@
+{
+  "metadata": {
+    "id": "DOC_957",
+    "title": "Corrected oral evidence Consideration of government\u2019s draft Online Safety Bill 1",
+    "category": "02_Select_Committees",
+    "type": "Oral Evidence Transcript",
+    "author": "Corrected oral",
+    "date": "2021-10-21",
+    "url": "https://committees.parliament.uk/oralevidence/2876/html/",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Draft Online Safety Bill",
+      "text": "C orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nThursday 21 October 2021\n\n12.55 pm\n\nWatch the meeting: https://parliamentlive.tv/event/index/4df31e2e-50c7-4b92-a745-a5fddc227498\n\nMembers present:Damian Collins MP (The Chair); Debbie Abrahams MP; Lord Black of Brentwood; Lord Clement-Jones; Lord Gilbert of Panteg; Darren Jones MP; Baroness Kidron; Lord Knight of Weymouth; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 10 Heard in Public Questions 148 - 153\n\nWitnesses\n\nI: Professor Jonathan Haidt; Jim Steyer, Chief Executive Officer, Common Sense Media.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "Draft Online Safety Bill",
+      "display_text": "C orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nThursday 21 October 2021\n\n12.55 pm\n\nWatch the meeting: https://parliamentlive.tv/event/index/4df31e2e-50c7-4b92-a745-a5fddc227498\n\nMembers present:Damian Collins MP (The Chair); Debbie Abrahams MP; Lord Black of Brentwood; Lord Clement-Jones; Lord Gilbert of Panteg; Darren Jones MP; Baroness Kidron; Lord Knight of Weymouth; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 10 Heard in Public Questions 148 - 153\n\nWitnesses\n\nI: Professor Jonathan Haidt; Jim Steyer, Chief Executive Officer, Common Sense Media.",
+      "chunk_id": "DOC_957::c000000",
+      "chunk_hash": "e0f59f99ae5c",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_957::c000001"
+    },
+    {
+      "header": "USE OF THE TRANSCRIPT",
+      "text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n17\n\nExamination of witnesses\n\nProfessor Jonathan Haidt and Jim Steyer.\n\nQ148 The Chair: Good afternoon, in London time. Welcome to the members of our third and final panel for evidence today. We are very grateful to the witnesses for joining us, particularly with the early start, especially for Jim, who is on the west coast of the United States. Thank you for being with us.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 1,
+      "speaker_name": "USE OF THE TRANSCRIPT",
+      "turn_part_index": 0,
+      "display_text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n17\n\nExamination of witnesses\n\nProfessor Jonathan Haidt and Jim Steyer.\n\nQ148 The Chair: Good afternoon, in London time. Welcome to the members of our third and final panel for evidence today. We are very grateful to the witnesses for joining us, particularly with the early start, especially for Jim, who is on the west coast of the United States. Thank you for being with us.",
+      "chunk_id": "DOC_957::c000001",
+      "chunk_hash": "3db6ce47dcac",
+      "prev_chunk_id": "DOC_957::c000000",
+      "next_chunk_id": "DOC_957::c000002"
+    },
+    {
+      "header": "USE OF THE TRANSCRIPT",
+      "text": "in London time. Welcome to the members of our third and final panel for evidence today. We are very grateful to the witnesses for joining us, particularly with the early start, especially for Jim, who is on the west coast of the United States. Thank you for being with us. I have a question about harm. The piece of legislation we are scrutinising is now called the Online Safety Bill. It was previously referred to as the Online Harms Bill. One of the most difficult areas of it is trying to come up with a meaningful definition of what we think harm is, particularly if we are defining some harms as not necessarily illegal but somewhat harmful. Jim and Jonathan, I would welcome your views. For the purpose of legislation, how do we go about defining this? How can we be clear in law about the harms that we need to protect people from? I appreciate you cannot see us. As I can see you, left to right, Jim, would you like to go first and then Jonathan?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 1,
+      "speaker_name": "USE OF THE TRANSCRIPT",
+      "turn_part_index": 1,
+      "display_text": "in London time. Welcome to the members of our third and final panel for evidence today. We are very grateful to the witnesses for joining us, particularly with the early start, especially for Jim, who is on the west coast of the United States. Thank you for being with us. I have a question about harm. The piece of legislation we are scrutinising is now called the Online Safety Bill. It was previously referred to as the Online Harms Bill. One of the most difficult areas of it is trying to come up with a meaningful definition of what we think harm is, particularly if we are defining some harms as not necessarily illegal but somewhat harmful. Jim and Jonathan, I would welcome your views. For the purpose of legislation, how do we go about defining this? How can we be clear in law about the harms that we need to protect people from? I appreciate you cannot see us. As I can see you, left to right, Jim, would you like to go first and then Jonathan?",
+      "chunk_id": "DOC_957::c000002",
+      "chunk_hash": "da7c89ca4799",
+      "prev_chunk_id": "DOC_957::c000001",
+      "next_chunk_id": "DOC_957::c000003"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Sure. Thank you so much for having me today. It is a delight to be here. I was listening to the prior panel. This is a really great discussion, and it is an honour to be addressing you all. Having listened to it, you are really doing this in a very thoughtful way. In light of all that we have learned, even in the past few weeks from the whistleblower Frances Haugen, this legislation has extraordinary implications for all of us. Those of us here in the United States have a lot to learn from the quality of your debate, so thank you very much for inviting me to participate.\n\nOne thing I would say about the definition of harms is that the psychological impacts on young people\u2014on children and teens\u2014are discernibly more important and significant because their brains are still developing. If you think about children and teens and their use of online platforms, social media in particular, they are much more likely to look to platforms such as Instagram, YouTube or others for social validation in the comparative culture that they are growing up in. They are especially receptive to rewards, and they can be deeply impacted by negative messages. For example, we saw all the recent research on body image that Instagram had tried to cover up.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "Sure. Thank you so much for having me today. It is a delight to be here. I was listening to the prior panel. This is a really great discussion, and it is an honour to be addressing you all. Having listened to it, you are really doing this in a very thoughtful way. In light of all that we have learned, even in the past few weeks from the whistleblower Frances Haugen, this legislation has extraordinary implications for all of us. Those of us here in the United States have a lot to learn from the quality of your debate, so thank you very much for inviting me to participate.\n\nOne thing I would say about the definition of harms is that the psychological impacts on young people\u2014on children and teens\u2014are discernibly more important and significant because their brains are still developing. If you think about children and teens and their use of online platforms, social media in particular, they are much more likely to look to platforms such as Instagram, YouTube or others for social validation in the comparative culture that they are growing up in. They are especially receptive to rewards, and they can be deeply impacted by negative messages. For example, we saw all the recent research on body image that Instagram had tried to cover up.",
+      "chunk_id": "DOC_957::c000003",
+      "chunk_hash": "3e8c17f790b5",
+      "prev_chunk_id": "DOC_957::c000002",
+      "next_chunk_id": "DOC_957::c000004"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Instagram, YouTube or others for social validation in the comparative culture that they are growing up in. They are especially receptive to rewards, and they can be deeply impacted by negative messages. For example, we saw all the recent research on body image that Instagram had tried to cover up. At Common Sense Media, we have conducted a bunch of different research about the negative impacts of some of the social media platforms on kids\u2019 self-esteem, their sense of anxiety and depression, their body image, and their sense that their body images and their overall existence, if you will, does not measure up to the idealised images they can see from influencers on platforms like Instagram. When you define harms, you should do it with a particular focus on young people and children. There is clear data we would be happy to share with the committee about how young people, particularly vulnerable young people, oftentimes feel worse about themselves because of the comparative culture that they experience. Listening to the really thoughtful discussion in the previous panels, I urge that you folks define harms with a particular focus on youth and set aside specific regulations that protect the best interests of children and teenagers because they are more vulnerable to the platforms. I would also recommend that you call for more investment in research. Here in the United States there has been a dearth of that, so that large NGOs such as Common Sense Media have had to fill a void in the research area about the impact of technology and social media on the health and social and emotional well-being of young people.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "Instagram, YouTube or others for social validation in the comparative culture that they are growing up in. They are especially receptive to rewards, and they can be deeply impacted by negative messages. For example, we saw all the recent research on body image that Instagram had tried to cover up. At Common Sense Media, we have conducted a bunch of different research about the negative impacts of some of the social media platforms on kids\u2019 self-esteem, their sense of anxiety and depression, their body image, and their sense that their body images and their overall existence, if you will, does not measure up to the idealised images they can see from influencers on platforms like Instagram. When you define harms, you should do it with a particular focus on young people and children. There is clear data we would be happy to share with the committee about how young people, particularly vulnerable young people, oftentimes feel worse about themselves because of the comparative culture that they experience. Listening to the really thoughtful discussion in the previous panels, I urge that you folks define harms with a particular focus on youth and set aside specific regulations that protect the best interests of children and teenagers because they are more vulnerable to the platforms. I would also recommend that you call for more investment in research. Here in the United States there has been a dearth of that, so that large NGOs such as Common Sense Media have had to fill a void in the research area about the impact of technology and social media on the health and social and emotional well-being of young people.",
+      "chunk_id": "DOC_957::c000004",
+      "chunk_hash": "2091669eb971",
+      "prev_chunk_id": "DOC_957::c000003",
+      "next_chunk_id": "DOC_957::c000005"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Here in the United States there has been a dearth of that, so that large NGOs such as Common Sense Media have had to fill a void in the research area about the impact of technology and social media on the health and social and emotional well-being of young people. I would, potentially as part of this legislation, make sure that you have ongoing research into those issues. I would not\u2014repeat not\u2014trust the large tech companies to do the research themselves because it tends to be biased and, if they do not like the results, they simply will not share it with the public, as we saw with Instagram. Thank you very much for having me. I am really excited to have this discussion with you and to help you all craft good legislation. That is my opening thought about harms and the particular nature of harm as it relates to children and teenagers.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 2,
+      "display_text": "Here in the United States there has been a dearth of that, so that large NGOs such as Common Sense Media have had to fill a void in the research area about the impact of technology and social media on the health and social and emotional well-being of young people. I would, potentially as part of this legislation, make sure that you have ongoing research into those issues. I would not\u2014repeat not\u2014trust the large tech companies to do the research themselves because it tends to be biased and, if they do not like the results, they simply will not share it with the public, as we saw with Instagram. Thank you very much for having me. I am really excited to have this discussion with you and to help you all craft good legislation. That is my opening thought about harms and the particular nature of harm as it relates to children and teenagers.",
+      "chunk_id": "DOC_957::c000005",
+      "chunk_hash": "3d66e65d7376",
+      "prev_chunk_id": "DOC_957::c000004",
+      "next_chunk_id": "DOC_957::c000006"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "First, I echo what Jim said. It is an honour to be speaking to you and a real pleasure. Jim and I live in a country in which our legislature is about as dysfunctional as any on the planet. It is not likely to do anything. Your Parliament is way ahead. Looking through what I have read about the Bill\u2014I have read the coverage of it\u2014it is extremely thoughtful. The idea of a duty of care is great. Where I could be most helpful is to explain, as a social psychologist who has been studying this, how exactly social media is harming kids and why the Online Harms Bill is not getting at the central causal mechanisms. Here is the puzzle that we face.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "First, I echo what Jim said. It is an honour to be speaking to you and a real pleasure. Jim and I live in a country in which our legislature is about as dysfunctional as any on the planet. It is not likely to do anything. Your Parliament is way ahead. Looking through what I have read about the Bill\u2014I have read the coverage of it\u2014it is extremely thoughtful. The idea of a duty of care is great. Where I could be most helpful is to explain, as a social psychologist who has been studying this, how exactly social media is harming kids and why the Online Harms Bill is not getting at the central causal mechanisms. Here is the puzzle that we face.",
+      "chunk_id": "DOC_957::c000006",
+      "chunk_hash": "975648b33f49",
+      "prev_chunk_id": "DOC_957::c000005",
+      "next_chunk_id": "DOC_957::c000007"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "of care is great. Where I could be most helpful is to explain, as a social psychologist who has been studying this, how exactly social media is harming kids and why the Online Harms Bill is not getting at the central causal mechanisms. Here is the puzzle that we face. If we look at mental health trends in the US, the UK and Canada, there is no trend from the late 1990s until 2012. Things move around but there is no trend. Suddenly, out of nowhere, in 2013 and 2014 you get these hockey stick-shaped functions, especially for girls. It is clearest on self-harm, and we are talking hospital admissions, not self-reported. Hospital admissions for self-harm in the US and the UK are stable until 2012, and then, by 2015, it is a hockey stick; it more than doubles, and for pre-teen girls it triples. Something happened that started sending girls in particular to hospitals, and the suicide rate greatly increased. The pre-teen suicide rate in the USA is more than double in those couple of years. Something terrible and huge is happening, but here is the puzzle.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "of care is great. Where I could be most helpful is to explain, as a social psychologist who has been studying this, how exactly social media is harming kids and why the Online Harms Bill is not getting at the central causal mechanisms. Here is the puzzle that we face. If we look at mental health trends in the US, the UK and Canada, there is no trend from the late 1990s until 2012. Things move around but there is no trend. Suddenly, out of nowhere, in 2013 and 2014 you get these hockey stick-shaped functions, especially for girls. It is clearest on self-harm, and we are talking hospital admissions, not self-reported. Hospital admissions for self-harm in the US and the UK are stable until 2012, and then, by 2015, it is a hockey stick; it more than doubles, and for pre-teen girls it triples. Something happened that started sending girls in particular to hospitals, and the suicide rate greatly increased. The pre-teen suicide rate in the USA is more than double in those couple of years. Something terrible and huge is happening, but here is the puzzle.",
+      "chunk_id": "DOC_957::c000007",
+      "chunk_hash": "02efb60512ec",
+      "prev_chunk_id": "DOC_957::c000006",
+      "next_chunk_id": "DOC_957::c000008"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "doubles, and for pre-teen girls it triples. Something happened that started sending girls in particular to hospitals, and the suicide rate greatly increased. The pre-teen suicide rate in the USA is more than double in those couple of years. Something terrible and huge is happening, but here is the puzzle. Researchers, particularly at the Oxford Internet Institute\u2014Amy Orben and Andrew Przybylski\u2014keep putting out papers showing that the correlation between digital media use and depression is tiny. They keep saying it is no larger than for eating potatoes. What they do repeatedly\u2014Jean Twenge and I have reanalysed those large datasets\u2014is lump together all kids, not girls, and lump together all screen use, not social media, and they conclude that there is a tiny, almost no, relationship, and that is just wrong. If you zoom in on girls and social media, the standardised data\u2014the measure of the effect size\u2014goes up from 0.04, which is what they report in their main study, to 0.2, which is a huge increase. That is just in the correlational. Here is the main thing I want to communicate to you. Everything you have heard\u2014everything I have said\u2014is within the dose response framework. We are treating Facebook and Instagram like sugar. Facebook people use the analogy too; it is like sugar. In small quantities, it is fine, so all we have to do is help teens limit their consumption, and then we are okay. But Facebook is not like sugar. The dose response framework is not the right way to look at it. What happened around 2012 is a complete rewiring of teen social relationships.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 2,
+      "display_text": "doubles, and for pre-teen girls it triples. Something happened that started sending girls in particular to hospitals, and the suicide rate greatly increased. The pre-teen suicide rate in the USA is more than double in those couple of years. Something terrible and huge is happening, but here is the puzzle. Researchers, particularly at the Oxford Internet Institute\u2014Amy Orben and Andrew Przybylski\u2014keep putting out papers showing that the correlation between digital media use and depression is tiny. They keep saying it is no larger than for eating potatoes. What they do repeatedly\u2014Jean Twenge and I have reanalysed those large datasets\u2014is lump together all kids, not girls, and lump together all screen use, not social media, and they conclude that there is a tiny, almost no, relationship, and that is just wrong. If you zoom in on girls and social media, the standardised data\u2014the measure of the effect size\u2014goes up from 0.04, which is what they report in their main study, to 0.2, which is a huge increase. That is just in the correlational. Here is the main thing I want to communicate to you. Everything you have heard\u2014everything I have said\u2014is within the dose response framework. We are treating Facebook and Instagram like sugar. Facebook people use the analogy too; it is like sugar. In small quantities, it is fine, so all we have to do is help teens limit their consumption, and then we are okay. But Facebook is not like sugar. The dose response framework is not the right way to look at it. What happened around 2012 is a complete rewiring of teen social relationships.",
+      "chunk_id": "DOC_957::c000008",
+      "chunk_hash": "090bc9dee7ab",
+      "prev_chunk_id": "DOC_957::c000007",
+      "next_chunk_id": "DOC_957::c000009"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "is fine, so all we have to do is help teens limit their consumption, and then we are okay. But Facebook is not like sugar. The dose response framework is not the right way to look at it. What happened around 2012 is a complete rewiring of teen social relationships. There is data from the UK. Girls in 2011 used to go over to each other\u2019s homes after school sometimes; t hey would actually see each other. By 2014 and 2015, that plummeted \u2014 they do not do that. What happens? Many of you have children. What would happen if someone said, \u201cHey, I\u2019ve got this thing. It\u2019s going to take your kids 20 hours a week. You think your kid is busy. How about she gives 20 hours a week to this thing that is really bad for her and she\u2019ll stop seeing her friends and sleep less? What do you think?\u201d None of us would have said yes to that, but that is what happened\u2014the complete rewiring of childhood. What is happening is not that they are consuming harmful content so much as that they are now totally focused on looking at pictures of each other.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 3,
+      "display_text": "is fine, so all we have to do is help teens limit their consumption, and then we are okay. But Facebook is not like sugar. The dose response framework is not the right way to look at it. What happened around 2012 is a complete rewiring of teen social relationships. There is data from the UK. Girls in 2011 used to go over to each other\u2019s homes after school sometimes; t hey would actually see each other. By 2014 and 2015, that plummeted \u2014 they do not do that. What happens? Many of you have children. What would happen if someone said, \u201cHey, I\u2019ve got this thing. It\u2019s going to take your kids 20 hours a week. You think your kid is busy. How about she gives 20 hours a week to this thing that is really bad for her and she\u2019ll stop seeing her friends and sleep less? What do you think?\u201d None of us would have said yes to that, but that is what happened\u2014the complete rewiring of childhood. What is happening is not that they are consuming harmful content so much as that they are now totally focused on looking at pictures of each other.",
+      "chunk_id": "DOC_957::c000009",
+      "chunk_hash": "1d21cc5ef183",
+      "prev_chunk_id": "DOC_957::c000008",
+      "next_chunk_id": "DOC_957::c000010"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "less? What do you think?\u201d None of us would have said yes to that, but that is what happened\u2014the complete rewiring of childhood. What is happening is not that they are consuming harmful content so much as that they are now totally focused on looking at pictures of each other. That is my concern about the way you have defined harm. You are treating it in a dose response framework as though kids are taking in all this stuff and some of the stuff is bad for them, like scenes of child abuse and sexuality, and if only we can filter out the bad stuff\u2014the harmful content\u2014we will be okay. But content moderation is a losing game. One of the biggest things we learned from Frances Haugen is that Facebook\u2014best in class\u2014gets about 5% of hate speech and less than 1% of violence and intimidation. Content moderation is a losing game. Even if they double or triple what they do, it will be barely detectable. That is not the way to go. You need systemic changes that keep the kids off until, for God\u2019s sake, they are 13, but that, as Jim says, is way too early.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 4,
+      "display_text": "less? What do you think?\u201d None of us would have said yes to that, but that is what happened\u2014the complete rewiring of childhood. What is happening is not that they are consuming harmful content so much as that they are now totally focused on looking at pictures of each other. That is my concern about the way you have defined harm. You are treating it in a dose response framework as though kids are taking in all this stuff and some of the stuff is bad for them, like scenes of child abuse and sexuality, and if only we can filter out the bad stuff\u2014the harmful content\u2014we will be okay. But content moderation is a losing game. One of the biggest things we learned from Frances Haugen is that Facebook\u2014best in class\u2014gets about 5% of hate speech and less than 1% of violence and intimidation. Content moderation is a losing game. Even if they double or triple what they do, it will be barely detectable. That is not the way to go. You need systemic changes that keep the kids off until, for God\u2019s sake, they are 13, but that, as Jim says, is way too early.",
+      "chunk_id": "DOC_957::c000010",
+      "chunk_hash": "a1db492337d1",
+      "prev_chunk_id": "DOC_957::c000009",
+      "next_chunk_id": "DOC_957::c000011"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "is a losing game. Even if they double or triple what they do, it will be barely detectable. That is not the way to go. You need systemic changes that keep the kids off until, for God\u2019s sake, they are 13, but that, as Jim says, is way too early. In America, we need to reverse our terrible mistake of setting the age of internet adulthood at 13 in 1998, when we did not know what was coming. You are not going to succeed by trying to filter out the harmful content, because do you know what the harmful content is? It is a girl seeing a picture of her best friend celebrating with other friends. That, in part, is the harmful content. You are not going to filter that out. There has been a complete transformation of childhood caused by Instagram and other platforms. TikTok is now quickly rising to be as powerful. That is much harder to regulate, but that is, I believe, where most of the harm is.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 5,
+      "display_text": "is a losing game. Even if they double or triple what they do, it will be barely detectable. That is not the way to go. You need systemic changes that keep the kids off until, for God\u2019s sake, they are 13, but that, as Jim says, is way too early. In America, we need to reverse our terrible mistake of setting the age of internet adulthood at 13 in 1998, when we did not know what was coming. You are not going to succeed by trying to filter out the harmful content, because do you know what the harmful content is? It is a girl seeing a picture of her best friend celebrating with other friends. That, in part, is the harmful content. You are not going to filter that out. There has been a complete transformation of childhood caused by Instagram and other platforms. TikTok is now quickly rising to be as powerful. That is much harder to regulate, but that is, I believe, where most of the harm is.",
+      "chunk_id": "DOC_957::c000011",
+      "chunk_hash": "35b0b8d0b66e",
+      "prev_chunk_id": "DOC_957::c000010",
+      "next_chunk_id": "DOC_957::c000012"
+    },
+    {
+      "header": "The Chair",
+      "text": "Thank you.\n\nQ149 Baroness Kidron: Hello, both. It is good to see you even if you cannot see us. Sorry about that.\n\nI am going to start with you, Jon, on this point. It is very hard for regulators to go, \u201cOkay, now we\u2019re just going to ban social media up until a certain age\u201d, and so on. I want to explore some of the things that we have been thinking about here. Take, for example, safety by design; you take an approach and say, \u201cActually, largely speaking, we know what features drive engagement, we know what features drive spread and we know what features are very hard for young people to raise their eyes from\u201d. If those are detoxified in the system for younger people, they have more interruptions in the experience that you have just so beautifully described. I would really like your thoughts on that. Start there.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 5,
+      "speaker_name": "The Chair",
+      "display_text": "Thank you.\n\nQ149 Baroness Kidron: Hello, both. It is good to see you even if you cannot see us. Sorry about that.\n\nI am going to start with you, Jon, on this point. It is very hard for regulators to go, \u201cOkay, now we\u2019re just going to ban social media up until a certain age\u201d, and so on. I want to explore some of the things that we have been thinking about here. Take, for example, safety by design; you take an approach and say, \u201cActually, largely speaking, we know what features drive engagement, we know what features drive spread and we know what features are very hard for young people to raise their eyes from\u201d. If those are detoxified in the system for younger people, they have more interruptions in the experience that you have just so beautifully described. I would really like your thoughts on that. Start there.",
+      "chunk_id": "DOC_957::c000012",
+      "chunk_hash": "9707b2f0cf51",
+      "prev_chunk_id": "DOC_957::c000011",
+      "next_chunk_id": "DOC_957::c000013"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "Certainly. I think we all agree that the number one indisputable change that has to happen is that Facebook must be forced to share data on what is happening to the kids and on what its algorithms are doing. There should be no debate around that. The metaphor is this: t here is a crime scene, there are a lot of dead kids, and we cannot even look at the crime scene because the crime scene is completely controlled by the lead suspect. We have to beg for permission, and the suspect says, \u201cNo, I\u2019m not going to let you see it\u201d. I think what you are suggesting is that maybe there are tweaks that will make it less addictive. But you know what\u2014even if we could make it less addictive, still there is no world in which 12 and 13 year-old girls are spending three hours a day looking at photos of other girls in which they turn out okay.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 6,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "Certainly. I think we all agree that the number one indisputable change that has to happen is that Facebook must be forced to share data on what is happening to the kids and on what its algorithms are doing. There should be no debate around that. The metaphor is this: t here is a crime scene, there are a lot of dead kids, and we cannot even look at the crime scene because the crime scene is completely controlled by the lead suspect. We have to beg for permission, and the suspect says, \u201cNo, I\u2019m not going to let you see it\u201d. I think what you are suggesting is that maybe there are tweaks that will make it less addictive. But you know what\u2014even if we could make it less addictive, still there is no world in which 12 and 13 year-old girls are spending three hours a day looking at photos of other girls in which they turn out okay.",
+      "chunk_id": "DOC_957::c000013",
+      "chunk_hash": "d1f892a36abb",
+      "prev_chunk_id": "DOC_957::c000012",
+      "next_chunk_id": "DOC_957::c000014"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "there are tweaks that will make it less addictive. But you know what\u2014even if we could make it less addictive, still there is no world in which 12 and 13 year-old girls are spending three hours a day looking at photos of other girls in which they turn out okay. The basic premise of Instagram, it turns out, is incredibly bad for girls. Girls are much more socially connected and therefore girls are much more susceptible to social contagions. There was an article in the Wall Street Journal a couple of days ago \u2014g irls are developing Tourette\u2019s syndrome, a neurological disorder, because if they see other girls with Tourette\u2019s syndrome they develop it. Three hours a day of Instagram is just never going to be okay for 12, 13 or 14 year-old girls. The biggest change that you need to make, and we need to make, is to remove liability protection from any platform that chooses and selects what people see.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 6,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "there are tweaks that will make it less addictive. But you know what\u2014even if we could make it less addictive, still there is no world in which 12 and 13 year-old girls are spending three hours a day looking at photos of other girls in which they turn out okay. The basic premise of Instagram, it turns out, is incredibly bad for girls. Girls are much more socially connected and therefore girls are much more susceptible to social contagions. There was an article in the Wall Street Journal a couple of days ago \u2014g irls are developing Tourette\u2019s syndrome, a neurological disorder, because if they see other girls with Tourette\u2019s syndrome they develop it. Three hours a day of Instagram is just never going to be okay for 12, 13 or 14 year-old girls. The biggest change that you need to make, and we need to make, is to remove liability protection from any platform that chooses and selects what people see.",
+      "chunk_id": "DOC_957::c000014",
+      "chunk_hash": "139d76f61d51",
+      "prev_chunk_id": "DOC_957::c000013",
+      "next_chunk_id": "DOC_957::c000015"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "develop it. Three hours a day of Instagram is just never going to be okay for 12, 13 or 14 year-old girls. The biggest change that you need to make, and we need to make, is to remove liability protection from any platform that chooses and selects what people see. Frances Haugen is very clear about this. If it was just reverse chronological feed, technology connects people and they communicate, and we are not going to stop that. But as soon as a platform is saying, \u201cThis is what you are going to see, and that is what you are going see\u201d, it is like the New York Times except that the New York Times is curating things for some professional standard, not to keep you hooked. As long as the algorithm is using an algorithm to select what people see, especially children, we should treat the companies like regular businesses. Why on earth do they have liability protection? If it is our fault, if it is America that did that with Section 230 of our Communications Decency Act, I apologise. We need to change that. It will have huge benefits for all the democracy concerns. We are just talking about children.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 6,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 2,
+      "display_text": "develop it. Three hours a day of Instagram is just never going to be okay for 12, 13 or 14 year-old girls. The biggest change that you need to make, and we need to make, is to remove liability protection from any platform that chooses and selects what people see. Frances Haugen is very clear about this. If it was just reverse chronological feed, technology connects people and they communicate, and we are not going to stop that. But as soon as a platform is saying, \u201cThis is what you are going to see, and that is what you are going see\u201d, it is like the New York Times except that the New York Times is curating things for some professional standard, not to keep you hooked. As long as the algorithm is using an algorithm to select what people see, especially children, we should treat the companies like regular businesses. Why on earth do they have liability protection? If it is our fault, if it is America that did that with Section 230 of our Communications Decency Act, I apologise. We need to change that. It will have huge benefits for all the democracy concerns. We are just talking about children.",
+      "chunk_id": "DOC_957::c000015",
+      "chunk_hash": "a0f42e1aed16",
+      "prev_chunk_id": "DOC_957::c000014",
+      "next_chunk_id": "DOC_957::c000016"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "But that is a small piece of a gigantic global problem. Removing liability protection from any platform that uses algorithms to feed things to people is the most important thing we can do.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 8,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "But that is a small piece of a gigantic global problem. Removing liability protection from any platform that uses algorithms to feed things to people is the most important thing we can do.",
+      "chunk_id": "DOC_957::c000016",
+      "chunk_hash": "36e997ca4597",
+      "prev_chunk_id": "DOC_957::c000015",
+      "next_chunk_id": "DOC_957::c000017"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "I will come to Jim in a minute, but can I push on that particular thing? You said, \u201cUntil they have professional standards\u201d. One of the other things that we could do here is to say that there should be minimum standards by which the companies operate in their terms and conditions. The Bill does not currently do that, but a lot of evidence has come in saying that we should impose standards, and that we should impose them to the degree that we do elsewhere in society, picking up on your point that they are just businesses. What would you say to that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "I will come to Jim in a minute, but can I push on that particular thing? You said, \u201cUntil they have professional standards\u201d. One of the other things that we could do here is to say that there should be minimum standards by which the companies operate in their terms and conditions. The Bill does not currently do that, but a lot of evidence has come in saying that we should impose standards, and that we should impose them to the degree that we do elsewhere in society, picking up on your point that they are just businesses. What would you say to that?",
+      "chunk_id": "DOC_957::c000017",
+      "chunk_hash": "647f0b6e3e5f",
+      "prev_chunk_id": "DOC_957::c000016",
+      "next_chunk_id": "DOC_957::c000018"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "As a social psychologist witnessing the very rapid transformation of our world, our institutions, our children and our democracy, I think that pushing here and there and begging, even incentivising, will not do very much. There are certain parameters that have changed, and we have to think about changing parameters. Sure, you could try to mandate that they do something, and they will minimally comply. I am not very optimistic about it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 10,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "As a social psychologist witnessing the very rapid transformation of our world, our institutions, our children and our democracy, I think that pushing here and there and begging, even incentivising, will not do very much. There are certain parameters that have changed, and we have to think about changing parameters. Sure, you could try to mandate that they do something, and they will minimally comply. I am not very optimistic about it.",
+      "chunk_id": "DOC_957::c000018",
+      "chunk_hash": "5101a4d28f35",
+      "prev_chunk_id": "DOC_957::c000017",
+      "next_chunk_id": "DOC_957::c000019"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "Jim, we worked together on the age appropriate design code, and you have been a great saviour in the battle. I want to ask you a question about \u201clikely to be accessed\u201d, the idea of where we should protect kids. Kids are not always where we want them to be. In the US, you have got stuck on services directed at kids. Here, we have extended it a bit, but the Bill currently only deals in user to user and search. It does not really say that kids are protected wherever they are. What is your take on that? Where should we be offering protections?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "Jim, we worked together on the age appropriate design code, and you have been a great saviour in the battle. I want to ask you a question about \u201clikely to be accessed\u201d, the idea of where we should protect kids. Kids are not always where we want them to be. In the US, you have got stuck on services directed at kids. Here, we have extended it a bit, but the Bill currently only deals in user to user and search. It does not really say that kids are protected wherever they are. What is your take on that? Where should we be offering protections?",
+      "chunk_id": "DOC_957::c000019",
+      "chunk_hash": "446e4c79c762",
+      "prev_chunk_id": "DOC_957::c000018",
+      "next_chunk_id": "DOC_957::c000020"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Beeban, it is great to see you, and thank you very much for your leadership on this. I agree with a lot of what Jon just said. It is great to see that you are ahead of our country in looking at this. There are several things, and I will answer the question in a second. First of all, I underscore Jon\u2019s point about liability and the fact that they have to be held liable for the content. I agree with your broader point that, in safety by design, you have to look at where kids are, not just at little restricted areas where companies would say that is really the only place that matters. The liability issue that Jon raised will help with that.\n\nThis goes to some of your question, Beeban. The legislation should address not just harmful content but the amplification and broadcasting of that content. If you regulate that, you are much more likely to be covering young people where they are, not just the specific content that a platform could say was aimed at children. The prior panel was talking about algorithms a lot. The risk assessments should explicitly address amplification and the algorithms that drive what kids see. That should be a primary consideration in the legislation. Essentially, safety by design should be required. We would be happy to work extensively with you offline about that, but that is the overarching principle.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "Beeban, it is great to see you, and thank you very much for your leadership on this. I agree with a lot of what Jon just said. It is great to see that you are ahead of our country in looking at this. There are several things, and I will answer the question in a second. First of all, I underscore Jon\u2019s point about liability and the fact that they have to be held liable for the content. I agree with your broader point that, in safety by design, you have to look at where kids are, not just at little restricted areas where companies would say that is really the only place that matters. The liability issue that Jon raised will help with that.\n\nThis goes to some of your question, Beeban. The legislation should address not just harmful content but the amplification and broadcasting of that content. If you regulate that, you are much more likely to be covering young people where they are, not just the specific content that a platform could say was aimed at children. The prior panel was talking about algorithms a lot. The risk assessments should explicitly address amplification and the algorithms that drive what kids see. That should be a primary consideration in the legislation. Essentially, safety by design should be required. We would be happy to work extensively with you offline about that, but that is the overarching principle.",
+      "chunk_id": "DOC_957::c000020",
+      "chunk_hash": "0ef574eb18d9",
+      "prev_chunk_id": "DOC_957::c000019",
+      "next_chunk_id": "DOC_957::c000021"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "lot. The risk assessments should explicitly address amplification and the algorithms that drive what kids see. That should be a primary consideration in the legislation. Essentially, safety by design should be required. We would be happy to work extensively with you offline about that, but that is the overarching principle. In the context of the algorithms and amplification problem, because that is as much or greater than the content itself, I fully agree that there should be full transparency of algorithms, as Jon just mentioned. The idea that they control the crime scene and do not even allow you to examine it without their permission is a very good analogy. It is an insane model but it is exactly what we have. Beeban, we have worked with you for years. You cannot trust Facebook and Instagram and so many other platforms to regulate themselves, p eriod. Whether you give the power to Ofcom or another regulator\u2014I heard the last panel say it was difficult to do that\u2014it is worth it if you are talking about the fundamental mental health and well-being of your kids, your teenagers and your society. You have to give the regulator more power, not just for full transparency of the algorithmic broadcasting of the content and the amplification of the content, but for the ability to heavily regulate it and for there to be liability.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "lot. The risk assessments should explicitly address amplification and the algorithms that drive what kids see. That should be a primary consideration in the legislation. Essentially, safety by design should be required. We would be happy to work extensively with you offline about that, but that is the overarching principle. In the context of the algorithms and amplification problem, because that is as much or greater than the content itself, I fully agree that there should be full transparency of algorithms, as Jon just mentioned. The idea that they control the crime scene and do not even allow you to examine it without their permission is a very good analogy. It is an insane model but it is exactly what we have. Beeban, we have worked with you for years. You cannot trust Facebook and Instagram and so many other platforms to regulate themselves, p eriod. Whether you give the power to Ofcom or another regulator\u2014I heard the last panel say it was difficult to do that\u2014it is worth it if you are talking about the fundamental mental health and well-being of your kids, your teenagers and your society. You have to give the regulator more power, not just for full transparency of the algorithmic broadcasting of the content and the amplification of the content, but for the ability to heavily regulate it and for there to be liability.",
+      "chunk_id": "DOC_957::c000021",
+      "chunk_hash": "a255a57acea0",
+      "prev_chunk_id": "DOC_957::c000020",
+      "next_chunk_id": "DOC_957::c000022"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "Okay. We had a panel earlier today where people were very concerned about the chill on free speech and what that means. You put in protections, you start risk assessing, you look at algorithms, and in the end you make the platforms conservative about what is said, what is done, what is up there, and you start the chilling effect. That is an argument you are very familiar with in your part of the world, so maybe each of you\u2014Jim first\u2014could say how you would argue the case. You have both been very robust. How would you argue the case against the chilling nature of any of this on free speech?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 13,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "Okay. We had a panel earlier today where people were very concerned about the chill on free speech and what that means. You put in protections, you start risk assessing, you look at algorithms, and in the end you make the platforms conservative about what is said, what is done, what is up there, and you start the chilling effect. That is an argument you are very familiar with in your part of the world, so maybe each of you\u2014Jim first\u2014could say how you would argue the case. You have both been very robust. How would you argue the case against the chilling nature of any of this on free speech?",
+      "chunk_id": "DOC_957::c000022",
+      "chunk_hash": "5a5c402dd24e",
+      "prev_chunk_id": "DOC_957::c000021",
+      "next_chunk_id": "DOC_957::c000023"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "First of all, it is a balancing process. I am a constitutional lawyer in the United States; that is what I teach at Stanford. Even in the more free speech-oriented American mindset, there is a balancing process when harms are involved, whether it involves hate speech, pornography or other issues that are obviously damaging to society. First, it is a balancing process, and you all should approach it in that light.\n\nSecondly, when it comes to people under the age of 18, there need to be absolutely clear and additional protections. I agree with what Jon said earlier, or maybe it was Damian in the opening question, about the arbitrary nature of just assigning it to 13 and under and forgetting all the implications. Age verification is such an issue that many people under the age of 13 are on adult platforms in general. There need to be both special protections and balancing for people under the age of 18. It goes to the standard of care that you have, and the duty of care that the companies\u2019 leadership should have when you are talking about specific content and the amplification thereof that is damaging to young people. We can put aside some of the democratic issues that we have all experienced, or the impact on democracy.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "First of all, it is a balancing process. I am a constitutional lawyer in the United States; that is what I teach at Stanford. Even in the more free speech-oriented American mindset, there is a balancing process when harms are involved, whether it involves hate speech, pornography or other issues that are obviously damaging to society. First, it is a balancing process, and you all should approach it in that light.\n\nSecondly, when it comes to people under the age of 18, there need to be absolutely clear and additional protections. I agree with what Jon said earlier, or maybe it was Damian in the opening question, about the arbitrary nature of just assigning it to 13 and under and forgetting all the implications. Age verification is such an issue that many people under the age of 13 are on adult platforms in general. There need to be both special protections and balancing for people under the age of 18. It goes to the standard of care that you have, and the duty of care that the companies\u2019 leadership should have when you are talking about specific content and the amplification thereof that is damaging to young people. We can put aside some of the democratic issues that we have all experienced, or the impact on democracy.",
+      "chunk_id": "DOC_957::c000023",
+      "chunk_hash": "ea253553b702",
+      "prev_chunk_id": "DOC_957::c000022",
+      "next_chunk_id": "DOC_957::c000024"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "that you have, and the duty of care that the companies\u2019 leadership should have when you are talking about specific content and the amplification thereof that is damaging to young people. We can put aside some of the democratic issues that we have all experienced, or the impact on democracy. You have to have a very high duty of care imposed on the companies and their leadership. As a First Amendment professor, our motto at Common Sense is \u201cSanity not censorship\u201d. The evidence is clear. It is time for much greater balancing. Leaving the decisions to the Mark Zuckerbergs of the world is an insane strategy, and it has backfired dramatically on my kids, on your kids, on everyone else\u2019s kids, and on our democracies as well. I urge you to be even tougher than you might normally be in evaluating these questions.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "that you have, and the duty of care that the companies\u2019 leadership should have when you are talking about specific content and the amplification thereof that is damaging to young people. We can put aside some of the democratic issues that we have all experienced, or the impact on democracy. You have to have a very high duty of care imposed on the companies and their leadership. As a First Amendment professor, our motto at Common Sense is \u201cSanity not censorship\u201d. The evidence is clear. It is time for much greater balancing. Leaving the decisions to the Mark Zuckerbergs of the world is an insane strategy, and it has backfired dramatically on my kids, on your kids, on everyone else\u2019s kids, and on our democracies as well. I urge you to be even tougher than you might normally be in evaluating these questions.",
+      "chunk_id": "DOC_957::c000024",
+      "chunk_hash": "660ab63107ec",
+      "prev_chunk_id": "DOC_957::c000023",
+      "next_chunk_id": "DOC_957::c000025"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "For the first time, I disagree strongly with Jim by saying it is not a balancing issue. There is no problem with balance. The balance problem is only a problem if you are focusing on content moderation.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 16,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "For the first time, I disagree strongly with Jim by saying it is not a balancing issue. There is no problem with balance. The balance problem is only a problem if you are focusing on content moderation.",
+      "chunk_id": "DOC_957::c000025",
+      "chunk_hash": "ce883ab3986d",
+      "prev_chunk_id": "DOC_957::c000024",
+      "next_chunk_id": "DOC_957::c000026"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "As we do in America, if it is all about, \u201cDo I get to post this?\u201d, it turns out conservatives tend to get more censored. If we are all talking about content moderation, it is a balancing problem. What I am trying to say is, stop it. It is a dead end. You are barking up the wrong tree. Do you know who is up that tree? All the civil libertarians are up that tree. All the free speech people are up that tree. You keep barking up that tree. Stop it. Move to different trees. Tree number one\u2014 we have to get kids off these platforms until they are 16, or at least end the social dilemma in which we only let our kids on because everyone else does.\n\nNone of us wants our kids on Instagram at 13, and certainly not at 11. When my kids started middle school at 11, they said, \u201cDad, everyone is on Instagram. Can I have an account?\u201d, and it was very painful for me to say no. Focus on keeping the kids off. As Jim said, teenagers\u2019 brains are really delicate. Focus on keeping kids off as late as possible, and then they will be much less damaged by spending three or four hours a day looking at pictures of other girls. That is the first thing.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 18,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "As we do in America, if it is all about, \u201cDo I get to post this?\u201d, it turns out conservatives tend to get more censored. If we are all talking about content moderation, it is a balancing problem. What I am trying to say is, stop it. It is a dead end. You are barking up the wrong tree. Do you know who is up that tree? All the civil libertarians are up that tree. All the free speech people are up that tree. You keep barking up that tree. Stop it. Move to different trees. Tree number one\u2014 we have to get kids off these platforms until they are 16, or at least end the social dilemma in which we only let our kids on because everyone else does.\n\nNone of us wants our kids on Instagram at 13, and certainly not at 11. When my kids started middle school at 11, they said, \u201cDad, everyone is on Instagram. Can I have an account?\u201d, and it was very painful for me to say no. Focus on keeping the kids off. As Jim said, teenagers\u2019 brains are really delicate. Focus on keeping kids off as late as possible, and then they will be much less damaged by spending three or four hours a day looking at pictures of other girls. That is the first thing.",
+      "chunk_id": "DOC_957::c000026",
+      "chunk_hash": "552c09fa6fdc",
+      "prev_chunk_id": "DOC_957::c000025",
+      "next_chunk_id": "DOC_957::c000027"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "Focus on keeping the kids off. As Jim said, teenagers\u2019 brains are really delicate. Focus on keeping kids off as late as possible, and then they will be much less damaged by spending three or four hours a day looking at pictures of other girls. That is the first thing. Secondly, focus on the amplification, not on who gets to speak. As is often said in these circles, freedom of speech is not freedom of reach. If you are going to be saying, \u201cYou can\u2019t say this. You can\u2019t say that\u201d, it is a balancing censorship act and it is hopeless. You should be saying, \u201cYou can say whatever you want but we are going to make sure that the company is not amplifying the most toxic stuff\u201d. I just heard Frances Haugen on a podcast with Tristan Harris. She said that there are all these great ideas from people at Facebook that they never tried. I learned, for example, that they looked at how many comments people make and they looked at how many people other people invite to a group. One guy invited 300,000 people to QAnon groups. If they simply said there was a limit on how many people you can invite, and said you can invite as much as the top 99% of people a day to groups, which is maybe 100, or you can comment 100 times, and you put on some rate limiters, you are not censoring people. You are just saying, \u201cWe need room for everyone to have a voice\u201d. We have to work on the amplification aspects. If you do that, you will have a much bigger impact than if you force them to triple the size of their content moderation team.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 18,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "Focus on keeping the kids off. As Jim said, teenagers\u2019 brains are really delicate. Focus on keeping kids off as late as possible, and then they will be much less damaged by spending three or four hours a day looking at pictures of other girls. That is the first thing. Secondly, focus on the amplification, not on who gets to speak. As is often said in these circles, freedom of speech is not freedom of reach. If you are going to be saying, \u201cYou can\u2019t say this. You can\u2019t say that\u201d, it is a balancing censorship act and it is hopeless. You should be saying, \u201cYou can say whatever you want but we are going to make sure that the company is not amplifying the most toxic stuff\u201d. I just heard Frances Haugen on a podcast with Tristan Harris. She said that there are all these great ideas from people at Facebook that they never tried. I learned, for example, that they looked at how many comments people make and they looked at how many people other people invite to a group. One guy invited 300,000 people to QAnon groups. If they simply said there was a limit on how many people you can invite, and said you can invite as much as the top 99% of people a day to groups, which is maybe 100, or you can comment 100 times, and you put on some rate limiters, you are not censoring people. You are just saying, \u201cWe need room for everyone to have a voice\u201d. We have to work on the amplification aspects. If you do that, you will have a much bigger impact than if you force them to triple the size of their content moderation team.",
+      "chunk_id": "DOC_957::c000027",
+      "chunk_hash": "a591b69c08a1",
+      "prev_chunk_id": "DOC_957::c000026",
+      "next_chunk_id": "DOC_957::c000028"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "Fantastic. Thank you very much.\n\nQ150 Dean Russell: Thank you, Chair. I will come to you first, Jon. In a previous session, I asked a question\u2014I forget which witness, if I am honest\u2014about whether the way that social network platforms tweak content is a bit like the way that drug dealers tweak their product to make it more addictive. The word \u201caddictive\u201d has come up quite a lot. Are we looking at this from a slightly different angle? We are talking about publishers and platforms, but are we actually talking about the fact that we are creating a generation of people with addictive traits because they are addicted to content? These are more like drug companies; it is not a white powder they are taking\u2014it is something else. Is there an analogy to addiction and drugs rather than it being about content and the way that we have seen it for centuries?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 19,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "Fantastic. Thank you very much.\n\nQ150 Dean Russell: Thank you, Chair. I will come to you first, Jon. In a previous session, I asked a question\u2014I forget which witness, if I am honest\u2014about whether the way that social network platforms tweak content is a bit like the way that drug dealers tweak their product to make it more addictive. The word \u201caddictive\u201d has come up quite a lot. Are we looking at this from a slightly different angle? We are talking about publishers and platforms, but are we actually talking about the fact that we are creating a generation of people with addictive traits because they are addicted to content? These are more like drug companies; it is not a white powder they are taking\u2014it is something else. Is there an analogy to addiction and drugs rather than it being about content and the way that we have seen it for centuries?",
+      "chunk_id": "DOC_957::c000028",
+      "chunk_hash": "92ea8b8eca32",
+      "prev_chunk_id": "DOC_957::c000027",
+      "next_chunk_id": "DOC_957::c000029"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "Yes, there is absolutely an analogy to addiction. You have heard the word \u201cdopamine\u201d a lot. Anything that is pleasurable causes a little flash of dopamine. Kids are very vulnerable to that, as we have all seen with our kids playing video games.\n\nIn the last few months, I started investing in cryptocurrency. It is so much fun to watch it go up and down that I keep checking. I know I should stop checking. It is crazy and stupid, but I cannot stop myself. I have a fully developed frontal cortex, so what chance does an 11 year-old have when coming up against all the brilliance Facebook has hired? Facebook has hired most of the social psychologists and behavioural psychologists. Addiction is a real issue. It is not that it is going to make the kids addictable for life, i t is that it is going to make them anxious and fragile for life.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "Yes, there is absolutely an analogy to addiction. You have heard the word \u201cdopamine\u201d a lot. Anything that is pleasurable causes a little flash of dopamine. Kids are very vulnerable to that, as we have all seen with our kids playing video games.\n\nIn the last few months, I started investing in cryptocurrency. It is so much fun to watch it go up and down that I keep checking. I know I should stop checking. It is crazy and stupid, but I cannot stop myself. I have a fully developed frontal cortex, so what chance does an 11 year-old have when coming up against all the brilliance Facebook has hired? Facebook has hired most of the social psychologists and behavioural psychologists. Addiction is a real issue. It is not that it is going to make the kids addictable for life, i t is that it is going to make them anxious and fragile for life.",
+      "chunk_id": "DOC_957::c000029",
+      "chunk_hash": "94be38966075",
+      "prev_chunk_id": "DOC_957::c000028",
+      "next_chunk_id": "DOC_957::c000030"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "the brilliance Facebook has hired? Facebook has hired most of the social psychologists and behavioural psychologists. Addiction is a real issue. It is not that it is going to make the kids addictable for life, i t is that it is going to make them anxious and fragile for life. The frontal cortex myelinates. We have what is called experience expectant neural development. That is part of our human heritage. If you grow up in a really threatening, dangerous and unpredictable environment, your brain gets set to see threats everywhere. If you grow up in a peaceful, calm, stable place with a reliable attachment figure, your brain is set more towards approach. What happened to us in universities in 2015 was that we were suddenly flooded with kids coming on to campus who saw speech and speakers as violent threats, and we could not understand what was happening.What happened to us was that Instagram changed the brains of kids born in 1996 and later so that when they arrived on campus they were paranoid. They saw danger everywhere \u2014t hey will be like that for life. Their frontal cortex is set. That is especially true for girls.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "the brilliance Facebook has hired? Facebook has hired most of the social psychologists and behavioural psychologists. Addiction is a real issue. It is not that it is going to make the kids addictable for life, i t is that it is going to make them anxious and fragile for life. The frontal cortex myelinates. We have what is called experience expectant neural development. That is part of our human heritage. If you grow up in a really threatening, dangerous and unpredictable environment, your brain gets set to see threats everywhere. If you grow up in a peaceful, calm, stable place with a reliable attachment figure, your brain is set more towards approach. What happened to us in universities in 2015 was that we were suddenly flooded with kids coming on to campus who saw speech and speakers as violent threats, and we could not understand what was happening.What happened to us was that Instagram changed the brains of kids born in 1996 and later so that when they arrived on campus they were paranoid. They saw danger everywhere \u2014t hey will be like that for life. Their frontal cortex is set. That is especially true for girls.",
+      "chunk_id": "DOC_957::c000030",
+      "chunk_hash": "5e2184ff3c17",
+      "prev_chunk_id": "DOC_957::c000029",
+      "next_chunk_id": "DOC_957::c000031"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "happening.What happened to us was that Instagram changed the brains of kids born in 1996 and later so that when they arrived on campus they were paranoid. They saw danger everywhere \u2014t hey will be like that for life. Their frontal cortex is set. That is especially true for girls. I predict here and now, if you care at all about gender and closing gender gaps, you are going to see gender gaps closed for the next five or 10 years as the millennial and Generation X women are narrowing gaps. In the 2030s, you are going to say, \u201cWhy are they expanding? Why are women suddenly no longer rising to the top ranks?\u201d It is because most of them have anxiety disorders. They do not take risks, t hey are afraid, and t hey are fragile. Facebook\u2019s motto was \u201cMove fast and break things\u201d. They did. They broke our kids. They are breaking our democracy. We could at least maybe take away liability protection.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 2,
+      "display_text": "happening.What happened to us was that Instagram changed the brains of kids born in 1996 and later so that when they arrived on campus they were paranoid. They saw danger everywhere \u2014t hey will be like that for life. Their frontal cortex is set. That is especially true for girls. I predict here and now, if you care at all about gender and closing gender gaps, you are going to see gender gaps closed for the next five or 10 years as the millennial and Generation X women are narrowing gaps. In the 2030s, you are going to say, \u201cWhy are they expanding? Why are women suddenly no longer rising to the top ranks?\u201d It is because most of them have anxiety disorders. They do not take risks, t hey are afraid, and t hey are fragile. Facebook\u2019s motto was \u201cMove fast and break things\u201d. They did. They broke our kids. They are breaking our democracy. We could at least maybe take away liability protection.",
+      "chunk_id": "DOC_957::c000031",
+      "chunk_hash": "f0e5088da90a",
+      "prev_chunk_id": "DOC_957::c000030",
+      "next_chunk_id": "DOC_957::c000032"
+    },
+    {
+      "header": "Dean Russell",
+      "text": "May I ask something on that and then I will come to Jim with a slightly tweaked question on it? With regard to the addiction piece, do we need to be addressing it somehow in the Bill? At the moment, a lot of the conversation is about the 20th century view that my generation would have, which is, \u201cYou can choose to read content. You can choose to watch a video. You can choose those things\u201d. The social bit of social media is the bit we do not talk about. We talk about the media bit. It is the social bit that is doing the damage. Do you know whether there is a huge body of research about dopamine and the impact that we should be referencing? Should we be referencing it in the Bill somehow with regard to the nature of harm?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 21,
+      "speaker_name": "Dean Russell",
+      "display_text": "May I ask something on that and then I will come to Jim with a slightly tweaked question on it? With regard to the addiction piece, do we need to be addressing it somehow in the Bill? At the moment, a lot of the conversation is about the 20th century view that my generation would have, which is, \u201cYou can choose to read content. You can choose to watch a video. You can choose those things\u201d. The social bit of social media is the bit we do not talk about. We talk about the media bit. It is the social bit that is doing the damage. Do you know whether there is a huge body of research about dopamine and the impact that we should be referencing? Should we be referencing it in the Bill somehow with regard to the nature of harm?",
+      "chunk_id": "DOC_957::c000032",
+      "chunk_hash": "7823ec25547b",
+      "prev_chunk_id": "DOC_957::c000031",
+      "next_chunk_id": "DOC_957::c000033"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "You cannot start telling people, \u201cDo you know what? You shouldn\u2019t do that so much \u2014y ou\u2019re addicted\u201d. For adults in America, you can never say that. People get to choose. They are adults. For children, maybe you can, but even then it is really hard. What are we going to do? Are we going to say, \u201cChildren, you can only play Fortnite 40 minutes a day\u201d? That is what China is doing. Closed societies can deal with Facebook. Open societies, so far, cannot deal with Facebook. It will be the ruin of us, I believe. The way to go is not telling the users, \u201cYou know what\u2014you shouldn\u2019t do this because it is bad for you\u201d. It is telling the dealers, \u201cYou shouldn\u2019t produce this product because it is so addictive\u201d. It is the virality. You have to change features of what they are allowed to do, especially if they want access to children.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "You cannot start telling people, \u201cDo you know what? You shouldn\u2019t do that so much \u2014y ou\u2019re addicted\u201d. For adults in America, you can never say that. People get to choose. They are adults. For children, maybe you can, but even then it is really hard. What are we going to do? Are we going to say, \u201cChildren, you can only play Fortnite 40 minutes a day\u201d? That is what China is doing. Closed societies can deal with Facebook. Open societies, so far, cannot deal with Facebook. It will be the ruin of us, I believe. The way to go is not telling the users, \u201cYou know what\u2014you shouldn\u2019t do this because it is bad for you\u201d. It is telling the dealers, \u201cYou shouldn\u2019t produce this product because it is so addictive\u201d. It is the virality. You have to change features of what they are allowed to do, especially if they want access to children.",
+      "chunk_id": "DOC_957::c000033",
+      "chunk_hash": "a666d27c694b",
+      "prev_chunk_id": "DOC_957::c000032",
+      "next_chunk_id": "DOC_957::c000034"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "\u201cYou know what\u2014you shouldn\u2019t do this because it is bad for you\u201d. It is telling the dealers, \u201cYou shouldn\u2019t produce this product because it is so addictive\u201d. It is the virality. You have to change features of what they are allowed to do, especially if they want access to children. In America now, we are having a big conversation about whether Facebook is like the tobacco companies because the question is whether there would be big class action lawsuits. I have a better analogy for you. It is not tobacco \u2014i t is the British East India Company. Facebook is the British East India Company, chartered by the US Government in this case, and we said, \u201cGo do whatever the hell you want in other countries. We don\u2019t care. Start wars. Start genocides. Do whatever you want to children. We don\u2019t care\u201d. That is what we have done. We have unleashed the British East India Company on the world. As far as I understand it, it ran roughshod over everybody, and it was finally the British Government who did something about it, so please do something. Put us out of our misery.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "\u201cYou know what\u2014you shouldn\u2019t do this because it is bad for you\u201d. It is telling the dealers, \u201cYou shouldn\u2019t produce this product because it is so addictive\u201d. It is the virality. You have to change features of what they are allowed to do, especially if they want access to children. In America now, we are having a big conversation about whether Facebook is like the tobacco companies because the question is whether there would be big class action lawsuits. I have a better analogy for you. It is not tobacco \u2014i t is the British East India Company. Facebook is the British East India Company, chartered by the US Government in this case, and we said, \u201cGo do whatever the hell you want in other countries. We don\u2019t care. Start wars. Start genocides. Do whatever you want to children. We don\u2019t care\u201d. That is what we have done. We have unleashed the British East India Company on the world. As far as I understand it, it ran roughshod over everybody, and it was finally the British Government who did something about it, so please do something. Put us out of our misery.",
+      "chunk_id": "DOC_957::c000034",
+      "chunk_hash": "d859856958a8",
+      "prev_chunk_id": "DOC_957::c000033",
+      "next_chunk_id": "DOC_957::c000035"
+    },
+    {
+      "header": "Dean Russell",
+      "text": "Thank you, Jon.\n\nJim, I have to say first of all that I am the chair of the Film and Production Industry All-Party Parliamentary Group, so I am passionate about film. You have solved, through Common Sense Media, so many family arguments about whether we could watch a film based on the age of my daughter at different times when we have referenced your site. At the moment, if somebody wants to watch a film or TV show, they may reference your site and say, \u201cActually, it is a 15, and my child is 12, so we\u2019re not going to watch it\u201d, but the same child can go on social media at any point and watch a video with real-life murders, real-life brutality, real-life misogyny and so on. Specifically on video content, does there need to be something that recognises ratings of the content that is put on, so that we see platforms almost as broadcasters rather than platforms, if that makes sense?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Dean Russell",
+      "display_text": "Thank you, Jon.\n\nJim, I have to say first of all that I am the chair of the Film and Production Industry All-Party Parliamentary Group, so I am passionate about film. You have solved, through Common Sense Media, so many family arguments about whether we could watch a film based on the age of my daughter at different times when we have referenced your site. At the moment, if somebody wants to watch a film or TV show, they may reference your site and say, \u201cActually, it is a 15, and my child is 12, so we\u2019re not going to watch it\u201d, but the same child can go on social media at any point and watch a video with real-life murders, real-life brutality, real-life misogyny and so on. Specifically on video content, does there need to be something that recognises ratings of the content that is put on, so that we see platforms almost as broadcasters rather than platforms, if that makes sense?",
+      "chunk_id": "DOC_957::c000035",
+      "chunk_hash": "42ccfe7adec8",
+      "prev_chunk_id": "DOC_957::c000034",
+      "next_chunk_id": "DOC_957::c000036"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Absolutely. That is a great question. Yes, you should see them as that. They are the same. Look at it from the point of view of the end-user, and, yes, they are. That rating system could easily, and should be, applied there.\n\nI agree with almost everything Jon said. The British East India Company example is hilarious, Jon. It is true, but it reflects the failure of the United States Government. Let us be honest about that. I am speaking to you from California at 4.30 in the morning, or whatever it is. The failure of our Government to take on these issues will be looked at historically as one of the great failures of our country. That said, I think we are going to see in the coming months leadership in the White House finally \u2014 and also, I hope, from Congress \u2014 but you have to move more quickly.I guarantee that you will move, in many cases, more quickly than the United States does, and we will follow you, and the same with the EU. That is why we have an office in London, and that is why we have been working in Brussels for the past few years; you are going to be ahead on this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "Absolutely. That is a great question. Yes, you should see them as that. They are the same. Look at it from the point of view of the end-user, and, yes, they are. That rating system could easily, and should be, applied there.\n\nI agree with almost everything Jon said. The British East India Company example is hilarious, Jon. It is true, but it reflects the failure of the United States Government. Let us be honest about that. I am speaking to you from California at 4.30 in the morning, or whatever it is. The failure of our Government to take on these issues will be looked at historically as one of the great failures of our country. That said, I think we are going to see in the coming months leadership in the White House finally \u2014 and also, I hope, from Congress \u2014 but you have to move more quickly.I guarantee that you will move, in many cases, more quickly than the United States does, and we will follow you, and the same with the EU. That is why we have an office in London, and that is why we have been working in Brussels for the past few years; you are going to be ahead on this.",
+      "chunk_id": "DOC_957::c000036",
+      "chunk_hash": "4af891a12b25",
+      "prev_chunk_id": "DOC_957::c000035",
+      "next_chunk_id": "DOC_957::c000037"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "more quickly than the United States does, and we will follow you, and the same with the EU. That is why we have an office in London, and that is why we have been working in Brussels for the past few years; you are going to be ahead on this. There are a few things. Yes, I would use the ratings. Thank you very much for your kind words about Common Sense Media. I will tell the 100 or so editors how much their work is appreciated. Obviously, companies should show the exact same kind of ratings system no matter what the platform so that parents and users can have a sense of the content\u2014the nutritional information, if you will, about it\u2014and the age recommendations, et cetera. The other thing is your question to Jon about addiction. Good luck with your crypto usage, Jon. That is your own issue. Fortunately, I am not doing it. I think it is an addiction issue. There is legislation you could do around manipulative design. I encourage you as part of the legislation to include manipulative design because it is regulatable. It is similar to the fact that both of us are telling you to regulate the amplification and the algorithms and force the complete transparency of that, because the consequences are so significant. When you put it in the terms that Jon is framing it in, whether it is about childhood and adolescence or about democratic norms and institutions, those are the basic issues of our existence.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "more quickly than the United States does, and we will follow you, and the same with the EU. That is why we have an office in London, and that is why we have been working in Brussels for the past few years; you are going to be ahead on this. There are a few things. Yes, I would use the ratings. Thank you very much for your kind words about Common Sense Media. I will tell the 100 or so editors how much their work is appreciated. Obviously, companies should show the exact same kind of ratings system no matter what the platform so that parents and users can have a sense of the content\u2014the nutritional information, if you will, about it\u2014and the age recommendations, et cetera. The other thing is your question to Jon about addiction. Good luck with your crypto usage, Jon. That is your own issue. Fortunately, I am not doing it. I think it is an addiction issue. There is legislation you could do around manipulative design. I encourage you as part of the legislation to include manipulative design because it is regulatable. It is similar to the fact that both of us are telling you to regulate the amplification and the algorithms and force the complete transparency of that, because the consequences are so significant. When you put it in the terms that Jon is framing it in, whether it is about childhood and adolescence or about democratic norms and institutions, those are the basic issues of our existence.",
+      "chunk_id": "DOC_957::c000037",
+      "chunk_hash": "2723eae2b7fc",
+      "prev_chunk_id": "DOC_957::c000036",
+      "next_chunk_id": "DOC_957::c000038"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "and the algorithms and force the complete transparency of that, because the consequences are so significant. When you put it in the terms that Jon is framing it in, whether it is about childhood and adolescence or about democratic norms and institutions, those are the basic issues of our existence. The idea that we have allowed one company and one person, whose values and judgment you could comment about for a long time, to make decisions with the implications they have for our children, our teens and our democracy is mind-boggling. I urge the committee to make the final legislation stronger than you would normally make it, and to take some risks in both the liability factor that we have been discussing and the full transparency and regulation of some of the algorithmic and amplification behaviours. That includes design because the design is intentional. Jon mentioned that. Our colleagues who have worked at the companies and left are very familiar with the intentional design that has been done by the engineers and the product development folks, which is based on their surveillance capitalism business model. The point is that you are trying to keep people there, whether they are young people or adults, as long as possible. Engagement is really an arms race for attention\u2014data and attention being the two holy grails. Do not be shy or too cautious in the way you draft the legislation. I would almost like to see, after well over a decade of non-action by Governments, more action than necessary to try to compensate for where we currently are. This committee\u2019s work is critically important, and we will work with you on all of that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 2,
+      "display_text": "and the algorithms and force the complete transparency of that, because the consequences are so significant. When you put it in the terms that Jon is framing it in, whether it is about childhood and adolescence or about democratic norms and institutions, those are the basic issues of our existence. The idea that we have allowed one company and one person, whose values and judgment you could comment about for a long time, to make decisions with the implications they have for our children, our teens and our democracy is mind-boggling. I urge the committee to make the final legislation stronger than you would normally make it, and to take some risks in both the liability factor that we have been discussing and the full transparency and regulation of some of the algorithmic and amplification behaviours. That includes design because the design is intentional. Jon mentioned that. Our colleagues who have worked at the companies and left are very familiar with the intentional design that has been done by the engineers and the product development folks, which is based on their surveillance capitalism business model. The point is that you are trying to keep people there, whether they are young people or adults, as long as possible. Engagement is really an arms race for attention\u2014data and attention being the two holy grails. Do not be shy or too cautious in the way you draft the legislation. I would almost like to see, after well over a decade of non-action by Governments, more action than necessary to try to compensate for where we currently are. This committee\u2019s work is critically important, and we will work with you on all of that.",
+      "chunk_id": "DOC_957::c000038",
+      "chunk_hash": "e117e1f4db7c",
+      "prev_chunk_id": "DOC_957::c000037",
+      "next_chunk_id": "DOC_957::c000039"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "the way you draft the legislation. I would almost like to see, after well over a decade of non-action by Governments, more action than necessary to try to compensate for where we currently are. This committee\u2019s work is critically important, and we will work with you on all of that. I know you talked earlier about media literacy, digital literacy and digital citizenship work. That has to be an element of what you do, too. Not funding that and making it required for all young people would be a grievous error. The more that young people are able to understand some of the examples that Jon gave and what is being done to them, the more I think they will resist that, or they will at least be educated to some of the downsides. Please include digital literacy and digital citizenship as part of your recommendations as well. That is the field we pioneered, in many ways, at Common Sense Media, and we do it in the UK as well. We would be delighted to work on that with you. Be as strong as you possibly can. We will be with you, and the children and youth of the UK will be grateful to you for your leadership.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 3,
+      "display_text": "the way you draft the legislation. I would almost like to see, after well over a decade of non-action by Governments, more action than necessary to try to compensate for where we currently are. This committee\u2019s work is critically important, and we will work with you on all of that. I know you talked earlier about media literacy, digital literacy and digital citizenship work. That has to be an element of what you do, too. Not funding that and making it required for all young people would be a grievous error. The more that young people are able to understand some of the examples that Jon gave and what is being done to them, the more I think they will resist that, or they will at least be educated to some of the downsides. Please include digital literacy and digital citizenship as part of your recommendations as well. That is the field we pioneered, in many ways, at Common Sense Media, and we do it in the UK as well. We would be delighted to work on that with you. Be as strong as you possibly can. We will be with you, and the children and youth of the UK will be grateful to you for your leadership.",
+      "chunk_id": "DOC_957::c000039",
+      "chunk_hash": "2f93a29fe88d",
+      "prev_chunk_id": "DOC_957::c000038",
+      "next_chunk_id": "DOC_957::c000040"
+    },
+    {
+      "header": "Dean Russell",
+      "text": "Thank you very much.\n\nQ151 Lord Black of Brentwood: Thank you. What a great rallying call for this committee. Thank you for that. I want to take up the point that both of you made about removing liability from the platforms. In many ways, we have quite a complicated Bill. What you are suggesting would be a way of short-circuiting that. You could do it, I guess, by classifying the platforms as publishers.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "Dean Russell",
+      "display_text": "Thank you very much.\n\nQ151 Lord Black of Brentwood: Thank you. What a great rallying call for this committee. Thank you for that. I want to take up the point that both of you made about removing liability from the platforms. In many ways, we have quite a complicated Bill. What you are suggesting would be a way of short-circuiting that. You could do it, I guess, by classifying the platforms as publishers.",
+      "chunk_id": "DOC_957::c000040",
+      "chunk_hash": "0c59d84bb15a",
+      "prev_chunk_id": "DOC_957::c000039",
+      "next_chunk_id": "DOC_957::c000041"
+    },
+    {
+      "header": "Lord Black of Brentwood",
+      "text": "Does that seem to you a sensible way forward? Would it have the effect that you want it to have by just being in UK domestic law when the platforms are, of course, domiciled elsewhere?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 27,
+      "speaker_name": "Lord Black of Brentwood",
+      "display_text": "Does that seem to you a sensible way forward? Would it have the effect that you want it to have by just being in UK domestic law when the platforms are, of course, domiciled elsewhere?",
+      "chunk_id": "DOC_957::c000041",
+      "chunk_hash": "0359a52a5d43",
+      "prev_chunk_id": "DOC_957::c000040",
+      "next_chunk_id": "DOC_957::c000042"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "When Facebook was facing down Australia, it did not blink and Australia had to blink. I do not remember the details. Australia is pretty small. Britain is much bigger. The EU might do it. This is the way forward. It is very important to start moving the Overton window. Right now, when I talk to people about this, they say, \u201cOh, what can you do? Kids are on the platform. We\u2019re not going to change that. They\u2019ll find a way\u201d. The sense of \u201cNothing we can do\u201d is amazing. At least broach the idea and put it forward, and see what reactions you get. We are not stopping anyone saying anything. We are just saying, \u201cIf you are choosing what gets put forward in ways that are world-changing, you are not the telephone company carrying people\u2019s phone calls. You are closer to a newspaper\u201d.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 28,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "When Facebook was facing down Australia, it did not blink and Australia had to blink. I do not remember the details. Australia is pretty small. Britain is much bigger. The EU might do it. This is the way forward. It is very important to start moving the Overton window. Right now, when I talk to people about this, they say, \u201cOh, what can you do? Kids are on the platform. We\u2019re not going to change that. They\u2019ll find a way\u201d. The sense of \u201cNothing we can do\u201d is amazing. At least broach the idea and put it forward, and see what reactions you get. We are not stopping anyone saying anything. We are just saying, \u201cIf you are choosing what gets put forward in ways that are world-changing, you are not the telephone company carrying people\u2019s phone calls. You are closer to a newspaper\u201d.",
+      "chunk_id": "DOC_957::c000042",
+      "chunk_hash": "bc6c6a714004",
+      "prev_chunk_id": "DOC_957::c000041",
+      "next_chunk_id": "DOC_957::c000043"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "That was a big mistake we made, which has been tremendously beneficial to Facebook in particular. It has now sucked up all the advertising dollars in the world with none of the liability. It is a horrible situation that has been created, and there is no way forward until it is either stripped of Section 230 protection or forced to change its business model in order to keep it. The problem is the business model. As long as the business model is allowed to flourish, democracies will fall. As long as children as young as nine are sucked into that business model, a generation will continue to be weakened, anxious and suicidal.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 30,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "That was a big mistake we made, which has been tremendously beneficial to Facebook in particular. It has now sucked up all the advertising dollars in the world with none of the liability. It is a horrible situation that has been created, and there is no way forward until it is either stripped of Section 230 protection or forced to change its business model in order to keep it. The problem is the business model. As long as the business model is allowed to flourish, democracies will fall. As long as children as young as nine are sucked into that business model, a generation will continue to be weakened, anxious and suicidal.",
+      "chunk_id": "DOC_957::c000043",
+      "chunk_hash": "f92ffc5c904d",
+      "prev_chunk_id": "DOC_957::c000042",
+      "next_chunk_id": "DOC_957::c000044"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "I completely agree. I loved when Jon said do not go up the First Amendment tree. Too many of our friends in the advocacy community are lost over there in the wilderness. I actually think they are publishers. They are the biggest publishers in the history of the world. How are they not held liable for the content they are amplifying? That is why the distinction we are making is very important and clear. You are responsible for the content you amplify. They are amplifying it, in most cases, and broadcasting it through an algorithmic process run by processes that none of us could possibly understand, but they are responsible for it. If they were treated the same way that newspapers are or other large broadcasting entities\u2014television, et cetera\u2014it would change overnight.\n\nI will give you an example. Because the US Government have failed over 20 years to pass a strong federal privacy law, in 2018 we wrote and spearheaded the passage of a California privacy law quite similar to GDPR in the EU. The one thing that we gave in on in our negotiations was the liability issue\u2014the idea of whether or not there could be lawsuits against the major companies, which we call a private right of action. Most of the companies agreed with us about privacy. Facebook and Google did not, but the other folks did.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 32,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "I completely agree. I loved when Jon said do not go up the First Amendment tree. Too many of our friends in the advocacy community are lost over there in the wilderness. I actually think they are publishers. They are the biggest publishers in the history of the world. How are they not held liable for the content they are amplifying? That is why the distinction we are making is very important and clear. You are responsible for the content you amplify. They are amplifying it, in most cases, and broadcasting it through an algorithmic process run by processes that none of us could possibly understand, but they are responsible for it. If they were treated the same way that newspapers are or other large broadcasting entities\u2014television, et cetera\u2014it would change overnight.\n\nI will give you an example. Because the US Government have failed over 20 years to pass a strong federal privacy law, in 2018 we wrote and spearheaded the passage of a California privacy law quite similar to GDPR in the EU. The one thing that we gave in on in our negotiations was the liability issue\u2014the idea of whether or not there could be lawsuits against the major companies, which we call a private right of action. Most of the companies agreed with us about privacy. Facebook and Google did not, but the other folks did.",
+      "chunk_id": "DOC_957::c000044",
+      "chunk_hash": "efc722a7657e",
+      "prev_chunk_id": "DOC_957::c000043",
+      "next_chunk_id": "DOC_957::c000045"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "gave in on in our negotiations was the liability issue\u2014the idea of whether or not there could be lawsuits against the major companies, which we call a private right of action. Most of the companies agreed with us about privacy. Facebook and Google did not, but the other folks did. Everyone was worried about the private right of action. That should tell us something. It is because if they are held liable for their businesses they will have to change their business practices. The liability issue is absolutely critical, and you should be bold on it, basically comparing them to publishers. They have lawyered up more than any other companies and lobbyists in the history of the planet. If you step back from all the verbiage and think about it, they are the biggest publishers ever, and they are spreading content at a massive scale, so regulate them that way.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 32,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "gave in on in our negotiations was the liability issue\u2014the idea of whether or not there could be lawsuits against the major companies, which we call a private right of action. Most of the companies agreed with us about privacy. Facebook and Google did not, but the other folks did. Everyone was worried about the private right of action. That should tell us something. It is because if they are held liable for their businesses they will have to change their business practices. The liability issue is absolutely critical, and you should be bold on it, basically comparing them to publishers. They have lawyered up more than any other companies and lobbyists in the history of the planet. If you step back from all the verbiage and think about it, they are the biggest publishers ever, and they are spreading content at a massive scale, so regulate them that way.",
+      "chunk_id": "DOC_957::c000045",
+      "chunk_hash": "d892f8e066f0",
+      "prev_chunk_id": "DOC_957::c000044",
+      "next_chunk_id": "DOC_957::c000046"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "We have done very well with other industries, and we have never had these problems before, or they have been quickly moderated in other industries, so treat them that way.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 34,
+      "speaker_name": "Jim Steyer",
+      "display_text": "We have done very well with other industries, and we have never had these problems before, or they have been quickly moderated in other industries, so treat them that way.",
+      "chunk_id": "DOC_957::c000046",
+      "chunk_hash": "f6edc4822baf",
+      "prev_chunk_id": "DOC_957::c000045",
+      "next_chunk_id": "DOC_957::c000047"
+    },
+    {
+      "header": "The Chair",
+      "text": "Thank you. We have a question remotely from Jim Knight.\n\nQ152 Lord Knight of Weymouth: Thank you both for coming and being so animated at 4.30 in the morning. I hate to imagine how lively you would be after a glass of wine.\n\nI am interested in getting back to media literacy. The Bill tasks our regulator, Ofcom, with media literacy. Is that sufficient for children, or are there actors that we should be mandating to be active in media literacy other than the regulator? Do you have any evidence and research around how we improve the media literacy of parents? Jon, in respect of what you said about barking up the tree of getting kids off social media until they are 16, we have a generation of parents who did not grow up with it. They have no idea how to parent it. Give us some help with that challenge, too.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 36,
+      "speaker_name": "The Chair",
+      "display_text": "Thank you. We have a question remotely from Jim Knight.\n\nQ152 Lord Knight of Weymouth: Thank you both for coming and being so animated at 4.30 in the morning. I hate to imagine how lively you would be after a glass of wine.\n\nI am interested in getting back to media literacy. The Bill tasks our regulator, Ofcom, with media literacy. Is that sufficient for children, or are there actors that we should be mandating to be active in media literacy other than the regulator? Do you have any evidence and research around how we improve the media literacy of parents? Jon, in respect of what you said about barking up the tree of getting kids off social media until they are 16, we have a generation of parents who did not grow up with it. They have no idea how to parent it. Give us some help with that challenge, too.",
+      "chunk_id": "DOC_957::c000047",
+      "chunk_hash": "b79c6fc4e7fa",
+      "prev_chunk_id": "DOC_957::c000046",
+      "next_chunk_id": "DOC_957::c000048"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "Jim K, that is a very good question. I will be very frank with you because we have worked on this. I am sure many of you know Lord Vaizey. He has been our lead colleague in the UK on it. Let me be very blunt with you. Although I have spoken with Melanie Dawes on several occasions about the media literacy issue, I do not think Ofcom is where it belongs. I think it belongs in the E ducation Department. It is so important. I will get to the parenting issue in a second.\n\nIt seems like such a no-brainer. I will be very honest with you and tell you exactly what our experience on this has been in the UK, for better and for worse. Everybody understands it is important. People understand that you basically have to teach digital literacy, media literacy and digital citizenship, which is the safe ethical responsible use of platforms, basically from kindergarten on. Part of that is that you are also educating the teachers and parents at that point.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "Jim K, that is a very good question. I will be very frank with you because we have worked on this. I am sure many of you know Lord Vaizey. He has been our lead colleague in the UK on it. Let me be very blunt with you. Although I have spoken with Melanie Dawes on several occasions about the media literacy issue, I do not think Ofcom is where it belongs. I think it belongs in the E ducation Department. It is so important. I will get to the parenting issue in a second.\n\nIt seems like such a no-brainer. I will be very honest with you and tell you exactly what our experience on this has been in the UK, for better and for worse. Everybody understands it is important. People understand that you basically have to teach digital literacy, media literacy and digital citizenship, which is the safe ethical responsible use of platforms, basically from kindergarten on. Part of that is that you are also educating the teachers and parents at that point.",
+      "chunk_id": "DOC_957::c000048",
+      "chunk_hash": "911dec50f21d",
+      "prev_chunk_id": "DOC_957::c000047",
+      "next_chunk_id": "DOC_957::c000049"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "worse. Everybody understands it is important. People understand that you basically have to teach digital literacy, media literacy and digital citizenship, which is the safe ethical responsible use of platforms, basically from kindergarten on. Part of that is that you are also educating the teachers and parents at that point. At Common Sense Media, other than the ratings and reviews that your colleague mentioned earlier, and the advocacy work we do, the great contribution we have made to the field in the past 15 years in the creation of the field of digital literacy and citizenship with some colleagues at Harvard\u2014as a Stanford professor that is very painful for me to admit, but the leading researchers were at Harvard, Howard Gardner being our closest colleague\u2014is the development of an extremely robust, sophisticated curriculum, K through 12, that teaches young people, as well as parents and educators, the core basics of digital literacy and media literacy for a digital world.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "worse. Everybody understands it is important. People understand that you basically have to teach digital literacy, media literacy and digital citizenship, which is the safe ethical responsible use of platforms, basically from kindergarten on. Part of that is that you are also educating the teachers and parents at that point. At Common Sense Media, other than the ratings and reviews that your colleague mentioned earlier, and the advocacy work we do, the great contribution we have made to the field in the past 15 years in the creation of the field of digital literacy and citizenship with some colleagues at Harvard\u2014as a Stanford professor that is very painful for me to admit, but the leading researchers were at Harvard, Howard Gardner being our closest colleague\u2014is the development of an extremely robust, sophisticated curriculum, K through 12, that teaches young people, as well as parents and educators, the core basics of digital literacy and media literacy for a digital world.",
+      "chunk_id": "DOC_957::c000049",
+      "chunk_hash": "97ce8dabab76",
+      "prev_chunk_id": "DOC_957::c000048",
+      "next_chunk_id": "DOC_957::c000050"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "me to admit, but the leading researchers were at Harvard, Howard Gardner being our closest colleague\u2014is the development of an extremely robust, sophisticated curriculum, K through 12, that teaches young people, as well as parents and educators, the core basics of digital literacy and media literacy for a digital world. You are correct: there has to be a parent education component as well. Our experience in the UK has been that Wales and Scotland adopted it at the top, so we had massive adoption across Scotland and Wales. Remember, it has to be culturally adopted. The Queen\u2019s English is different from American English, obviously. It has been very successful.It has been more complicated in Britain because you had a programme that was put together by the industry called Internet Matters. By the way, Google has its own media literacy programme called Be Internet Awesome. It is done by the industry. You are getting going and the industry says, \u201cHey, we\u2019ll take care of this\u201d. That is a flawed solution from its inception. The idea that the industry will do high-quality media literacy or digital literacy and citizenship is crazy. You should take the curriculum that we have built and spent $17-plus million on developing and is in the vast majority of American schools and successful. I would adapt it to the UK and then I would have the Education Department take the lead in making it happen. I would also put resources into teacher training and professional development.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 2,
+      "display_text": "me to admit, but the leading researchers were at Harvard, Howard Gardner being our closest colleague\u2014is the development of an extremely robust, sophisticated curriculum, K through 12, that teaches young people, as well as parents and educators, the core basics of digital literacy and media literacy for a digital world. You are correct: there has to be a parent education component as well. Our experience in the UK has been that Wales and Scotland adopted it at the top, so we had massive adoption across Scotland and Wales. Remember, it has to be culturally adopted. The Queen\u2019s English is different from American English, obviously. It has been very successful.It has been more complicated in Britain because you had a programme that was put together by the industry called Internet Matters. By the way, Google has its own media literacy programme called Be Internet Awesome. It is done by the industry. You are getting going and the industry says, \u201cHey, we\u2019ll take care of this\u201d. That is a flawed solution from its inception. The idea that the industry will do high-quality media literacy or digital literacy and citizenship is crazy. You should take the curriculum that we have built and spent $17-plus million on developing and is in the vast majority of American schools and successful. I would adapt it to the UK and then I would have the Education Department take the lead in making it happen. I would also put resources into teacher training and professional development.",
+      "chunk_id": "DOC_957::c000050",
+      "chunk_hash": "b961eb1d17b0",
+      "prev_chunk_id": "DOC_957::c000049",
+      "next_chunk_id": "DOC_957::c000051"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "and spent $17-plus million on developing and is in the vast majority of American schools and successful. I would adapt it to the UK and then I would have the Education Department take the lead in making it happen. I would also put resources into teacher training and professional development. There is a parent education component to it, Jim. You also have to train the teachers because they are the same age as many of the parents and they also have to be educated. You need fundamental investment in that. I think it belongs more on the education side of your Government. You can tax the companies to do to it. Letting Google do its Be Internet Awesome or have the major companies themselves design it is crazy. There are people like us who specialise in this. There are scholars who have developed the field. It is really up to you guys to put the resources in place and then require it in every school K through 12. You would not let a kid get behind the wheel of a car without some degree of driver education. To me, media literacy, particularly digital literacy and citizenship, in this extraordinary robust curriculum is basically like driver education for the internet and social media, and you ought to have it from kindergarten through 12, and you ought to train the teachers and the parents at the same time. We will get that done. You could do that in the next year, and you would take care of the issue in the UK.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 3,
+      "display_text": "and spent $17-plus million on developing and is in the vast majority of American schools and successful. I would adapt it to the UK and then I would have the Education Department take the lead in making it happen. I would also put resources into teacher training and professional development. There is a parent education component to it, Jim. You also have to train the teachers because they are the same age as many of the parents and they also have to be educated. You need fundamental investment in that. I think it belongs more on the education side of your Government. You can tax the companies to do to it. Letting Google do its Be Internet Awesome or have the major companies themselves design it is crazy. There are people like us who specialise in this. There are scholars who have developed the field. It is really up to you guys to put the resources in place and then require it in every school K through 12. You would not let a kid get behind the wheel of a car without some degree of driver education. To me, media literacy, particularly digital literacy and citizenship, in this extraordinary robust curriculum is basically like driver education for the internet and social media, and you ought to have it from kindergarten through 12, and you ought to train the teachers and the parents at the same time. We will get that done. You could do that in the next year, and you would take care of the issue in the UK.",
+      "chunk_id": "DOC_957::c000051",
+      "chunk_hash": "7f80f61504c0",
+      "prev_chunk_id": "DOC_957::c000050",
+      "next_chunk_id": "DOC_957::c000052"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "Here, I will slightly disagree with Jim. It certainly is a good idea to do it, but with driver education kids actually want to drive, and they would rather be good drivers than bad drivers. If they have the information to be a good driver, they will use it. In America, one of our folk figures is PT Barnum, a circus magnate who said, \u201cNobody ever lost a penny underestimating the intelligence of the American people\u201d. The same thing goes here. Nobody ever lost a penny underestimating the effectiveness of public health education when it was up against social pressures. We can tell people all we want about how bad this stuff is and how you should be careful, but the kids are trapped in an overwhelming social dilemma, which is, \u201cEverybody else is on Instagram so I have to be, even though I know it is bad for me\u201d.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 0,
+      "display_text": "Here, I will slightly disagree with Jim. It certainly is a good idea to do it, but with driver education kids actually want to drive, and they would rather be good drivers than bad drivers. If they have the information to be a good driver, they will use it. In America, one of our folk figures is PT Barnum, a circus magnate who said, \u201cNobody ever lost a penny underestimating the intelligence of the American people\u201d. The same thing goes here. Nobody ever lost a penny underestimating the effectiveness of public health education when it was up against social pressures. We can tell people all we want about how bad this stuff is and how you should be careful, but the kids are trapped in an overwhelming social dilemma, which is, \u201cEverybody else is on Instagram so I have to be, even though I know it is bad for me\u201d.",
+      "chunk_id": "DOC_957::c000052",
+      "chunk_hash": "72674c242919",
+      "prev_chunk_id": "DOC_957::c000051",
+      "next_chunk_id": "DOC_957::c000053"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "We can tell people all we want about how bad this stuff is and how you should be careful, but the kids are trapped in an overwhelming social dilemma, which is, \u201cEverybody else is on Instagram so I have to be, even though I know it is bad for me\u201d. The parents are trapped in the same dilemma. None of us wants our kids on, but the kids say, \u201cI\u2019ll be excluded\u201d, and we do not want our kids excluded. If we try, they lie to us, as they lie to Facebook. I had a call with Mark Zuckerberg. He reached out to me to talk about polarisation. I created a fake account for my daughter just before I called him to make sure that there is no obstacle and you can make up whatever you want. He told me, \u201cWe don\u2019t allow underage. We don\u2019t allow under 13\u201d. That is what he said to Congress as well. The urgent thing, if you want parent literacy, is that you have to break the social dilemma. The way to do that is that the default is that kids are not on until they are 16, and, if worst comes to worst, not until 13. Even that would be an improvement. We need to hold them legally responsible for underage use.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 1,
+      "display_text": "We can tell people all we want about how bad this stuff is and how you should be careful, but the kids are trapped in an overwhelming social dilemma, which is, \u201cEverybody else is on Instagram so I have to be, even though I know it is bad for me\u201d. The parents are trapped in the same dilemma. None of us wants our kids on, but the kids say, \u201cI\u2019ll be excluded\u201d, and we do not want our kids excluded. If we try, they lie to us, as they lie to Facebook. I had a call with Mark Zuckerberg. He reached out to me to talk about polarisation. I created a fake account for my daughter just before I called him to make sure that there is no obstacle and you can make up whatever you want. He told me, \u201cWe don\u2019t allow underage. We don\u2019t allow under 13\u201d. That is what he said to Congress as well. The urgent thing, if you want parent literacy, is that you have to break the social dilemma. The way to do that is that the default is that kids are not on until they are 16, and, if worst comes to worst, not until 13. Even that would be an improvement. We need to hold them legally responsible for underage use.",
+      "chunk_id": "DOC_957::c000053",
+      "chunk_hash": "6cbe3e9aafa6",
+      "prev_chunk_id": "DOC_957::c000052",
+      "next_chunk_id": "DOC_957::c000054"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "have to break the social dilemma. The way to do that is that the default is that kids are not on until they are 16, and, if worst comes to worst, not until 13. Even that would be an improvement. We need to hold them legally responsible for underage use. If the tobacco industry had cigarette machines all over and they said clearly, \u201cYou must be 18, but what are you going to do if the kids lie?\u201d, we would not say, \u201cOh, yeah, you\u2019re right, the kids lied. Okay, w e tried\u201d. The fact is that 11 and 12 year-olds are routinely on Instagram. If the company was 95% effective, that is fine. That would break the social dilemma. Only a few kids are on. But it is 1% effective \u2014it does not kick off anybody. It should be sued to oblivion for that. We know the marketing strategy. Instagram knows it is losing to TikTok. It is working really hard, it says, to get 13 year-olds. It is working for the 10 and 11 year-olds. What it is doing by recruiting pre-teen kids is criminal. That has to stop. This is so much more important than any kind of education of the parents. We have to break the social dilemma, which is why all the kids end up on it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "Professor Jonathan Haidt",
+      "turn_part_index": 2,
+      "display_text": "have to break the social dilemma. The way to do that is that the default is that kids are not on until they are 16, and, if worst comes to worst, not until 13. Even that would be an improvement. We need to hold them legally responsible for underage use. If the tobacco industry had cigarette machines all over and they said clearly, \u201cYou must be 18, but what are you going to do if the kids lie?\u201d, we would not say, \u201cOh, yeah, you\u2019re right, the kids lied. Okay, w e tried\u201d. The fact is that 11 and 12 year-olds are routinely on Instagram. If the company was 95% effective, that is fine. That would break the social dilemma. Only a few kids are on. But it is 1% effective \u2014it does not kick off anybody. It should be sued to oblivion for that. We know the marketing strategy. Instagram knows it is losing to TikTok. It is working really hard, it says, to get 13 year-olds. It is working for the 10 and 11 year-olds. What it is doing by recruiting pre-teen kids is criminal. That has to stop. This is so much more important than any kind of education of the parents. We have to break the social dilemma, which is why all the kids end up on it.",
+      "chunk_id": "DOC_957::c000054",
+      "chunk_hash": "a4056cd3693a",
+      "prev_chunk_id": "DOC_957::c000053",
+      "next_chunk_id": "DOC_957::c000055"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "They need to be in parallel. I still think you should invest in and require that from kindergarten on. It is not a substitute for some of what Jon is saying, but it is an absolutely valuable investment. The more young people understand what is happening to them, the better. The more that they are educated about the process, including the manipulative design, the addictive stuff, and all the self-esteem and privacy issues that are hard to teach to a kindergartener but you can certainly teach to a 7th or 8th grader or a high-schooler, the more they get value. I do not think what I am saying is at all in contrast to what Jon is saying. I would invest in both.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 42,
+      "speaker_name": "Jim Steyer",
+      "display_text": "They need to be in parallel. I still think you should invest in and require that from kindergarten on. It is not a substitute for some of what Jon is saying, but it is an absolutely valuable investment. The more young people understand what is happening to them, the better. The more that they are educated about the process, including the manipulative design, the addictive stuff, and all the self-esteem and privacy issues that are hard to teach to a kindergartener but you can certainly teach to a 7th or 8th grader or a high-schooler, the more they get value. I do not think what I am saying is at all in contrast to what Jon is saying. I would invest in both.",
+      "chunk_id": "DOC_957::c000055",
+      "chunk_hash": "df27428ee374",
+      "prev_chunk_id": "DOC_957::c000054",
+      "next_chunk_id": "DOC_957::c000056"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "Thank you both very much. That was great.\n\nQ153 The Chair: I have a final question. We have a Bill in the UK that is going to get rid of protection from liability as you know it in America. There will be no UK equivalent of Section 230; the companies would be liable for not just what they host but what they direct people to, and the regulator would be able to investigate them for what they do and demand access to data and information as part of those investigations.\n\nThe liability will be really clear on the company\u2019s role in hosting illegal content or promoting illegal content to users. The area of definition, which is harder to get right in the Bill, is around harmful content that the companies are actively promoting to users. We know it is harmful to them, but it is not necessarily illegal at the moment. Do you have any thoughts on that? How do we successfully define the responsibilities the company has for which it would be held liable if it was found in breach of the guidance?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 44,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "Thank you both very much. That was great.\n\nQ153 The Chair: I have a final question. We have a Bill in the UK that is going to get rid of protection from liability as you know it in America. There will be no UK equivalent of Section 230; the companies would be liable for not just what they host but what they direct people to, and the regulator would be able to investigate them for what they do and demand access to data and information as part of those investigations.\n\nThe liability will be really clear on the company\u2019s role in hosting illegal content or promoting illegal content to users. The area of definition, which is harder to get right in the Bill, is around harmful content that the companies are actively promoting to users. We know it is harmful to them, but it is not necessarily illegal at the moment. Do you have any thoughts on that? How do we successfully define the responsibilities the company has for which it would be held liable if it was found in breach of the guidance?",
+      "chunk_id": "DOC_957::c000056",
+      "chunk_hash": "72e9c880b7c1",
+      "prev_chunk_id": "DOC_957::c000055",
+      "next_chunk_id": "DOC_957::c000057"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "There is no way to solve that problem. It is the same problem that we have been talking about. Most of what we are concerned about is harmful but not illegal. I will give you one example of what I learned from listening to Frances Haugen, relating to the person who invited 300,000 people to join QAnon groups. Do you know what Facebook does? If you get an invitation to join QAnon\u2014a conspiracy group\u2014and you do not click on it, Facebook\u2019s algorithm says, \u201cYou might be interested to see what this group has to say\u201d, and they will put into your feed stuff from those conspiracy groups. One person can create millions and millions of impressions from crazy conspiracy theory stuff. That stuff is not illegal. There is nothing illegal about QAnon groups.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 45,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "There is no way to solve that problem. It is the same problem that we have been talking about. Most of what we are concerned about is harmful but not illegal. I will give you one example of what I learned from listening to Frances Haugen, relating to the person who invited 300,000 people to join QAnon groups. Do you know what Facebook does? If you get an invitation to join QAnon\u2014a conspiracy group\u2014and you do not click on it, Facebook\u2019s algorithm says, \u201cYou might be interested to see what this group has to say\u201d, and they will put into your feed stuff from those conspiracy groups. One person can create millions and millions of impressions from crazy conspiracy theory stuff. That stuff is not illegal. There is nothing illegal about QAnon groups.",
+      "chunk_id": "DOC_957::c000057",
+      "chunk_hash": "6270e6cdeb48",
+      "prev_chunk_id": "DOC_957::c000056",
+      "next_chunk_id": "DOC_957::c000058"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "Yes, that would help. I do not think you are going to be able to hold companies to account by saying, \u201cYou are liable because you printed this one thing that we judge to be false\u201d. Are you not allowed to lie? It would be very hard to do it that way, post by post. Hold them liable for the effects. If it leads to violence, they are liable. That is what I would think about it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 47,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "Yes, that would help. I do not think you are going to be able to hold companies to account by saying, \u201cYou are liable because you printed this one thing that we judge to be false\u201d. Are you not allowed to lie? It would be very hard to do it that way, post by post. Hold them liable for the effects. If it leads to violence, they are liable. That is what I would think about it.",
+      "chunk_id": "DOC_957::c000058",
+      "chunk_hash": "b322bfb2fee2",
+      "prev_chunk_id": "DOC_957::c000057",
+      "next_chunk_id": "DOC_957::c000059"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "I have three things. I reiterate what we have both said and what you heard on some of the earlier panels. We need a really big focus on the algorithms and the amplification of the content. You have to look at that. Secondly, you have to make sure that the legislation is enforceable. That speaks to the liability issue that Jon keeps bringing us back to. You need to make sure that the legislation is enforceable, otherwise it is not going to be credible. I would be as strong and tough as you possibly can be on that. You are going to get lobbied heavily by the most lawyered-up industry in the history of the planet, so you should be prepared for that, but you should use common sense.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 49,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 0,
+      "display_text": "I have three things. I reiterate what we have both said and what you heard on some of the earlier panels. We need a really big focus on the algorithms and the amplification of the content. You have to look at that. Secondly, you have to make sure that the legislation is enforceable. That speaks to the liability issue that Jon keeps bringing us back to. You need to make sure that the legislation is enforceable, otherwise it is not going to be credible. I would be as strong and tough as you possibly can be on that. You are going to get lobbied heavily by the most lawyered-up industry in the history of the planet, so you should be prepared for that, but you should use common sense.",
+      "chunk_id": "DOC_957::c000059",
+      "chunk_hash": "8945b9247604",
+      "prev_chunk_id": "DOC_957::c000058",
+      "next_chunk_id": "DOC_957::c000060"
+    },
+    {
+      "header": "Jim Steyer",
+      "text": "not going to be credible. I would be as strong and tough as you possibly can be on that. You are going to get lobbied heavily by the most lawyered-up industry in the history of the planet, so you should be prepared for that, but you should use common sense. I remind you, to Jim Knight\u2019s point, about media literacy and digital literacy and citizenship. You should ensure that all UK schools have the funding and resources for professional training and learning support for kids and teachers. At the end of the day, you have the chance to lead not just the UK and your kids\u2019 future but the world. The tougher you are and the stronger you are, the more chance you have with this legislation to be the most important standard bearer across the world. You will set the example that the US will then grudgingly follow. If we can work with you offline on some of the specific definitions, we are happy to wordsmith some of that with you. We know Beeban. We really appreciate everybody on the committee\u2019s leadership. We are here to help. At the end of the day, our kids will be the biggest beneficiaries when you do this job very well.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 49,
+      "speaker_name": "Jim Steyer",
+      "turn_part_index": 1,
+      "display_text": "not going to be credible. I would be as strong and tough as you possibly can be on that. You are going to get lobbied heavily by the most lawyered-up industry in the history of the planet, so you should be prepared for that, but you should use common sense. I remind you, to Jim Knight\u2019s point, about media literacy and digital literacy and citizenship. You should ensure that all UK schools have the funding and resources for professional training and learning support for kids and teachers. At the end of the day, you have the chance to lead not just the UK and your kids\u2019 future but the world. The tougher you are and the stronger you are, the more chance you have with this legislation to be the most important standard bearer across the world. You will set the example that the US will then grudgingly follow. If we can work with you offline on some of the specific definitions, we are happy to wordsmith some of that with you. We know Beeban. We really appreciate everybody on the committee\u2019s leadership. We are here to help. At the end of the day, our kids will be the biggest beneficiaries when you do this job very well.",
+      "chunk_id": "DOC_957::c000060",
+      "chunk_hash": "3b0b94dd10c9",
+      "prev_chunk_id": "DOC_957::c000059",
+      "next_chunk_id": "DOC_957::c000061"
+    },
+    {
+      "header": "Professor Jonathan Haidt",
+      "text": "What Jim said is exactly right, even more than he said. One of the big things I learned from listening to Frances Haugen is that what we see on Facebook and Instagram is by far the best version of it because we speak English, and they put most of their moderation resources into the English language. They also do French and Italian. They do not touch the other 200 languages. They do not do anything for most of the world. What we see is the best-behaved Facebook and Instagram possible. There are children all over the world who are suffering much more from it. There is no filter, no content moderation. Nobody is looking out for them. You are the premier Parliament, the premier legislative body that is looking at this. Of course, your primary duty is to children in the UK, but the rest of the world\u2019s children will benefit if you can make progress on this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 50,
+      "speaker_name": "Professor Jonathan Haidt",
+      "display_text": "What Jim said is exactly right, even more than he said. One of the big things I learned from listening to Frances Haugen is that what we see on Facebook and Instagram is by far the best version of it because we speak English, and they put most of their moderation resources into the English language. They also do French and Italian. They do not touch the other 200 languages. They do not do anything for most of the world. What we see is the best-behaved Facebook and Instagram possible. There are children all over the world who are suffering much more from it. There is no filter, no content moderation. Nobody is looking out for them. You are the premier Parliament, the premier legislative body that is looking at this. Of course, your primary duty is to children in the UK, but the rest of the world\u2019s children will benefit if you can make progress on this.",
+      "chunk_id": "DOC_957::c000061",
+      "chunk_hash": "6c7930d54ec7",
+      "prev_chunk_id": "DOC_957::c000060",
+      "next_chunk_id": null
+    }
+  ]
+}

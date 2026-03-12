@@ -1,0 +1,1512 @@
+{
+  "metadata": {
+    "id": "DOC_960",
+    "title": "JC",
+    "category": "02_Select_Committees",
+    "type": "Oral Evidence Transcript",
+    "author": "JC",
+    "date": "2021-10-25",
+    "url": "https://committees.parliament.uk/oralevidence/2932/html/",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Speaker Turn",
+      "text": "#\n\n!Text\nDescription automatically generated\n\nJoint Committee on the Draft Online Safety Bill\n\nC orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nMonday 25 October 2021\n\n5.15 pm\n\nWatch the meeting: https://parliamentlive.tv/event/index/cf4e4a95-fbc3-4779-8e78-12f46acbadfd\n\nMembers present: Damian Collins MP (The Chair); Debbie Abrahams MP; Lord Clement \\- Jones; Lord Gilbert of Panteg; Baroness Kidron; Darren Jones MP; Lord Knight of Weymouth; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 14 Heard in Public Questions 22 3 \\- 23 2\n\nWitnesses\n\nI: Leslie Miller, Vice President, Government Affairs and Public Policy, YouTube; Markham C. Erickson, Vice President, Government Affairs and Public Policy, Google.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": null,
+      "display_text": "#\n\n!Text\nDescription automatically generated\n\nJoint Committee on the Draft Online Safety Bill\n\nC orrected oral evidence: Consideration of government \u2019 s draft Online Safety Bill\n\nMonday 25 October 2021\n\n5.15 pm\n\nWatch the meeting: https://parliamentlive.tv/event/index/cf4e4a95-fbc3-4779-8e78-12f46acbadfd\n\nMembers present: Damian Collins MP (The Chair); Debbie Abrahams MP; Lord Clement \\- Jones; Lord Gilbert of Panteg; Baroness Kidron; Darren Jones MP; Lord Knight of Weymouth; John Nicolson MP; Dean Russell MP; Lord Stevenson of Balmacara; Suzanne Webb MP.\n\nEvidence Session No. 14 Heard in Public Questions 22 3 \\- 23 2\n\nWitnesses\n\nI: Leslie Miller, Vice President, Government Affairs and Public Policy, YouTube; Markham C. Erickson, Vice President, Government Affairs and Public Policy, Google.",
+      "chunk_id": "DOC_960::c000000",
+      "chunk_hash": "f0340a6f7026",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_960::c000001"
+    },
+    {
+      "header": "USE OF THE TRANSCRIPT",
+      "text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n20\n\nExamination of witnesses\n\nLeslie Miller and Markham C. Erickson.\n\nQ223 The Chair:Good afternoon and welcome to the second pane l for our evidence session this afternoon. We are delighted to welcome Leslie Miller and Markham Erickson from Google.\n\nI wonder if I could start off by asking about your advertising policies in terms of complying with local laws.Do you have effective policies in place to make sure that advertising that is in breach of UK consumer protection law is not served through Google \u2019 s various platforms?\n\nMarkham C. Erickson:Good afternoon and thank you for inviting us to appear before the c ommittee. We appreciate the opportunity to talk about our services and the proposed legislation.\n\nWhen it comes to online advertising, yes, we have robust publisher guidelines and advertis ing protocols tha t would preclude advertisements that perpetuate frauds or scams,or would be harmful or promote illegal content, as defined under local laws.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "USE OF THE TRANSCRIPT",
+      "display_text": "1. This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.\n2. Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.\n3. Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.\n\n20\n\nExamination of witnesses\n\nLeslie Miller and Markham C. Erickson.\n\nQ223 The Chair:Good afternoon and welcome to the second pane l for our evidence session this afternoon. We are delighted to welcome Leslie Miller and Markham Erickson from Google.\n\nI wonder if I could start off by asking about your advertising policies in terms of complying with local laws.Do you have effective policies in place to make sure that advertising that is in breach of UK consumer protection law is not served through Google \u2019 s various platforms?\n\nMarkham C. Erickson:Good afternoon and thank you for inviting us to appear before the c ommittee. We appreciate the opportunity to talk about our services and the proposed legislation.\n\nWhen it comes to online advertising, yes, we have robust publisher guidelines and advertis ing protocols tha t would preclude advertisements that perpetuate frauds or scams,or would be harmful or promote illegal content, as defined under local laws.",
+      "chunk_id": "DOC_960::c000001",
+      "chunk_hash": "f10bc7c95bfc",
+      "prev_chunk_id": "DOC_960::c000000",
+      "next_chunk_id": "DOC_960::c000002"
+    },
+    {
+      "header": "The Chair",
+      "text": "From your point of view, if you ha ve those policies in place, you will have no objection to that being required of companies in the O nline S afety Bill, to make sure that they do not allow illegal content \u2014such ads would be considered a form of il legal content \u2014 to be shared through advertising.\n\nMarkham C. Erickson:Thank you for the question. A s the committee recommends how to approach the scope of the legislation, we would encourage it to exclude the online advertising ecosystem. I say this for a couple of reasons. One is that it is already a regulated space. In the UK, the ASA regulates online advertisement s, and there are a number of stakeholders who are responsible for ensuring that advertisements are appropriate. It includes the advertisers themselves, businesses, the technology companies and, in appropriate cases, separate regulators, for instance, in the financial services space. By including it in the proposed legislation, one would want to be sure that you are not creating confusion about who would need to comply with the Bill. We need to ensure for Google \u2019 s products and services that the online advertising ecosystem is safe and trustworthy. It is the only way that we will ensure that advertisers use our products and services, and that users feel they will have a trusted experience when they click on advertisements.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 1,
+      "speaker_name": "The Chair",
+      "turn_part_index": 0,
+      "display_text": "From your point of view, if you ha ve those policies in place, you will have no objection to that being required of companies in the O nline S afety Bill, to make sure that they do not allow illegal content \u2014such ads would be considered a form of il legal content \u2014 to be shared through advertising.\n\nMarkham C. Erickson:Thank you for the question. A s the committee recommends how to approach the scope of the legislation, we would encourage it to exclude the online advertising ecosystem. I say this for a couple of reasons. One is that it is already a regulated space. In the UK, the ASA regulates online advertisement s, and there are a number of stakeholders who are responsible for ensuring that advertisements are appropriate. It includes the advertisers themselves, businesses, the technology companies and, in appropriate cases, separate regulators, for instance, in the financial services space. By including it in the proposed legislation, one would want to be sure that you are not creating confusion about who would need to comply with the Bill. We need to ensure for Google \u2019 s products and services that the online advertising ecosystem is safe and trustworthy. It is the only way that we will ensure that advertisers use our products and services, and that users feel they will have a trusted experience when they click on advertisements.",
+      "chunk_id": "DOC_960::c000002",
+      "chunk_hash": "e88d6253cc08",
+      "prev_chunk_id": "DOC_960::c000001",
+      "next_chunk_id": "DOC_960::c000003"
+    },
+    {
+      "header": "The Chair",
+      "text": "need to ensure for Google \u2019 s products and services that the online advertising ecosystem is safe and trustworthy. It is the only way that we will ensure that advertisers use our products and services, and that users feel they will have a trusted experience when they click on advertisements. I would make one further point, if I may. As I understand it, the Government ha ve anticipated that the current scope of the legislation, which does not include the online advertising ecosystem, would regulate roughly 24,000 entities, and by including the online advertising ecosystem, potentially, the legislation would be regulating millions and millions of businesses that advertise on our platforms every day. We think there are safeguards in place both through separate regulation and through our natural incentives to ensure that this is a trusted and safe experience.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 1,
+      "speaker_name": "The Chair",
+      "turn_part_index": 1,
+      "display_text": "need to ensure for Google \u2019 s products and services that the online advertising ecosystem is safe and trustworthy. It is the only way that we will ensure that advertisers use our products and services, and that users feel they will have a trusted experience when they click on advertisements. I would make one further point, if I may. As I understand it, the Government ha ve anticipated that the current scope of the legislation, which does not include the online advertising ecosystem, would regulate roughly 24,000 entities, and by including the online advertising ecosystem, potentially, the legislation would be regulating millions and millions of businesses that advertise on our platforms every day. We think there are safeguards in place both through separate regulation and through our natural incentives to ensure that this is a trusted and safe experience.",
+      "chunk_id": "DOC_960::c000003",
+      "chunk_hash": "f0fb6445718e",
+      "prev_chunk_id": "DOC_960::c000002",
+      "next_chunk_id": "DOC_960::c000004"
+    },
+    {
+      "header": "The Chair",
+      "text": "The advertising regulatory system in the UK is a self \u2011 regulatory model over seen by the Advertising Standards Authority, and financial adve rt isers comply with the FCA\u2014 Financial Conduct Authority \u2014 regulations, but that self \\- regulatory code relies very heav ily on brand jeopardy on behalf of the advertiser; that is, that it would be shaming for an advertiser to have an advert that was considered to be in breach of the code, so they would withdraw it, and indeed traditional media companies, broadcasters and news organisations would not run those ads because they would be in danger themselves.\n\nThe issue here with online advertising is that we do not have a problem defining what we think an illegal ad is or a problem with interpreting the Advertising Standards Authority \u2019 s guidelines.W hat w e have a huge problem with here is enforcement online.Are you saying that, if you had guidance from the ASA that an ad was in breach of the code, Google would have systems in place to make sure that that ad, or a copy of that ad, did not appear anyw here on its systems?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "The Chair",
+      "turn_part_index": 0,
+      "display_text": "The advertising regulatory system in the UK is a self \u2011 regulatory model over seen by the Advertising Standards Authority, and financial adve rt isers comply with the FCA\u2014 Financial Conduct Authority \u2014 regulations, but that self \\- regulatory code relies very heav ily on brand jeopardy on behalf of the advertiser; that is, that it would be shaming for an advertiser to have an advert that was considered to be in breach of the code, so they would withdraw it, and indeed traditional media companies, broadcasters and news organisations would not run those ads because they would be in danger themselves.\n\nThe issue here with online advertising is that we do not have a problem defining what we think an illegal ad is or a problem with interpreting the Advertising Standards Authority \u2019 s guidelines.W hat w e have a huge problem with here is enforcement online.Are you saying that, if you had guidance from the ASA that an ad was in breach of the code, Google would have systems in place to make sure that that ad, or a copy of that ad, did not appear anyw here on its systems?",
+      "chunk_id": "DOC_960::c000004",
+      "chunk_hash": "1ef8ffc18b2e",
+      "prev_chunk_id": "DOC_960::c000003",
+      "next_chunk_id": "DOC_960::c000005"
+    },
+    {
+      "header": "The Chair",
+      "text": "with here is enforcement online.Are you saying that, if you had guidance from the ASA that an ad was in breach of the code, Google would have systems in place to make sure that that ad, or a copy of that ad, did not appear anyw here on its systems? Markham C. Erickson:What I mea nt to say is that it is an ecosystem that involves many different part ies to ensure that the advertisements that one sees on Google are safe. However, we do not rely on others to ensure that it is a safe and secure experience. We do not wait for legislation to be passed to do so. You mentioned the financial services space. We have partne red with the F inancial Conduct Authority to come up with a system to ensure that financial services companies that want to advertise on Google platforms and services have to demonstrate that they have been certified by the FCA to sell their services and promote their services on Google products and platforms.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "The Chair",
+      "turn_part_index": 1,
+      "display_text": "with here is enforcement online.Are you saying that, if you had guidance from the ASA that an ad was in breach of the code, Google would have systems in place to make sure that that ad, or a copy of that ad, did not appear anyw here on its systems? Markham C. Erickson:What I mea nt to say is that it is an ecosystem that involves many different part ies to ensure that the advertisements that one sees on Google are safe. However, we do not rely on others to ensure that it is a safe and secure experience. We do not wait for legislation to be passed to do so. You mentioned the financial services space. We have partne red with the F inancial Conduct Authority to come up with a system to ensure that financial services companies that want to advertise on Google platforms and services have to demonstrate that they have been certified by the FCA to sell their services and promote their services on Google products and platforms.",
+      "chunk_id": "DOC_960::c000005",
+      "chunk_hash": "a74cee4b1076",
+      "prev_chunk_id": "DOC_960::c000004",
+      "next_chunk_id": "DOC_960::c000006"
+    },
+    {
+      "header": "The Chair",
+      "text": "I n that case, you have effective enforcement of that. In theory, if an organisation is registered by the F inancial C onduct Authority, action can be taken against it by the authority for offering poor services and products to customers.You are saying that you have policies in place that mean that a financial ad that is no t FCA approved, or from an organisation that is not FCA approved, would be removed from Google \u2019 s platforms and services.\n\nMarkham C. Erickson:We take it one step further. B efore a financial services compan y in the UK can propose an ad for Google platforms and services, it first has to certify that it has been approved by the FCA as a legitimate financial services company that can market its services to the public on Google platforms and services.It is an ex ante approach rather than a n ex post enforcement approach.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 3,
+      "speaker_name": "The Chair",
+      "display_text": "I n that case, you have effective enforcement of that. In theory, if an organisation is registered by the F inancial C onduct Authority, action can be taken against it by the authority for offering poor services and products to customers.You are saying that you have policies in place that mean that a financial ad that is no t FCA approved, or from an organisation that is not FCA approved, would be removed from Google \u2019 s platforms and services.\n\nMarkham C. Erickson:We take it one step further. B efore a financial services compan y in the UK can propose an ad for Google platforms and services, it first has to certify that it has been approved by the FCA as a legitimate financial services company that can market its services to the public on Google platforms and services.It is an ex ante approach rather than a n ex post enforcement approach.",
+      "chunk_id": "DOC_960::c000006",
+      "chunk_hash": "a491c7c45e4d",
+      "prev_chunk_id": "DOC_960::c000005",
+      "next_chunk_id": "DOC_960::c000007"
+    },
+    {
+      "header": "The Chair",
+      "text": "That is the ex ante approach, and that is fine, but w hat if they slip through the system?Are they removed retrospec t ively? If there is an ad out there that f or whatever reason has been able to run, if it is brought to your attention, will you always take it down?\n\nMarkham C. Erickson: Yes. H owever r o bust we try to make the system by working with the FCA \u2014 we are proud that the chair of the FCA has said that we have an industry \\- leading approach to this space \u2014 no system is perfect. I f we were to be made aware of an ad that was appear ing that should not have been, we would take immediate action and block the ad from appearing.We blocked nearly 3.1 billion ads in 2020, including 12 3 million ads from financi al services companies. We certainly do not want any ad that is harmful or perpetuat ing frauds to appear on our advertising platform.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "The Chair",
+      "display_text": "That is the ex ante approach, and that is fine, but w hat if they slip through the system?Are they removed retrospec t ively? If there is an ad out there that f or whatever reason has been able to run, if it is brought to your attention, will you always take it down?\n\nMarkham C. Erickson: Yes. H owever r o bust we try to make the system by working with the FCA \u2014 we are proud that the chair of the FCA has said that we have an industry \\- leading approach to this space \u2014 no system is perfect. I f we were to be made aware of an ad that was appear ing that should not have been, we would take immediate action and block the ad from appearing.We blocked nearly 3.1 billion ads in 2020, including 12 3 million ads from financi al services companies. We certainly do not want any ad that is harmful or perpetuat ing frauds to appear on our advertising platform.",
+      "chunk_id": "DOC_960::c000007",
+      "chunk_hash": "fe1896f64848",
+      "prev_chunk_id": "DOC_960::c000006",
+      "next_chunk_id": "DOC_960::c000008"
+    },
+    {
+      "header": "The Chair",
+      "text": "That is clear on financial advertising, but that is not the only type of scam ad.We had a problem here for years of ticket touts selling tickets through secondary ticketing sites such as Vi ag ogo that we re in breach of consumer protection legislation, and Google ran them for some time. I think the policy has changed now. In a case like that,wh ere someone come s forward and say s, \u201cT his product is being offered, is being sold in breach of consumer protection legislation a n d is illegal, and other advertisers are not accepting these adverts for that reason \u201d,if it was a clear breach of local law, would you not accept the ad either?\n\nMarkham C. Erickson:We have over 40 different policies that are made clear to advertisers and publishers around what kind o f content we will not accept, including advertisement s that perpetuate frauds. W hen we see that there may be a higher risk to consumers of fraud or scam s, we will take it a step further and create more robust certification programmes. A secondary ticket ecosystem is one such example of doing that.We have policies where, before advertisers can show their ads for tickets, they have to comply and certify that they are complying with the policies that we have in place. If we find that one is not doing so, we will of course remove it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 5,
+      "speaker_name": "The Chair",
+      "display_text": "That is clear on financial advertising, but that is not the only type of scam ad.We had a problem here for years of ticket touts selling tickets through secondary ticketing sites such as Vi ag ogo that we re in breach of consumer protection legislation, and Google ran them for some time. I think the policy has changed now. In a case like that,wh ere someone come s forward and say s, \u201cT his product is being offered, is being sold in breach of consumer protection legislation a n d is illegal, and other advertisers are not accepting these adverts for that reason \u201d,if it was a clear breach of local law, would you not accept the ad either?\n\nMarkham C. Erickson:We have over 40 different policies that are made clear to advertisers and publishers around what kind o f content we will not accept, including advertisement s that perpetuate frauds. W hen we see that there may be a higher risk to consumers of fraud or scam s, we will take it a step further and create more robust certification programmes. A secondary ticket ecosystem is one such example of doing that.We have policies where, before advertisers can show their ads for tickets, they have to comply and certify that they are complying with the policies that we have in place. If we find that one is not doing so, we will of course remove it.",
+      "chunk_id": "DOC_960::c000008",
+      "chunk_hash": "9464558b370d",
+      "prev_chunk_id": "DOC_960::c000007",
+      "next_chunk_id": "DOC_960::c000009"
+    },
+    {
+      "header": "The Chair",
+      "text": "There is a final point on the A dvertising S tandards Authority. I f it notified you of an advert that it said should be withdrawn because it was in breach of the advertising code in the UK \u2014 as you said earlier, that is the regulatory body \u2014 again, would Google remove that ad, o r copies of that ad, from running on its services?\n\nMarkham C. Erickson: W e work with the ASA and we also work with other regulators, advertisers and businesses in the UK to ensure that in any such example like that, yes, we would take down that ad a nd take action.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "The Chair",
+      "display_text": "There is a final point on the A dvertising S tandards Authority. I f it notified you of an advert that it said should be withdrawn because it was in breach of the advertising code in the UK \u2014 as you said earlier, that is the regulatory body \u2014 again, would Google remove that ad, o r copies of that ad, from running on its services?\n\nMarkham C. Erickson: W e work with the ASA and we also work with other regulators, advertisers and businesses in the UK to ensure that in any such example like that, yes, we would take down that ad a nd take action.",
+      "chunk_id": "DOC_960::c000009",
+      "chunk_hash": "637f1f65c8b5",
+      "prev_chunk_id": "DOC_960::c000008",
+      "next_chunk_id": "DOC_960::c000010"
+    },
+    {
+      "header": "The Chair",
+      "text": "Going back to my earlier question, if you say you comply with AS A guidance, and you have to comply with local laws, and you comply with the FCA in terms of financial ads, and you apply all those rigorously to any ads that appear on your system, presumably, if the O nline S afety Bill said that that is what we want people to do and what we want all companies t hat serve ads to do,then you would have no objection to that because you do it anyway.\n\nMarkham C. Erickson:Certainly we have no objection to the objective that this committee is trying to achieve. The question is whether including potentially millions and millions of businesses in this adver tis ing ecosystem is proportionate to the benefit that would accrue. W e do think this is a safe and secure ecosystem. We are highly motivated to ensure that online advertis ements are safe and secure.Advertise ments that are legitimate and that are on our ecosystem do not want to appear or compete with advertis ements that are fraudulent, or deceptive, or perpetrating fraud.I would hesitate to recommend that you include the ecosystem in the scope of the Bill. Certainly, we will continue conversations with you to explain how we approach various different aspects of the ad ecosystem and who we work with.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 8,
+      "speaker_name": "The Chair",
+      "display_text": "Going back to my earlier question, if you say you comply with AS A guidance, and you have to comply with local laws, and you comply with the FCA in terms of financial ads, and you apply all those rigorously to any ads that appear on your system, presumably, if the O nline S afety Bill said that that is what we want people to do and what we want all companies t hat serve ads to do,then you would have no objection to that because you do it anyway.\n\nMarkham C. Erickson:Certainly we have no objection to the objective that this committee is trying to achieve. The question is whether including potentially millions and millions of businesses in this adver tis ing ecosystem is proportionate to the benefit that would accrue. W e do think this is a safe and secure ecosystem. We are highly motivated to ensure that online advertis ements are safe and secure.Advertise ments that are legitimate and that are on our ecosystem do not want to appear or compete with advertis ements that are fraudulent, or deceptive, or perpetrating fraud.I would hesitate to recommend that you include the ecosystem in the scope of the Bill. Certainly, we will continue conversations with you to explain how we approach various different aspects of the ad ecosystem and who we work with.",
+      "chunk_id": "DOC_960::c000010",
+      "chunk_hash": "9f00f72cf00a",
+      "prev_chunk_id": "DOC_960::c000009",
+      "next_chunk_id": "DOC_960::c000011"
+    },
+    {
+      "header": "The Chair",
+      "text": "With regards to proportionality, we have heard heart \\- rending evidence during this inquiry so far about the impact on people \u2019 s lives of financial scams and frauds, including from the C ompetition and M arkets Authority, the F inancial C onduct A uthority and the C ity of London Police, which investigate financial crimes in this country. T hey all support the inclusion of these provisions in the legislation. E ven the Advertising S tandards Authorit y sa id that it has no objection.\n\nI do think i t is important because I do not think it re q uires the regulation of the entire advertising ecosystem.What it requires, though, is that, when evidence of fraud and criminality is exposed,the media owners and the platforms respond by not allowing those ads to run, or any copies of them. I am just ask ing whether you would have any objection to that. I am not sure what your grounds of objection would be, given you say you largely try to do that anyway.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "The Chair",
+      "turn_part_index": 0,
+      "display_text": "With regards to proportionality, we have heard heart \\- rending evidence during this inquiry so far about the impact on people \u2019 s lives of financial scams and frauds, including from the C ompetition and M arkets Authority, the F inancial C onduct A uthority and the C ity of London Police, which investigate financial crimes in this country. T hey all support the inclusion of these provisions in the legislation. E ven the Advertising S tandards Authorit y sa id that it has no objection.\n\nI do think i t is important because I do not think it re q uires the regulation of the entire advertising ecosystem.What it requires, though, is that, when evidence of fraud and criminality is exposed,the media owners and the platforms respond by not allowing those ads to run, or any copies of them. I am just ask ing whether you would have any objection to that. I am not sure what your grounds of objection would be, given you say you largely try to do that anyway.",
+      "chunk_id": "DOC_960::c000011",
+      "chunk_hash": "cdd6e557b8b2",
+      "prev_chunk_id": "DOC_960::c000010",
+      "next_chunk_id": "DOC_960::c000012"
+    },
+    {
+      "header": "The Chair",
+      "text": "and the platforms respond by not allowing those ads to run, or any copies of them. I am just ask ing whether you would have any objection to that. I am not sure what your grounds of objection would be, given you say you largely try to do that anyway. Markham C. Erickson:Certainly we will continue the conversations with you. We would want to see how that would be approached, recognising the caveats I mentioned of ensuring proportionality. W e do think it is not necessary in terms of our incentives and how we operate. W e will work as quickly as we can, as soon as we are made aware, to take down advertisements that violate local law and perpetuate fraud s and scams. When we see that, I think our record shows that we take swift action to protect consumers from th o se kinds of scams.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "The Chair",
+      "turn_part_index": 1,
+      "display_text": "and the platforms respond by not allowing those ads to run, or any copies of them. I am just ask ing whether you would have any objection to that. I am not sure what your grounds of objection would be, given you say you largely try to do that anyway. Markham C. Erickson:Certainly we will continue the conversations with you. We would want to see how that would be approached, recognising the caveats I mentioned of ensuring proportionality. W e do think it is not necessary in terms of our incentives and how we operate. W e will work as quickly as we can, as soon as we are made aware, to take down advertisements that violate local law and perpetuate fraud s and scams. When we see that, I think our record shows that we take swift action to protect consumers from th o se kinds of scams.",
+      "chunk_id": "DOC_960::c000012",
+      "chunk_hash": "7e0d9f6c498a",
+      "prev_chunk_id": "DOC_960::c000011",
+      "next_chunk_id": "DOC_960::c000013"
+    },
+    {
+      "header": "The Chair",
+      "text": "It may not be proportionate to your incentives, but it is proportionate in protect ing the public interest. The suffering that many p e ople have had as a consequence of scam ads that run on different social media platforms and online in different spaces almost unchecked, in a way they do in no other media, is a problem that people are concerned about.\n\nFinally, I wanted to ask about advertising transparency. We have had evidence during this inqu i ry that a lot of platform s, websites and supposed new s organisations profit from sharing and spreading hate speech. O ne way they do that is through programmatic advertising. Do you think brands should be able to see a schedule of the sites where all their adverts appear? In the old days, everyone always knew, but you do not know when you are buying ads through an online auction.Do yo u t hink there should be more transparency so that brands do not see their ads ending up in places where they would never have wanted to advertise?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 10,
+      "speaker_name": "The Chair",
+      "turn_part_index": 0,
+      "display_text": "It may not be proportionate to your incentives, but it is proportionate in protect ing the public interest. The suffering that many p e ople have had as a consequence of scam ads that run on different social media platforms and online in different spaces almost unchecked, in a way they do in no other media, is a problem that people are concerned about.\n\nFinally, I wanted to ask about advertising transparency. We have had evidence during this inqu i ry that a lot of platform s, websites and supposed new s organisations profit from sharing and spreading hate speech. O ne way they do that is through programmatic advertising. Do you think brands should be able to see a schedule of the sites where all their adverts appear? In the old days, everyone always knew, but you do not know when you are buying ads through an online auction.Do yo u t hink there should be more transparency so that brands do not see their ads ending up in places where they would never have wanted to advertise?",
+      "chunk_id": "DOC_960::c000013",
+      "chunk_hash": "7103de41d947",
+      "prev_chunk_id": "DOC_960::c000012",
+      "next_chunk_id": "DOC_960::c000014"
+    },
+    {
+      "header": "The Chair",
+      "text": "In the old days, everyone always knew, but you do not know when you are buying ads through an online auction.Do yo u t hink there should be more transparency so that brands do not see their ads ending up in places where they would never have wanted to advertise? Markham C. Erickson:Thank you for the question. We are very transparent with our advertisers about the kinds of content and the publishers against which th eir advertisements will appear. If we find that an advertisement is mistakenly appearing on a site that is promoting hate speech, racist speech or other speech that violates our publisher guidelines \u2014 our publisher guidelines are explicit and clear on this point \u2014 we will remove that ad swiftly.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 10,
+      "speaker_name": "The Chair",
+      "turn_part_index": 1,
+      "display_text": "In the old days, everyone always knew, but you do not know when you are buying ads through an online auction.Do yo u t hink there should be more transparency so that brands do not see their ads ending up in places where they would never have wanted to advertise? Markham C. Erickson:Thank you for the question. We are very transparent with our advertisers about the kinds of content and the publishers against which th eir advertisements will appear. If we find that an advertisement is mistakenly appearing on a site that is promoting hate speech, racist speech or other speech that violates our publisher guidelines \u2014 our publisher guidelines are explicit and clear on this point \u2014 we will remove that ad swiftly.",
+      "chunk_id": "DOC_960::c000014",
+      "chunk_hash": "523863a237cb",
+      "prev_chunk_id": "DOC_960::c000013",
+      "next_chunk_id": "DOC_960::c000015"
+    },
+    {
+      "header": "The Chair",
+      "text": "If you found an ad served in a publication like that that was in breach of your guidelines, would y o u withdraw any ad tech support from Google for that website?\n\nMarkham C. Erickson: We would remove the ad a l together, yes. H ow our ad policy works is that there is the organic content that may appear on a news site and then there may be commen t s that appear relative to or next to or adjacent to the news.S ometimes it is not the publisher \u2019 s content that has violated our policies, but commen ts appear from users that are racist or otherwise objectionable. In those cases, we will also remove the ad, but if that has been taken care of and we are working with the publisher, it is not a permanent ban against that publisher for its ability to monetise its publication.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "The Chair",
+      "display_text": "If you found an ad served in a publication like that that was in breach of your guidelines, would y o u withdraw any ad tech support from Google for that website?\n\nMarkham C. Erickson: We would remove the ad a l together, yes. H ow our ad policy works is that there is the organic content that may appear on a news site and then there may be commen t s that appear relative to or next to or adjacent to the news.S ometimes it is not the publisher \u2019 s content that has violated our policies, but commen ts appear from users that are racist or otherwise objectionable. In those cases, we will also remove the ad, but if that has been taken care of and we are working with the publisher, it is not a permanent ban against that publisher for its ability to monetise its publication.",
+      "chunk_id": "DOC_960::c000015",
+      "chunk_hash": "04308468f155",
+      "prev_chunk_id": "DOC_960::c000014",
+      "next_chunk_id": "DOC_960::c000016"
+    },
+    {
+      "header": "The Chair",
+      "text": "But would there be a cooling \u2011 off period? Would you say, \u201cY ou are clearly operating outside our guidelines, you have no intention of changing what you are doing, and, therefore, until we see consistent evidence that you are running safe content, we will remove our ad support from y our site \u201d?\n\nMarkham C. Erickson:The way we approach this is that we would take action swiftly, and until we felt the publication was in compliance and we felt comforta b le about that, we would not reinstate the publication for the appearance of ads.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "The Chair",
+      "display_text": "But would there be a cooling \u2011 off period? Would you say, \u201cY ou are clearly operating outside our guidelines, you have no intention of changing what you are doing, and, therefore, until we see consistent evidence that you are running safe content, we will remove our ad support from y our site \u201d?\n\nMarkham C. Erickson:The way we approach this is that we would take action swiftly, and until we felt the publication was in compliance and we felt comforta b le about that, we would not reinstate the publication for the appearance of ads.",
+      "chunk_id": "DOC_960::c000016",
+      "chunk_hash": "80872359bde8",
+      "prev_chunk_id": "DOC_960::c000015",
+      "next_chunk_id": "DOC_960::c000017"
+    },
+    {
+      "header": "The Chair",
+      "text": "Thank you.Beeban Kidron.\n\nQ224 Baroness Kidron:I was interested in your written evidence. I t said this: \u201cTo best protect children while retaining their access to online services, it is vital that the Committee carefully considers how the Bill\u2019s child protection duties can be simplified and aligned with the Age Appropriate Design Code and existing international standards like the EU\u2019s AVMS Directive.\u201d I would like to ask you, first, what is the danger that you see, and, secondly, what would you see this approach adding above and beyond those two pieces of existing regulation?\n\nMarkham C. Erickson:I am certainly happy to begin and talk about this from a search perspective. When it comes to search, first, we would encourage the committee to distinguish and recognise t h e distinctions between a search service and a user \\- to \u2011 user platform. The legislation acknowledge s that there are important distinctions between the two ecosystems, but, unfortunately, as currently written, the duties that apply to both are nearly identical. We think this would potentially create an overcensorship of legitimate content \u2014 content that is important relative to freedom of expression \u2014 or result in a kind of age \\- ga t ing that would substantially change the way search operates.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 13,
+      "speaker_name": "The Chair",
+      "turn_part_index": 0,
+      "display_text": "Thank you.Beeban Kidron.\n\nQ224 Baroness Kidron:I was interested in your written evidence. I t said this: \u201cTo best protect children while retaining their access to online services, it is vital that the Committee carefully considers how the Bill\u2019s child protection duties can be simplified and aligned with the Age Appropriate Design Code and existing international standards like the EU\u2019s AVMS Directive.\u201d I would like to ask you, first, what is the danger that you see, and, secondly, what would you see this approach adding above and beyond those two pieces of existing regulation?\n\nMarkham C. Erickson:I am certainly happy to begin and talk about this from a search perspective. When it comes to search, first, we would encourage the committee to distinguish and recognise t h e distinctions between a search service and a user \\- to \u2011 user platform. The legislation acknowledge s that there are important distinctions between the two ecosystems, but, unfortunately, as currently written, the duties that apply to both are nearly identical. We think this would potentially create an overcensorship of legitimate content \u2014 content that is important relative to freedom of expression \u2014 or result in a kind of age \\- ga t ing that would substantially change the way search operates.",
+      "chunk_id": "DOC_960::c000017",
+      "chunk_hash": "f685f11cb56b",
+      "prev_chunk_id": "DOC_960::c000016",
+      "next_chunk_id": "DOC_960::c000018"
+    },
+    {
+      "header": "The Chair",
+      "text": "the duties that apply to both are nearly identical. We think this would potentially create an overcensorship of legitimate content \u2014 content that is important relative to freedom of expression \u2014 or result in a kind of age \\- ga t ing that would substantially change the way search operates. Our first point would be to distinguish between search services on the one hand and user \u2011 to \u2011 user generated platforms on the other. Search services, as you know, are not about engagement but rather about discoverability.A user comes to a search service looking for information, and we want to provide timely, relevant and helpful information in that moment. I f we are successful in providing appropriate content that is relative to the search query, that is our first line of protecting the users who come to our search services.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 13,
+      "speaker_name": "The Chair",
+      "turn_part_index": 1,
+      "display_text": "the duties that apply to both are nearly identical. We think this would potentially create an overcensorship of legitimate content \u2014 content that is important relative to freedom of expression \u2014 or result in a kind of age \\- ga t ing that would substantially change the way search operates. Our first point would be to distinguish between search services on the one hand and user \u2011 to \u2011 user generated platforms on the other. Search services, as you know, are not about engagement but rather about discoverability.A user comes to a search service looking for information, and we want to provide timely, relevant and helpful information in that moment. I f we are successful in providing appropriate content that is relative to the search query, that is our first line of protecting the users who come to our search services.",
+      "chunk_id": "DOC_960::c000018",
+      "chunk_hash": "afb7aa3b4628",
+      "prev_chunk_id": "DOC_960::c000017",
+      "next_chunk_id": "DOC_960::c000019"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "I will come to you,L eslie, but on that point, I am just a little bit confused because I would imagine that the aim of the Bill is to find appropriate search for under \\- 18s. C ould you give me an example of how censorship could happen because of how the Bill is currently drafted? I would just like to understand it.\n\nMarkham C. Erickson:Thank you for the question.As you know, s earch services do not host user \\- generated content.They are an index of trillions of web pages. W e provide users with the ability to find relevant information relative to those index pages. The broad definition of online harms would require us potentially to have to make contextual decisions about the nature of content that we do not host, which is on another service, and require us to monitor those billions of web pages in doing so.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Baroness Kidron",
+      "turn_part_index": 0,
+      "display_text": "I will come to you,L eslie, but on that point, I am just a little bit confused because I would imagine that the aim of the Bill is to find appropriate search for under \\- 18s. C ould you give me an example of how censorship could happen because of how the Bill is currently drafted? I would just like to understand it.\n\nMarkham C. Erickson:Thank you for the question.As you know, s earch services do not host user \\- generated content.They are an index of trillions of web pages. W e provide users with the ability to find relevant information relative to those index pages. The broad definition of online harms would require us potentially to have to make contextual decisions about the nature of content that we do not host, which is on another service, and require us to monitor those billions of web pages in doing so.",
+      "chunk_id": "DOC_960::c000019",
+      "chunk_hash": "91d42e140b8e",
+      "prev_chunk_id": "DOC_960::c000018",
+      "next_chunk_id": "DOC_960::c000020"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "information relative to those index pages. The broad definition of online harms would require us potentially to have to make contextual decisions about the nature of content that we do not host, which is on another service, and require us to monitor those billions of web pages in doing so. To give you an example, the legislation as currently drafted for search would require us to determine whether content could have a material negative \u201c psychological impact on a child of ordinary sensibilities \u201d. An example of how difficult that would be, in addition to trying to look for that across trillions of web pages, is something like the \u201c Falling Man \u201d image after 9/11. W hen it was first published, there was considerable outrage that it was harmful to show this image. I t was horrific; it was damaging to the psyche.In retrospect, observers today would say that that image was important for the historical record, and that it captured the moment in an important way for the public good. T here are other examples.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Baroness Kidron",
+      "turn_part_index": 1,
+      "display_text": "information relative to those index pages. The broad definition of online harms would require us potentially to have to make contextual decisions about the nature of content that we do not host, which is on another service, and require us to monitor those billions of web pages in doing so. To give you an example, the legislation as currently drafted for search would require us to determine whether content could have a material negative \u201c psychological impact on a child of ordinary sensibilities \u201d. An example of how difficult that would be, in addition to trying to look for that across trillions of web pages, is something like the \u201c Falling Man \u201d image after 9/11. W hen it was first published, there was considerable outrage that it was harmful to show this image. I t was horrific; it was damaging to the psyche.In retrospect, observers today would say that that image was important for the historical record, and that it captured the moment in an important way for the public good. T here are other examples.",
+      "chunk_id": "DOC_960::c000020",
+      "chunk_hash": "a9e279761070",
+      "prev_chunk_id": "DOC_960::c000019",
+      "next_chunk_id": "DOC_960::c000021"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "I am s orry to cut across you; I apologise. I want to go the other way and say that we had some evidence from a couple of people who came i n and said that you c an put into Google,\u201cH ow do I kill myself?\u201d, a nd there were 139,000 sites or whatever the figure was \u2014 an endless figure of places \u2014 offering an answer. That is the other end of it, is it not? I am very sympathetic to what you are saying and I am trying to understand what good looks like, but I am interested what your position is when we are confronted with that evidence.\n\nMarkham C. Erickson:T hank you for that clarification of the question. I appreciate the way you have approached this whole ecosystem in the manner you have.\n\nFirst, let me step back and say that we want to provide users with helpful and relevant information in times of trouble for that user. For things such as health or suicide ideation or self \\- harm, we work with experts to, first, promote content at the top of a search result that gives information that can be most helpful and appropriate for the user who is searching for that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 15,
+      "speaker_name": "Baroness Kidron",
+      "turn_part_index": 0,
+      "display_text": "I am s orry to cut across you; I apologise. I want to go the other way and say that we had some evidence from a couple of people who came i n and said that you c an put into Google,\u201cH ow do I kill myself?\u201d, a nd there were 139,000 sites or whatever the figure was \u2014 an endless figure of places \u2014 offering an answer. That is the other end of it, is it not? I am very sympathetic to what you are saying and I am trying to understand what good looks like, but I am interested what your position is when we are confronted with that evidence.\n\nMarkham C. Erickson:T hank you for that clarification of the question. I appreciate the way you have approached this whole ecosystem in the manner you have.\n\nFirst, let me step back and say that we want to provide users with helpful and relevant information in times of trouble for that user. For things such as health or suicide ideation or self \\- harm, we work with experts to, first, promote content at the top of a search result that gives information that can be most helpful and appropriate for the user who is searching for that.",
+      "chunk_id": "DOC_960::c000021",
+      "chunk_hash": "eb2936719dc1",
+      "prev_chunk_id": "DOC_960::c000020",
+      "next_chunk_id": "DOC_960::c000022"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "of trouble for that user. For things such as health or suicide ideation or self \\- harm, we work with experts to, first, promote content at the top of a search result that gives information that can be most helpful and appropriate for the user who is searching for that. In t h e UK, we work with the Samaritans and with Sh out. We work with them not only on providing ways for the user to connect with someone who can help but by being very careful about how we display information that is appropriate. T here are important considerations here, to ensure that we are not unintentionally glorifying self \u2011 harm or suicide. We have a terrific partnership with these NGOs and we have similar ones around the world on those kinds of thin gs. We feel responsible for providing helpful information at all times, but in those acute situations around health and safety, we try to promote information that is going to be responsible and helpful to a person who might be in crisis.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 15,
+      "speaker_name": "Baroness Kidron",
+      "turn_part_index": 1,
+      "display_text": "of trouble for that user. For things such as health or suicide ideation or self \\- harm, we work with experts to, first, promote content at the top of a search result that gives information that can be most helpful and appropriate for the user who is searching for that. In t h e UK, we work with the Samaritans and with Sh out. We work with them not only on providing ways for the user to connect with someone who can help but by being very careful about how we display information that is appropriate. T here are important considerations here, to ensure that we are not unintentionally glorifying self \u2011 harm or suicide. We have a terrific partnership with these NGOs and we have similar ones around the world on those kinds of thin gs. We feel responsible for providing helpful information at all times, but in those acute situations around health and safety, we try to promote information that is going to be responsible and helpful to a person who might be in crisis.",
+      "chunk_id": "DOC_960::c000022",
+      "chunk_hash": "0c2b43941768",
+      "prev_chunk_id": "DOC_960::c000021",
+      "next_chunk_id": "DOC_960::c000023"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "I do want to go to Leslie so that she has a chance to come in on this, but,i n your view, is it not a problem? Are we worrying about the wrong thing here?\n\nMarkham C. Erickson:We agree with the objective here, which is to ensure that UK citizens \u2019 security and safety are enhanced.\n\nIn terms of balancing proportionality and freedom of speech and privacy, I would encourage the c ommittee to look at search services and acknowledge the unique distinctions that they have relative to freedom of speech and how they operate, and be proportionate in its response.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 16,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "I do want to go to Leslie so that she has a chance to come in on this, but,i n your view, is it not a problem? Are we worrying about the wrong thing here?\n\nMarkham C. Erickson:We agree with the objective here, which is to ensure that UK citizens \u2019 security and safety are enhanced.\n\nIn terms of balancing proportionality and freedom of speech and privacy, I would encourage the c ommittee to look at search services and acknowledge the unique distinctions that they have relative to freedom of speech and how they operate, and be proportionate in its response.",
+      "chunk_id": "DOC_960::c000023",
+      "chunk_hash": "d691a7696cea",
+      "prev_chunk_id": "DOC_960::c000022",
+      "next_chunk_id": "DOC_960::c000024"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "Okay. T hank you.\n\nMarkham C. Erickson: I will leave it there, but I think w e are aware of those kinds of situations. I would not say there is no problem in society, but when we find ways in which we can be helpful,we feel a responsibility to do stuff.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 17,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "Okay. T hank you.\n\nMarkham C. Erickson: I will leave it there, but I think w e are aware of those kinds of situations. I would not say there is no problem in society, but when we find ways in which we can be helpful,we feel a responsibility to do stuff.",
+      "chunk_id": "DOC_960::c000024",
+      "chunk_hash": "e7a1c9e02876",
+      "prev_chunk_id": "DOC_960::c000023",
+      "next_chunk_id": "DOC_960::c000025"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "It is nice to see you, albeit virtually. Thank you so much for inviting us and having a conversation about what I think we all realise are shared goals in making sure that users, particularly kids, have a safe experience online.\n\nOn your question about what we h ave real concerns about, on kid s\u2019 safety and where it could be improv ed as it relates to the B ill, I certainly agree with the goals, but it would be helpful to have a little more clarity on what we mean by definitions. I think it is about priority and primary content. There are d efinitions around the need to prevent material being made available versus having systems in place to mitigate the risk of that material. It is just a matter of getting almost in the weeds of the Bill itself to make sure that, as we talk about these terms, there is a shared understanding of what the definition is, as well as the expectation for the companies as to what our obligations will be,which balanc e the need not necessarily overly to monitor proactively but to mak e sure that we are capturing this content and doing it efficiently at speed, and making sure that people are not being confronted with it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 19,
+      "speaker_name": "Leslie Miller",
+      "display_text": "It is nice to see you, albeit virtually. Thank you so much for inviting us and having a conversation about what I think we all realise are shared goals in making sure that users, particularly kids, have a safe experience online.\n\nOn your question about what we h ave real concerns about, on kid s\u2019 safety and where it could be improv ed as it relates to the B ill, I certainly agree with the goals, but it would be helpful to have a little more clarity on what we mean by definitions. I think it is about priority and primary content. There are d efinitions around the need to prevent material being made available versus having systems in place to mitigate the risk of that material. It is just a matter of getting almost in the weeds of the Bill itself to make sure that, as we talk about these terms, there is a shared understanding of what the definition is, as well as the expectation for the companies as to what our obligations will be,which balanc e the need not necessarily overly to monitor proactively but to mak e sure that we are capturing this content and doing it efficiently at speed, and making sure that people are not being confronted with it.",
+      "chunk_id": "DOC_960::c000025",
+      "chunk_hash": "518338c1ce31",
+      "prev_chunk_id": "DOC_960::c000024",
+      "next_chunk_id": "DOC_960::c000026"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "T he c ommittee ha s talked a lot about safety by design, which is taking the age \\- appropriate design system as a model and saying,\u201cL et \u2019 s have a look at the features that seem to be problematic. Let\u2019s look at the spread, the groups, the \u2018 recommend \u2019 and so on \u201d. Are you sympathetic to that view, which is a little more upstream than perhaps some of those definitions seem to suggest?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 20,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "T he c ommittee ha s talked a lot about safety by design, which is taking the age \\- appropriate design system as a model and saying,\u201cL et \u2019 s have a look at the features that seem to be problematic. Let\u2019s look at the spread, the groups, the \u2018 recommend \u2019 and so on \u201d. Are you sympathetic to that view, which is a little more upstream than perhaps some of those definitions seem to suggest?",
+      "chunk_id": "DOC_960::c000026",
+      "chunk_hash": "7a7b633794eb",
+      "prev_chunk_id": "DOC_960::c000025",
+      "next_chunk_id": "DOC_960::c000027"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am certainly open to having more transparency around the community guidelines for every company, including us. For example, when YouTub e talk s about its community guidelines, it has a quarterly trans parency report. I do not know how often people read them. We have rolled them out since 2018, but we realise that people say, \u201cWell, that is table stakes now. W e need additional information as it relates to the percentage o f violative content that people are viewing on the platform \u201d. That was why we rolled out the violative view rate earlier this year.I am open to the idea of staring at the systems and practi c es, making sure that we are appropriately enforcing our terms of service and community guidelines for content that is legal but has been determined to be harmful.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 21,
+      "speaker_name": "Leslie Miller",
+      "turn_part_index": 0,
+      "display_text": "I am certainly open to having more transparency around the community guidelines for every company, including us. For example, when YouTub e talk s about its community guidelines, it has a quarterly trans parency report. I do not know how often people read them. We have rolled them out since 2018, but we realise that people say, \u201cWell, that is table stakes now. W e need additional information as it relates to the percentage o f violative content that people are viewing on the platform \u201d. That was why we rolled out the violative view rate earlier this year.I am open to the idea of staring at the systems and practi c es, making sure that we are appropriately enforcing our terms of service and community guidelines for content that is legal but has been determined to be harmful.",
+      "chunk_id": "DOC_960::c000027",
+      "chunk_hash": "2860f2d6dbbb",
+      "prev_chunk_id": "DOC_960::c000026",
+      "next_chunk_id": "DOC_960::c000028"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "we rolled out the violative view rate earlier this year.I am open to the idea of staring at the systems and practi c es, making sure that we are appropriately enforcing our terms of service and community guidelines for content that is legal but has been determined to be harmful. Q225 Baroness Kidron:I have one last brief question; I am not sure who should answer it. You also talk about your digital literacy programme for seven to 11 year-olds. It is creative and very good as far as it goes, but it does not deal with compulsive technologies and systems; it does not deal with data extraction. One of the things I notice d\u2014I have told your colleagues in London about this \u2014 is that it talks about a lot of features that are available on services that are really only for 13 year \\- olds, but it does not say you should not be on them before you are 13. I just wonder whether you would be sympathetic to having official mandatory guidance on what digital literacy and digital safety should be taught in schools so that kids get the full picture of what is difficult about the digital world, rather than just bad actors and bad behaviour.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 21,
+      "speaker_name": "Leslie Miller",
+      "turn_part_index": 1,
+      "display_text": "we rolled out the violative view rate earlier this year.I am open to the idea of staring at the systems and practi c es, making sure that we are appropriately enforcing our terms of service and community guidelines for content that is legal but has been determined to be harmful. Q225 Baroness Kidron:I have one last brief question; I am not sure who should answer it. You also talk about your digital literacy programme for seven to 11 year-olds. It is creative and very good as far as it goes, but it does not deal with compulsive technologies and systems; it does not deal with data extraction. One of the things I notice d\u2014I have told your colleagues in London about this \u2014 is that it talks about a lot of features that are available on services that are really only for 13 year \\- olds, but it does not say you should not be on them before you are 13. I just wonder whether you would be sympathetic to having official mandatory guidance on what digital literacy and digital safety should be taught in schools so that kids get the full picture of what is difficult about the digital world, rather than just bad actors and bad behaviour.",
+      "chunk_id": "DOC_960::c000028",
+      "chunk_hash": "d9ea021aed41",
+      "prev_chunk_id": "DOC_960::c000027",
+      "next_chunk_id": "DOC_960::c000029"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I can speak about this on behalf of YouTube. Please interrupt me if I have misunderstood your question. We have done several partnerships in promoting digital literacy across the board. This includes during the time of Covid when we have rolled out campaigns, for example, with the NHS to encourage younger people to get vaccinated. As I think you know, we rolled out YouTube Kids in 2015 in large part becaus e YouTube main is not a platform meant for those under 13. There is always more that we can be doing on YouTube Kids \u2014 for example, setting Autoplay to default off and e ncouraging healthy behaviour.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I can speak about this on behalf of YouTube. Please interrupt me if I have misunderstood your question. We have done several partnerships in promoting digital literacy across the board. This includes during the time of Covid when we have rolled out campaigns, for example, with the NHS to encourage younger people to get vaccinated. As I think you know, we rolled out YouTube Kids in 2015 in large part becaus e YouTube main is not a platform meant for those under 13. There is always more that we can be doing on YouTube Kids \u2014 for example, setting Autoplay to default off and e ncouraging healthy behaviour.",
+      "chunk_id": "DOC_960::c000029",
+      "chunk_hash": "845102653a47",
+      "prev_chunk_id": "DOC_960::c000028",
+      "next_chunk_id": "DOC_960::c000030"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "I take your invitation and am very grateful for it. Personally, I was absolutely delighted that you turned off Autoplay. Thank you very much. However, what I am talking about is what goes on in schools. If yo u are doing assemblies and not saying that there are age restrictions, and not giving the full scope of the problems of interacting with digital services, you are not really educating kids. We are concerned\u2014 at least I am concerned \u2014 that there may be a situation where you are teaching children half the truth and no one else is picking up the rest. Would you welcome official guidance that says, \u201cIt\u2019s great that y ou are doing this work, but you must cover these subjects, even if it is a little self-critical \u201d?\n\nMarkham C. Erickson: W e want parents and min or s to understand how they can best protect themselves online, including with our services. We have developed our educational programmes with experts. We have developed a curriculum with the Personal, Social, Health & Economic Education Association. I am happy to think further about this and work with you on how we can expand this relative to your question. I am happy to consider this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "I take your invitation and am very grateful for it. Personally, I was absolutely delighted that you turned off Autoplay. Thank you very much. However, what I am talking about is what goes on in schools. If yo u are doing assemblies and not saying that there are age restrictions, and not giving the full scope of the problems of interacting with digital services, you are not really educating kids. We are concerned\u2014 at least I am concerned \u2014 that there may be a situation where you are teaching children half the truth and no one else is picking up the rest. Would you welcome official guidance that says, \u201cIt\u2019s great that y ou are doing this work, but you must cover these subjects, even if it is a little self-critical \u201d?\n\nMarkham C. Erickson: W e want parents and min or s to understand how they can best protect themselves online, including with our services. We have developed our educational programmes with experts. We have developed a curriculum with the Personal, Social, Health & Economic Education Association. I am happy to think further about this and work with you on how we can expand this relative to your question. I am happy to consider this.",
+      "chunk_id": "DOC_960::c000030",
+      "chunk_hash": "128a646764ac",
+      "prev_chunk_id": "DOC_960::c000029",
+      "next_chunk_id": "DOC_960::c000031"
+    },
+    {
+      "header": "Baroness Kidron",
+      "text": "T hank you for that answer.\n\nQ226 The Chair:I have a quick question for you, Markham Eric k son. I want to follow up the earlier question about advertising. In its study looking at Covid misinformation sites that r a n advertising, NewsGuard found that 67% of them had Google advertising tags on them. Many people see this as Google, through the back door, funding Covid di sinformation. How does that comply with your platform policies?\n\nMarkham C. Erickson:It is absolutely against our platform policies. We take a tremendous amount of action to raise authoritative information about Covid. We work with local health authorities, including those in the UK \u2014the National Health Service \u2014on the location of vaccine information. As to t hat kind of content relative to our advertisements, we would not want our ads to be shown. We take down a tremendous amount of ads that are violative, b ut even one ad is not appropriate. I take your point.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Baroness Kidron",
+      "display_text": "T hank you for that answer.\n\nQ226 The Chair:I have a quick question for you, Markham Eric k son. I want to follow up the earlier question about advertising. In its study looking at Covid misinformation sites that r a n advertising, NewsGuard found that 67% of them had Google advertising tags on them. Many people see this as Google, through the back door, funding Covid di sinformation. How does that comply with your platform policies?\n\nMarkham C. Erickson:It is absolutely against our platform policies. We take a tremendous amount of action to raise authoritative information about Covid. We work with local health authorities, including those in the UK \u2014the National Health Service \u2014on the location of vaccine information. As to t hat kind of content relative to our advertisements, we would not want our ads to be shown. We take down a tremendous amount of ads that are violative, b ut even one ad is not appropriate. I take your point.",
+      "chunk_id": "DOC_960::c000031",
+      "chunk_hash": "2865b552c156",
+      "prev_chunk_id": "DOC_960::c000030",
+      "next_chunk_id": "DOC_960::c000032"
+    },
+    {
+      "header": "The Chair",
+      "text": "It is 67% of those sites. Why do you think the number is so high?\n\nMarkham C. Erickson:I am not familiar with th at study or that figure, so I cannot comment on that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "The Chair",
+      "display_text": "It is 67% of those sites. Why do you think the number is so high?\n\nMarkham C. Erickson:I am not familiar with th at study or that figure, so I cannot comment on that.",
+      "chunk_id": "DOC_960::c000032",
+      "chunk_hash": "b272590f589e",
+      "prev_chunk_id": "DOC_960::c000031",
+      "next_chunk_id": "DOC_960::c000033"
+    },
+    {
+      "header": "The Chair",
+      "text": "Perhaps we can follow it up in writing and get a response after this session.\n\nMarkham C. Erickson:I would be happy to do so.\n\nQ227 Darren Jones:To begin with, I should declare that Google is a paying member of the P arliamentary Internet, C ommunications and T echnology F orum, which is an all- party parliamentary group that I co- chair and has previously sponsored an event hosted by Labour Digital, which I chair.\n\nMy first question is for Leslie Miller. Ms Miller, will you be the person responsible for submitting the risk assessment on behalf of YouTube?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 26,
+      "speaker_name": "The Chair",
+      "display_text": "Perhaps we can follow it up in writing and get a response after this session.\n\nMarkham C. Erickson:I would be happy to do so.\n\nQ227 Darren Jones:To begin with, I should declare that Google is a paying member of the P arliamentary Internet, C ommunications and T echnology F orum, which is an all- party parliamentary group that I co- chair and has previously sponsored an event hosted by Labour Digital, which I chair.\n\nMy first question is for Leslie Miller. Ms Miller, will you be the person responsible for submitting the risk assessment on behalf of YouTube?",
+      "chunk_id": "DOC_960::c000033",
+      "chunk_hash": "078891f4a6fe",
+      "prev_chunk_id": "DOC_960::c000032",
+      "next_chunk_id": "DOC_960::c000034"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "That is a good question. I do not know that I will be personally responsible, because it will be based on a cross \\- functional group of people participating in the follow \\- up of the various codes of practi c e that are going to be developed and the requirements that I know Ofcom will be responsible for. It will be a cross \\- functional team of people dedicated to assessing risk and providing information. I will certainly be involved, but I do not want to say that I will be the only executive who will be responsible for this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 27,
+      "speaker_name": "Leslie Miller",
+      "display_text": "That is a good question. I do not know that I will be personally responsible, because it will be based on a cross \\- functional group of people participating in the follow \\- up of the various codes of practi c e that are going to be developed and the requirements that I know Ofcom will be responsible for. It will be a cross \\- functional team of people dedicated to assessing risk and providing information. I will certainly be involved, but I do not want to say that I will be the only executive who will be responsible for this.",
+      "chunk_id": "DOC_960::c000034",
+      "chunk_hash": "31f9e25055f3",
+      "prev_chunk_id": "DOC_960::c000033",
+      "next_chunk_id": "DOC_960::c000035"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "It is still to be determined as we make our way through this process. I can not give you any specifics, but it will certainly have a review by executives.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 29,
+      "speaker_name": "Leslie Miller",
+      "display_text": "It is still to be determined as we make our way through this process. I can not give you any specifics, but it will certainly have a review by executives.",
+      "chunk_id": "DOC_960::c000035",
+      "chunk_hash": "eabb2254010c",
+      "prev_chunk_id": "DOC_960::c000034",
+      "next_chunk_id": "DOC_960::c000036"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "Thank you.Mr Erickson, I put the same question to you. Will you be responsible for Google \u2019 s s ubmission of its risk assessment to Ofcom?\n\nMarkham C. Erickson: Thank you for the question. We have not made a determination about who will sign the risk assessment. We know that we will work with Ofcom in providing the risk assessment and it will be reviewed at an appropriate level.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 30,
+      "speaker_name": "Darren Jones",
+      "display_text": "Thank you.Mr Erickson, I put the same question to you. Will you be responsible for Google \u2019 s s ubmission of its risk assessment to Ofcom?\n\nMarkham C. Erickson: Thank you for the question. We have not made a determination about who will sign the risk assessment. We know that we will work with Ofcom in providing the risk assessment and it will be reviewed at an appropriate level.",
+      "chunk_id": "DOC_960::c000036",
+      "chunk_hash": "7e077066e8f6",
+      "prev_chunk_id": "DOC_960::c000035",
+      "next_chunk_id": "DOC_960::c000037"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "Mr Erickson?\n\nMarkham C. Erickson:I am not sure I totally understand the question. If the question is whether we work with colleagues in trust and safety and legal and product to review how our products and services are being used and where we think they could be improved, yes, I and m y team do weigh in in that regard.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 33,
+      "speaker_name": "Darren Jones",
+      "display_text": "Mr Erickson?\n\nMarkham C. Erickson:I am not sure I totally understand the question. If the question is whether we work with colleagues in trust and safety and legal and product to review how our products and services are being used and where we think they could be improved, yes, I and m y team do weigh in in that regard.",
+      "chunk_id": "DOC_960::c000037",
+      "chunk_hash": "4ca76ac75fa3",
+      "prev_chunk_id": "DOC_960::c000036",
+      "next_chunk_id": "DOC_960::c000038"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "I understand that. To clarify my question, we are interested in board \\- level responsibility and accountability for the measures under this B ill. O bviously,A lphabet has its series of committees; I understand your product s are in different lines under that. A lphabet has an Audit a nd Compliance Committee that is tasked with understanding risk to Google, including compliance with regulations and presumably, therefore, the safety of your customers u sing your product s. M y question is whether either of you, even before this B ill becomes law, ha s had to report in to that committee about online safety issues in your product areas.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 34,
+      "speaker_name": "Darren Jones",
+      "display_text": "I understand that. To clarify my question, we are interested in board \\- level responsibility and accountability for the measures under this B ill. O bviously,A lphabet has its series of committees; I understand your product s are in different lines under that. A lphabet has an Audit a nd Compliance Committee that is tasked with understanding risk to Google, including compliance with regulations and presumably, therefore, the safety of your customers u sing your product s. M y question is whether either of you, even before this B ill becomes law, ha s had to report in to that committee about online safety issues in your product areas.",
+      "chunk_id": "DOC_960::c000038",
+      "chunk_hash": "3e77a6f56f68",
+      "prev_chunk_id": "DOC_960::c000037",
+      "next_chunk_id": "DOC_960::c000039"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "Thus far I have not, but what I can tell you is that the programmes, tools and systems \u2014e verything that we put in place as it relates to the safety of our users \u2014are not segmented into a non \\- executive part of the company. It is, quite honestly, comprehensive and holistic across the company.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 35,
+      "speaker_name": "Leslie Miller",
+      "display_text": "Thus far I have not, but what I can tell you is that the programmes, tools and systems \u2014e verything that we put in place as it relates to the safety of our users \u2014are not segmented into a non \\- executive part of the company. It is, quite honestly, comprehensive and holistic across the company.",
+      "chunk_id": "DOC_960::c000039",
+      "chunk_hash": "e4449838acd0",
+      "prev_chunk_id": "DOC_960::c000038",
+      "next_chunk_id": "DOC_960::c000040"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "Mr Erickson, is that the same for Google?\n\nMarkham C. Erickson: C ross \\- functional teams rep or t up so that our compliance committees are adequately informed. I appreciate the question.\n\nQ228 Darren Jones:My next question is about research because,u nder a duty of care, there is an obligation to deal with harms that are reasonably foreseeable. Ms Miller, how much of YouTube\u2019s marketing and research budget is spent on trying to identify online harm issues for your users?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 36,
+      "speaker_name": "Darren Jones",
+      "display_text": "Mr Erickson, is that the same for Google?\n\nMarkham C. Erickson: C ross \\- functional teams rep or t up so that our compliance committees are adequately informed. I appreciate the question.\n\nQ228 Darren Jones:My next question is about research because,u nder a duty of care, there is an obligation to deal with harms that are reasonably foreseeable. Ms Miller, how much of YouTube\u2019s marketing and research budget is spent on trying to identify online harm issues for your users?",
+      "chunk_id": "DOC_960::c000040",
+      "chunk_hash": "f7870e27bb7f",
+      "prev_chunk_id": "DOC_960::c000039",
+      "next_chunk_id": "DOC_960::c000041"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am not aware of a specific line item in our budget that is dedicated to this. We work with experts in fields such as child development and mental health. W e rel y on their insights and research because we want to make sure that our product and policy decisions are up to date, based on their latest research and insights.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I am not aware of a specific line item in our budget that is dedicated to this. We work with experts in fields such as child development and mental health. W e rel y on their insights and research because we want to make sure that our product and policy decisions are up to date, based on their latest research and insights.",
+      "chunk_id": "DOC_960::c000041",
+      "chunk_hash": "3dbb9d1e9166",
+      "prev_chunk_id": "DOC_960::c000040",
+      "next_chunk_id": "DOC_960::c000042"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I think you can glean a lot as it relates to the transparency report, for example,on our community guidelines. We release that quarterly. I n the last quarter, we removed over 6 million videos.F or example, we look at how fast our machines are capturing that content relative to user flags. Over 90% of the content is flagged by our machines. It is also about how many views that content received before we took action on it and making sure we are reducing them\u2014 for example, that it is fewer than 10 views. In the last quarter, approximately two-thirds of violative content were removed with fewer than 10 views.\n\nQ229 Darren Jones: T he reason for my question is that there is a distinction between transparency reporting and operational standards that compl y with your guidelines and terms and conditions, and funding research that identifies online safety issues being faced by your customers. So my next question is this: u nder this B ill, or in the debate surrounding it, Ofcom has the right to request information. There is a debate about whether external researchers should be given access to data that comes from the use of your product s to help you understand the online harms that you might need to tackle. Would YouTube be willing to do that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I think you can glean a lot as it relates to the transparency report, for example,on our community guidelines. We release that quarterly. I n the last quarter, we removed over 6 million videos.F or example, we look at how fast our machines are capturing that content relative to user flags. Over 90% of the content is flagged by our machines. It is also about how many views that content received before we took action on it and making sure we are reducing them\u2014 for example, that it is fewer than 10 views. In the last quarter, approximately two-thirds of violative content were removed with fewer than 10 views.\n\nQ229 Darren Jones: T he reason for my question is that there is a distinction between transparency reporting and operational standards that compl y with your guidelines and terms and conditions, and funding research that identifies online safety issues being faced by your customers. So my next question is this: u nder this B ill, or in the debate surrounding it, Ofcom has the right to request information. There is a debate about whether external researchers should be given access to data that comes from the use of your product s to help you understand the online harms that you might need to tackle. Would YouTube be willing to do that?",
+      "chunk_id": "DOC_960::c000042",
+      "chunk_hash": "6c81df5e5fa8",
+      "prev_chunk_id": "DOC_960::c000041",
+      "next_chunk_id": "DOC_960::c000043"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "It depends on what Ofcom ends up defining as the type of material that needs to be made available \u2014f or example, material that could be used in nefarious ways to manipulate the platform. We would certainly be happy to work with Ofcom as it develops the requirements, and o bviously we will comply, but this is where we would like to be involved over the process in the definitions and application of the codes.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 40,
+      "speaker_name": "Leslie Miller",
+      "display_text": "It depends on what Ofcom ends up defining as the type of material that needs to be made available \u2014f or example, material that could be used in nefarious ways to manipulate the platform. We would certainly be happy to work with Ofcom as it develops the requirements, and o bviously we will comply, but this is where we would like to be involved over the process in the definitions and application of the codes.",
+      "chunk_id": "DOC_960::c000043",
+      "chunk_hash": "0ddd85ec8cb2",
+      "prev_chunk_id": "DOC_960::c000042",
+      "next_chunk_id": "DOC_960::c000044"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "Mr Erickson, from a search perspective, how much of your research and marketing budget do you spend on researching potential safety issues?\n\nMarkham C. Erickson: Thank you for the question. If I may approach the question from this way, we have a number of ways to ensure that our search product is appropriately contemplating the safety of users and that when they are querying something they will get relevant information, not harmful information or spam that is inappropriate relative to what they are looking for.\n\nIn addition to internal trust and safety teams and mechanisms, we have a set of external search evaluators who constantly review our search tool. We prioritise things like health and safety and ask them to look at the results being returned. We make changes to our search t ool when we see that we a re not quite meeting our expectations to ensure that users are getting the most relevant information they are looking for. That is our primary means of ensuring that users are protected.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 41,
+      "speaker_name": "Darren Jones",
+      "display_text": "Mr Erickson, from a search perspective, how much of your research and marketing budget do you spend on researching potential safety issues?\n\nMarkham C. Erickson: Thank you for the question. If I may approach the question from this way, we have a number of ways to ensure that our search product is appropriately contemplating the safety of users and that when they are querying something they will get relevant information, not harmful information or spam that is inappropriate relative to what they are looking for.\n\nIn addition to internal trust and safety teams and mechanisms, we have a set of external search evaluators who constantly review our search tool. We prioritise things like health and safety and ask them to look at the results being returned. We make changes to our search t ool when we see that we a re not quite meeting our expectations to ensure that users are getting the most relevant information they are looking for. That is our primary means of ensuring that users are protected.",
+      "chunk_id": "DOC_960::c000044",
+      "chunk_hash": "c99d0f34a1ab",
+      "prev_chunk_id": "DOC_960::c000043",
+      "next_chunk_id": "DOC_960::c000045"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "Would Google be willing to share data with third \\- party researchers to help inform its understanding of harms from its products?\n\nMarkham C. Erickson:Google is very transparent about how its search product work s. We publish material that explains how our search tool works and what its goals are, but I should also say that, unlike perhaps certain social media platforms, we are an open ecosystem. W e are able to have educators, NGOs and researchers run ning search queries to determine whether there is bias in the results being returned. Therefore, we see a tremendous amount of third \\- party research being done because we are an open platform.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 42,
+      "speaker_name": "Darren Jones",
+      "display_text": "Would Google be willing to share data with third \\- party researchers to help inform its understanding of harms from its products?\n\nMarkham C. Erickson:Google is very transparent about how its search product work s. We publish material that explains how our search tool works and what its goals are, but I should also say that, unlike perhaps certain social media platforms, we are an open ecosystem. W e are able to have educators, NGOs and researchers run ning search queries to determine whether there is bias in the results being returned. Therefore, we see a tremendous amount of third \\- party research being done because we are an open platform.",
+      "chunk_id": "DOC_960::c000045",
+      "chunk_hash": "21b8fc9f741d",
+      "prev_chunk_id": "DOC_960::c000044",
+      "next_chunk_id": "DOC_960::c000046"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "You may disagree with my characteri s ation of your answers but, to play back what I have heard, neither of you knows which executive would be responsible for submitting the risk assessment; n either of you has reported to A lphabet \u2019 s Audit a nd Compliance Committee on safety issues; and neither of you has been able to comment on research that you pay for to understand harms, or future harms, from the use of your products. Do either of you have concerns about Google \u2019s ability to comply with the provisions in this dra f t Bi ll?\n\nMarkham C. Erickson: A s currently written, our concern with the dra f t B ill is that it is overly complicated; it is too complex.W e would encourage the c ommittee to tighten the definitions, particularly on things like online harm. We think that will ensure that we are able appropriately to comply with the law. The penalties under the proposed law are, as you know, quite severe. N ot only do we have natural incentives to ensure that our products and services are being used as intended and are providing a safe and secure experience; of course,when the legislation is enacted, we will also have incentives to comply with the law based on civil penalty structures that are being proposed.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 43,
+      "speaker_name": "Darren Jones",
+      "display_text": "You may disagree with my characteri s ation of your answers but, to play back what I have heard, neither of you knows which executive would be responsible for submitting the risk assessment; n either of you has reported to A lphabet \u2019 s Audit a nd Compliance Committee on safety issues; and neither of you has been able to comment on research that you pay for to understand harms, or future harms, from the use of your products. Do either of you have concerns about Google \u2019s ability to comply with the provisions in this dra f t Bi ll?\n\nMarkham C. Erickson: A s currently written, our concern with the dra f t B ill is that it is overly complicated; it is too complex.W e would encourage the c ommittee to tighten the definitions, particularly on things like online harm. We think that will ensure that we are able appropriately to comply with the law. The penalties under the proposed law are, as you know, quite severe. N ot only do we have natural incentives to ensure that our products and services are being used as intended and are providing a safe and secure experience; of course,when the legislation is enacted, we will also have incentives to comply with the law based on civil penalty structures that are being proposed.",
+      "chunk_id": "DOC_960::c000046",
+      "chunk_hash": "98db62ba20a2",
+      "prev_chunk_id": "DOC_960::c000045",
+      "next_chunk_id": "DOC_960::c000047"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I appreciate that is your interpretation, but I also think that part of the reason why we are having the conversation today is to see whether there are areas to modify the proposal to get a better understanding of the empowerment of the chief executive of Ofcom. If you suggest here that we know who exactly will oversee the risk assessment and the details of our compliance, the process is still ongoing, but I hope what you take away is that we are a committed partner in making sure that the B ill accomplishes its goals and is workable for us.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 45,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I appreciate that is your interpretation, but I also think that part of the reason why we are having the conversation today is to see whether there are areas to modify the proposal to get a better understanding of the empowerment of the chief executive of Ofcom. If you suggest here that we know who exactly will oversee the risk assessment and the details of our compliance, the process is still ongoing, but I hope what you take away is that we are a committed partner in making sure that the B ill accomplishes its goals and is workable for us.",
+      "chunk_id": "DOC_960::c000047",
+      "chunk_hash": "e42fada9617c",
+      "prev_chunk_id": "DOC_960::c000046",
+      "next_chunk_id": "DOC_960::c000048"
+    },
+    {
+      "header": "Darren Jones",
+      "text": "More broadly, my point is that you should already have a board \\- level executive responsible for these issues, not just when the B ill becomes law. Ms Miller, on that point,I understand that you are going to become the exec chair next year at Google. Could you explain what that means to us, please?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 46,
+      "speaker_name": "Darren Jones",
+      "display_text": "More broadly, my point is that you should already have a board \\- level executive responsible for these issues, not just when the B ill becomes law. Ms Miller, on that point,I understand that you are going to become the exec chair next year at Google. Could you explain what that means to us, please?",
+      "chunk_id": "DOC_960::c000048",
+      "chunk_hash": "d211fe59a5c9",
+      "prev_chunk_id": "DOC_960::c000047",
+      "next_chunk_id": "DOC_960::c000049"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "That is news to me. That is quite a promotion. I will be the executive chair of the G lobal Internet F orum, which we co \\- founded several years ago to address violent extremism. I will be stepping in on that, which is equally important but not specific to Google.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 49,
+      "speaker_name": "Leslie Miller",
+      "display_text": "That is news to me. That is quite a promotion. I will be the executive chair of the G lobal Internet F orum, which we co \\- founded several years ago to address violent extremism. I will be stepping in on that, which is equally important but not specific to Google.",
+      "chunk_id": "DOC_960::c000049",
+      "chunk_hash": "23112ab73b89",
+      "prev_chunk_id": "DOC_960::c000048",
+      "next_chunk_id": "DOC_960::c000050"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "That is okay.\n\nQ230 Lord Clement-Jones: Hello to both of you. I want to pursue Darren Jones\u2019s point, in part about the issue of proactivity but also the question of responsibility. H ow proactive are you in preventing the impact and spread of harmful content on both Google and YouTube? In a sense, if you then adopt technology to mitigate that, who takes the decision \u2014n ot only who develops it, but who takes the decision to introduce technology or, as you did with turning off A utoplay, who makes the decision not to deploy the technology?For instance, Leslie, who took the decision to turn off the A utoplay function, and what was the basis for that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 51,
+      "speaker_name": "Leslie Miller",
+      "display_text": "That is okay.\n\nQ230 Lord Clement-Jones: Hello to both of you. I want to pursue Darren Jones\u2019s point, in part about the issue of proactivity but also the question of responsibility. H ow proactive are you in preventing the impact and spread of harmful content on both Google and YouTube? In a sense, if you then adopt technology to mitigate that, who takes the decision \u2014n ot only who develops it, but who takes the decision to introduce technology or, as you did with turning off A utoplay, who makes the decision not to deploy the technology?For instance, Leslie, who took the decision to turn off the A utoplay function, and what was the basis for that?",
+      "chunk_id": "DOC_960::c000050",
+      "chunk_hash": "bf55904d2d02",
+      "prev_chunk_id": "DOC_960::c000049",
+      "next_chunk_id": "DOC_960::c000051"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "Ultimately, Susan Wojcicki is the CEO of YouTube and is responsible for the platform and business, but in the process of assessing A ut oplay and whether it should be default on or default off, for example on YouTube Kids or supervised experiences, t his is where we benefit from outside expertise as well as having experts inside the company, for example,on child development, digital literacy and mental health. W e make determinations on the healthiest experience that a user will have on the platform, particularly in the area of kids.\n\nIn the 12 years I have worked at the company, I have found that nothing is static in the ways in which we commit to make sure that we adapt to the threats around us and that we put tools in place for parents and users more broadly.For any of these things, I do not think we have made one decision and our work is done. It is ongoing, adaptive and happening all the time.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 52,
+      "speaker_name": "Leslie Miller",
+      "display_text": "Ultimately, Susan Wojcicki is the CEO of YouTube and is responsible for the platform and business, but in the process of assessing A ut oplay and whether it should be default on or default off, for example on YouTube Kids or supervised experiences, t his is where we benefit from outside expertise as well as having experts inside the company, for example,on child development, digital literacy and mental health. W e make determinations on the healthiest experience that a user will have on the platform, particularly in the area of kids.\n\nIn the 12 years I have worked at the company, I have found that nothing is static in the ways in which we commit to make sure that we adapt to the threats around us and that we put tools in place for parents and users more broadly.For any of these things, I do not think we have made one decision and our work is done. It is ongoing, adaptive and happening all the time.",
+      "chunk_id": "DOC_960::c000051",
+      "chunk_hash": "a384ca0d1ed8",
+      "prev_chunk_id": "DOC_960::c000050",
+      "next_chunk_id": "DOC_960::c000052"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am not directly aware whether we have done any assessment of impact in having Autoplay default off, but I would be happy to follow up with you on this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 54,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I am not directly aware whether we have done any assessment of impact in having Autoplay default off, but I would be happy to follow up with you on this.",
+      "chunk_id": "DOC_960::c000052",
+      "chunk_hash": "1a3bb4e4b645",
+      "prev_chunk_id": "DOC_960::c000051",
+      "next_chunk_id": "DOC_960::c000053"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "Turning to Google, Markham, we have the issue of search e s producing self \\- harm material. We know that on Google Chrome there is a particular app w ith pop \\- up content that gives support to those looking for that kind of material, but it has not been mainstreamed. Is that the kind of thing that you are contin uously evaluating? Is there a barrier to doing that sort of thing \u2014 tweaking the search algorith m, for instance?\n\nMarkham C. Erickson: Thank you for the question. I also thought that I was going to have to congratulate Leslie on her promotion, but she will be an excellent leader at GIFCT; it is well deserved in that regard.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 55,
+      "speaker_name": "Lord Clement-Jones",
+      "turn_part_index": 0,
+      "display_text": "Turning to Google, Markham, we have the issue of search e s producing self \\- harm material. We know that on Google Chrome there is a particular app w ith pop \\- up content that gives support to those looking for that kind of material, but it has not been mainstreamed. Is that the kind of thing that you are contin uously evaluating? Is there a barrier to doing that sort of thing \u2014 tweaking the search algorith m, for instance?\n\nMarkham C. Erickson: Thank you for the question. I also thought that I was going to have to congratulate Leslie on her promotion, but she will be an excellent leader at GIFCT; it is well deserved in that regard.",
+      "chunk_id": "DOC_960::c000053",
+      "chunk_hash": "aa9ff347a7e8",
+      "prev_chunk_id": "DOC_960::c000052",
+      "next_chunk_id": "DOC_960::c000054"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "sort of thing \u2014 tweaking the search algorith m, for instance? Markham C. Erickson: Thank you for the question. I also thought that I was going to have to congratulate Leslie on her promotion, but she will be an excellent leader at GIFCT; it is well deserved in that regard. When it comes to self \\- harm and threats of suicide ideation, we want to meet people where they are in those moments of distress. You referenced that there is a third \\- party plug \\- in t o our Chrome browser that provides information for users who are exploring self \\- harm, but, t o be clear, we do not wait for that, nor did we not take action ourselves. We work very closely with the Samaritans in the UK so that, when someone is searching for self \u2011 harm terms or suicide ideations,our service pops up a box with information to be helpful to that person in that moment, working with the expert s at the Samaritans and Shout, so that they have information that can help them in that moment, including ways to reach someone quickly for help in that time of distress. The plug \\- in that you reference d is in addition to that. We were happy to work with the party that developed that plug \\- in, but the Google service itself also respon ds to those types of threats with its own content that has been developed with expert input.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 55,
+      "speaker_name": "Lord Clement-Jones",
+      "turn_part_index": 1,
+      "display_text": "sort of thing \u2014 tweaking the search algorith m, for instance? Markham C. Erickson: Thank you for the question. I also thought that I was going to have to congratulate Leslie on her promotion, but she will be an excellent leader at GIFCT; it is well deserved in that regard. When it comes to self \\- harm and threats of suicide ideation, we want to meet people where they are in those moments of distress. You referenced that there is a third \\- party plug \\- in t o our Chrome browser that provides information for users who are exploring self \\- harm, but, t o be clear, we do not wait for that, nor did we not take action ourselves. We work very closely with the Samaritans in the UK so that, when someone is searching for self \u2011 harm terms or suicide ideations,our service pops up a box with information to be helpful to that person in that moment, working with the expert s at the Samaritans and Shout, so that they have information that can help them in that moment, including ways to reach someone quickly for help in that time of distress. The plug \\- in that you reference d is in addition to that. We were happy to work with the party that developed that plug \\- in, but the Google service itself also respon ds to those types of threats with its own content that has been developed with expert input.",
+      "chunk_id": "DOC_960::c000054",
+      "chunk_hash": "cd78dc97583f",
+      "prev_chunk_id": "DOC_960::c000053",
+      "next_chunk_id": "DOC_960::c000055"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "Where would that evaluatio n and decision have been made to do what you have done?\n\nMarkham C. Erickson: W hen we develop our products and services, including improvements to our products and services, we think about how we can ensure that users have a safe and secure experience. I n things like health and safety, we ask our search evaluators to pay particular attention to what can be done to ensure that we are meeting people in that moment with the information that will be most helpful to them, depending on what they are searching for.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 56,
+      "speaker_name": "Lord Clement-Jones",
+      "display_text": "Where would that evaluatio n and decision have been made to do what you have done?\n\nMarkham C. Erickson: W hen we develop our products and services, including improvements to our products and services, we think about how we can ensure that users have a safe and secure experience. I n things like health and safety, we ask our search evaluators to pay particular attention to what can be done to ensure that we are meeting people in that moment with the information that will be most helpful to them, depending on what they are searching for.",
+      "chunk_id": "DOC_960::c000055",
+      "chunk_hash": "959fd9b39aa2",
+      "prev_chunk_id": "DOC_960::c000054",
+      "next_chunk_id": "DOC_960::c000056"
+    },
+    {
+      "header": "Lord Clement-Jones",
+      "text": "Coming back to Leslie, in the safety policy that you very comprehensively set out in your evidence,one of the key issues is when a single piece of policy \\- violat ing content gets taken down. You probably have to hand the average time that it is allowed to stay up before it is removed. W ho makes the decision s about that sort of area, if you like, of the way that you moderate the platform?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 57,
+      "speaker_name": "Lord Clement-Jones",
+      "display_text": "Coming back to Leslie, in the safety policy that you very comprehensively set out in your evidence,one of the key issues is when a single piece of policy \\- violat ing content gets taken down. You probably have to hand the average time that it is allowed to stay up before it is removed. W ho makes the decision s about that sort of area, if you like, of the way that you moderate the platform?",
+      "chunk_id": "DOC_960::c000056",
+      "chunk_hash": "c6622f6d4981",
+      "prev_chunk_id": "DOC_960::c000055",
+      "next_chunk_id": "DOC_960::c000057"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "This is an area where we feel an obligation to be transparent, which is something I referred to earlier. You say that, by the time we have taken action on a video, probably too many people have been exposed to it and the harm has been done, but that is why in our transparency report we reference two things: firs t, that our machines can catch this content at scale around the globe; a nd, secondly, that we take action with very few views. In the last quarter alone, over two-thirds of the videos that violated our community guidelines we re removed with fewer than 10 views, because we understand that just removing a video does not necessarily explain the totality o f whether we have mitigated the harm. That is why we include those two other additional components.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 58,
+      "speaker_name": "Leslie Miller",
+      "display_text": "This is an area where we feel an obligation to be transparent, which is something I referred to earlier. You say that, by the time we have taken action on a video, probably too many people have been exposed to it and the harm has been done, but that is why in our transparency report we reference two things: firs t, that our machines can catch this content at scale around the globe; a nd, secondly, that we take action with very few views. In the last quarter alone, over two-thirds of the videos that violated our community guidelines we re removed with fewer than 10 views, because we understand that just removing a video does not necessarily explain the totality o f whether we have mitigated the harm. That is why we include those two other additional components.",
+      "chunk_id": "DOC_960::c000057",
+      "chunk_hash": "b8f5cce790a2",
+      "prev_chunk_id": "DOC_960::c000056",
+      "next_chunk_id": "DOC_960::c000058"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "T o pick up the last answer, what about the other third? W hen we are talking to these large platforms, it is easy for us to be quoted, \u201cOh well, w e deal with 90% using our algorithm and only 10% are flagged by humans \u201d, but how many video views do you get every day on YouTube?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 59,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "T o pick up the last answer, what about the other third? W hen we are talking to these large platforms, it is easy for us to be quoted, \u201cOh well, w e deal with 90% using our algorithm and only 10% are flagged by humans \u201d, but how many video views do you get every day on YouTube?",
+      "chunk_id": "DOC_960::c000058",
+      "chunk_hash": "6f7264e342c4",
+      "prev_chunk_id": "DOC_960::c000057",
+      "next_chunk_id": "DOC_960::c000059"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am not sure about the number of video views on YouTube. Obviously, it depends on the user. We have 500 hours of video uploaded every minute, to give a bit of scale. On your question, this was why earlier this year we rolled ou t\u2014it is a mouthful \u2014the violative view rate because it goes to exactly what you are asking, which is this: that is okay, but relative to what people are viewing on the platform, how much of it is in fact violative? What we announced in the past quarter was that, for every 10,000 views on the platform, 19 to 21 of them w ere of content that violated our community guidelines.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 60,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I am not sure about the number of video views on YouTube. Obviously, it depends on the user. We have 500 hours of video uploaded every minute, to give a bit of scale. On your question, this was why earlier this year we rolled ou t\u2014it is a mouthful \u2014the violative view rate because it goes to exactly what you are asking, which is this: that is okay, but relative to what people are viewing on the platform, how much of it is in fact violative? What we announced in the past quarter was that, for every 10,000 views on the platform, 19 to 21 of them w ere of content that violated our community guidelines.",
+      "chunk_id": "DOC_960::c000059",
+      "chunk_hash": "a53b47e697e5",
+      "prev_chunk_id": "DOC_960::c000058",
+      "next_chunk_id": "DOC_960::c000060"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "I go back to the scale issue. If you have billions of views every day, even if you manage to filter out all but 0.5%, that is still a lot of views we should be concerned about in terms of its violative content.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 61,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "I go back to the scale issue. If you have billions of views every day, even if you manage to filter out all but 0.5%, that is still a lot of views we should be concerned about in terms of its violative content.",
+      "chunk_id": "DOC_960::c000060",
+      "chunk_hash": "689877224cd4",
+      "prev_chunk_id": "DOC_960::c000059",
+      "next_chunk_id": "DOC_960::c000061"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "Yes, and t his is why we make this data available and update it quarterly, becaus e we want to keep doing better on it and want people to hold us accountable accordingly. It is also why we have applied machine learning because, to answer your point, being able to moderate content on the platform at scale requ ires a mix of machines and humans to make sure it is as safe as possible.\n\nQ231 Lord Knight of Weymouth:Mr Erickson, I am interested in whether Google has evidence, through cookies or other sort s of technology for tracking, that people are finding conspiracy theories and misinformation elsewhere, perhaps on Facebook,which we have just been talking to, and then going to Google to search for further information based on what they might have seen on a social media platform elsewhere.\n\nMarkham C. Erickson: Thank you for the question. I want to be responsive to this and accurate but I am not sure I understand the question.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 62,
+      "speaker_name": "Leslie Miller",
+      "display_text": "Yes, and t his is why we make this data available and update it quarterly, becaus e we want to keep doing better on it and want people to hold us accountable accordingly. It is also why we have applied machine learning because, to answer your point, being able to moderate content on the platform at scale requ ires a mix of machines and humans to make sure it is as safe as possible.\n\nQ231 Lord Knight of Weymouth:Mr Erickson, I am interested in whether Google has evidence, through cookies or other sort s of technology for tracking, that people are finding conspiracy theories and misinformation elsewhere, perhaps on Facebook,which we have just been talking to, and then going to Google to search for further information based on what they might have seen on a social media platform elsewhere.\n\nMarkham C. Erickson: Thank you for the question. I want to be responsive to this and accurate but I am not sure I understand the question.",
+      "chunk_id": "DOC_960::c000061",
+      "chunk_hash": "9c19b5f14f5a",
+      "prev_chunk_id": "DOC_960::c000060",
+      "next_chunk_id": "DOC_960::c000062"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "W hat I am driving at is understanding the viral spread of misinformation and how easily you can end up down a rabbit hole. You start off on a platform; y ou get exposed to content that misinform s you;and you then go back to Google, because that is the search engine of choice for so many people, and search for that.Is there any way for you as Google to be able to flag the misinformation that is coming out and track those sort s of user journeys? Clear ly, as a platform you are tracking user journeys all the time; t hat is your business.\n\nMarkham C. Erickson: Thank you for the question. A s you may know, we actually announced our intention to eliminate cookies altogether from our platform, as well as any tracking device, because we understand that users do not want to be tracked across the i nternet. When users come to Google to search for something, we provide a result that is relevant and appropriate to the question that they are asking. The way we do that is by providing authorita tive information relative to that search. That is the primary means of avoiding misinformation. People come to the search query. They want to know how tall a mountain is and we give them the answer quickly and efficiently.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 63,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "W hat I am driving at is understanding the viral spread of misinformation and how easily you can end up down a rabbit hole. You start off on a platform; y ou get exposed to content that misinform s you;and you then go back to Google, because that is the search engine of choice for so many people, and search for that.Is there any way for you as Google to be able to flag the misinformation that is coming out and track those sort s of user journeys? Clear ly, as a platform you are tracking user journeys all the time; t hat is your business.\n\nMarkham C. Erickson: Thank you for the question. A s you may know, we actually announced our intention to eliminate cookies altogether from our platform, as well as any tracking device, because we understand that users do not want to be tracked across the i nternet. When users come to Google to search for something, we provide a result that is relevant and appropriate to the question that they are asking. The way we do that is by providing authorita tive information relative to that search. That is the primary means of avoiding misinformation. People come to the search query. They want to know how tall a mountain is and we give them the answer quickly and efficiently.",
+      "chunk_id": "DOC_960::c000062",
+      "chunk_hash": "e8b12ae9b525",
+      "prev_chunk_id": "DOC_960::c000061",
+      "next_chunk_id": "DOC_960::c000063"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "Does that extend to ads? I cannot remember the stat, but a fair proportion of users of your search engine struggle to differentiate between something that is a paid \u2011 for ranking using Google Ad Word s or whatever and something generated on the basis of your search algorithm. I appreciate that your search algorithm is looking for authoritative content, but how much do you worry about the ad taking people down that rabbit hole even further because it matches their search query and might be placed by someone who is not so authoritative as the people you are pointing to?\n\nMarkham C. Erickson: Thank you for the question. We do have very explicit advertising policies and guidelines with publishers that prevent ads that would perpetuate fraud or a scam. When it comes to sen sitive information\u2014 sensitive health information or information about a sensitive event \u2014 w e w ill not accept ads altogether with that but, rather, promote authoritative content in response to a query, for instance about Covid, to explain where one can find a vaccine or relevant information about the pandemic.So we have policies that are intended to prevent that kind of perpetuation of misinformation.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 64,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "Does that extend to ads? I cannot remember the stat, but a fair proportion of users of your search engine struggle to differentiate between something that is a paid \u2011 for ranking using Google Ad Word s or whatever and something generated on the basis of your search algorithm. I appreciate that your search algorithm is looking for authoritative content, but how much do you worry about the ad taking people down that rabbit hole even further because it matches their search query and might be placed by someone who is not so authoritative as the people you are pointing to?\n\nMarkham C. Erickson: Thank you for the question. We do have very explicit advertising policies and guidelines with publishers that prevent ads that would perpetuate fraud or a scam. When it comes to sen sitive information\u2014 sensitive health information or information about a sensitive event \u2014 w e w ill not accept ads altogether with that but, rather, promote authoritative content in response to a query, for instance about Covid, to explain where one can find a vaccine or relevant information about the pandemic.So we have policies that are intended to prevent that kind of perpetuation of misinformation.",
+      "chunk_id": "DOC_960::c000063",
+      "chunk_hash": "4f752afe81f5",
+      "prev_chunk_id": "DOC_960::c000062",
+      "next_chunk_id": "DOC_960::c000064"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "In response to what you said about cookies, which is interesting, was the decision to try to move away from cookie because of worries about user journeys following rabbit holes of misinformation in the past?\n\nMarkham C. Erickson: Thank you for the question. The announcement to eliminate support of cookies that track a user across the i nternet was made because users do not want to be tracked across the i nternet. Increasingly, that is the expectation, and we want to match the expectations of our users. We are transitioning altogether away from those kinds of tracking devices. We are doing it with some intentionality because there is an ecosystem of advertisers, publishers and small businesses that need to transition from cooki e technology like that to alternative technology that is more privacy protective.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 65,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "In response to what you said about cookies, which is interesting, was the decision to try to move away from cookie because of worries about user journeys following rabbit holes of misinformation in the past?\n\nMarkham C. Erickson: Thank you for the question. The announcement to eliminate support of cookies that track a user across the i nternet was made because users do not want to be tracked across the i nternet. Increasingly, that is the expectation, and we want to match the expectations of our users. We are transitioning altogether away from those kinds of tracking devices. We are doing it with some intentionality because there is an ecosystem of advertisers, publishers and small businesses that need to transition from cooki e technology like that to alternative technology that is more privacy protective.",
+      "chunk_id": "DOC_960::c000064",
+      "chunk_hash": "bafa8a67c7ed",
+      "prev_chunk_id": "DOC_960::c000063",
+      "next_chunk_id": "DOC_960::c000065"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "Thank you. F inally, back to Leslie. T he wonders of modern technology mean that I am told that 1.6 million hours of disinformation, hate speech and other banned content are viewed on YouTube every day. Is that a number you recognise?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 66,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "Thank you. F inally, back to Leslie. T he wonders of modern technology mean that I am told that 1.6 million hours of disinformation, hate speech and other banned content are viewed on YouTube every day. Is that a number you recognise?",
+      "chunk_id": "DOC_960::c000065",
+      "chunk_hash": "41b2d10bb6e7",
+      "prev_chunk_id": "DOC_960::c000064",
+      "next_chunk_id": "DOC_960::c000066"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "Absolutely not. I am not sure where that number is from, and I am interested in the definition of d isinformation. As for content that we prohibit, we move expeditiously to get it off the platform.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 67,
+      "speaker_name": "Leslie Miller",
+      "display_text": "Absolutely not. I am not sure where that number is from, and I am interested in the definition of d isinformation. As for content that we prohibit, we move expeditiously to get it off the platform.",
+      "chunk_id": "DOC_960::c000066",
+      "chunk_hash": "b8667ed71731",
+      "prev_chunk_id": "DOC_960::c000065",
+      "next_chunk_id": "DOC_960::c000067"
+    },
+    {
+      "header": "Lord Knight of Weymouth",
+      "text": "Probably the first witness this c ommittee heard from was a well \\- known footballer and commentator on football here called Rio Ferdinand. He raised with us how quickly I P content relating to, say, a football match that ha s a commercial arrangement attached to it is filtered out and taken down from a platform like YouTube, and yet racist comment s and content are not. What is the answer to Rio Ferdinand as to why the technology works so well in respect of the commercial interests of intellectual property and yet does not work so well in respect of racism and hate \\-fuelled comment?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 68,
+      "speaker_name": "Lord Knight of Weymouth",
+      "display_text": "Probably the first witness this c ommittee heard from was a well \\- known footballer and commentator on football here called Rio Ferdinand. He raised with us how quickly I P content relating to, say, a football match that ha s a commercial arrangement attached to it is filtered out and taken down from a platform like YouTube, and yet racist comment s and content are not. What is the answer to Rio Ferdinand as to why the technology works so well in respect of the commercial interests of intellectual property and yet does not work so well in respect of racism and hate \\-fuelled comment?",
+      "chunk_id": "DOC_960::c000067",
+      "chunk_hash": "90f9a380d093",
+      "prev_chunk_id": "DOC_960::c000066",
+      "next_chunk_id": "DOC_960::c000068"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I r espectfully see it differently. We prohibit hate and harassment content on the platform. In fact, w e overhauled those policies in 2019 to make sure we were drawing the lines in a place where YouTube wa s inhospitable to this type of material. That is separate from our copyright tools where a rights holder can alert us to material for which that right s holder either decides he or she would like it to remain on the platform and a share in revenue from th at content remaining on the platform, or submits a claim to remove the copyrighted material. Doing both is important for us in being a responsible platform, but we certainly do not prioritise IP over making sure that our platform is responsible.\n\nQ232 The Chair: I have a few final questions for Leslie on YouTube. I believe YouTube says that it takes down 94% of content if it is in violation of its policies before it is reported. Is that correct?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 69,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I r espectfully see it differently. We prohibit hate and harassment content on the platform. In fact, w e overhauled those policies in 2019 to make sure we were drawing the lines in a place where YouTube wa s inhospitable to this type of material. That is separate from our copyright tools where a rights holder can alert us to material for which that right s holder either decides he or she would like it to remain on the platform and a share in revenue from th at content remaining on the platform, or submits a claim to remove the copyrighted material. Doing both is important for us in being a responsible platform, but we certainly do not prioritise IP over making sure that our platform is responsible.\n\nQ232 The Chair: I have a few final questions for Leslie on YouTube. I believe YouTube says that it takes down 94% of content if it is in violation of its policies before it is reported. Is that correct?",
+      "chunk_id": "DOC_960::c000068",
+      "chunk_hash": "f4fc743dc3ac",
+      "prev_chunk_id": "DOC_960::c000067",
+      "next_chunk_id": "DOC_960::c000069"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "It fluctuates a little bit quarter by quarter, but it tends to hover at around 90% of the content flagged by machine s that we take action on versus user flags, for example.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 70,
+      "speaker_name": "Leslie Miller",
+      "display_text": "It fluctuates a little bit quarter by quarter, but it tends to hover at around 90% of the content flagged by machine s that we take action on versus user flags, for example.",
+      "chunk_id": "DOC_960::c000069",
+      "chunk_hash": "b30fdb895761",
+      "prev_chunk_id": "DOC_960::c000068",
+      "next_chunk_id": "DOC_960::c000070"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I would have to go into the details of our latest quarterly transparency report. The numbers are publicly available. I am sorry; o f the 6 million I referred to, I do not remember what the hard number and percentage is as they relate to hate, but I can easily get that. I apologise that I do not remember it off the top of my head.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 78,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I would have to go into the details of our latest quarterly transparency report. The numbers are publicly available. I am sorry; o f the 6 million I referred to, I do not remember what the hard number and percentage is as they relate to hate, but I can easily get that. I apologise that I do not remember it off the top of my head.",
+      "chunk_id": "DOC_960::c000070",
+      "chunk_hash": "ce1dd6c760ee",
+      "prev_chunk_id": "DOC_960::c000069",
+      "next_chunk_id": "DOC_960::c000071"
+    },
+    {
+      "header": "The Chair",
+      "text": "For content that is remove d, particularly hate speech, do you also have details of the view time for that content? You have published data about the number of views as a proportion of the total number of views on the platform, but do you gather data about the view time?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 79,
+      "speaker_name": "The Chair",
+      "display_text": "For content that is remove d, particularly hate speech, do you also have details of the view time for that content? You have published data about the number of views as a proportion of the total number of views on the platform, but do you gather data about the view time?",
+      "chunk_id": "DOC_960::c000071",
+      "chunk_hash": "5e2b4d374901",
+      "prev_chunk_id": "DOC_960::c000070",
+      "next_chunk_id": "DOC_960::c000072"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am not really sure what you mean by view time. I do not know whether you mean how long it is up before it is removed, which goes to the figures and why we care about sharing.Moving in a direction of having fewer than 10 views i s obviously very important to us. On a quarterly basis, we hover around two-thirds to three-quarters in making sure we remove the content, but I may be misunderstanding your question or point.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 80,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I am not really sure what you mean by view time. I do not know whether you mean how long it is up before it is removed, which goes to the figures and why we care about sharing.Moving in a direction of having fewer than 10 views i s obviously very important to us. On a quarterly basis, we hover around two-thirds to three-quarters in making sure we remove the content, but I may be misunderstanding your question or point.",
+      "chunk_id": "DOC_960::c000072",
+      "chunk_hash": "38d7ba6c2256",
+      "prev_chunk_id": "DOC_960::c000071",
+      "next_chunk_id": "DOC_960::c000073"
+    },
+    {
+      "header": "The Chair",
+      "text": "You are saying that two-thirds to three-quarters of content that is removed has 10 or fewer views. That leaves another third that has more than that. Do you say that t his number of hours o f problematic content \u2014hate speech or other content \u2014that breaches y our platform policies is how much of it that is watched?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 81,
+      "speaker_name": "The Chair",
+      "display_text": "You are saying that two-thirds to three-quarters of content that is removed has 10 or fewer views. That leaves another third that has more than that. Do you say that t his number of hours o f problematic content \u2014hate speech or other content \u2014that breaches y our platform policies is how much of it that is watched?",
+      "chunk_id": "DOC_960::c000073",
+      "chunk_hash": "5686fe5ec841",
+      "prev_chunk_id": "DOC_960::c000072",
+      "next_chunk_id": "DOC_960::c000074"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I am not aware of analysis based on something like that \u2014 for example, the hour of watch time \u2014 but you raise a great point about which we realised we need ed to be more transparent, and that is the violative view rate. We also update that quarterly now. When we think about what is the amount of content that viewers are seeing that violates our content relative to the other content that does not, in the past quarter for every 10,000 views on the platform, 19 to 21 were of content that violate d our community guidelines.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 86,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I am not aware of analysis based on something like that \u2014 for example, the hour of watch time \u2014 but you raise a great point about which we realised we need ed to be more transparent, and that is the violative view rate. We also update that quarterly now. When we think about what is the amount of content that viewers are seeing that violates our content relative to the other content that does not, in the past quarter for every 10,000 views on the platform, 19 to 21 were of content that violate d our community guidelines.",
+      "chunk_id": "DOC_960::c000074",
+      "chunk_hash": "d426e5fe770d",
+      "prev_chunk_id": "DOC_960::c000073",
+      "next_chunk_id": "DOC_960::c000075"
+    },
+    {
+      "header": "The Chair",
+      "text": "What I am interested in is that, f or people who are exposed to content that breach es your community guidelines, how much content like that do they see? What we have here is a very big platform and most of the content and most people\u2019s experience of that content will largely be quite positive, but for some people their experience will be very negative and they probably see a disproportionate ly large amount of content like that. Therefore, do you do analysis of how much people see of the problematic content to which they are exposed?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 87,
+      "speaker_name": "The Chair",
+      "display_text": "What I am interested in is that, f or people who are exposed to content that breach es your community guidelines, how much content like that do they see? What we have here is a very big platform and most of the content and most people\u2019s experience of that content will largely be quite positive, but for some people their experience will be very negative and they probably see a disproportionate ly large amount of content like that. Therefore, do you do analysis of how much people see of the problematic content to which they are exposed?",
+      "chunk_id": "DOC_960::c000075",
+      "chunk_hash": "e2772d163b15",
+      "prev_chunk_id": "DOC_960::c000074",
+      "next_chunk_id": "DOC_960::c000076"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I would welcome following that up with you. I am not aware that this is something we do analysis on, but we also think about making sure, for example,that people are not being radicalised and, based on a video they are watching,are not going down that radicali s ation route, which is why we have also made changes to recommendations, but I welcome following up with you on the specifics you are asking about.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 88,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I would welcome following that up with you. I am not aware that this is something we do analysis on, but we also think about making sure, for example,that people are not being radicalised and, based on a video they are watching,are not going down that radicali s ation route, which is why we have also made changes to recommendations, but I welcome following up with you on the specifics you are asking about.",
+      "chunk_id": "DOC_960::c000076",
+      "chunk_hash": "822fd32e1e2e",
+      "prev_chunk_id": "DOC_960::c000075",
+      "next_chunk_id": "DOC_960::c000077"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "It is a matter of, first, i f the content violates our community guidelines around v iolent extremism, hate and harassment, we are moving to get it off the platform as quickly as possible. H owever, content may not violate our community guidelines but may be perceived to be borderline. We have put a number of changes in place in our recommendations systems over the past couple of years whereby content that is determined to be borderline is demote d out of recommendations.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 90,
+      "speaker_name": "Leslie Miller",
+      "display_text": "It is a matter of, first, i f the content violates our community guidelines around v iolent extremism, hate and harassment, we are moving to get it off the platform as quickly as possible. H owever, content may not violate our community guidelines but may be perceived to be borderline. We have put a number of changes in place in our recommendations systems over the past couple of years whereby content that is determined to be borderline is demote d out of recommendations.",
+      "chunk_id": "DOC_960::c000077",
+      "chunk_hash": "cbb8a22378de",
+      "prev_chunk_id": "DOC_960::c000076",
+      "next_chunk_id": "DOC_960::c000078"
+    },
+    {
+      "header": "The Chair",
+      "text": "If a third of the films that are removed ha ve been viewed more than 10 times, it suggests they have probably been on the platform for a while and have been recommended becaus e they were not flagged for removal before that point.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 93,
+      "speaker_name": "The Chair",
+      "display_text": "If a third of the films that are removed ha ve been viewed more than 10 times, it suggests they have probably been on the platform for a while and have been recommended becaus e they were not flagged for removal before that point.",
+      "chunk_id": "DOC_960::c000078",
+      "chunk_hash": "0b79ae94fdb1",
+      "prev_chunk_id": "DOC_960::c000077",
+      "next_chunk_id": "DOC_960::c000079"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "I think that is a fair assumption. It could also be that a video may be somewhat newsworthy and ultimately v iolative, but it already receive d more than 10 views in a matter of minutes, for example.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 94,
+      "speaker_name": "Leslie Miller",
+      "display_text": "I think that is a fair assumption. It could also be that a video may be somewhat newsworthy and ultimately v iolative, but it already receive d more than 10 views in a matter of minutes, for example.",
+      "chunk_id": "DOC_960::c000079",
+      "chunk_hash": "55a169f8d870",
+      "prev_chunk_id": "DOC_960::c000078",
+      "next_chunk_id": "DOC_960::c000080"
+    },
+    {
+      "header": "The Chair",
+      "text": "But it would be fair to say that something like the conspiracy film \u201cPlandemic\u201d about C o vid, which was removed in the end, was viewed so many times that it would almost certainly have been recommended, using your recommendation tools.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 95,
+      "speaker_name": "The Chair",
+      "display_text": "But it would be fair to say that something like the conspiracy film \u201cPlandemic\u201d about C o vid, which was removed in the end, was viewed so many times that it would almost certainly have been recommended, using your recommendation tools.",
+      "chunk_id": "DOC_960::c000080",
+      "chunk_hash": "667aa877a7b3",
+      "prev_chunk_id": "DOC_960::c000079",
+      "next_chunk_id": "DOC_960::c000081"
+    },
+    {
+      "header": "The Chair",
+      "text": "It would seem likely that, for Autoplay and tools like NextUp, films like that were recommended for people who had an interest in that sort of content.A l ot of the research we have received about all social media platforms that use AI recommendation systems suggest s that the model is based on engagement. We have discussed this a lot with Facebook, obviously but I think this would be pretty similar for YouTube as well.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 97,
+      "speaker_name": "The Chair",
+      "display_text": "It would seem likely that, for Autoplay and tools like NextUp, films like that were recommended for people who had an interest in that sort of content.A l ot of the research we have received about all social media platforms that use AI recommendation systems suggest s that the model is based on engagement. We have discussed this a lot with Facebook, obviously but I think this would be pretty similar for YouTube as well.",
+      "chunk_id": "DOC_960::c000081",
+      "chunk_hash": "a358e2aafa34",
+      "prev_chunk_id": "DOC_960::c000080",
+      "next_chunk_id": "DOC_960::c000082"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "Again, I am not convinced by what you are saying because, in addition to demoting borderline content out of recommendations, in areas like Covid we mak e sure that we raise authoritative information. If somebody is coming to YouTube to search for something relative to Covid, we will make sure that the search results are from authoritative sources.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 98,
+      "speaker_name": "Leslie Miller",
+      "display_text": "Again, I am not convinced by what you are saying because, in addition to demoting borderline content out of recommendations, in areas like Covid we mak e sure that we raise authoritative information. If somebody is coming to YouTube to search for something relative to Covid, we will make sure that the search results are from authoritative sources.",
+      "chunk_id": "DOC_960::c000082",
+      "chunk_hash": "b3e8a0fe0d52",
+      "prev_chunk_id": "DOC_960::c000081",
+      "next_chunk_id": "DOC_960::c000083"
+    },
+    {
+      "header": "The Chair",
+      "text": "F or search results, sure, but a lot of people \u2019 s experience is not based on search. I believe that, three years ago, YouTube said that 70% of plays on YouTube were selected by the platform for the user; t hey were not films that people had searched out for themselves. Is that figure still the same or has it changed in the past three years?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 99,
+      "speaker_name": "The Chair",
+      "display_text": "F or search results, sure, but a lot of people \u2019 s experience is not based on search. I believe that, three years ago, YouTube said that 70% of plays on YouTube were selected by the platform for the user; t hey were not films that people had searched out for themselves. Is that figure still the same or has it changed in the past three years?",
+      "chunk_id": "DOC_960::c000083",
+      "chunk_hash": "fd4922332b45",
+      "prev_chunk_id": "DOC_960::c000082",
+      "next_chunk_id": "DOC_960::c000084"
+    },
+    {
+      "header": "The Chair",
+      "text": "I am surprised you do not know. It is quite a fundamental question about how the platform works. If 70% of what people watch on YouTube is played for them, that is a pretty fundamental part of the business.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 101,
+      "speaker_name": "The Chair",
+      "display_text": "I am surprised you do not know. It is quite a fundamental question about how the platform works. If 70% of what people watch on YouTube is played for them, that is a pretty fundamental part of the business.",
+      "chunk_id": "DOC_960::c000084",
+      "chunk_hash": "efc56bc64a56",
+      "prev_chunk_id": "DOC_960::c000083",
+      "next_chunk_id": "DOC_960::c000085"
+    },
+    {
+      "header": "Leslie Miller",
+      "text": "To be honest, if it is being said that 70% of the watch time is because of either Autoplay or recommendations, I do not want to speak to that specific number just because I do not recall it. It does not mean we may not have said it, but I just need to follow up.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 104,
+      "speaker_name": "Leslie Miller",
+      "display_text": "To be honest, if it is being said that 70% of the watch time is because of either Autoplay or recommendations, I do not want to speak to that specific number just because I do not recall it. It does not mean we may not have said it, but I just need to follow up.",
+      "chunk_id": "DOC_960::c000085",
+      "chunk_hash": "5f5f0090b842",
+      "prev_chunk_id": "DOC_960::c000084",
+      "next_chunk_id": "DOC_960::c000086"
+    },
+    {
+      "header": "The Chair",
+      "text": "I think it would be fair to assume that people who engage with conspiracy theories or harmful content probably hav e quite a lot of it played to them and recommended to them; t hey are not necessarily searching for it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 107,
+      "speaker_name": "The Chair",
+      "display_text": "I think it would be fair to assume that people who engage with conspiracy theories or harmful content probably hav e quite a lot of it played to them and recommended to them; t hey are not necessarily searching for it.",
+      "chunk_id": "DOC_960::c000086",
+      "chunk_hash": "dbcc866b272c",
+      "prev_chunk_id": "DOC_960::c000085",
+      "next_chunk_id": null
+    }
+  ]
+}

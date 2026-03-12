@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "id": "DOC_1050",
+    "title": "FSCS",
+    "category": "02_Select_Committees",
+    "type": "Written Evidence",
+    "author": "FSCS",
+    "date": "2020-11-03",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 28,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "1.0 Overview of FSCS",
+      "text": "1.1 The Financial Services Compensation Scheme (FSCS) is the UK-wide compensation scheme for customers of financial services firms that are unable to meet claims against them. It helps to provide confidence in the UK\u2019s financial services industry by helping customers get back on track when authorised financial institutions go out of business. Last year FSCS paid compensation of \u00a3700 million benefiting several tens of thousands of people. 1.2 FSCS welcomes the DCMS Sub-Committee\u2019s call for evidence on online safety and online harms. Our response will focus on a selection of questions most relevant to FSCS\u2019s interests regarding scams.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "1.1 The Financial Services Compensation Scheme (FSCS) is the UK-wide compensation scheme for customers of financial services firms that are unable to meet claims against them. It helps to provide confidence in the UK\u2019s financial services industry by helping customers get back on track when authorised financial institutions go out of business. Last year FSCS paid compensation of \u00a3700 million benefiting several tens of thousands of people. 1.2 FSCS welcomes the DCMS Sub-Committee\u2019s call for evidence on online safety and online harms. Our response will focus on a selection of questions most relevant to FSCS\u2019s interests regarding scams.",
+      "chunk_id": "DOC_1050::c000000",
+      "chunk_hash": "548cd08a2459",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_1050::c000001"
+    },
+    {
+      "header": "Introduction",
+      "text": "2.1 FSCS is a public bodysetup by Parliament under the Financial Services and Markets Act (FSMA). 2.2 FSCS helps to promote public confidence in financial services, financial stability, and protects consumers by paying compensation. FSCS compensates customers where they normally would have a civil claim (e. g. negligence) against a firm, but thefirmisno longer operating and is unable to pay claims against it. FSCS is operationally independent from, but accountable to, the Financial Conduct Authority (FCA) and the Prudential Regulation Authority (PRA). It is also independent of Government. 2.3 FSCS is funded by levies on authorised financial services firms and never charges individual consumers for theworkitdoes. In all cases, making a claim for compensation directly to FSCS is a free service. 2.4 Our mission is tohelpget customers back on track after their authorised financial services firm has failed. We know many customers are under stress and may be vulnerable astheyhavelost hard-earned savings, andsoouraim is to provide an outst and ing customer experience.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "2.1 FSCS is a public bodysetup by Parliament under the Financial Services and Markets Act (FSMA). 2.2 FSCS helps to promote public confidence in financial services, financial stability, and protects consumers by paying compensation. FSCS compensates customers where they normally would have a civil claim (e. g. negligence) against a firm, but thefirmisno longer operating and is unable to pay claims against it. FSCS is operationally independent from, but accountable to, the Financial Conduct Authority (FCA) and the Prudential Regulation Authority (PRA). It is also independent of Government. 2.3 FSCS is funded by levies on authorised financial services firms and never charges individual consumers for theworkitdoes. In all cases, making a claim for compensation directly to FSCS is a free service. 2.4 Our mission is tohelpget customers back on track after their authorised financial services firm has failed. We know many customers are under stress and may be vulnerable astheyhavelost hard-earned savings, andsoouraim is to provide an outst and ing customer experience.",
+      "chunk_id": "DOC_1050::c000001",
+      "chunk_hash": "229b2ef212e2",
+      "prev_chunk_id": "DOC_1050::c000000",
+      "next_chunk_id": "DOC_1050::c000002"
+    },
+    {
+      "header": "3.0 FSCS and scams",
+      "text": "3.1 Although FSCS is operationally independent of Government and its regulators, FSCS believes it is important to work together with other organisations and to share our data and insights to contribute to the best customer experience and consumer protection. 3.2 FSCS has been working with the FCA, SFO, the Insolvency Service and other agencies to protect FSCS customers from scams as much as possible or prevent misuse of the name of FSCS. 3.3 Our Rules (set by the FCA and PRA) do not allow ustopayout where the individual has not received advice or assistance from a regulated person, even if the fraudster pretended to be regulated, so the victims of these scams canbeleft financially devastated. 3.4 We provide herebyway of example a case-study typical of the type of FSCS-related scams impacting consumers: A customer in a European country (\u201cMs. A\u201d) contacted us and explained she hadlosttens of thousands of Euros in investments via a broker of dubious credentials (\u201cMr. B\u201d). He had offered to try to recoup her losses via positions in a foreign exchange platform, again involving an investment of thousands of Euros. Atthesametime Ms. A was contacted by a man (\u201cMr. C\u201d) using a fake FSCS identity and spoofed FSCS domain-name, offering FSCS's help to claim compensation for her loss, for a further payment of thousands of Euros. Evidence suggests that Mr Band Mr Carethesame person or group of persons, in a web of invented identities spanning several countries. Ms. A. was very upset and we dedicated many hours to supporting and guiding her. We advised her to cease all contact with the scammers and report the matter to her country\u2019s regulator and her banks. We reported her case to the FCA, the National Cyber Security Centre (NCSC), and a webhost. We also reported the case to Action Fraud. This case is a lesson in the sophistication of impersonation scam operations and the determination of organised criminal groups to exploit vulnerable consumers to the fullest extent.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "3.1 Although FSCS is operationally independent of Government and its regulators, FSCS believes it is important to work together with other organisations and to share our data and insights to contribute to the best customer experience and consumer protection. 3.2 FSCS has been working with the FCA, SFO, the Insolvency Service and other agencies to protect FSCS customers from scams as much as possible or prevent misuse of the name of FSCS. 3.3 Our Rules (set by the FCA and PRA) do not allow ustopayout where the individual has not received advice or assistance from a regulated person, even if the fraudster pretended to be regulated, so the victims of these scams canbeleft financially devastated. 3.4 We provide herebyway of example a case-study typical of the type of FSCS-related scams impacting consumers: A customer in a European country (\u201cMs. A\u201d) contacted us and explained she hadlosttens of thousands of Euros in investments via a broker of dubious credentials (\u201cMr. B\u201d). He had offered to try to recoup her losses via positions in a foreign exchange platform, again involving an investment of thousands of Euros. Atthesametime Ms. A was contacted by a man (\u201cMr. C\u201d) using a fake FSCS identity and spoofed FSCS domain-name, offering FSCS's help to claim compensation for her loss, for a further payment of thousands of Euros. Evidence suggests that Mr Band Mr Carethesame person or group of persons, in a web of invented identities spanning several countries. Ms. A. was very upset and we dedicated many hours to supporting and guiding her. We advised her to cease all contact with the scammers and report the matter to her country\u2019s regulator and her banks. We reported her case to the FCA, the National Cyber Security Centre (NCSC), and a webhost. We also reported the case to Action Fraud. This case is a lesson in the sophistication of impersonation scam operations and the determination of organised criminal groups to exploit vulnerable consumers to the fullest extent.",
+      "chunk_id": "DOC_1050::c000002",
+      "chunk_hash": "a04ed948bec8",
+      "prev_chunk_id": "DOC_1050::c000001",
+      "next_chunk_id": "DOC_1050::c000003"
+    },
+    {
+      "header": "4.0 Tech companies\u2019 role and key omissions in the draft Bill",
+      "text": "4.1 FSCS believes there needs to be further powers given to regulators to level the playing field against scammers. Broadly speaking, in order for regulators toactmore swiftly they need to be granted extra powers to enable greater agility in responding to the threats that scammers pose to consumers. This was stated in the FSCS submission to the DCMS\u2019s Online Harms Bill consultation. 4.2 The ever-increasing volume, sophistication and speed of scamming means that enhancements to existing strategies to combat scams, or the addition of new tactics, will be inadequate on their owntomeet the challenge. 4.3 Research suggests 95% of fraud cases reported to Action Fraud went unsolved. Which? states: \u201cComparing our research with other crime statistics shows that police solve significantly less fraud cases than anyothercrimegroup. Alarmingly this comes as fraud offences continue to rise. UK residents arenowmore likely to be victims of fraud and cybercrime thananytype of offence, according to the ONS. Fraud and cybercrime offences arenowten times more common than burglary.\u201d Which? , 24 Sep. 2018 4.4 The FCA has published over 1,000 warnings about unauthorised firms in 2020 to date, the vast majority regarding fake investment websites 4.5 As the FSCS has experienced, the FCA does not always have the ability to stop online financial harms at their source. For example, the FCA does not have extra powers over social media platforms or search engines that host harmful ads because those providers are not organisations regulated by the FCA. 4.6 Internet service providers, search engines and social media platformsare, in practice, subject to the same requirements as traditional publishers of financial promotions. As such, FSCS recommends that these online providers should needtotake steps to ensure that any financial promotions which they host or publish have been a pproved by a regulator. We welcome Google\u2019s recent move in that direction, but the effectiveness of that move remains to be seen, and other online platformsneed to follow suit. 4.7 We note the Government\u2019s decision not to include financial scams in the scope of the Bill, though we welcome the late inclusion of user-generated fraud. Although FSCS would strongly welcome the inclusion of financial scams in the Bill, we are not insistent on that point, as long as another suitable legislative vehicle can be found as a matter of priority. 4.8 FSCS also suggests further clarity is required on who is responsible for financial promotions. This can either be among the regulators such as the FCA and Advertising Standards Authority (AS A) or among advertising platforms themselves, such as Google Ads. FSCS would liketosee theplatforms be responsible for the adverts the place on their platforms while oversight remains with the regulators. This may entail making internet service providers legally responsible for the losses of consumers who fall victim to scams advertised on their platforms. The responsible entity/body established by the Bill should work with FSCS and FCA against scams and poor online practices.",
+      "page": "2-3",
+      "page_start": 2,
+      "page_end": 3,
+      "pages": [
+        2,
+        3
+      ],
+      "display_text": "4.1 FSCS believes there needs to be further powers given to regulators to level the playing field against scammers. Broadly speaking, in order for regulators toactmore swiftly they need to be granted extra powers to enable greater agility in responding to the threats that scammers pose to consumers. This was stated in the FSCS submission to the DCMS\u2019s Online Harms Bill consultation. 4.2 The ever-increasing volume, sophistication and speed of scamming means that enhancements to existing strategies to combat scams, or the addition of new tactics, will be inadequate on their owntomeet the challenge. 4.3 Research suggests 95% of fraud cases reported to Action Fraud went unsolved. Which? states: \u201cComparing our research with other crime statistics shows that police solve significantly less fraud cases than anyothercrimegroup. Alarmingly this comes as fraud offences continue to rise. UK residents arenowmore likely to be victims of fraud and cybercrime thananytype of offence, according to the ONS. Fraud and cybercrime offences arenowten times more common than burglary.\u201d Which? , 24 Sep. 2018 4.4 The FCA has published over 1,000 warnings about unauthorised firms in 2020 to date, the vast majority regarding fake investment websites 4.5 As the FSCS has experienced, the FCA does not always have the ability to stop online financial harms at their source. For example, the FCA does not have extra powers over social media platforms or search engines that host harmful ads because those providers are not organisations regulated by the FCA. 4.6 Internet service providers, search engines and social media platformsare, in practice, subject to the same requirements as traditional publishers of financial promotions. As such, FSCS recommends that these online providers should needtotake steps to ensure that any financial promotions which they host or publish have been a pproved by a regulator. We welcome Google\u2019s recent move in that direction, but the effectiveness of that move remains to be seen, and other online platformsneed to follow suit. 4.7 We note the Government\u2019s decision not to include financial scams in the scope of the Bill, though we welcome the late inclusion of user-generated fraud. Although FSCS would strongly welcome the inclusion of financial scams in the Bill, we are not insistent on that point, as long as another suitable legislative vehicle can be found as a matter of priority. 4.8 FSCS also suggests further clarity is required on who is responsible for financial promotions. This can either be among the regulators such as the FCA and Advertising Standards Authority (AS A) or among advertising platforms themselves, such as Google Ads. FSCS would liketosee theplatforms be responsible for the adverts the place on their platforms while oversight remains with the regulators. This may entail making internet service providers legally responsible for the losses of consumers who fall victim to scams advertised on their platforms. The responsible entity/body established by the Bill should work with FSCS and FCA against scams and poor online practices.",
+      "chunk_id": "DOC_1050::c000003",
+      "chunk_hash": "f6fd8e4bf243",
+      "prev_chunk_id": "DOC_1050::c000002",
+      "next_chunk_id": "DOC_1050::c000004"
+    },
+    {
+      "header": "around the world?",
+      "text": "5.1 Our underst and ing is, in at least some cases, en for cement powers in the UK against financial crime are not as robust as those in some other markets such as the Security and Exchange Commission in the U. S. and CONSOB in Italy. FSCS believes the UK should aspire to be a world leader and model of best practice against scams, particularly considering the position of the City of London as one of the world\u2019s leading financial centres. 5.2 UK regulators andlawen for cements bodies should be given enhanced level of powers in order totakethesame robust approach to financial crime as the US Securities and Exchange Commission, amongst others. Among the others is Italy\u2019s Companies and Exchange Commission (CONSOB) wholastyear announced that it has ordered the blocking of access tosixnew websites, which were illegally offering financial services. The regulator was able order the blackout under its powers.",
+      "page": "3",
+      "page_start": 3,
+      "page_end": 3,
+      "pages": [
+        3
+      ],
+      "display_text": "5.1 Our underst and ing is, in at least some cases, en for cement powers in the UK against financial crime are not as robust as those in some other markets such as the Security and Exchange Commission in the U. S. and CONSOB in Italy. FSCS believes the UK should aspire to be a world leader and model of best practice against scams, particularly considering the position of the City of London as one of the world\u2019s leading financial centres. 5.2 UK regulators andlawen for cements bodies should be given enhanced level of powers in order totakethesame robust approach to financial crime as the US Securities and Exchange Commission, amongst others. Among the others is Italy\u2019s Companies and Exchange Commission (CONSOB) wholastyear announced that it has ordered the blocking of access tosixnew websites, which were illegally offering financial services. The regulator was able order the blackout under its powers.",
+      "chunk_id": "DOC_1050::c000004",
+      "chunk_hash": "36a4f63b271d",
+      "prev_chunk_id": "DOC_1050::c000003",
+      "next_chunk_id": "DOC_1050::c000005"
+    },
+    {
+      "header": "6.0 Conclusion",
+      "text": "FTAdviser , 3 rd Nov 2020 6.1 FSCS welcomes the DCMS\u2019s Sub-Committee\u2019s call for evidence on the Online Safety Billandhave listed a series of recommendations on how the Government maybebest placed to tackle some of these issues. 6.2 FSCS strongly supports the consensus across the financial services industry that financial scams must be included in the Online Safety Bill or other suitable legislative vehicle. Currently, the Bill only covers user generated content that leads to scams. This needs to go further and we are unconvinced that existing initiatives by Government and large technology companies will be effective without new legislation. There are currently no incentives on internet platforms to verify the adverts they host, or to check if they are from whom they claim to be. The interconnectedness of scamming operations means that a multi-pronged holistic approach is essential. Including this provision with in the Online Safety Bill would enhance its central objective to \u201cmake the UK the safest place in the world to be online.\u201d 6.3 FSCS would be happy to follow up with the Committee should they have any questions.",
+      "page": "3-4",
+      "page_start": 3,
+      "page_end": 4,
+      "pages": [
+        3,
+        4
+      ],
+      "display_text": "FTAdviser , 3 rd Nov 2020 6.1 FSCS welcomes the DCMS\u2019s Sub-Committee\u2019s call for evidence on the Online Safety Billandhave listed a series of recommendations on how the Government maybebest placed to tackle some of these issues. 6.2 FSCS strongly supports the consensus across the financial services industry that financial scams must be included in the Online Safety Bill or other suitable legislative vehicle. Currently, the Bill only covers user generated content that leads to scams. This needs to go further and we are unconvinced that existing initiatives by Government and large technology companies will be effective without new legislation. There are currently no incentives on internet platforms to verify the adverts they host, or to check if they are from whom they claim to be. The interconnectedness of scamming operations means that a multi-pronged holistic approach is essential. Including this provision with in the Online Safety Bill would enhance its central objective to \u201cmake the UK the safest place in the world to be online.\u201d 6.3 FSCS would be happy to follow up with the Committee should they have any questions.",
+      "chunk_id": "DOC_1050::c000005",
+      "chunk_hash": "2de6ca55ac50",
+      "prev_chunk_id": "DOC_1050::c000004",
+      "next_chunk_id": null
+    }
+  ]
+}

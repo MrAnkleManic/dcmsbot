@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_1754",
+    "title": "deepfake-defences",
+    "category": "04_Regulator",
+    "type": "Information for Industry",
+    "author": "deepfake defences",
+    "date": "2024-07-23",
+    "url": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/deepfake-defences",
+    "encoding": "ascii",
+    "authority_tag": "OFFICIAL_GUIDANCE",
+    "authority_weight": 9
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Deepfake Defences: Mitigating the Harms of Deceptive Deepfakes\nDeepfake Defences: Mitigating the Harms of Deceptive Deepfakes\nOnline safety\nIllegal and harmful content\nOnline fraud\nInformation for industry\nPublished:\n23 July 2024\nDeepfakes are audio-visual content that has been generated or manipulated using AI, and that misrepresents someone or something. New generative AI tools allow users to create wholly new content that can be life-like and make it significantly easier for anyone with modest technical skill to create deepfakes. \u00a0\nDeepfakes are causing harm to well-known public figures, celebrities, political candidates, as well as ordinary people. They may humiliate or abuse a victim-survivor \u2013 overwhelmingly women and girls - by falsely depicting them in a non-consensual sexual act. They may misrepresent a loved ones\u2019 identity to assist financial scams. They may also spread disinformation to influence opinion on key political or societal issues. \u00a0\nOfcom\u2019s recent poll on deepfakes found that almost half of child respondents aged 8-15 and teenagers and adults aged 16+ believed they had encountered a deepfake at least once in the last six months, with over 1/10 believing they had encountered deepfakes over ten times in this period.\nUnder the Online Safety Act, regulated online services are required to take steps to address the sharing of illegal and harmful content, which may include certain types of deepfakes. \u00a0\nIn our discussion paper,\nDeepfake Defences\n, we:\n\u00a0\nexplore the impact of GenAI of the proliferation of deepfakes;\nmap out the different types of deepfakes in existence, including those which demean, defraud and disinform;\nshare new survey results looking at children and adults\u2019 experiences of deepfakes online;\nanalyse measures that actors across the technology supply chain can take to respond to deepfakes, from deploying watermarking techniques and deepfake detection classifiers, to filtering content and supporting media literacy efforts.\nWe will continue to examine the measures outlined in our paper as we regulate online services via the Online Safety Act.\u00a0\n\u00a0\nDiscussion papers allow us to share our research and encourage debate in areas of our remit. This discussion paper does not constitute official guidance. \u00a0\nRead our research\nDeepfake Defences-Mitigating the Harms of Deceptive Deepfakes (PDF)\nDeepfakes (8-15 year-olds) data tables (XLSX)\nDeepfakes (older teenagers and adults) data tables (XLSX)",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Deepfake Defences: Mitigating the Harms of Deceptive Deepfakes\nDeepfake Defences: Mitigating the Harms of Deceptive Deepfakes\nOnline safety\nIllegal and harmful content\nOnline fraud\nInformation for industry\nPublished:\n23 July 2024\nDeepfakes are audio-visual content that has been generated or manipulated using AI, and that misrepresents someone or something. New generative AI tools allow users to create wholly new content that can be life-like and make it significantly easier for anyone with modest technical skill to create deepfakes. \u00a0\nDeepfakes are causing harm to well-known public figures, celebrities, political candidates, as well as ordinary people. They may humiliate or abuse a victim-survivor \u2013 overwhelmingly women and girls - by falsely depicting them in a non-consensual sexual act. They may misrepresent a loved ones\u2019 identity to assist financial scams. They may also spread disinformation to influence opinion on key political or societal issues. \u00a0\nOfcom\u2019s recent poll on deepfakes found that almost half of child respondents aged 8-15 and teenagers and adults aged 16+ believed they had encountered a deepfake at least once in the last six months, with over 1/10 believing they had encountered deepfakes over ten times in this period.\nUnder the Online Safety Act, regulated online services are required to take steps to address the sharing of illegal and harmful content, which may include certain types of deepfakes. \u00a0\nIn our discussion paper,\nDeepfake Defences\n, we:\n\u00a0\nexplore the impact of GenAI of the proliferation of deepfakes;\nmap out the different types of deepfakes in existence, including those which demean, defraud and disinform;\nshare new survey results looking at children and adults\u2019 experiences of deepfakes online;\nanalyse measures that actors across the technology supply chain can take to respond to deepfakes, from deploying watermarking techniques and deepfake detection classifiers, to filtering content and supporting media literacy efforts.\nWe will continue to examine the measures outlined in our paper as we regulate online services via the Online Safety Act.\u00a0\n\u00a0\nDiscussion papers allow us to share our research and encourage debate in areas of our remit. This discussion paper does not constitute official guidance. \u00a0\nRead our research\nDeepfake Defences-Mitigating the Harms of Deceptive Deepfakes (PDF)\nDeepfakes (8-15 year-olds) data tables (XLSX)\nDeepfakes (older teenagers and adults) data tables (XLSX)",
+      "chunk_id": "DOC_1754::c000000",
+      "chunk_hash": "df0ef4e0b3bb",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

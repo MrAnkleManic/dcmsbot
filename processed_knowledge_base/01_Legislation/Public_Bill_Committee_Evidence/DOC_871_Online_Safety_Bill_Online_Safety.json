@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "DOC_871",
+    "title": "Online Safety Bill",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Online Safety",
+    "date": "Unknown",
+    "url": "https://publications.parliament.uk/pa/cm5803/cmpublic/OnlineSafetyBill/memo/OSB11.htm",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Our use of cookies",
+      "text": "Section heading: Our use of cookies\n\n**Session 2022-23**",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Our use of cookies\n\n**Session 2022-23**",
+      "chunk_id": "DOC_871::c000000",
+      "chunk_hash": "ab40e031ba38",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_871::c000001"
+    },
+    {
+      "header": "Online Safety Bill",
+      "text": "Section heading: Online Safety Bill\n\n**Written evidence submitted by Russ Elliott (OSB11)**\n\n**Comment on Online Safety Bill**\n\nIntroduction: I am commenting in the capacity of a private citizen (retired, with previous experience in implementing EU Directives into UK law).\n\n**Subject: Mutual recognition arrangements for age verification**\n\nI am not in favour of third-party age verification, because I feel the potential security and privacy implications are too serious. I am strongly in favour of first-party age attestation, because I think that makes a user responsible for their actions.\n\nHowever, if third-party age verification is to go ahead as envisaged by the Bill, I feel it is essential the Bill contains a requirement for the mutual recognition of age verification between regulated sites. If the Bill does not mandate such mutual recognition arrangements, users will be perennially hostage to the vagaries of the age verification industry.\n\nYou only become 18 once. You should only be required to prove it once.\n\n(end of comment)\n\n*May 2022*",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Online Safety Bill\n\n**Written evidence submitted by Russ Elliott (OSB11)**\n\n**Comment on Online Safety Bill**\n\nIntroduction: I am commenting in the capacity of a private citizen (retired, with previous experience in implementing EU Directives into UK law).\n\n**Subject: Mutual recognition arrangements for age verification**\n\nI am not in favour of third-party age verification, because I feel the potential security and privacy implications are too serious. I am strongly in favour of first-party age attestation, because I think that makes a user responsible for their actions.\n\nHowever, if third-party age verification is to go ahead as envisaged by the Bill, I feel it is essential the Bill contains a requirement for the mutual recognition of age verification between regulated sites. If the Bill does not mandate such mutual recognition arrangements, users will be perennially hostage to the vagaries of the age verification industry.\n\nYou only become 18 once. You should only be required to prove it once.\n\n(end of comment)\n\n*May 2022*",
+      "chunk_id": "DOC_871::c000001",
+      "chunk_hash": "0eea9441afca",
+      "prev_chunk_id": "DOC_871::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

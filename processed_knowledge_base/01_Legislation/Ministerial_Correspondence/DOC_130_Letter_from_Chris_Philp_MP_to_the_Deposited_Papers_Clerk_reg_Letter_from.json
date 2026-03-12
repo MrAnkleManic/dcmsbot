@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "id": "DOC_130",
+    "title": "Letter from Chris Philp MP to the Deposited Papers Clerk regarding 3 documents for deposit in the House libraries.",
+    "category": "01_Legislation",
+    "type": "Ministerial Correspondence",
+    "author": "Letter from",
+    "date": "2022-03-17",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "GOV_COMMS",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdftotext",
+    "pdfplumber_mode": null,
+    "pdf_artifact_score": 12,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text",
+      "text": "Chris Philp MP Minister for Tech and the Digital Economy 4th Floor 100 Parliament Street London SW1A 2BQ www. gov. uk/dcms enquiries@dcms. gov. uk\n\nDeposited Paper Clerk House of Commons London SW1A 0AA\n\n17th March 2022 Dear Deposited Papers Clerk, The Online Safety Bill was introduced in the House of Commons on 17th March 2022. I am placing the following documents related to the Online Safety Bill in the Libraries of both Houses: \u25cf \u25cf \u25cf\n\nDelegated Powers Memorandum European Convention on Human Rights memorandum Impact Assessment\n\nWith best wishes,\n\nChris Philp MP Minister for Tech and the Digital Economy",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Chris Philp MP Minister for Tech and the Digital Economy 4th Floor 100 Parliament Street London SW1A 2BQ www. gov. uk/dcms enquiries@dcms. gov. uk\n\nDeposited Paper Clerk House of Commons London SW1A 0AA\n\n17th March 2022 Dear Deposited Papers Clerk, The Online Safety Bill was introduced in the House of Commons on 17th March 2022. I am placing the following documents related to the Online Safety Bill in the Libraries of both Houses: \u25cf \u25cf \u25cf\n\nDelegated Powers Memorandum European Convention on Human Rights memorandum Impact Assessment\n\nWith best wishes,\n\nChris Philp MP Minister for Tech and the Digital Economy",
+      "chunk_id": "DOC_130::c000000",
+      "chunk_hash": "d27c49e518b7",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

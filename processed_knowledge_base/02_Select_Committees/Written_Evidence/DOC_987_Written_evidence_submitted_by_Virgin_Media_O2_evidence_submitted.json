@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "id": "DOC_987",
+    "title": "Written evidence submitted by Virgin Media O2",
+    "category": "02_Select_Committees",
+    "type": "Written Evidence",
+    "author": "evidence submitted",
+    "date": "2021-09-03",
+    "url": "https://committees.parliament.uk/writtenevidence/38694/html/",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Start (Part 1/7)",
+      "text": "Section heading: Start\n#\n\nWritten evidence submitted by Virgin Media O2\n\nVirgin Media response to the DCMS Sub-committee call for evidence: Online Safety and Online Harms\n\nDate of submission: 3 September 2021\n\nIntroduction\n\nVirgin Media O2 welcomes the opportunity to respond to the Draft Online Safety Bill Pre-Legislative Scrutiny Committee. We have been engaged in the policy development of online regulation since the publication of the Internet Safety Green Paper in 2017, an d we are encouraged to see the proposals enter their legislative stage.\n\nThe Government\u2019s goal is to make the UK the safest place to be online and the Online Safety Bill presents an opportunity to deliver on this ambition. The Draft Bill sets out a framewo rk to create the conditions for a safer internet that will reduce the likelihood of users experiencing harm online and rebuild citizens\u2019 trust in the internet. Yet, establishing such a comprehensive and novel regulatory system for online safety is not a si mple task, and it is important that the proposals are properly scrutinised prior to being implemented so the regulatory regime can be as effective as possible.\n\nThe Draft Online Safety Bill",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Start\n#\n\nWritten evidence submitted by Virgin Media O2\n\nVirgin Media response to the DCMS Sub-committee call for evidence: Online Safety and Online Harms\n\nDate of submission: 3 September 2021\n\nIntroduction\n\nVirgin Media O2 welcomes the opportunity to respond to the Draft Online Safety Bill Pre-Legislative Scrutiny Committee. We have been engaged in the policy development of online regulation since the publication of the Internet Safety Green Paper in 2017, an d we are encouraged to see the proposals enter their legislative stage.\n\nThe Government\u2019s goal is to make the UK the safest place to be online and the Online Safety Bill presents an opportunity to deliver on this ambition. The Draft Bill sets out a framewo rk to create the conditions for a safer internet that will reduce the likelihood of users experiencing harm online and rebuild citizens\u2019 trust in the internet. Yet, establishing such a comprehensive and novel regulatory system for online safety is not a si mple task, and it is important that the proposals are properly scrutinised prior to being implemented so the regulatory regime can be as effective as possible.\n\nThe Draft Online Safety Bill",
+      "chunk_id": "DOC_987::c000000",
+      "chunk_hash": "233f097e4620",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_987::c000001"
+    },
+    {
+      "header": "Start (Part 2/7)",
+      "text": "in the internet. Yet, establishing such a comprehensive and novel regulatory system for online safety is not a si mple task, and it is important that the proposals are properly scrutinised prior to being implemented so the regulatory regime can be as effective as possible. The Draft Online Safety Bill - We are supportive of the Duty of Care model set out in the Draft B ill. We believe that a Duty of Care model is the correct approach; embedding flexibility into the primary legislation and prioritising the focus on systems and processes over content will protect against it becoming quickly outdated in the face of technolo gical change. - We welcome Ofcom\u2019s appointment as the regulator for the online safety regime. Ofcom is uniquely positioned to undertake the role of regulator and should be able to draw on its experience and expertise from regulating the broadcast and telecom s industries. - However, Ofcom\u2019s powers need to be proportionate and targeted. An example of where this is not the case are the information gathering powers conferred to Ofcom in the Draft Bill. Presently, these apply to any organisation involved in the onl ine safety regime, regardless of whether or not they are a regulated service. We believe this need s to be tempered by the inclusion of a proportionality requirement, as is the case for information gathering powers in the Communications Act 2003. - We view t he scope of the Draft B ill as correc t, with the role carved out for access facility providers \u2013 impeding access to non-compliant regulated services following a court order \u2013 used only as a measure of last resort. It is vital that blocking access to service s and their content is a not a decision taken lightly; it is an extreme step that should be reserved for the most serious of cases. Over-blocking will rightly be met with concerns about the erosion of digital freedoms. - Similarly, we are pleased to see the Draft Bill acknowledge the technical limitations of ISP blocking. I ncreased adoption of DNS-over-HTTPs (DoH) and other encryption techniques prevent ISPs from seeing and managing traffic passing over their servers, whic h effectively diminishes their ability to block or filter. There\u2019s no simple technical solution to this, so Government and Ofcom must continue to work with a variety of players in the internet eco-system to ensure access restriction orders are applied holi stically. - I t\u2019s vital that access facility providers are given a clear role and the ability to engage in the court process should Ofcom apply for an access restriction order. T here needs to be an opportunity for them to challenge an order that they would b e unable to deliver for technical or practical reasons. - We also strongly support the media literacy obligation placed on Ofcom. Technical interventions can and will protect users from harms, but there are limitations to what they can achieve alone, especi ally in light of how pervasive connectivity is",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "- We are supportive of the Duty of Care model set out in the Draft B ill. We believe that a Duty of Care model is the correct approach; embedding flexibility into the primary legislation and prioritising the focus on systems and processes over content will protect against it becoming quickly outdated in the face of technolo gical change. - We welcome Ofcom\u2019s appointment as the regulator for the online safety regime. Ofcom is uniquely positioned to undertake the role of regulator and should be able to draw on its experience and expertise from regulating the broadcast and telecom s industries. - However, Ofcom\u2019s powers need to be proportionate and targeted. An example of where this is not the case are the information gathering powers conferred to Ofcom in the Draft Bill. Presently, these apply to any organisation involved in the onl ine safety regime, regardless of whether or not they are a regulated service. We believe this need s to be tempered by the inclusion of a proportionality requirement, as is the case for information gathering powers in the Communications Act 2003. - We view t he scope of the Draft B ill as correc t, with the role carved out for access facility providers \u2013 impeding access to non-compliant regulated services following a court order \u2013 used only as a measure of last resort. It is vital that blocking access to service s and their content is a not a decision taken lightly; it is an extreme step that should be reserved for the most serious of cases. Over-blocking will rightly be met with concerns about the erosion of digital freedoms. - Similarly, we are pleased to see the Draft Bill acknowledge the technical limitations of ISP blocking. I ncreased adoption of DNS-over-HTTPs (DoH) and other encryption techniques prevent ISPs from seeing and managing traffic passing over their servers, whic h effectively diminishes their ability to block or filter. There\u2019s no simple technical solution to this, so Government and Ofcom must continue to work with a variety of players in the internet eco-system to ensure access restriction orders are applied holi stically. - I t\u2019s vital that access facility providers are given a clear role and the ability to engage in the court process should Ofcom apply for an access restriction order. T here needs to be an opportunity for them to challenge an order that they would b e unable to deliver for technical or practical reasons. - We also strongly support the media literacy obligation placed on Ofcom. Technical interventions can and will protect users from harms, but there are limitations to what they can achieve alone, especi ally in light of how pervasive connectivity is",
+      "chunk_id": "DOC_987::c000001",
+      "chunk_hash": "75ed3d672a48",
+      "prev_chunk_id": "DOC_987::c000000",
+      "next_chunk_id": "DOC_987::c000002"
+    },
+    {
+      "header": "Start (Part 3/7)",
+      "text": "b e unable to deliver for technical or practical reasons. - We also strongly support the media literacy obligation placed on Ofcom. Technical interventions can and will protect users from harms, but there are limitations to what they can achieve alone, especi ally in light of how pervasive connectivity is Therefore, building digital understanding and resilience in consumers must be an integral part of the online safety regime. - There are already lots of organisation s operating in thi s remit, so we support the duty on Ofcom to produce guidance about the evaluation of media literacy initiatives and actions. However, we believe this should be expanded to include a responsibility for the online safety regulator to proactively track the pe rformance of these initiatives. This will create a useful dataset that will facilitate industry in more effectively directing and investing resource. Summary of Recommendations - Section 93 should be amended so that it specifically outlines a role for ac cess facility providers in every application process and allows providers to challenge any order that they would be unable to deliver for technical or practical reasons. - Section 70 should be amended to include a proportionality requirement, allowing provid ers to seek clarity from Ofcom on why an information notice has been issued and to agree reasonable timings for delivering on a notice. We believe the information provisions set out in the Communications Act 2003 (s135, 136, and 137) set a useful precedent and give this degree of proportionately. - Section 103 should be amended to include a responsibility for the online safety regulator to proactively track the performance of online media literacy initiatives. Questions",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Therefore, building digital understanding and resilience in consumers must be an integral part of the online safety regime. - There are already lots of organisation s operating in thi s remit, so we support the duty on Ofcom to produce guidance about the evaluation of media literacy initiatives and actions. However, we believe this should be expanded to include a responsibility for the online safety regulator to proactively track the pe rformance of these initiatives. This will create a useful dataset that will facilitate industry in more effectively directing and investing resource. Summary of Recommendations - Section 93 should be amended so that it specifically outlines a role for ac cess facility providers in every application process and allows providers to challenge any order that they would be unable to deliver for technical or practical reasons. - Section 70 should be amended to include a proportionality requirement, allowing provid ers to seek clarity from Ofcom on why an information notice has been issued and to agree reasonable timings for delivering on a notice. We believe the information provisions set out in the Communications Act 2003 (s135, 136, and 137) set a useful precedent and give this degree of proportionately. - Section 103 should be amended to include a responsibility for the online safety regulator to proactively track the performance of online media literacy initiatives. Questions",
+      "chunk_id": "DOC_987::c000002",
+      "chunk_hash": "4fa312855ca2",
+      "prev_chunk_id": "DOC_987::c000001",
+      "next_chunk_id": "DOC_987::c000003"
+    },
+    {
+      "header": "Start (Part 4/7)",
+      "text": "the information provisions set out in the Communications Act 2003 (s135, 136, and 137) set a useful precedent and give this degree of proportionately. - Section 103 should be amended to include a responsibility for the online safety regulator to proactively track the performance of online media literacy initiatives. Questions Does the draft Bill focus enough on the ways tech companies could be encouraged to consider safety and/or the risk of harm in platform design and the systems and processes that they put in place? We believe the Duty of Care approach adopted in the Draft Online Safety Bill will be sufficient to motivate tech companies to consider safety and harm prevention in the design of their systems and processes. The Duty of Care model is the most appropriate regu latory mechanism for the online safety regime as it strikes the right balance between placing obligations on providers of user-to-user services and search services without creating overly prescriptive legislation that would inevitably struggle to adapt wit h rapid technological change. We do not believe that primary legislation seeking to outline specific content or types of services would be successful in creating safer digital spaces for the long-term. What constitutes harmful content is subject to change and can be highly subjective. P rimary legislation is not the correct vehicle to define that. Similarly, the types of services and how users interact with those services can evolve at a rapid pace, with new apps or platforms emerging and gaining popularity quickly. Thus, using duties of care and focusing on systems and processes allows the legislation to be adaptable and, to some extent, future-proof.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Does the draft Bill focus enough on the ways tech companies could be encouraged to consider safety and/or the risk of harm in platform design and the systems and processes that they put in place? We believe the Duty of Care approach adopted in the Draft Online Safety Bill will be sufficient to motivate tech companies to consider safety and harm prevention in the design of their systems and processes. The Duty of Care model is the most appropriate regu latory mechanism for the online safety regime as it strikes the right balance between placing obligations on providers of user-to-user services and search services without creating overly prescriptive legislation that would inevitably struggle to adapt wit h rapid technological change. We do not believe that primary legislation seeking to outline specific content or types of services would be successful in creating safer digital spaces for the long-term. What constitutes harmful content is subject to change and can be highly subjective. P rimary legislation is not the correct vehicle to define that. Similarly, the types of services and how users interact with those services can evolve at a rapid pace, with new apps or platforms emerging and gaining popularity quickly. Thus, using duties of care and focusing on systems and processes allows the legislation to be adaptable and, to some extent, future-proof.",
+      "chunk_id": "DOC_987::c000003",
+      "chunk_hash": "2a0a007664e6",
+      "prev_chunk_id": "DOC_987::c000002",
+      "next_chunk_id": "DOC_987::c000004"
+    },
+    {
+      "header": "Start (Part 5/7)",
+      "text": "Similarly, the types of services and how users interact with those services can evolve at a rapid pace, with new apps or platforms emerging and gaining popularity quickly. Thus, using duties of care and focusing on systems and processes allows the legislation to be adaptable and, to some extent, future-proof. However, the structural complexity of the Draft Bill makes it unclear how the different duties of care will interact. Regulated services will be given different duties of care depending on their categorisation (in descending order of risk: Category 1, 2A, and 2B), which in turn depends on threshold conditions set by the Secretary of State (using criteria such a s the number of users and functionalities). We support the flexibility within the D uty of C are model, which can ensure a regulated provider is subject to duties that are proportionate to its scale, but we believe there i s potential for the duties to overla p. Government should make this clearer to avoid potential confusion that would limit the efficacy of the regulations. Are there any contested inclusions, tensions or contradictions in the draft Bill that need to be more carefully considered before the fi nal Bill is put to Parliament? Virgin Media O2 believes that the scope of the legislation is largely correct, but there are parts of the Draft Bill that would benefit from further clarity before the final Bill is put to Parliament.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "However, the structural complexity of the Draft Bill makes it unclear how the different duties of care will interact. Regulated services will be given different duties of care depending on their categorisation (in descending order of risk: Category 1, 2A, and 2B), which in turn depends on threshold conditions set by the Secretary of State (using criteria such a s the number of users and functionalities). We support the flexibility within the D uty of C are model, which can ensure a regulated provider is subject to duties that are proportionate to its scale, but we believe there i s potential for the duties to overla p. Government should make this clearer to avoid potential confusion that would limit the efficacy of the regulations. Are there any contested inclusions, tensions or contradictions in the draft Bill that need to be more carefully considered before the fi nal Bill is put to Parliament? Virgin Media O2 believes that the scope of the legislation is largely correct, but there are parts of the Draft Bill that would benefit from further clarity before the final Bill is put to Parliament.",
+      "chunk_id": "DOC_987::c000004",
+      "chunk_hash": "8d1c7e3d76d0",
+      "prev_chunk_id": "DOC_987::c000003",
+      "next_chunk_id": "DOC_987::c000005"
+    },
+    {
+      "header": "Start (Part 6/7)",
+      "text": "need to be more carefully considered before the fi nal Bill is put to Parliament? Virgin Media O2 believes that the scope of the legislation is largely correct, but there are parts of the Draft Bill that would benefit from further clarity before the final Bill is put to Parliament. One such example of thi s is the lack of detail regarding the role or access facility providers in the process of Ofcom applying to the courts for an access restriction order.Section 93 details how Ofcom will be able to issue access restriction orders as part of its enforcement regime, which would block users in the UK from accessing non-compliant service providers who fall under the Duty of Care model. We are pleased that this clause details that these orders can only be used as a measure of last resort, after a number of other business disruption issues have been tried, and that Ofcom must apply to the courts before issuing an order. However, as drafted, the clause does not specify w hat role, if any, access facility providers would play in the court order process. Section 93(3)(g) suggests that applications can be made ex parte, which is concerning given the wide \\-ranging requirements which could potentially be imposed on access provid ers under s93(3)(f) \u2013 which are not clearly specified. We believe that there is an important role for access facility providers in providing information on what is technically achievable so that any access restriction order issued is practical, deliverable and does not lead to unintended consequences, such as innocent third parties\u2019 legitimate content being restricted. Under the current wording, there is a risk that an access restriction order could be imposed on a provider which:",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "One such example of thi s is the lack of detail regarding the role or access facility providers in the process of Ofcom applying to the courts for an access restriction order.Section 93 details how Ofcom will be able to issue access restriction orders as part of its enforcement regime, which would block users in the UK from accessing non-compliant service providers who fall under the Duty of Care model. We are pleased that this clause details that these orders can only be used as a measure of last resort, after a number of other business disruption issues have been tried, and that Ofcom must apply to the courts before issuing an order. However, as drafted, the clause does not specify w hat role, if any, access facility providers would play in the court order process. Section 93(3)(g) suggests that applications can be made ex parte, which is concerning given the wide \\-ranging requirements which could potentially be imposed on access provid ers under s93(3)(f) \u2013 which are not clearly specified. We believe that there is an important role for access facility providers in providing information on what is technically achievable so that any access restriction order issued is practical, deliverable and does not lead to unintended consequences, such as innocent third parties\u2019 legitimate content being restricted. Under the current wording, there is a risk that an access restriction order could be imposed on a provider which:",
+      "chunk_id": "DOC_987::c000005",
+      "chunk_hash": "bd81463f6636",
+      "prev_chunk_id": "DOC_987::c000004",
+      "next_chunk_id": "DOC_987::c000006"
+    },
+    {
+      "header": "Start (Part 7/7)",
+      "text": "what is technically achievable so that any access restriction order issued is practical, deliverable and does not lead to unintended consequences, such as innocent third parties\u2019 legitimate content being restricted. Under the current wording, there is a risk that an access restriction order could be imposed on a provider which: a) cannot be delivered, and t hat access facility provider would therefore be unable to carry out its legal duties; or b) would lead to blocking the lawful, legitimate content of innocent third parties. We want Section 93 to be amended so that it specifically outlines a role for access fa cility providers in every application process and allows providers to challenge any order that they would be unable to deliver for technical or practical reasons.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "a) cannot be delivered, and t hat access facility provider would therefore be unable to carry out its legal duties; or b) would lead to blocking the lawful, legitimate content of innocent third parties. We want Section 93 to be amended so that it specifically outlines a role for access fa cility providers in every application process and allows providers to challenge any order that they would be unable to deliver for technical or practical reasons.",
+      "chunk_id": "DOC_987::c000006",
+      "chunk_hash": "f9c4d4a13ead",
+      "prev_chunk_id": "DOC_987::c000005",
+      "next_chunk_id": null
+    }
+  ]
+}

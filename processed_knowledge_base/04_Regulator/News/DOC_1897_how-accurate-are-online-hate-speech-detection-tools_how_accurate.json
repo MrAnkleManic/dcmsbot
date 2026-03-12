@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "id": "DOC_1897",
+    "title": "how-accurate-are-online-hate-speech-detection-tools",
+    "category": "04_Regulator",
+    "type": "News",
+    "author": "how accurate",
+    "date": "2024-03-12",
+    "url": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/how-accurate-are-online-hate-speech-detection-tools",
+    "encoding": "Windows-1252",
+    "authority_tag": "PRESS_RELEASE",
+    "authority_weight": 4
+  },
+  "chunks": [
+    {
+      "header": "HTML Content (Part 1/2)",
+      "text": "How accurate are online hate speech detection tools? How accurate are online hate speech detection tools? URL copied\n-->\nOnline safety\nIllegal and harmful content\nNews and updates\nFeatures\nPublished:\n12 March 2024\nAutomated classifiers are tools used to detect harmful content, such as hate speech. These safety measures can be used to significantly reduce people\u2019s experiences of harm online. Researchers also use these tools to identify how a change to a platform (for example, when it changes its rules or removes certain content or users) impact the frequency of hate speech. However, according to\nOfcom analysis\npublished today, it is important for researchers to indicate which classifiers they have used and how they have performed. This is because the performance of classifiers may vary substantially. For example, widely-used classifiers may perform poorly in relation to some datasets. Ofcom has analysed the performance of two hate speech classifiers: Perspective API \u2013 the most commonly used \u2018off-the-shelf\u2019 classifier \u2013 and HateXplain, which was trained on similar data to the test dataset used for this assessment. The purpose was to explore how these different classifiers perform and, then, the implications for research on the effectiveness of these types of safety measures. We found that Perspective API identified 13% of all hate speech in the test dataset, compared to 78% with HateXplain. This highlights that accuracy is significantly improved when using a classifier trained on a dataset from the same platform and user base. We also found the performance of the classifiers varied depending on the target of the hate speech. The volume of errors made by the Perspective API classifier in identifying hate speech targeted at certain ethnic groups, in the dataset we used, renders it no better than random guessing. The results suggest that, in relation to certain datasets and in comparison to classifiers which have been developed using similar datasets, Perspective API may make biased errors when predicting hate speech targeted at certain protected characteristics. We used Perspective API because it easily available and widely used. The purpose of our analysis is not to say that Perspective API is generally a poor performing classifier. Rather, that it may sometimes perform poorly, or poorly in comparison with other automated classifiers. Based on this analysis, we believe it is important that, when researchers use hate speech classifiers to identify the frequency of hate speech, they also report how well the classifier performed and how it performs relative to other available classifiers. Otherwise, the results they present may not be robust. To implement the UK\u2019s online safety laws, Ofcom must produce Codes of Practice and Guidance that set out safety measures online services can adopt to protect their users and comply with their new duties. Today\u2019s study forms part of a substantial programme of research to inform our regulatory approach. We will update our Codes over time as our evidence base improves and as technology and harms evolve.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "How accurate are online hate speech detection tools? How accurate are online hate speech detection tools? URL copied\n-->\nOnline safety\nIllegal and harmful content\nNews and updates\nFeatures\nPublished:\n12 March 2024\nAutomated classifiers are tools used to detect harmful content, such as hate speech. These safety measures can be used to significantly reduce people\u2019s experiences of harm online. Researchers also use these tools to identify how a change to a platform (for example, when it changes its rules or removes certain content or users) impact the frequency of hate speech. However, according to\nOfcom analysis\npublished today, it is important for researchers to indicate which classifiers they have used and how they have performed. This is because the performance of classifiers may vary substantially. For example, widely-used classifiers may perform poorly in relation to some datasets. Ofcom has analysed the performance of two hate speech classifiers: Perspective API \u2013 the most commonly used \u2018off-the-shelf\u2019 classifier \u2013 and HateXplain, which was trained on similar data to the test dataset used for this assessment. The purpose was to explore how these different classifiers perform and, then, the implications for research on the effectiveness of these types of safety measures. We found that Perspective API identified 13% of all hate speech in the test dataset, compared to 78% with HateXplain. This highlights that accuracy is significantly improved when using a classifier trained on a dataset from the same platform and user base. We also found the performance of the classifiers varied depending on the target of the hate speech. The volume of errors made by the Perspective API classifier in identifying hate speech targeted at certain ethnic groups, in the dataset we used, renders it no better than random guessing. The results suggest that, in relation to certain datasets and in comparison to classifiers which have been developed using similar datasets, Perspective API may make biased errors when predicting hate speech targeted at certain protected characteristics. We used Perspective API because it easily available and widely used. The purpose of our analysis is not to say that Perspective API is generally a poor performing classifier. Rather, that it may sometimes perform poorly, or poorly in comparison with other automated classifiers. Based on this analysis, we believe it is important that, when researchers use hate speech classifiers to identify the frequency of hate speech, they also report how well the classifier performed and how it performs relative to other available classifiers. Otherwise, the results they present may not be robust. To implement the UK\u2019s online safety laws, Ofcom must produce Codes of Practice and Guidance that set out safety measures online services can adopt to protect their users and comply with their new duties. Today\u2019s study forms part of a substantial programme of research to inform our regulatory approach. We will update our Codes over time as our evidence base improves and as technology and harms evolve.",
+      "chunk_id": "DOC_1897::c000000",
+      "chunk_hash": "4480f190d15e",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_1897::c000001"
+    },
+    {
+      "header": "HTML Content (Part 2/2)",
+      "text": "out safety measures online services can adopt to protect their users and comply with their new duties. Today\u2019s study forms part of a substantial programme of research to inform our regulatory approach. We will update our Codes over time as our evidence base improves and as technology and harms evolve. Fewer than half of social media users find content controls effective New research from Ofcom sheds light on people\u2019s experiences of content controls on social media and video-sharing platforms. Protecting people from hate and terrorism under the online safety regime The use of online services to incite and radicalise vulnerable people, including children, towards hate and violence poses a major risk to UK users. It can have horrific consequences and in the severest of cases can lead to mass murder, often targeting minorities and protected groups. Search engines can act as one-click gateways to self-harm and suicide content",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Fewer than half of social media users find content controls effective New research from Ofcom sheds light on people\u2019s experiences of content controls on social media and video-sharing platforms. Protecting people from hate and terrorism under the online safety regime The use of online services to incite and radicalise vulnerable people, including children, towards hate and violence poses a major risk to UK users. It can have horrific consequences and in the severest of cases can lead to mass murder, often targeting minorities and protected groups. Search engines can act as one-click gateways to self-harm and suicide content",
+      "chunk_id": "DOC_1897::c000001",
+      "chunk_hash": "662606b8f7d0",
+      "prev_chunk_id": "DOC_1897::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

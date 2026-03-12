@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "id": "DOC_929",
+    "title": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368",
+    "category": "01_Legislation",
+    "type": "Statutory Instrument",
+    "author": "Parliament",
+    "date": "2025-11-03",
+    "url": "https://www.legislation.gov.uk/uksi/2025/368/data.xht?view=snippet&wrap=true",
+    "encoding": null,
+    "authority_tag": "PRIMARY_TRUTH",
+    "authority_weight": 10
+  },
+  "chunks": [
+    {
+      "header": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368",
+      "text": "Section heading: The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368\n\nProspective\n\nStatutory Instruments",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368\n\nProspective\n\nStatutory Instruments",
+      "chunk_id": "DOC_929::c000000",
+      "chunk_hash": "175544dcb88d",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_929::c000001"
+    },
+    {
+      "header": "Section 2025 No. 368",
+      "text": "Section heading: Section 2025 No. 368\n\nElectronic Communications",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Section 2025 No. 368\n\nElectronic Communications",
+      "chunk_id": "DOC_929::c000001",
+      "chunk_hash": "23e197ddfbdc",
+      "prev_chunk_id": "DOC_929::c000000",
+      "next_chunk_id": "DOC_929::c000002"
+    },
+    {
+      "header": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025",
+      "text": "Section heading: The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025\n\nMade\n\n19th March 2025\n\nLaid before Parliament\n\n20th March 2025\n\nComing into force\n\n3rd November 2025\n\nThe Secretary of State makes these Regulations, in exercise of the powers conferred by sections 67(1) to (4), 224(1)(a)(i) and (b) of the Online Safety Act 2023().\n\nThe Secretary of State has consulted the NCA and OFCOM and such other persons as the Secretary of State has considered appropriate as required by section 67(5) of the Online Safety Act 2023.\n\nProspective",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025\n\nMade\n\n19th March 2025\n\nLaid before Parliament\n\n20th March 2025\n\nComing into force\n\n3rd November 2025\n\nThe Secretary of State makes these Regulations, in exercise of the powers conferred by sections 67(1) to (4), 224(1)(a)(i) and (b) of the Online Safety Act 2023().\n\nThe Secretary of State has consulted the NCA and OFCOM and such other persons as the Secretary of State has considered appropriate as required by section 67(5) of the Online Safety Act 2023.\n\nProspective",
+      "chunk_id": "DOC_929::c000002",
+      "chunk_hash": "a9243d7bfc8e",
+      "prev_chunk_id": "DOC_929::c000001",
+      "next_chunk_id": "DOC_929::c000003"
+    },
+    {
+      "header": "Citation, commencement, and extent",
+      "text": "Section heading: Citation, commencement, and extent\n\n1.\u2014(1) These Regulations may be cited as the Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025.\n\n(2) These Regulations come into force on 3rd November 2025.\n\n(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.\n\nCommencement Information\n\nI1 Reg. 1 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Citation, commencement, and extent\n\n1.\u2014(1) These Regulations may be cited as the Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025.\n\n(2) These Regulations come into force on 3rd November 2025.\n\n(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.\n\nCommencement Information\n\nI1 Reg. 1 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000003",
+      "chunk_hash": "ac631b2f0982",
+      "prev_chunk_id": "DOC_929::c000002",
+      "next_chunk_id": "DOC_929::c000004"
+    },
+    {
+      "header": "Interpretation",
+      "text": "Section heading: Interpretation\n\n2. In these Regulations\u2014\n\n\u201c the Act \u201d means the Online Safety Act 2023;\n\n\u201c authorised person \u201d has the meaning given in regulation 7(3);\n\n\u201c API \u201d means an automatic programming interface which can be used to submit reports of CSEA content to the online portal;\n\n\u201c CSEA offence \u201d means an offence specified in Schedule 6 to the Act;\n\n\u201cincident of CSEA content\u201d is content which gives a provider\u2014\n\n(a)\n\nreasonable grounds to infer that a user has committed all elements of an offence in Schedule 6 to the Act, and\n\n(b)\n\nno reasonable grounds to infer that the user has a defence to that offence;\n\n\u201c content moderation \u201d means the measures which a provider is required to take to moderate content in accordance with section 10 of the Act;\n\n\u201c CSEA content \u201d means CSEA content() as it relates to providers required to report CSEA content by these Regulations;\n\n\u201c online portal \u201d means the online portal managed by the NCA() which has been provided for the purpose of enabling an authorised person to send reports of CSEA content to the NCA securely;\n\n\u201c organisation administrator \u201d means the person designated in accordance with regulations 3 and 4 as the organisation administrator;\n\n\u201c platform \u201d means part of the regulated user-to-user service, which the provider has control over;\n\n\u201c provider \u201d means the provider of a regulated user-to-user service(), which is required by section 66 of the Act to report CSEA content to the NCA;\n\n\u201cwork\u201d in the context of telephone numbers and email addresses, means a telephone number or an email address, at which an individual can be contacted during normal working hours.\n\nCommencement Information\n\nI2 Reg. 2 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Interpretation\n\n2. In these Regulations\u2014\n\n\u201c the Act \u201d means the Online Safety Act 2023;\n\n\u201c authorised person \u201d has the meaning given in regulation 7(3);\n\n\u201c API \u201d means an automatic programming interface which can be used to submit reports of CSEA content to the online portal;\n\n\u201c CSEA offence \u201d means an offence specified in Schedule 6 to the Act;\n\n\u201cincident of CSEA content\u201d is content which gives a provider\u2014\n\n(a)\n\nreasonable grounds to infer that a user has committed all elements of an offence in Schedule 6 to the Act, and\n\n(b)\n\nno reasonable grounds to infer that the user has a defence to that offence;\n\n\u201c content moderation \u201d means the measures which a provider is required to take to moderate content in accordance with section 10 of the Act;\n\n\u201c CSEA content \u201d means CSEA content() as it relates to providers required to report CSEA content by these Regulations;\n\n\u201c online portal \u201d means the online portal managed by the NCA() which has been provided for the purpose of enabling an authorised person to send reports of CSEA content to the NCA securely;\n\n\u201c organisation administrator \u201d means the person designated in accordance with regulations 3 and 4 as the organisation administrator;\n\n\u201c platform \u201d means part of the regulated user-to-user service, which the provider has control over;\n\n\u201c provider \u201d means the provider of a regulated user-to-user service(), which is required by section 66 of the Act to report CSEA content to the NCA;\n\n\u201cwork\u201d in the context of telephone numbers and email addresses, means a telephone number or an email address, at which an individual can be contacted during normal working hours.\n\nCommencement Information\n\nI2 Reg. 2 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000004",
+      "chunk_hash": "9802dff28c39",
+      "prev_chunk_id": "DOC_929::c000003",
+      "next_chunk_id": "DOC_929::c000005"
+    },
+    {
+      "header": "Registration of a provider of a regulated user-to-user service",
+      "text": "Section heading: Registration of a provider of a regulated user-to-user service\n\n3.\u2014(1) Where a UK provider() of a regulated user-to-user service and a non-UK provider() of a regulated user-to-user service is required by section 66 of the Act to report certain CSEA content to the NCA, that provider must\u2014\n\n(a) nominate an appropriate person to be the organisation administrator;\n\n(b) require the organisation administrator to register the provider of that service with the NCA and to complete the requirements in regulation 5 for using the online portal to submit reports of CSEA content to the NCA;\n\n(c) require the organisation administrator to supply the details required by regulation 6 whenever a deputy organisation administrator is appointed:\n\n(d) require the organisation administrator to comply with the requirements of regulation 7 and appoint an authorised person, in the case where a person other than the organisation administrator is to make reports of CSEA content to the NCA;\n\n(e) require the organisation administrator to comply with the requirement in regulation 9, when appropriate.\n\n(2) The organisation administrator must be a senior manager or other individual whom the provider considers has the appropriate role within the provider to be able to able to register the provider with the NCA.\n\nCommencement Information\n\nI3 Reg. 3 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Registration of a provider of a regulated user-to-user service\n\n3.\u2014(1) Where a UK provider() of a regulated user-to-user service and a non-UK provider() of a regulated user-to-user service is required by section 66 of the Act to report certain CSEA content to the NCA, that provider must\u2014\n\n(a) nominate an appropriate person to be the organisation administrator;\n\n(b) require the organisation administrator to register the provider of that service with the NCA and to complete the requirements in regulation 5 for using the online portal to submit reports of CSEA content to the NCA;\n\n(c) require the organisation administrator to supply the details required by regulation 6 whenever a deputy organisation administrator is appointed:\n\n(d) require the organisation administrator to comply with the requirements of regulation 7 and appoint an authorised person, in the case where a person other than the organisation administrator is to make reports of CSEA content to the NCA;\n\n(e) require the organisation administrator to comply with the requirement in regulation 9, when appropriate.\n\n(2) The organisation administrator must be a senior manager or other individual whom the provider considers has the appropriate role within the provider to be able to able to register the provider with the NCA.\n\nCommencement Information\n\nI3 Reg. 3 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000005",
+      "chunk_hash": "911d72c993dd",
+      "prev_chunk_id": "DOC_929::c000004",
+      "next_chunk_id": "DOC_929::c000006"
+    },
+    {
+      "header": "Content moderation carried out by another entity or individual",
+      "text": "Section heading: Content moderation carried out by another entity or individual\n\n4.\u2014(1) On each occasion where the provider mentioned in regulation 3 has arranged for another entity() or individual to carry out the content moderation of the service, the provider must\u2014\n\n(a) inform the NCA of the name of the entity or individual who is to carry out the moderation of the service on behalf of the provider; and\n\n(b) ensure that the entity who is to carry out the content moderation registers with the NCA and nominates an individual to be the organisation administrator; or\n\n(c) ensure that the individual who is to carry out the moderation of the service, registers with the NCA and either carries out the role of organisation administrator or nominates another individual to do this.\n\n(2) If the arrangement notified to the NCA under paragraph (1)(a) of this regulation ceases, the provider must\u2014\n\n(a) notify the NCA that this arrangement has ceased, and either,\n\n(b) nominate an appropriate person to be the organisation administrator, or\n\n(c) comply with the requirement in paragraph (1)(a), to notify the NCA of the name of the entity or individual who is to carry out the moderation of the service on behalf of the provider; and\n\n(d) ensure that the entity, which is to carry out the moderation of the service, registers with the NCA and nominates an individual to be the organisation administrator; or,\n\n(e) ensure that the individual, who is to carry out the moderation of the service, registers with the NCA and either carries out the role of organisation administrator or nominates another individual to do this.\n\n(3) The provider must ensure that the arrangements entered into with the entity or individual to carry out content moderation of the service, require the entity or individual to comply with the requirements in regulations 5, 6, 7 and 9.\n\nCommencement Information",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Content moderation carried out by another entity or individual\n\n4.\u2014(1) On each occasion where the provider mentioned in regulation 3 has arranged for another entity() or individual to carry out the content moderation of the service, the provider must\u2014\n\n(a) inform the NCA of the name of the entity or individual who is to carry out the moderation of the service on behalf of the provider; and\n\n(b) ensure that the entity who is to carry out the content moderation registers with the NCA and nominates an individual to be the organisation administrator; or\n\n(c) ensure that the individual who is to carry out the moderation of the service, registers with the NCA and either carries out the role of organisation administrator or nominates another individual to do this.\n\n(2) If the arrangement notified to the NCA under paragraph (1)(a) of this regulation ceases, the provider must\u2014\n\n(a) notify the NCA that this arrangement has ceased, and either,\n\n(b) nominate an appropriate person to be the organisation administrator, or\n\n(c) comply with the requirement in paragraph (1)(a), to notify the NCA of the name of the entity or individual who is to carry out the moderation of the service on behalf of the provider; and\n\n(d) ensure that the entity, which is to carry out the moderation of the service, registers with the NCA and nominates an individual to be the organisation administrator; or,\n\n(e) ensure that the individual, who is to carry out the moderation of the service, registers with the NCA and either carries out the role of organisation administrator or nominates another individual to do this.\n\n(3) The provider must ensure that the arrangements entered into with the entity or individual to carry out content moderation of the service, require the entity or individual to comply with the requirements in regulations 5, 6, 7 and 9.\n\nCommencement Information",
+      "chunk_id": "DOC_929::c000006",
+      "chunk_hash": "e09c605d42fd",
+      "prev_chunk_id": "DOC_929::c000005",
+      "next_chunk_id": "DOC_929::c000007"
+    },
+    {
+      "header": "Details to be provided on registration of a provider",
+      "text": "Section heading: Details to be provided on registration of a provider\n\n5.\u2014(1) The requirements referred to in regulation 3(1)(b) are as follows\u2014\n\n(a) where the provider is an entity, the name of that entity, or if the provider is one or more individuals, the name those individuals use (if any) to refer to that provider;\n\n(b) where the provider is a company with a registration number, the registration number;\n\n(c) the organisation administrator\u2019s work email address;\n\n(d) if the entity was formed under the law of a country, the name of that country or if the entity was not formed under the law of any country, the country in which the entity was first established;\n\n(e) where the provider is an entity, the names of any platforms and the website addresses of those platforms which the entity has control over;\n\n(f) where the provider is one or more individuals, the names of any platforms and the website addresses of those platforms which those individuals have control over.\n\n(2) The organisation administrator must also provide their work telephone number.\n\n(3) After the NCA has verified the organisation administrator\u2019s email address, the provider must provide\u2014\n\n(a) the full name of an emergency contact;\n\n(b) the work telephone number of that emergency contact;\n\n(c) the work email address of that emergency contact;\n\n(d) the work address of that emergency contact;\n\n(e) where the reports of CSEA content are to be sent to the NCA by an API, the provider must provide the name, work email address and work telephone number (including the international dialling code) for the point of contact responsible for the API.\n\nCommencement Information\n\nI5 Reg. 5 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Details to be provided on registration of a provider\n\n5.\u2014(1) The requirements referred to in regulation 3(1)(b) are as follows\u2014\n\n(a) where the provider is an entity, the name of that entity, or if the provider is one or more individuals, the name those individuals use (if any) to refer to that provider;\n\n(b) where the provider is a company with a registration number, the registration number;\n\n(c) the organisation administrator\u2019s work email address;\n\n(d) if the entity was formed under the law of a country, the name of that country or if the entity was not formed under the law of any country, the country in which the entity was first established;\n\n(e) where the provider is an entity, the names of any platforms and the website addresses of those platforms which the entity has control over;\n\n(f) where the provider is one or more individuals, the names of any platforms and the website addresses of those platforms which those individuals have control over.\n\n(2) The organisation administrator must also provide their work telephone number.\n\n(3) After the NCA has verified the organisation administrator\u2019s email address, the provider must provide\u2014\n\n(a) the full name of an emergency contact;\n\n(b) the work telephone number of that emergency contact;\n\n(c) the work email address of that emergency contact;\n\n(d) the work address of that emergency contact;\n\n(e) where the reports of CSEA content are to be sent to the NCA by an API, the provider must provide the name, work email address and work telephone number (including the international dialling code) for the point of contact responsible for the API.\n\nCommencement Information\n\nI5 Reg. 5 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000007",
+      "chunk_hash": "a971a0b8b51c",
+      "prev_chunk_id": "DOC_929::c000006",
+      "next_chunk_id": "DOC_929::c000008"
+    },
+    {
+      "header": "Appointment of deputy organisation administrator",
+      "text": "Section heading: Appointment of deputy organisation administrator\n\n6. If another employee or individual is appointed to deputise as an organisation administrator, the provider must provide the NCA with the details of that employee\u2019s work email address and work telephone number.\n\nCommencement Information\n\nI6 Reg. 6 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Appointment of deputy organisation administrator\n\n6. If another employee or individual is appointed to deputise as an organisation administrator, the provider must provide the NCA with the details of that employee\u2019s work email address and work telephone number.\n\nCommencement Information\n\nI6 Reg. 6 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000008",
+      "chunk_hash": "d9df9946738c",
+      "prev_chunk_id": "DOC_929::c000007",
+      "next_chunk_id": "DOC_929::c000009"
+    },
+    {
+      "header": "Appointment of authorised person",
+      "text": "Section heading: Appointment of authorised person\n\n7.\u2014(1) The provider must register each employee or individual who is to be authorised to report detected CSEA content to the NCA by supplying the following details to the NCA\u2014\n\n(a) first name;\n\n(b) last name;\n\n(c) work email address;\n\n(d) work telephone number (including international dialling code).\n\n(2) Following the notification of the information in paragraph (1), the NCA will supply that employee or individual with an account on the online portal.\n\n(3) The employee or individual authorised to report CSEA content to the NCA is referred to in these Regulations as the \u201c authorised person \u201d.\n\nCommencement Information\n\nI7 Reg. 7 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Appointment of authorised person\n\n7.\u2014(1) The provider must register each employee or individual who is to be authorised to report detected CSEA content to the NCA by supplying the following details to the NCA\u2014\n\n(a) first name;\n\n(b) last name;\n\n(c) work email address;\n\n(d) work telephone number (including international dialling code).\n\n(2) Following the notification of the information in paragraph (1), the NCA will supply that employee or individual with an account on the online portal.\n\n(3) The employee or individual authorised to report CSEA content to the NCA is referred to in these Regulations as the \u201c authorised person \u201d.\n\nCommencement Information\n\nI7 Reg. 7 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000009",
+      "chunk_hash": "778c421bd6e7",
+      "prev_chunk_id": "DOC_929::c000008",
+      "next_chunk_id": "DOC_929::c000010"
+    },
+    {
+      "header": "Restriction for use of account to report to NCA",
+      "text": "Section heading: Restriction for use of account to report to NCA\n\n8. The provider must ensure that the terms of employment or other contractual arrangements prohibit access to the account which an authorised person has been allocated to report CSEA content to the NCA by any other employee or individual.\n\nCommencement Information\n\nI8 Reg. 8 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Restriction for use of account to report to NCA\n\n8. The provider must ensure that the terms of employment or other contractual arrangements prohibit access to the account which an authorised person has been allocated to report CSEA content to the NCA by any other employee or individual.\n\nCommencement Information\n\nI8 Reg. 8 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000010",
+      "chunk_hash": "64d3a65d294a",
+      "prev_chunk_id": "DOC_929::c000009",
+      "next_chunk_id": "DOC_929::c000011"
+    },
+    {
+      "header": "Requests from the NCA",
+      "text": "Section heading: Requests from the NCA\n\n9. The provider must respond as soon as possible, or in any event within 7 days, to any request from the NCA about the provider or the reports submitted.\n\nCommencement Information\n\nI9 Reg. 9 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Requests from the NCA\n\n9. The provider must respond as soon as possible, or in any event within 7 days, to any request from the NCA about the provider or the reports submitted.\n\nCommencement Information\n\nI9 Reg. 9 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000011",
+      "chunk_hash": "b108fc7c58ce",
+      "prev_chunk_id": "DOC_929::c000010",
+      "next_chunk_id": "DOC_929::c000012"
+    },
+    {
+      "header": "Notification of cessation of reporting CSEA content to the NCA",
+      "text": "Section heading: Notification of cessation of reporting CSEA content to the NCA\n\n10.\u2014(1) A provider, who has registered to use the online portal under regulation 3, must notify the NCA, if that provider is required, or decides, to report CSEA content to a foreign agency() and will cease to report CSEA content to the NCA.\n\n(2) The provider should give that notification one month or more before the day on which reports will no longer be sent to the NCA.\n\nCommencement Information\n\nI10 Reg. 10 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Notification of cessation of reporting CSEA content to the NCA\n\n10.\u2014(1) A provider, who has registered to use the online portal under regulation 3, must notify the NCA, if that provider is required, or decides, to report CSEA content to a foreign agency() and will cease to report CSEA content to the NCA.\n\n(2) The provider should give that notification one month or more before the day on which reports will no longer be sent to the NCA.\n\nCommencement Information\n\nI10 Reg. 10 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000012",
+      "chunk_hash": "ef3d009b386d",
+      "prev_chunk_id": "DOC_929::c000011",
+      "next_chunk_id": "DOC_929::c000013"
+    },
+    {
+      "header": "Definition of \u201csenior manager\u201d",
+      "text": "Section heading: Definition of \u201csenior manager\u201d\n\n11.\u2014(1) For the purposes of this Part, a senior manager means\u2014\n\n(a) where the provider is an entity, an individual who plays a significant role in\u2014\n\n(i) the making of decisions about how the entity\u2019s relevant activities are to be managed or organised, or\n\n(ii) the actual managing or organising of the entity\u2019s relevant activities, and\n\nmay reasonably be expected to be in a position to ensure compliance with the duties under these Regulations;\n\n(b) where the provider is more than one individual, the individual designated by those individuals;\n\n(c) Where the provider is one individual, that individual.\n\n(2) For the purposes of paragraph (1), \u201c\u201d means those activities relating to the reporting of CSEA content to the NCA.\n\nCommencement Information\n\nI11 Reg. 11 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Definition of \u201csenior manager\u201d\n\n11.\u2014(1) For the purposes of this Part, a senior manager means\u2014\n\n(a) where the provider is an entity, an individual who plays a significant role in\u2014\n\n(i) the making of decisions about how the entity\u2019s relevant activities are to be managed or organised, or\n\n(ii) the actual managing or organising of the entity\u2019s relevant activities, and\n\nmay reasonably be expected to be in a position to ensure compliance with the duties under these Regulations;\n\n(b) where the provider is more than one individual, the individual designated by those individuals;\n\n(c) Where the provider is one individual, that individual.\n\n(2) For the purposes of paragraph (1), \u201c\u201d means those activities relating to the reporting of CSEA content to the NCA.\n\nCommencement Information\n\nI11 Reg. 11 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000013",
+      "chunk_hash": "1e60fe8204a4",
+      "prev_chunk_id": "DOC_929::c000012",
+      "next_chunk_id": "DOC_929::c000014"
+    },
+    {
+      "header": "Requirement for providers to report CSEA content",
+      "text": "Section heading: Requirement for providers to report CSEA content\n\n12.\u2014(1) A provider must send a report to the NCA for each incident of CSEA content which the provider has detected as soon as possible in accordance with the requirements of regulation 18.\n\n(2) A provider must send all the information which is required by Schedule 1 where that information is available on the provider\u2019s service at the time of sending the report (\u201can initial report\u201d).\n\n(3) Where all the information required by Schedule 1 is not available at the time of making the initial report, the provider must make a supplementary report (\u201ca supplementary report\u201d) as soon as possible after the information has been obtained from the provider\u2019s existing information.\n\n(4) Where the provider has notified the NCA that another entity or individual is to carry out the moderation of the provider\u2019s service, the provider must ensure that the arrangements with that entity or individual include a requirement that the entity or individual comply with the requirements of the regulations in Part 3 as to the contents of a report, and Part 4 as to the retention of data.\n\nCommencement Information",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Requirement for providers to report CSEA content\n\n12.\u2014(1) A provider must send a report to the NCA for each incident of CSEA content which the provider has detected as soon as possible in accordance with the requirements of regulation 18.\n\n(2) A provider must send all the information which is required by Schedule 1 where that information is available on the provider\u2019s service at the time of sending the report (\u201can initial report\u201d).\n\n(3) Where all the information required by Schedule 1 is not available at the time of making the initial report, the provider must make a supplementary report (\u201ca supplementary report\u201d) as soon as possible after the information has been obtained from the provider\u2019s existing information.\n\n(4) Where the provider has notified the NCA that another entity or individual is to carry out the moderation of the provider\u2019s service, the provider must ensure that the arrangements with that entity or individual include a requirement that the entity or individual comply with the requirements of the regulations in Part 3 as to the contents of a report, and Part 4 as to the retention of data.\n\nCommencement Information",
+      "chunk_id": "DOC_929::c000014",
+      "chunk_hash": "cb44a13b883f",
+      "prev_chunk_id": "DOC_929::c000013",
+      "next_chunk_id": "DOC_929::c000015"
+    },
+    {
+      "header": "Requirement for a subsequent report",
+      "text": "Section heading: Requirement for a subsequent report\n\n13.\u2014(1) If a user() sending, or a user receiving, CSEA content, which has been included in a report to the NCA, sends that CSEA content to another user and the provider detects that previously detected CSEA content, the provider must make a further report in respect of the user who has forwarded that CSEA content.\n\n(2) In a report mentioned in paragraph (1), the subsequent report should be linked to the unique reference number of the initial report by the provider, where that is available.\n\nCommencement Information\n\nI13 Reg. 13 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Requirement for a subsequent report\n\n13.\u2014(1) If a user() sending, or a user receiving, CSEA content, which has been included in a report to the NCA, sends that CSEA content to another user and the provider detects that previously detected CSEA content, the provider must make a further report in respect of the user who has forwarded that CSEA content.\n\n(2) In a report mentioned in paragraph (1), the subsequent report should be linked to the unique reference number of the initial report by the provider, where that is available.\n\nCommencement Information\n\nI13 Reg. 13 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000015",
+      "chunk_hash": "4860c86a2dfe",
+      "prev_chunk_id": "DOC_929::c000014",
+      "next_chunk_id": "DOC_929::c000016"
+    },
+    {
+      "header": "Priority assessment",
+      "text": "Section heading: Priority assessment\n\n14.\u2014(1) Where the provider has reasonable grounds for judging that the content is CSEA content, the authorised person should (where possible) indicate the priority level of the report on the basis of all the relevant information reasonably available to the authorised person, according to the criteria set out in paragraph (2) of this regulation.\n\n(2) Criteria for priority levels\u2014\n\n(a) Priority level 1: urgent, where there is information which suggests that there is current or imminent risk to a child and the provider believes that a crime is taking place or about to take place, and that a child is in need of immediate safeguarding or there is a threat to that child\u2019s life;\n\n(b) Priority level 2: where there is information which suggests that\u2014\n\n(i) a child is at risk in the near future,\n\n(ii) there are reasonable grounds for inferring that contact offending has taken place, or\n\n(iii) CSEA content has been recently generated, or\n\n(iv) the provider considers that there is a need for swift action to be taken on other grounds.\n\n(c) Priority level 3: where information does not indicate that either priority level 1 or priority level 2 applies.\n\nCommencement Information\n\nI14 Reg. 14 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Priority assessment\n\n14.\u2014(1) Where the provider has reasonable grounds for judging that the content is CSEA content, the authorised person should (where possible) indicate the priority level of the report on the basis of all the relevant information reasonably available to the authorised person, according to the criteria set out in paragraph (2) of this regulation.\n\n(2) Criteria for priority levels\u2014\n\n(a) Priority level 1: urgent, where there is information which suggests that there is current or imminent risk to a child and the provider believes that a crime is taking place or about to take place, and that a child is in need of immediate safeguarding or there is a threat to that child\u2019s life;\n\n(b) Priority level 2: where there is information which suggests that\u2014\n\n(i) a child is at risk in the near future,\n\n(ii) there are reasonable grounds for inferring that contact offending has taken place, or\n\n(iii) CSEA content has been recently generated, or\n\n(iv) the provider considers that there is a need for swift action to be taken on other grounds.\n\n(c) Priority level 3: where information does not indicate that either priority level 1 or priority level 2 applies.\n\nCommencement Information\n\nI14 Reg. 14 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000016",
+      "chunk_hash": "5a3200e4d043",
+      "prev_chunk_id": "DOC_929::c000015",
+      "next_chunk_id": "DOC_929::c000017"
+    },
+    {
+      "header": "Formatting requirements",
+      "text": "Section heading: Formatting requirements\n\n15. The information required under regulation 12, 13 and 14 must comply with the formatting requirements set out in Schedule 2.\n\nCommencement Information\n\nI15 Reg. 15 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Formatting requirements\n\n15. The information required under regulation 12, 13 and 14 must comply with the formatting requirements set out in Schedule 2.\n\nCommencement Information\n\nI15 Reg. 15 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000017",
+      "chunk_hash": "8dd3efbefc89",
+      "prev_chunk_id": "DOC_929::c000016",
+      "next_chunk_id": "DOC_929::c000018"
+    },
+    {
+      "header": "Manner of sending reports",
+      "text": "Section heading: Manner of sending reports\n\n16.\u2014(1) The provider must ensure that the report and any information required by these Regulations must be submitted to the NCA using the online portal in accordance with the time required by regulation 18.\n\n(2) Where the provider has notified the NCA of arrangements that have been made with another entity or individual to carry out the content moderation, the provider must ensure that these arrangements include a requirement for that entity or individual to submit the report and any information required by these Regulations to the NCA using the online portal in accordance with the time required by regulation 18.\n\n(3) The authorised person may submit a report to the online portal by using an API or manually.\n\nCommencement Information\n\nI16 Reg. 16 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Manner of sending reports\n\n16.\u2014(1) The provider must ensure that the report and any information required by these Regulations must be submitted to the NCA using the online portal in accordance with the time required by regulation 18.\n\n(2) Where the provider has notified the NCA of arrangements that have been made with another entity or individual to carry out the content moderation, the provider must ensure that these arrangements include a requirement for that entity or individual to submit the report and any information required by these Regulations to the NCA using the online portal in accordance with the time required by regulation 18.\n\n(3) The authorised person may submit a report to the online portal by using an API or manually.\n\nCommencement Information\n\nI16 Reg. 16 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000018",
+      "chunk_hash": "52acd14df90e",
+      "prev_chunk_id": "DOC_929::c000017",
+      "next_chunk_id": "DOC_929::c000019"
+    },
+    {
+      "header": "Data protection requirements",
+      "text": "Section heading: Data protection requirements\n\n17.\u2014(1) Where the provider is not required to comply with the data protection legislation, the provider, when implementing security measures and policies in accordance with these Regulations, has a duty to comply with the security of processing requirements in Article 5(1)(f) and Article 32 of UK GDPR.\n\n(2) For the purposes of this regulation, \u201c data protection legislation \u201d has the same meaning as in section 3 of the Data Protection Act 2018().\n\nCommencement Information\n\nI17 Reg. 17 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Data protection requirements\n\n17.\u2014(1) Where the provider is not required to comply with the data protection legislation, the provider, when implementing security measures and policies in accordance with these Regulations, has a duty to comply with the security of processing requirements in Article 5(1)(f) and Article 32 of UK GDPR.\n\n(2) For the purposes of this regulation, \u201c data protection legislation \u201d has the same meaning as in section 3 of the Data Protection Act 2018().\n\nCommencement Information\n\nI17 Reg. 17 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000019",
+      "chunk_hash": "e334ea19a00e",
+      "prev_chunk_id": "DOC_929::c000018",
+      "next_chunk_id": "DOC_929::c000020"
+    },
+    {
+      "header": "Time frame for reporting",
+      "text": "Section heading: Time frame for reporting\n\n18.\u2014(1) Where the provider who has submitted the report has indicated that in their opinion, priority level 1 should apply, the provider must send the report as soon as possible.\n\n(2) Where the provider has not indicated that priority level 1 should apply, that provider must send the report as soon as practicable after making the judgement that the content is CSEA content.\n\n(3) If the provider has not formed an opinion as to which priority level should apply, then the provider must send the report as soon as practicable after making the judgement that the content is CSEA content.\n\nCommencement Information\n\nI18 Reg. 18 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Time frame for reporting\n\n18.\u2014(1) Where the provider who has submitted the report has indicated that in their opinion, priority level 1 should apply, the provider must send the report as soon as possible.\n\n(2) Where the provider has not indicated that priority level 1 should apply, that provider must send the report as soon as practicable after making the judgement that the content is CSEA content.\n\n(3) If the provider has not formed an opinion as to which priority level should apply, then the provider must send the report as soon as practicable after making the judgement that the content is CSEA content.\n\nCommencement Information\n\nI18 Reg. 18 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000020",
+      "chunk_hash": "69c0bc1d94e4",
+      "prev_chunk_id": "DOC_929::c000019",
+      "next_chunk_id": "DOC_929::c000021"
+    },
+    {
+      "header": "Data retention requirements",
+      "text": "Section heading: Data retention requirements\n\n19.\u2014(1) A provider who has sent a report of detected CSEA content to the NCA must retain the following for the period of one year, beginning with the date on which the report is submitted\u2014\n\n(a) the detected CSEA content,\n\n(b) the information supplied in accordance with these Regulations, and\n\n(c) any information which the provider has used to make a judgment that the content is CSEA content in accordance with section 192 of the Act.\n\n(2) The provider must retain for the period of 4 weeks beginning on the day on which the report was submitted to the NCA the relevant data which is associated with the user who uploaded or made or shared the content which constitutes the incident of CSEA content in the report.\n\n(3) For the purposes of paragraph (2), relevant data is data from the two week period ending on the day on which the CSEA offence was committed and includes\u2014\n\n(a) any digital files with content which the user has shared, uploaded or created on the platform;\n\n(b) any digital files with metadata or communications data associated with that content;\n\n(c) any digital files with geo local data in addition to that included in the metadata;\n\n(d) any digital files with chat logs, public and private messages, and public comments created by the user;\n\n(e) any digital files with information about connections with other accounts or attempts with other accounts.\n\nCommencement Information\n\nI19 Reg. 19 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Data retention requirements\n\n19.\u2014(1) A provider who has sent a report of detected CSEA content to the NCA must retain the following for the period of one year, beginning with the date on which the report is submitted\u2014\n\n(a) the detected CSEA content,\n\n(b) the information supplied in accordance with these Regulations, and\n\n(c) any information which the provider has used to make a judgment that the content is CSEA content in accordance with section 192 of the Act.\n\n(2) The provider must retain for the period of 4 weeks beginning on the day on which the report was submitted to the NCA the relevant data which is associated with the user who uploaded or made or shared the content which constitutes the incident of CSEA content in the report.\n\n(3) For the purposes of paragraph (2), relevant data is data from the two week period ending on the day on which the CSEA offence was committed and includes\u2014\n\n(a) any digital files with content which the user has shared, uploaded or created on the platform;\n\n(b) any digital files with metadata or communications data associated with that content;\n\n(c) any digital files with geo local data in addition to that included in the metadata;\n\n(d) any digital files with chat logs, public and private messages, and public comments created by the user;\n\n(e) any digital files with information about connections with other accounts or attempts with other accounts.\n\nCommencement Information\n\nI19 Reg. 19 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000021",
+      "chunk_hash": "46220485638d",
+      "prev_chunk_id": "DOC_929::c000020",
+      "next_chunk_id": "DOC_929::c000022"
+    },
+    {
+      "header": "Retention of records for reports",
+      "text": "Section heading: Retention of records for reports\n\n20. Providers must keep records of all their reports for a minimum of five years beginning on the day on which the report was submitted to the NCA.\n\nCommencement Information\n\nI20 Reg. 20 in force at 3.11.2025, see **reg. 1(2)**\")\n\nJess Phillips\n\nParliamentary Under Secretary of State\n\nHome Office\n\n19th March 2025\n\nProspective\n\nRegulation 12",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Retention of records for reports\n\n20. Providers must keep records of all their reports for a minimum of five years beginning on the day on which the report was submitted to the NCA.\n\nCommencement Information\n\nI20 Reg. 20 in force at 3.11.2025, see **reg. 1(2)**\")\n\nJess Phillips\n\nParliamentary Under Secretary of State\n\nHome Office\n\n19th March 2025\n\nProspective\n\nRegulation 12",
+      "chunk_id": "DOC_929::c000022",
+      "chunk_hash": "444b627f135e",
+      "prev_chunk_id": "DOC_929::c000021",
+      "next_chunk_id": "DOC_929::c000023"
+    },
+    {
+      "header": "Schedule 1: CSEA Information to be included in reports (Part 1/3)",
+      "text": "Section heading: Schedule 1: CSEA Information to be included in reports\n\n1. Information about the authorised person, who is submitting the report of CSEA content, must be included in the report\u2014 U.K.\n\n(a) their name;\n\n(b) the name of the entity for which they work;\n\n(c) if the authorised person submitting the report is the provider, that provider\u2019s name;\n\n(d) their work email address;\n\n(e) their work telephone number.\n\nCommencement Information\n\nI21 Sch. 1 para. 1 in force at 3.11.2025, see **reg. 1(2)**\")\n\n2. The following information about the detected CSEA content, where that information is reasonably available to the provider\u2014 U.K.\n\n(a) the detected CSEA content;\n\n(b) the method through which the CSEA content was detected;\n\n(c) the platform on which the CSEA content was detected;\n\n(d) whether the report relates to a previous report;\n\n(e) if the report relates to a previous report, the unique reference number of that report, and any previous related reports;\n\n(f) the time that the CSEA content was uploaded;\n\n(g) the date on which the CSEA content was uploaded;\n\n(h) exif data linked to the reported CSEA content;\n\n(i) the URL of the webpage of the reported CSEA content at the point of upload;\n\n(j) the numerical hash value of the detected CSEA content at the point classified as CSEA content.\n\nCommencement Information\n\nI22 Sch. 1 para. 2 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Schedule 1: CSEA Information to be included in reports\n\n1. Information about the authorised person, who is submitting the report of CSEA content, must be included in the report\u2014 U.K.\n\n(a) their name;\n\n(b) the name of the entity for which they work;\n\n(c) if the authorised person submitting the report is the provider, that provider\u2019s name;\n\n(d) their work email address;\n\n(e) their work telephone number.\n\nCommencement Information\n\nI21 Sch. 1 para. 1 in force at 3.11.2025, see **reg. 1(2)**\")\n\n2. The following information about the detected CSEA content, where that information is reasonably available to the provider\u2014 U.K.\n\n(a) the detected CSEA content;\n\n(b) the method through which the CSEA content was detected;\n\n(c) the platform on which the CSEA content was detected;\n\n(d) whether the report relates to a previous report;\n\n(e) if the report relates to a previous report, the unique reference number of that report, and any previous related reports;\n\n(f) the time that the CSEA content was uploaded;\n\n(g) the date on which the CSEA content was uploaded;\n\n(h) exif data linked to the reported CSEA content;\n\n(i) the URL of the webpage of the reported CSEA content at the point of upload;\n\n(j) the numerical hash value of the detected CSEA content at the point classified as CSEA content.\n\nCommencement Information\n\nI22 Sch. 1 para. 2 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000023",
+      "chunk_hash": "546e00b0a1b2",
+      "prev_chunk_id": "DOC_929::c000022",
+      "next_chunk_id": "DOC_929::c000024",
+      "schedule_number": "1",
+      "location_pointer": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368, Schedule 1"
+    },
+    {
+      "header": "Schedule 1: CSEA Information to be included in reports (Part 2/3)",
+      "text": "reported CSEA content; (i) the URL of the webpage of the reported CSEA content at the point of upload; (j) the numerical hash value of the detected CSEA content at the point classified as CSEA content. Commencement Information I22 Sch. 1 para. 2 in force at 3.11.2025, see **reg. 1(2)**\") 3. Where the authorised person submitting the report has information available which enables that person to indicate which priority level should apply to the CSEA content in the report, the person should indicate, in their opinion, which priority level is appropriate in accordance with regulation 14.U.K. Commencement Information I23 Sch. 1 para. 3 in force at 3.11.2025, see **reg. 1(2)**\") 4. The following information about the user identified by the provider uploading or sending or receiving the CSEA content must be included in the report where that information is held by the provider\u2014 U.K. (a) the account username of that user; (b) the email address of the user; (c) the recovery email address of the user; (d) the mobile number of the user; (e) whether the user\u2019s telephone number has been verified, and if so, the date on which it was verified; (f) the URL of the user\u2019s profile on the platform where the CSEA content was detected; (g) the IP address of the user at the time of the upload of CSEA content and any port number associated with that IP address; (h) the IP addresses used for the user\u2019s account during the three months prior to the report being made, the time and date connected with that IP address and any port number associated with an IP address. Commencement Information I24 Sch. 1 para. 4 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "3. Where the authorised person submitting the report has information available which enables that person to indicate which priority level should apply to the CSEA content in the report, the person should indicate, in their opinion, which priority level is appropriate in accordance with regulation 14.U.K. Commencement Information I23 Sch. 1 para. 3 in force at 3.11.2025, see **reg. 1(2)**\") 4. The following information about the user identified by the provider uploading or sending or receiving the CSEA content must be included in the report where that information is held by the provider\u2014 U.K. (a) the account username of that user; (b) the email address of the user; (c) the recovery email address of the user; (d) the mobile number of the user; (e) whether the user\u2019s telephone number has been verified, and if so, the date on which it was verified; (f) the URL of the user\u2019s profile on the platform where the CSEA content was detected; (g) the IP address of the user at the time of the upload of CSEA content and any port number associated with that IP address; (h) the IP addresses used for the user\u2019s account during the three months prior to the report being made, the time and date connected with that IP address and any port number associated with an IP address. Commencement Information I24 Sch. 1 para. 4 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000024",
+      "chunk_hash": "201d48b80cf2",
+      "prev_chunk_id": "DOC_929::c000023",
+      "next_chunk_id": "DOC_929::c000025",
+      "schedule_number": "1",
+      "location_pointer": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368, Schedule 1"
+    },
+    {
+      "header": "Schedule 1: CSEA Information to be included in reports (Part 3/3)",
+      "text": "the IP addresses used for the user\u2019s account during the three months prior to the report being made, the time and date connected with that IP address and any port number associated with an IP address. Commencement Information I24 Sch. 1 para. 4 in force at 3.11.2025, see **reg. 1(2)**\") 5. Where the provider has any identity documents for a user mentioned in the report, the provider may supply copies of these in the report.U.K. Commencement Information I25 Sch. 1 para. 5 in force at 3.11.2025, see **reg. 1(2)**\") 6. Where the provider has other information reasonably available on their service that is relevant to the incident of CSEA content, this may be included.U.K. Commencement Information 7. A declaration that all the information reasonably available has been provided.U.K. Commencement Information I27 Sch. 1 para. 7 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "5. Where the provider has any identity documents for a user mentioned in the report, the provider may supply copies of these in the report.U.K. Commencement Information I25 Sch. 1 para. 5 in force at 3.11.2025, see **reg. 1(2)**\") 6. Where the provider has other information reasonably available on their service that is relevant to the incident of CSEA content, this may be included.U.K. Commencement Information 7. A declaration that all the information reasonably available has been provided.U.K. Commencement Information I27 Sch. 1 para. 7 in force at 3.11.2025, see **reg. 1(2)**\")",
+      "chunk_id": "DOC_929::c000025",
+      "chunk_hash": "666129534c80",
+      "prev_chunk_id": "DOC_929::c000024",
+      "next_chunk_id": "DOC_929::c000026",
+      "schedule_number": "1",
+      "location_pointer": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368, Schedule 1"
+    },
+    {
+      "header": "Interpretation of this Schedule",
+      "text": "Section heading: Interpretation of this Schedule\n\n8. In this Schedule\u2014\n\n\u201c exif data \u201d means exchangeable image file format which is basic level metadata related to when, where and how the reported CSEA content was created;\n\n\u201c IP address \u201d means the internet protocol address of a device on the network;\n\n\u201c port number \u201d means a connection endpoint;\n\n\u201c URL \u201d means the full universal resource locator of the address on the webpage where the CSEA content is being hosted at the time it was detected.\n\nCommencement Information\n\nRegulation 15",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Interpretation of this Schedule\n\n8. In this Schedule\u2014\n\n\u201c exif data \u201d means exchangeable image file format which is basic level metadata related to when, where and how the reported CSEA content was created;\n\n\u201c IP address \u201d means the internet protocol address of a device on the network;\n\n\u201c port number \u201d means a connection endpoint;\n\n\u201c URL \u201d means the full universal resource locator of the address on the webpage where the CSEA content is being hosted at the time it was detected.\n\nCommencement Information\n\nRegulation 15",
+      "chunk_id": "DOC_929::c000026",
+      "chunk_hash": "8ad9c43a4530",
+      "prev_chunk_id": "DOC_929::c000025",
+      "next_chunk_id": "DOC_929::c000027"
+    },
+    {
+      "header": "Schedule 2: Formatting requirements",
+      "text": "Section heading: Schedule 2: Formatting requirements\n\n1. Dates must be provided in number format as DD/MM/YYYY.U.K.\n\nCommencement Information\n\nI29 Sch. 2 para. 1 in force at 3.11.2025, see **reg. 1(2)**\")\n\n2. Time must be provided in any international format and the authorised person must select the appropriate time zone for the time recorded by the provider\u2019s system.U.K.\n\nCommencement Information\n\nI30 Sch. 2 para. 2 in force at 3.11.2025, see **reg. 1(2)**\")\n\n3. IP addresses must be formatted in the case of\u2014 U.K.\n\n(a) an IPv4 address, as four sets of numbers separated by dots;\n\n(b) an IPv6 address, as eight groups of four hexadecimal digits separated by colons.\n\nCommencement Information\n\nI31 Sch. 2 para. 3 in force at 3.11.2025, see **reg. 1(2)**\")\n\n4. Telephone numbers must include international dialling code applicable to the location of the provider or individual.U.K.\n\nCommencement Information\n\nProspective",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Schedule 2: Formatting requirements\n\n1. Dates must be provided in number format as DD/MM/YYYY.U.K.\n\nCommencement Information\n\nI29 Sch. 2 para. 1 in force at 3.11.2025, see **reg. 1(2)**\")\n\n2. Time must be provided in any international format and the authorised person must select the appropriate time zone for the time recorded by the provider\u2019s system.U.K.\n\nCommencement Information\n\nI30 Sch. 2 para. 2 in force at 3.11.2025, see **reg. 1(2)**\")\n\n3. IP addresses must be formatted in the case of\u2014 U.K.\n\n(a) an IPv4 address, as four sets of numbers separated by dots;\n\n(b) an IPv6 address, as eight groups of four hexadecimal digits separated by colons.\n\nCommencement Information\n\nI31 Sch. 2 para. 3 in force at 3.11.2025, see **reg. 1(2)**\")\n\n4. Telephone numbers must include international dialling code applicable to the location of the provider or individual.U.K.\n\nCommencement Information\n\nProspective",
+      "chunk_id": "DOC_929::c000027",
+      "chunk_hash": "439d89834467",
+      "prev_chunk_id": "DOC_929::c000026",
+      "next_chunk_id": "DOC_929::c000028",
+      "schedule_number": "2",
+      "location_pointer": "The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2025 No. 368, Schedule 2"
+    },
+    {
+      "header": "EXPLANATORY NOTE",
+      "text": "Section heading: EXPLANATORY NOTE\n\n(This note is not part of the Regulations)\n\nSection 66 of the Online Safety Act 2023 (\u201c OSA \u201d) requires certain providers of regulated user-to-user services to report child sexual abuse and exploitation content (\u201cCSEA content\u201d) to the National Crime Agency (\u201c NCA \u201d). If these providers are already reporting CSEA to a body which is exercising functions similar to the NCA, then this content is not required by section 66 to be reported to the NCA.\n\nCSEA content is defined by section 59 of the OSA as content which amounts to an offence specified in Schedule 6 to the OSA.\n\nPart 2 of these Regulations require providers who are required to report CSEA content to the NCA to register with the NCA. Where those providers have entered into arrangements with another person to moderate the content on the providers services, then that person is also required to register with the NCA.\n\nPart 3 of these Regulations require certain information to be included in the reports made by those regulated user-to-user service providers to the NCA. The Regulations also specify the manner in which reports of CSEA content must be sent to the NCA and the format in which these reports must be sent. The Regulations also request providers to assess the urgency of the report and to send the report to the NCA in accordance with certain timeframes depending on any assessment of urgency.\n\nPart 4 of these Regulations require the providers to retain records of reports made to the NCA, and to retain certain information about the users who are associated with a report.\n\nSchedule 1 to these Regulations sets out the information required to be included in the reports to the NCA. Schedule 2 to these Regulations contains formatting requirements for the reports.\n\nA full impact assessment has been published in relation to the Online Safety Act 2023 and copies can be obtained from the UK Government website at: https://assets.publishing.service.gov.uk/media/6716222b9242eecc6c849b09/Online\\_Safety\\_act\\_enactment\\_impact\\_assessment.pdf or from the Department for Science, Innovation and Technology at 100 Parliament Street, London SW1A 2BQ, United Kingdom.\n\n(1)\n\n2023 c.50.\n\n(2)\n\n\u201cCSEA content\u201d is defined in section 59(9) of the Act.\n\n(3)\n\n\u201cNCA\u201d is defined in section 70(7) of the Act.\n\n(4)\n\n\u201cuser-to-user service\u201d is defined in section 3 of the Act and \u201cregulated user-to-user service\u201d is defined in section 4(2) of the Act.\n\n(5)\n\n\u201cUK provider\u201d is defined in section 70(2) of the Act.\n\n(6)\n\n\u201cnon-UK provider\u201d is defined in section 70(3) of the Act.\n\n(7)\n\n\u201centity\u201d is defined in section 236(1) of the Act.\n\n(8)\n\n\u201cforeign agency\u201d is defined in section 70(7) of the Act.\n\n(9)\n\n\u201c user \u201d has the meaning given in section 227 of the Act.\n\n(10)\n\n\u201cdata protection legislation\u201d is defined in section 3 of the Data Protection Act 2018 c.12, as amended by S.I. 3019/419, schedule 2 paragraph 4(3)(a)--(c).",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: EXPLANATORY NOTE\n\n(This note is not part of the Regulations)\n\nSection 66 of the Online Safety Act 2023 (\u201c OSA \u201d) requires certain providers of regulated user-to-user services to report child sexual abuse and exploitation content (\u201cCSEA content\u201d) to the National Crime Agency (\u201c NCA \u201d). If these providers are already reporting CSEA to a body which is exercising functions similar to the NCA, then this content is not required by section 66 to be reported to the NCA.\n\nCSEA content is defined by section 59 of the OSA as content which amounts to an offence specified in Schedule 6 to the OSA.\n\nPart 2 of these Regulations require providers who are required to report CSEA content to the NCA to register with the NCA. Where those providers have entered into arrangements with another person to moderate the content on the providers services, then that person is also required to register with the NCA.\n\nPart 3 of these Regulations require certain information to be included in the reports made by those regulated user-to-user service providers to the NCA. The Regulations also specify the manner in which reports of CSEA content must be sent to the NCA and the format in which these reports must be sent. The Regulations also request providers to assess the urgency of the report and to send the report to the NCA in accordance with certain timeframes depending on any assessment of urgency.\n\nPart 4 of these Regulations require the providers to retain records of reports made to the NCA, and to retain certain information about the users who are associated with a report.\n\nSchedule 1 to these Regulations sets out the information required to be included in the reports to the NCA. Schedule 2 to these Regulations contains formatting requirements for the reports.\n\nA full impact assessment has been published in relation to the Online Safety Act 2023 and copies can be obtained from the UK Government website at: https://assets.publishing.service.gov.uk/media/6716222b9242eecc6c849b09/Online\\_Safety\\_act\\_enactment\\_impact\\_assessment.pdf or from the Department for Science, Innovation and Technology at 100 Parliament Street, London SW1A 2BQ, United Kingdom.\n\n(1)\n\n2023 c.50.\n\n(2)\n\n\u201cCSEA content\u201d is defined in section 59(9) of the Act.\n\n(3)\n\n\u201cNCA\u201d is defined in section 70(7) of the Act.\n\n(4)\n\n\u201cuser-to-user service\u201d is defined in section 3 of the Act and \u201cregulated user-to-user service\u201d is defined in section 4(2) of the Act.\n\n(5)\n\n\u201cUK provider\u201d is defined in section 70(2) of the Act.\n\n(6)\n\n\u201cnon-UK provider\u201d is defined in section 70(3) of the Act.\n\n(7)\n\n\u201centity\u201d is defined in section 236(1) of the Act.\n\n(8)\n\n\u201cforeign agency\u201d is defined in section 70(7) of the Act.\n\n(9)\n\n\u201c user \u201d has the meaning given in section 227 of the Act.\n\n(10)\n\n\u201cdata protection legislation\u201d is defined in section 3 of the Data Protection Act 2018 c.12, as amended by S.I. 3019/419, schedule 2 paragraph 4(3)(a)--(c).",
+      "chunk_id": "DOC_929::c000028",
+      "chunk_hash": "eebd29cfbdd8",
+      "prev_chunk_id": "DOC_929::c000027",
+      "next_chunk_id": null
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DCMS Evidence Bot</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header>
+      <div>
+        <h1>DCMS Evidence Bot</h1>
+        <p>Evidence-first answers on the Online Safety Act.</p>
+      </div>
+      <div id="status-bar"></div>
+    </header>
+    <main>
+      <aside>
+        <h3>Filters</h3>
+        <label class="toggle">
+          <input type="checkbox" id="primary-only" />
+          <span>Primary legislation only</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="include-guidance" checked />
+          <span>Include regulator guidance</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="include-debates" />
+          <span>Include debates</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="show-evidence" />
+          <span>Show evidence pack</span>
+        </label>
+        <details class="expander advanced-tools hidden" id="advanced-tools">
+          <summary>Advanced / Developer tools</summary>
+          <div class="advanced-description">Diagnostics for ingestion and retrieval (for builders).</div>
+          <div class="advanced-toggles">
+            <label class="toggle">
+              <input type="checkbox" id="toggle-kb-inventory" />
+              <span>Show KB inventory</span>
+            </label>
+            <label class="toggle">
+              <input type="checkbox" id="toggle-retrieval-debug" />
+              <span>Show retrieval debug</span>
+            </label>
+          </div>
+          <div id="kb-inventory" class="advanced-panel hidden">
+            <div id="kb-inventory-content" class="inventory"></div>
+          </div>
+          <div id="retrieval-debug" class="advanced-panel hidden">
+            <div id="retrieval-summary" class="muted"></div>
+            <div id="retrieval-debug-content" class="debug-table"></div>
+          </div>
+        </details>
+      </aside>
+      <section class="panel">
+        <div class="query-box">
+          <input id="question" type="text" placeholder="Ask about the Online Safety Act..." />
+          <button id="submit">Ask</button>
+        </div>
+        <div id="thinking" class="thinking hidden">Thinking...</div>
+        <div id="answer" class="answer"></div>
+        <div id="message-user" class="insufficient-message hidden"></div>
+        <ul id="suggestions" class="suggestions hidden"></ul>
+        <details id="closest-matches" class="closest hidden">
+          <summary>Closest matches (may not answer your question)</summary>
+          <div id="closest-matches-content" class="closest-cards"></div>
+        </details>
+        <div id="citations" class="citations"></div>
+        <div id="evidence-pack" class="evidence hidden"></div>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

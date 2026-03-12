@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_2044",
+    "title": "evaluating-recommender-systems-in-relation-to-the-dissemination-of-illegal-and-harmful-content-in-the-uk",
+    "category": "04_Regulator",
+    "type": "Research",
+    "author": "evaluating recommender",
+    "date": "2023-07-06",
+    "url": "https://www.ofcom.org.uk/online-safety/safety-technology/evaluating-recommender-systems-in-relation-to-the-dissemination-of-illegal-and-harmful-content-in-the-uk",
+    "encoding": "ascii",
+    "authority_tag": "EVIDENCE_RESEARCH",
+    "authority_weight": 7
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Evaluating recommender systems in relation to illegal and harmful content\nEvaluating recommender systems in relation to illegal and harmful content\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n6 July 2023\nRecommender systems are widely used on user-to-user services (U2U), helping people find the content they love while also helping creators find their audiences. In this way, recommender systems improve allocative efficiency in the digital marketplace, reducing the time and cost of matching creators with their audiences.\nYet, depending on how they are designed, recommender systems may disseminate illegal and harmful material, where that has not been detected and removed by content moderation procedures. As such, it is important that online services evaluate their recommender systems in a diligent way to uncover risks associated with certain design choices.\nOfcom commissioned Pattrn Analytics & Intelligence (Pattrn.AI) (affiliated with Oxford University) to examine possible methods for conducting such evaluations. Their report:\nExplains how recommender systems operate, and the various design choices that engineers make as they build and maintain these systems\nSets out a number of methods for evaluating the impact of those design choices (e.g. via A/B testing, \u201cdebugging\u201d exercises, and user surveys)\nAssesses those methods according to several criteria, including the quality of the insights they generate, their costs, and any ethical risks involved\nSuggests several points of best practice in the evaluation of recommender systems, regardless of the measures used (e.g. committing to regular evaluations rather than one-off exercises)\nThe research involved a combination of desk research, expert interviews and workshops with data scientists and engineers.\nThe findings will inform the development of Ofcom\u2019s policy guidance for the new Online Safety regime. The report does not constitute official guidance in its own right.\nSee the\u00a0\nEvaluating recommender systems in relation to illegal and harmful content (PDF, 1.3 MB)\nreport for more information.\nTransparency notice: Research on online platforms to explore online safety\nA notice explaining how, in support of our online safety research, Ofcom will sometimes create accounts with fictional personas.\nThe impact of online hate\nThis qualitative research examines the impact of exposure to online hate and hateful abuse on people with protected characteristics",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Evaluating recommender systems in relation to illegal and harmful content\nEvaluating recommender systems in relation to illegal and harmful content\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n6 July 2023\nRecommender systems are widely used on user-to-user services (U2U), helping people find the content they love while also helping creators find their audiences. In this way, recommender systems improve allocative efficiency in the digital marketplace, reducing the time and cost of matching creators with their audiences.\nYet, depending on how they are designed, recommender systems may disseminate illegal and harmful material, where that has not been detected and removed by content moderation procedures. As such, it is important that online services evaluate their recommender systems in a diligent way to uncover risks associated with certain design choices.\nOfcom commissioned Pattrn Analytics & Intelligence (Pattrn.AI) (affiliated with Oxford University) to examine possible methods for conducting such evaluations. Their report:\nExplains how recommender systems operate, and the various design choices that engineers make as they build and maintain these systems\nSets out a number of methods for evaluating the impact of those design choices (e.g. via A/B testing, \u201cdebugging\u201d exercises, and user surveys)\nAssesses those methods according to several criteria, including the quality of the insights they generate, their costs, and any ethical risks involved\nSuggests several points of best practice in the evaluation of recommender systems, regardless of the measures used (e.g. committing to regular evaluations rather than one-off exercises)\nThe research involved a combination of desk research, expert interviews and workshops with data scientists and engineers.\nThe findings will inform the development of Ofcom\u2019s policy guidance for the new Online Safety regime. The report does not constitute official guidance in its own right.\nSee the\u00a0\nEvaluating recommender systems in relation to illegal and harmful content (PDF, 1.3 MB)\nreport for more information.\nTransparency notice: Research on online platforms to explore online safety\nA notice explaining how, in support of our online safety research, Ofcom will sometimes create accounts with fictional personas.\nThe impact of online hate\nThis qualitative research examines the impact of exposure to online hate and hateful abuse on people with protected characteristics",
+      "chunk_id": "DOC_2044::c000000",
+      "chunk_hash": "7dc64adfc1a5",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

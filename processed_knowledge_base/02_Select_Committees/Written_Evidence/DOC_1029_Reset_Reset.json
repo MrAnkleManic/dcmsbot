@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "id": "DOC_1029",
+    "title": "Reset",
+    "category": "02_Select_Committees",
+    "type": "Written Evidence",
+    "author": "Reset",
+    "date": "2021-08-23",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 78,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introduction",
+      "text": "1. Reset, and many of our partner organisations across civil society, are a dvocates of the online safety agenda and have been for many years. The public overwhelmingly support theendofself-regulation bytechplat for ms . Other nations are watching closely, urging us tosetahigh bar. This legislation could not be more timely. 2. The draft Bill is not perfect. The language is vague in many places and raises more questions than answers. It does not go as far as it should in protecting adults online, and leans too much towards content regulation rather than the systems approach of the White Paper. Despite the lack of clarity, the intentions of the Bill are a dmirable. Many of its issues can be corrected through targeted revision. 3. To succeed, the Bill must tackle the design features and algorithms which amplify harm. If it becomes a takedown regime hinging on criminalising or deleting legal content, it willfailfromboth a practical perspective (it\u2019s impossible to delete our way out of the problem) and on freedom of expression grounds. 4. It is well documented, not least by the tech companies themselves, that algorithms are the key driver of division and harm on online platforms . As an internal Facebook presentation from 2018 stated: Our algorithms exploit the human brain\u2019s attraction to divisiveness . Recent research by Mozilla in to YouTube\u2019s recommendation algorithms backs this up, concluding that videos which users regret watching \u201care primarily a result of the recommendation algorithm, meaning videos that YouTube chooses to amplify, rather than videos that people sought out\u201d. 5. This predilection for the extreme serves the attention optimization business model of tech giants who want to secure maximum engagement in order tosellads. The content which drives the most engagement is that which is provocative but not necessarily illegal. Mark Zuckerberg elaborates on this inablogpost, stating that: Online Nation \u2013 2020 report , p37, Ofcom, 2020 Facebook Executives ShutDown Efforts to Make the SiteLess Divisive , Wall Street Journal, 26 March YouTube Regrets , Mozilla Foundation, July 2021 \u201c One of the biggest issues social networks face is that, when left unchecked, people will engage disproportionately with more sensationalist and provocative content. [...] At scale it can undermine the quality of public discourse and lead to polarization.\u201d The graph accompanying hisblogpost (Fig. 1) visualises this reality. Fig. 1 6. Digital platforms tweak their algorithms allthetime to drive engagement and develop new products. But, as Facebook\u2019s \u2018P (Bad for the world)\u2019 experiment shows, when changes to the algorithm reduce engagement, they are shelved - even when they reduce harm. The Bill must mandate the application of design features which reverse the curve in Fig.1, as well as ensuring platformsno longer have sole responsibility for setting their own \u2018Policy line\u2019.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "1. Reset, and many of our partner organisations across civil society, are a dvocates of the online safety agenda and have been for many years. The public overwhelmingly support theendofself-regulation bytechplat for ms . Other nations are watching closely, urging us tosetahigh bar. This legislation could not be more timely. 2. The draft Bill is not perfect. The language is vague in many places and raises more questions than answers. It does not go as far as it should in protecting adults online, and leans too much towards content regulation rather than the systems approach of the White Paper. Despite the lack of clarity, the intentions of the Bill are a dmirable. Many of its issues can be corrected through targeted revision. 3. To succeed, the Bill must tackle the design features and algorithms which amplify harm. If it becomes a takedown regime hinging on criminalising or deleting legal content, it willfailfromboth a practical perspective (it\u2019s impossible to delete our way out of the problem) and on freedom of expression grounds. 4. It is well documented, not least by the tech companies themselves, that algorithms are the key driver of division and harm on online platforms . As an internal Facebook presentation from 2018 stated: Our algorithms exploit the human brain\u2019s attraction to divisiveness . Recent research by Mozilla in to YouTube\u2019s recommendation algorithms backs this up, concluding that videos which users regret watching \u201care primarily a result of the recommendation algorithm, meaning videos that YouTube chooses to amplify, rather than videos that people sought out\u201d. 5. This predilection for the extreme serves the attention optimization business model of tech giants who want to secure maximum engagement in order tosellads. The content which drives the most engagement is that which is provocative but not necessarily illegal. Mark Zuckerberg elaborates on this inablogpost, stating that: Online Nation \u2013 2020 report , p37, Ofcom, 2020 Facebook Executives ShutDown Efforts to Make the SiteLess Divisive , Wall Street Journal, 26 March YouTube Regrets , Mozilla Foundation, July 2021 \u201c One of the biggest issues social networks face is that, when left unchecked, people will engage disproportionately with more sensationalist and provocative content. [...] At scale it can undermine the quality of public discourse and lead to polarization.\u201d The graph accompanying hisblogpost (Fig. 1) visualises this reality. Fig. 1 6. Digital platforms tweak their algorithms allthetime to drive engagement and develop new products. But, as Facebook\u2019s \u2018P (Bad for the world)\u2019 experiment shows, when changes to the algorithm reduce engagement, they are shelved - even when they reduce harm. The Bill must mandate the application of design features which reverse the curve in Fig.1, as well as ensuring platformsno longer have sole responsibility for setting their own \u2018Policy line\u2019.",
+      "chunk_id": "DOC_1029::c000000",
+      "chunk_hash": "34d74ebd0fc6",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_1029::c000001"
+    },
+    {
+      "header": "Response to key questions (Part 1/6)",
+      "text": "Does the draft Bill focus enough onthewaystech companies could be encouraged to consider safety and/or theriskofharm in platform design and the systems and processes that they put in place? 7. In short, no. The draft Bill acknowledges the power of design choices and algorithms in promoting harmful content. In the case of illegal content or content that is harmful to children (Clauses 9 and 10), services must operate \u201csystems and processes\u201d which mitigate against these risks, including against the dissemination of such content. For legal content (Clause 11), companies have no obligation to operate risk management via systems and processes and are free to manage such content how they choose as longastheyset out their approach in their Terms and conditions (\u201cT&Cs\u201d). Platforms would be free to continue handling legal content how they seefit: deleting content en masse, leaving abuse and hate spiralling out of control, or doing nothing at all. This risks A blueprint for governance and en for cement , blog post, Mark Zuckerberg, 2018 (updated 2021) Facebook Struggles to Balance Civility and Growth , NewYork Times, 24 Nov 2020 perpetuating the status quo, codifying the power of corporations to determine whatcanbesaid online. It makes the Bill a content Bill which permits the deletion of legal content, rather than a systems Bill. And it also creates tiers of harms, with this category of content subject to the weakest harm reduction measures 8. The Bill should be commended for including \u201ccontent that is harmful to adults\u201d or \u2018legal harms\u2019. This captures much of the abuse and hate witnessed by many on a daily basis such as COVID disin for mation, bullying, climate change denial, pro-suicide and self-harm material, none of which is illegal and all of which can have a devastating impact. Just look at the racist abuse targeted at footballers after the European Cup final, much of which tooktheform of emojis. While most agree that the hostility towards the black community is a bhorrent, no-one wants to outlaw emojis. This presents a challenge to policymakers about how to tackle such harms without infringing on freedom of speech. The Billcan, and must, preserve freedom of speech while reducing online harms. It mustnotrely on removing or criminalising legal content but rather on service design choices which reduce the amplification and reach of harmful material. Legal harms and adults\u2019 risk assessment duties must remain in the Bill, and must be subject to more rigorous harm reduction obligations. 9. Rather than asking companies to write rules for content , Clause 11 of the draft Bill should require them to improve their systems and designs : mandating practical solutions to minimise the spread of harmful material by focusing on preventative measures such as reduced amplification, demonetisation and targeting . This should be supported by a Code of Practice on harm reduction by design. These measures introduce friction in to an otherwise frictionless system. There are many examples ofhowthiscan be done well.",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "Does the draft Bill focus enough onthewaystech companies could be encouraged to consider safety and/or theriskofharm in platform design and the systems and processes that they put in place? 7. In short, no. The draft Bill acknowledges the power of design choices and algorithms in promoting harmful content. In the case of illegal content or content that is harmful to children (Clauses 9 and 10), services must operate \u201csystems and processes\u201d which mitigate against these risks, including against the dissemination of such content. For legal content (Clause 11), companies have no obligation to operate risk management via systems and processes and are free to manage such content how they choose as longastheyset out their approach in their Terms and conditions (\u201cT&Cs\u201d). Platforms would be free to continue handling legal content how they seefit: deleting content en masse, leaving abuse and hate spiralling out of control, or doing nothing at all. This risks A blueprint for governance and en for cement , blog post, Mark Zuckerberg, 2018 (updated 2021) Facebook Struggles to Balance Civility and Growth , NewYork Times, 24 Nov 2020 perpetuating the status quo, codifying the power of corporations to determine whatcanbesaid online. It makes the Bill a content Bill which permits the deletion of legal content, rather than a systems Bill. And it also creates tiers of harms, with this category of content subject to the weakest harm reduction measures 8. The Bill should be commended for including \u201ccontent that is harmful to adults\u201d or \u2018legal harms\u2019. This captures much of the abuse and hate witnessed by many on a daily basis such as COVID disin for mation, bullying, climate change denial, pro-suicide and self-harm material, none of which is illegal and all of which can have a devastating impact. Just look at the racist abuse targeted at footballers after the European Cup final, much of which tooktheform of emojis. While most agree that the hostility towards the black community is a bhorrent, no-one wants to outlaw emojis. This presents a challenge to policymakers about how to tackle such harms without infringing on freedom of speech. The Billcan, and must, preserve freedom of speech while reducing online harms. It mustnotrely on removing or criminalising legal content but rather on service design choices which reduce the amplification and reach of harmful material. Legal harms and adults\u2019 risk assessment duties must remain in the Bill, and must be subject to more rigorous harm reduction obligations. 9. Rather than asking companies to write rules for content , Clause 11 of the draft Bill should require them to improve their systems and designs : mandating practical solutions to minimise the spread of harmful material by focusing on preventative measures such as reduced amplification, demonetisation and targeting . This should be supported by a Code of Practice on harm reduction by design. These measures introduce friction in to an otherwise frictionless system. There are many examples ofhowthiscan be done well.",
+      "chunk_id": "DOC_1029::c000001",
+      "chunk_hash": "7f6d89f48e75",
+      "prev_chunk_id": "DOC_1029::c000000",
+      "next_chunk_id": "DOC_1029::c000002"
+    },
+    {
+      "header": "Response to key questions (Part 2/6)",
+      "text": "the spread of harmful material by focusing on preventative measures such as reduced amplification, demonetisation and targeting . This should be supported by a Code of Practice on harm reduction by design. These measures introduce friction in to an otherwise frictionless system. There are many examples ofhowthiscan be done well. This would mean that abusive tweets sentintheheat of the moment to a footballer whohadabad game aren\u2019t promoted to other disappointed fans, causing an abusive pile on. Before telling a Love Island heartthrob who has fallen from grace to kill themselves, users are asked to think twice. Having the option to delay when your comment is posted, becomes the norm. Being directed to authoritative, fact-checked sites about climate change or coronavirus before you watch a conspiracy theory video might give pause for thought. More examples of harm reduction by design in practice areattheend of this response. 10. To support the en for cement of a harm reduction regime, OFCOM must be given clear powers to inspect the algorithms and systems promoting all forms of harmful content. At present, the language in Chapter 5 of the draft Bill states that OFCOM can serve an \u201cIn for mation notice\u201d to a service, requiring a person \u201cto provide in for mation which OFCOM believes that person hasorisable to generate or obtain\u201d (70). They may also \u201cappoint a skilled person\u201d (Clause 74) to help them with an investigation. There is no language in the Bill which excludes OFCOM from initiating audits of services\u2019 algorithms. However, recent commentary suggests OFCOM does not This Is Why They Took The Knee \u2013 HOPE nothateview algorithmic audit as a power in its toolkit based on the draft Bill. This should be clarified, with OFCOM being granted unequivocal authority to investigate algorithms as a driver ofharmforall categories of content. 11. Transparency powers in the Bill should also include a requirement forplatforms to share relevant data with accredited researchers studying online harms/safety . This would give academia a much clearer picture of how harmful content is generated and promoted online. This in turn would help policymakers and the safety tech industry develop innovative ideas and products based on evidence and data. 12. Transparency and oversight are the cornerstones of all existing regulatory regimes, be they in financial services, pharmaceuticals or the automotive industry. Ofcom must be given the appropriate powers to make the online safety regime sufficiently robust. Whatarethekey omissions to the draft Bill, such as a general safety duty or powers to deal with urgent security threats, and (how) could they be practically included without compromising rights such as freedom of expression? Disin for mation 13. Reset believes the Bill must meaningfully tackle disin for mation. The Government\u2019s commentary on the Bill suggests that COVID-19 disin for mation will be in scope (perhaps via the powers granted to the Secretary of State in Clause 112) but that the intentions are not to include disin for mation as a whole. This creates a major risk to the UK, and undermines the",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "This would mean that abusive tweets sentintheheat of the moment to a footballer whohadabad game aren\u2019t promoted to other disappointed fans, causing an abusive pile on. Before telling a Love Island heartthrob who has fallen from grace to kill themselves, users are asked to think twice. Having the option to delay when your comment is posted, becomes the norm. Being directed to authoritative, fact-checked sites about climate change or coronavirus before you watch a conspiracy theory video might give pause for thought. More examples of harm reduction by design in practice areattheend of this response. 10. To support the en for cement of a harm reduction regime, OFCOM must be given clear powers to inspect the algorithms and systems promoting all forms of harmful content. At present, the language in Chapter 5 of the draft Bill states that OFCOM can serve an \u201cIn for mation notice\u201d to a service, requiring a person \u201cto provide in for mation which OFCOM believes that person hasorisable to generate or obtain\u201d (70). They may also \u201cappoint a skilled person\u201d (Clause 74) to help them with an investigation. There is no language in the Bill which excludes OFCOM from initiating audits of services\u2019 algorithms. However, recent commentary suggests OFCOM does not This Is Why They Took The Knee \u2013 HOPE nothateview algorithmic audit as a power in its toolkit based on the draft Bill. This should be clarified, with OFCOM being granted unequivocal authority to investigate algorithms as a driver ofharmforall categories of content. 11. Transparency powers in the Bill should also include a requirement forplatforms to share relevant data with accredited researchers studying online harms/safety . This would give academia a much clearer picture of how harmful content is generated and promoted online. This in turn would help policymakers and the safety tech industry develop innovative ideas and products based on evidence and data. 12. Transparency and oversight are the cornerstones of all existing regulatory regimes, be they in financial services, pharmaceuticals or the automotive industry. Ofcom must be given the appropriate powers to make the online safety regime sufficiently robust. Whatarethekey omissions to the draft Bill, such as a general safety duty or powers to deal with urgent security threats, and (how) could they be practically included without compromising rights such as freedom of expression? Disin for mation 13. Reset believes the Bill must meaningfully tackle disin for mation. The Government\u2019s commentary on the Bill suggests that COVID-19 disin for mation will be in scope (perhaps via the powers granted to the Secretary of State in Clause 112) but that the intentions are not to include disin for mation as a whole. This creates a major risk to the UK, and undermines the",
+      "chunk_id": "DOC_1029::c000002",
+      "chunk_hash": "94231166c2da",
+      "prev_chunk_id": "DOC_1029::c000001",
+      "next_chunk_id": "DOC_1029::c000003"
+    },
+    {
+      "header": "Response to key questions (Part 3/6)",
+      "text": "the Bill suggests that COVID-19 disin for mation will be in scope (perhaps via the powers granted to the Secretary of State in Clause 112) but that the intentions are not to include disin for mation as a whole. This creates a major risk to the UK, and undermines the Online disin for mation campaigns which spill in to offline harassment of journalists ; state backed disin for mation campaigns inau the ntically amplifying partisan views on Scottish referendum ; climate change denial ; disin for mation discrediting the Security Services\u2019 investigations in to the Sergei Skripal poisoning ; and 5G conspiracy theories arejustsome of the attempts to undermine trust in authorities and sew confusion . 15. The omission of disin for mation from the draft Billisatodds with original proposals in the Online Harms White Paper, as well as with the Home Office\u2019s recent consultation on Hostile State Activity which recognised the role of disin for mation in undermining democracy. The DG of the Security Service reiterated this threat in his 2021 Annual Threat update. At an international level, the recent communique following the G7 Anti-vaxxers harass JonSnow as they storm ITN headquarters , The Telegraph, 23 August 2021 Facebook shuts fake Scottish independence accounts | Scotland , The Times, 6 March 2021 Facebook's Climate of Deception: How Viral Misin for mation Fuels the Climate Emergency , Avaaz Sergei Skripal and the Russian disin for mation game , BBC News, September 2018 Here's where those 5G and coronavirus conspiracy theories came from , FullFact Summit committed G7 nations to \u201cstreng the ning the G7 Rapid Response Mechanism to counter foreign threats to democracy including disin for mation\u201d ; and in The New Atlantic Charter, signed in June 2021, the UK and the US agreed that they \u201coppose interference through disin for mation or other malign influences, including in elections\u201d . Meanwhile, the relevant are as of UK government policy, such as the Elections Bill, are silent on disin for mation. The Online Safety Billmustput these commitments in to practice if it is to protect the UK against disin for mation campaigns from domestic and foreign actors. Collective harm 16. To achieve this, the Bill must include a definition of harm which accounts for the collective or societal impact of harmful content. As COVID disin for mation has highlighted, the impact of disin for mation is a bsolutely collective in nature. As currently drafted, the Bill focuses on harm to the individual. This differs from the language in the Online Harms White Paper which proposed \u201cprioritising regulatory action to tackle harms that have the greatest impact on individuals or wider society.\u201d The narrower focus on individuals rather than particular demographics, groups or society as a whole fails to reflect the nature of digital technologies which forge connections, groups, networks and communities. Ignoring this leaves vast numbers of users, including children and vulnerable people, exposed to manipulation, abuse and bullying at a worrying scale -both online and offline. 17. Facebook\u2019s internal analysis",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "Online disin for mation campaigns which spill in to offline harassment of journalists ; state backed disin for mation campaigns inau the ntically amplifying partisan views on Scottish referendum ; climate change denial ; disin for mation discrediting the Security Services\u2019 investigations in to the Sergei Skripal poisoning ; and 5G conspiracy theories arejustsome of the attempts to undermine trust in authorities and sew confusion . 15. The omission of disin for mation from the draft Billisatodds with original proposals in the Online Harms White Paper, as well as with the Home Office\u2019s recent consultation on Hostile State Activity which recognised the role of disin for mation in undermining democracy. The DG of the Security Service reiterated this threat in his 2021 Annual Threat update. At an international level, the recent communique following the G7 Anti-vaxxers harass JonSnow as they storm ITN headquarters , The Telegraph, 23 August 2021 Facebook shuts fake Scottish independence accounts | Scotland , The Times, 6 March 2021 Facebook's Climate of Deception: How Viral Misin for mation Fuels the Climate Emergency , Avaaz Sergei Skripal and the Russian disin for mation game , BBC News, September 2018 Here's where those 5G and coronavirus conspiracy theories came from , FullFact Summit committed G7 nations to \u201cstreng the ning the G7 Rapid Response Mechanism to counter foreign threats to democracy including disin for mation\u201d ; and in The New Atlantic Charter, signed in June 2021, the UK and the US agreed that they \u201coppose interference through disin for mation or other malign influences, including in elections\u201d . Meanwhile, the relevant are as of UK government policy, such as the Elections Bill, are silent on disin for mation. The Online Safety Billmustput these commitments in to practice if it is to protect the UK against disin for mation campaigns from domestic and foreign actors. Collective harm 16. To achieve this, the Bill must include a definition of harm which accounts for the collective or societal impact of harmful content. As COVID disin for mation has highlighted, the impact of disin for mation is a bsolutely collective in nature. As currently drafted, the Bill focuses on harm to the individual. This differs from the language in the Online Harms White Paper which proposed \u201cprioritising regulatory action to tackle harms that have the greatest impact on individuals or wider society.\u201d The narrower focus on individuals rather than particular demographics, groups or society as a whole fails to reflect the nature of digital technologies which forge connections, groups, networks and communities. Ignoring this leaves vast numbers of users, including children and vulnerable people, exposed to manipulation, abuse and bullying at a worrying scale -both online and offline. 17. Facebook\u2019s internal analysis",
+      "chunk_id": "DOC_1029::c000003",
+      "chunk_hash": "e0147e43ce8f",
+      "prev_chunk_id": "DOC_1029::c000002",
+      "next_chunk_id": "DOC_1029::c000004"
+    },
+    {
+      "header": "Response to key questions (Part 4/6)",
+      "text": "or society as a whole fails to reflect the nature of digital technologies which forge connections, groups, networks and communities. Ignoring this leaves vast numbers of users, including children and vulnerable people, exposed to manipulation, abuse and bullying at a worrying scale -both online and offline. 17. Facebook\u2019s internal analysis Thisharmwasmore thanthesum of its parts.\u201d The report went on to conclude: Because we were looking at each entity individually, rather than as a cohesive movement, we wereonlyable totakedown individual Groups and Pages once they exceeded a violation threshold. We were notabletoact on simple objects like posts and comments because they individually tended not to violate, even if they were surrounded by hate, violence, and misin for mation. 18. The Online Safety Bill should account for the fundamental networking principles of online platforms, which promote connections and groups, and tackle harmatamuch broader level. Director General Ken McCallum gives annual threat update 2021 Carbis Bay G7 Summit Communique (PDF, 430KB, 25 pages) The New Atlantic Charter 2021 Online Harms White Paper - GOV. UK Facebook Stopped Employees From Reading An Internal Report About Its Role In The Insurrection. You CanRead It Here. Are there any contested inclusions, tensions or contradictions in the draft Billthatneed to be more carefully considered before the final Billisput to Parliament? Journalistic content and content of democratic importance 19. Notonlydoes the Billhaveweak provisions for tackling disin for mation, it also includes clauses which may actually legitimise harmful content . Clauses 13 and 14 create specific duties for journalistic content and political debate. They are underpinned by definitions in Clause 39 and 40. Collectively, these carve outs create loopholes whereby bad actors can create or share harmful content which will be protected on the grounds of newsworthiness . 20. The definition of \u201cnews publisher content\u201d includes news content and commentary as well as \u201cgossip about celebrities, other public figures or other persons in the news\u201d. However, the definition of \u201cnews publisher\u201d is sufficiently broad as to potentially include anyone whosetsup an eligible news website in the UK . The bar for entry is extremely low, and would allow bad faith actors to circumvent online safety duties. 21. Particularly worrying is that the exemption extends to when \u201ca linktoafull article or written item originally published by a recognised news publisher\u201d is posted on a Category 1 service (13.10. i i i). Thismaymean that any posts on social media which include a linktoanews site are exempt from services\u2019 safety duties, opening up a whole host of worrying scenarios permitting news content to be misrepresented and manipulated without recourse. 22. How \u201cjournalistic content\u201d (Clause 14) differs from \u201cnews publisher content\u201d is unclear. Why include provisions for journalistic content if news content is exempt from the regime? This may be to account for journalists posting views and opinions onplatforms directly rather thanviathenews sites (i. e. Tweeting live opinions or facts). Who qualifies as a journalist is also vague (e. g. is a Government Minister who practiced as a journalist before being elected included?)",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "Thisharmwasmore thanthesum of its parts.\u201d The report went on to conclude: Because we were looking at each entity individually, rather than as a cohesive movement, we wereonlyable totakedown individual Groups and Pages once they exceeded a violation threshold. We were notabletoact on simple objects like posts and comments because they individually tended not to violate, even if they were surrounded by hate, violence, and misin for mation. 18. The Online Safety Bill should account for the fundamental networking principles of online platforms, which promote connections and groups, and tackle harmatamuch broader level. Director General Ken McCallum gives annual threat update 2021 Carbis Bay G7 Summit Communique (PDF, 430KB, 25 pages) The New Atlantic Charter 2021 Online Harms White Paper - GOV. UK Facebook Stopped Employees From Reading An Internal Report About Its Role In The Insurrection. You CanRead It Here. Are there any contested inclusions, tensions or contradictions in the draft Billthatneed to be more carefully considered before the final Billisput to Parliament? Journalistic content and content of democratic importance 19. Notonlydoes the Billhaveweak provisions for tackling disin for mation, it also includes clauses which may actually legitimise harmful content . Clauses 13 and 14 create specific duties for journalistic content and political debate. They are underpinned by definitions in Clause 39 and 40. Collectively, these carve outs create loopholes whereby bad actors can create or share harmful content which will be protected on the grounds of newsworthiness . 20. The definition of \u201cnews publisher content\u201d includes news content and commentary as well as \u201cgossip about celebrities, other public figures or other persons in the news\u201d. However, the definition of \u201cnews publisher\u201d is sufficiently broad as to potentially include anyone whosetsup an eligible news website in the UK . The bar for entry is extremely low, and would allow bad faith actors to circumvent online safety duties. 21. Particularly worrying is that the exemption extends to when \u201ca linktoafull article or written item originally published by a recognised news publisher\u201d is posted on a Category 1 service (13.10. i i i). Thismaymean that any posts on social media which include a linktoanews site are exempt from services\u2019 safety duties, opening up a whole host of worrying scenarios permitting news content to be misrepresented and manipulated without recourse. 22. How \u201cjournalistic content\u201d (Clause 14) differs from \u201cnews publisher content\u201d is unclear. Why include provisions for journalistic content if news content is exempt from the regime? This may be to account for journalists posting views and opinions onplatforms directly rather thanviathenews sites (i. e. Tweeting live opinions or facts). Who qualifies as a journalist is also vague (e. g. is a Government Minister who practiced as a journalist before being elected included?)",
+      "chunk_id": "DOC_1029::c000004",
+      "chunk_hash": "827da22360b2",
+      "prev_chunk_id": "DOC_1029::c000003",
+      "next_chunk_id": "DOC_1029::c000005"
+    },
+    {
+      "header": "Response to key questions (Part 5/6)",
+      "text": "exempt from the regime? This may be to account for journalists posting views and opinions onplatforms directly rather thanviathenews sites (i. e. Tweeting live opinions or facts). Who qualifies as a journalist is also vague (e. g. is a Government Minister who practiced as a journalist before being elected included?) This states that Category 1 services must use \u201dsystems and processes\u201d to ensure that the \u201cdemocratic importance\u201d of content is considered in moderation decisions . T&Cs must reflect these considerations. Content in this category includes news publisher content as well as content that \u201cis or appears to be, specifically intended to contribute to democratic political debate in the UK orinanypart or are a of the UK\u201d. This definition is vague and broad, raising many questions about what constitutes Online Safety Bill: Five thoughts on its impact on journalism , LSE Media Blog, June 20201 legitimate political speech . The Explanatory Notes accompanying the Bill state \u201csuch content would be content promoting or opposing government policy and content promoting or opposing a political party\u201d, raising further questions about where the harm thresholds sit. 24. It may be, for example, that hateful content targeted at political candidates is given special treatment on the grounds that it is \u201cintended to contribute to democratic political debate\u201d. Such abuse is a lready particularly acute for female MPs. No female MP who was a ctive on Twitter during the 2017 Election was free from online intimidation. During the election, Black and As i an women MPs \u2013 representing only 11% of all women in Westminster at that time \u2013 received 35% more abusive tweets than white women MPs. Thisinturnhas democratic consequences, affecting the ability of women MPs to fulfil their mandate safely and, at times, deterring them from (re-)running for office. Any language in the Bill which inadvertently legitimises hateful content needs to be reworded. 25. The result of these provisions is thatfakenews sites could be deemed out of scope of the regulations duetosuch a broad definition of \u201crecognised news publisher\u201d (40); radical views shared by extremists may be granted additional protections based on their supposed contribution to \u201cdemocratic political debate\u201d (13.6. b) ; anyone could misrepresent the contents of a news article when linking to it via social media (39.10. i i i). These are serious unintended consequences of the freedom of speech provisions, which are crucial to protecting fundamental rights but should not give disin for mation a free pass. We believe that the language in Clauses 12, 13, 14, 39 and 40 must be revisited to avoid legitimising disin for mation campaigns by bad actors. Freedom of speech 26. Free speech is a fundamental right which must be protected . The initial dutyofcare concept in the Online Harms White Paper navigated free speech by proposing a broad systems based dutyofcare to online platforms. The draft Bill takes a different approach, with different duties of care for separate categories of content. This takes the Bill in a different direction - further away from a",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "This states that Category 1 services must use \u201dsystems and processes\u201d to ensure that the \u201cdemocratic importance\u201d of content is considered in moderation decisions . T&Cs must reflect these considerations. Content in this category includes news publisher content as well as content that \u201cis or appears to be, specifically intended to contribute to democratic political debate in the UK orinanypart or are a of the UK\u201d. This definition is vague and broad, raising many questions about what constitutes Online Safety Bill: Five thoughts on its impact on journalism , LSE Media Blog, June 20201 legitimate political speech . The Explanatory Notes accompanying the Bill state \u201csuch content would be content promoting or opposing government policy and content promoting or opposing a political party\u201d, raising further questions about where the harm thresholds sit. 24. It may be, for example, that hateful content targeted at political candidates is given special treatment on the grounds that it is \u201cintended to contribute to democratic political debate\u201d. Such abuse is a lready particularly acute for female MPs. No female MP who was a ctive on Twitter during the 2017 Election was free from online intimidation. During the election, Black and As i an women MPs \u2013 representing only 11% of all women in Westminster at that time \u2013 received 35% more abusive tweets than white women MPs. Thisinturnhas democratic consequences, affecting the ability of women MPs to fulfil their mandate safely and, at times, deterring them from (re-)running for office. Any language in the Bill which inadvertently legitimises hateful content needs to be reworded. 25. The result of these provisions is thatfakenews sites could be deemed out of scope of the regulations duetosuch a broad definition of \u201crecognised news publisher\u201d (40); radical views shared by extremists may be granted additional protections based on their supposed contribution to \u201cdemocratic political debate\u201d (13.6. b) ; anyone could misrepresent the contents of a news article when linking to it via social media (39.10. i i i). These are serious unintended consequences of the freedom of speech provisions, which are crucial to protecting fundamental rights but should not give disin for mation a free pass. We believe that the language in Clauses 12, 13, 14, 39 and 40 must be revisited to avoid legitimising disin for mation campaigns by bad actors. Freedom of speech 26. Free speech is a fundamental right which must be protected . The initial dutyofcare concept in the Online Harms White Paper navigated free speech by proposing a broad systems based dutyofcare to online platforms. The draft Bill takes a different approach, with different duties of care for separate categories of content. This takes the Bill in a different direction - further away from a",
+      "chunk_id": "DOC_1029::c000005",
+      "chunk_hash": "5828453e112a",
+      "prev_chunk_id": "DOC_1029::c000004",
+      "next_chunk_id": "DOC_1029::c000006"
+    },
+    {
+      "header": "Response to key questions (Part 6/6)",
+      "text": "concept in the Online Harms White Paper navigated free speech by proposing a broad systems based dutyofcare to online platforms. The draft Bill takes a different approach, with different duties of care for separate categories of content. This takes the Bill in a different direction - further away from a Where content is legal but harmful, the Bill should focus on tackling the reach of content and not the speech itself. This should be managed via an amendment to",
+      "page": "2-7",
+      "page_start": 2,
+      "page_end": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "display_text": "Where content is legal but harmful, the Bill should focus on tackling the reach of content and not the speech itself. This should be managed via an amendment to",
+      "chunk_id": "DOC_1029::c000006",
+      "chunk_hash": "ca16c02b6e32",
+      "prev_chunk_id": "DOC_1029::c000005",
+      "next_chunk_id": "DOC_1029::c000007"
+    },
+    {
+      "header": "Clause 11, as set out above and aligned with paragraph 241 in the House of Lords\u2019",
+      "text": "Communication and Digital Committee\u2019s recent report, which demands platforms apply harm reduction by design measures . This would reduce the virality of harmful Online Safety Bill: Explanatory Notes , Black and As i an women MPsabusedmoreonline, Amnesty International content, introducing friction in to an otherwise frictionless system, and avoid a takedown approach which deletes legal content. Without such a change the Bill risks entrenching the status quo, where online platformsmake and apply the rules. 28. Some advocates of free speech are proposing tackling the free speech concerns raised by Clause 11 by removing \u201ccontent that is harmful to adults\u201d from the Bill and instead criminalising certain speech. This will shift harm reduction to a criminal investigation and prosecution regime. Harmful content will need to be reported to authorities, who will investigate and may ultimately takethecase to court. This is a very protracted process when it takes place, putting an onus on victims to retread painful ground at great personal and financial cost. It is also widely acknowledged that such crimes are heavily underreported . Focusing on systems rather than content better protects freedom of expression while still reducing harm, and avoids further criminalising speech. 29. The powers reserved for the Secretary of State across the Billaretoo broad and risk undermining both free speech and the independent regulatory regime. There are unprecedented powers granted to the Secretary of State, such as Clause 33.1 which allows them to amend OFCOM\u2019s codes of practice to reflect government policy. These should be removed to ensure the independence of the regime.",
+      "page": "7-8",
+      "page_start": 7,
+      "page_end": 8,
+      "pages": [
+        7,
+        8
+      ],
+      "display_text": "Communication and Digital Committee\u2019s recent report, which demands platforms apply harm reduction by design measures . This would reduce the virality of harmful Online Safety Bill: Explanatory Notes , Black and As i an women MPsabusedmoreonline, Amnesty International content, introducing friction in to an otherwise frictionless system, and avoid a takedown approach which deletes legal content. Without such a change the Bill risks entrenching the status quo, where online platformsmake and apply the rules. 28. Some advocates of free speech are proposing tackling the free speech concerns raised by Clause 11 by removing \u201ccontent that is harmful to adults\u201d from the Bill and instead criminalising certain speech. This will shift harm reduction to a criminal investigation and prosecution regime. Harmful content will need to be reported to authorities, who will investigate and may ultimately takethecase to court. This is a very protracted process when it takes place, putting an onus on victims to retread painful ground at great personal and financial cost. It is also widely acknowledged that such crimes are heavily underreported . Focusing on systems rather than content better protects freedom of expression while still reducing harm, and avoids further criminalising speech. 29. The powers reserved for the Secretary of State across the Billaretoo broad and risk undermining both free speech and the independent regulatory regime. There are unprecedented powers granted to the Secretary of State, such as Clause 33.1 which allows them to amend OFCOM\u2019s codes of practice to reflect government policy. These should be removed to ensure the independence of the regime.",
+      "chunk_id": "DOC_1029::c000007",
+      "chunk_hash": "9d1d6b0610cd",
+      "prev_chunk_id": "DOC_1029::c000006",
+      "next_chunk_id": "DOC_1029::c000008"
+    },
+    {
+      "header": "Examples of harm reduction by design",
+      "text": "Below are some examples of how technology companies have introduced design features to reduce the amplification of harmful content. These changes were made after intense public campaigns of shaming theplatforms with open letters, petitions, media pressure and forcing Twitter and Facebook to meet victims of harm. This further underscores whyweneed regulation of legal but harmful content, for the government to require these design changes and be able to assess their impact. Otherwise they will continue to happen in a piecemeal way, with campaigners and researchers spending years and millions of pounds for tweaks that theplatforms can make happen overnight if they were required to by law. As the below examples demonstrate, tech firms do indeed have the agility and insights to stem the spread of harmful material at pace and at scale. Freeforall? Freedom of expression in the digital age Against Hate: Tackling hate crime in the UK , Amnesty 2017; How much online abuse is there? , The Alan Turing Institute, 2019",
+      "page": "8",
+      "page_start": 8,
+      "page_end": 8,
+      "pages": [
+        8
+      ],
+      "display_text": "Below are some examples of how technology companies have introduced design features to reduce the amplification of harmful content. These changes were made after intense public campaigns of shaming theplatforms with open letters, petitions, media pressure and forcing Twitter and Facebook to meet victims of harm. This further underscores whyweneed regulation of legal but harmful content, for the government to require these design changes and be able to assess their impact. Otherwise they will continue to happen in a piecemeal way, with campaigners and researchers spending years and millions of pounds for tweaks that theplatforms can make happen overnight if they were required to by law. As the below examples demonstrate, tech firms do indeed have the agility and insights to stem the spread of harmful material at pace and at scale. Freeforall? Freedom of expression in the digital age Against Hate: Tackling hate crime in the UK , Amnesty 2017; How much online abuse is there? , The Alan Turing Institute, 2019",
+      "chunk_id": "DOC_1029::c000008",
+      "chunk_hash": "a688fbc9ea57",
+      "prev_chunk_id": "DOC_1029::c000007",
+      "next_chunk_id": "DOC_1029::c000009"
+    },
+    {
+      "header": "Read before you Tweet",
+      "text": "Following a pilot in 2020, Twitter is planning to introduce a new design feature to encourage users to read articles before they retweet them, in an attempt tostemtheflow of viral misin for mation. In the pilot, Twitter prompted users who were about to retweet articles that they hadn\u2019treadtoread the content before sharing. The result was that people opened the article 40% more often after seeing the prompt, and some people (Twitter hasn\u2019t disclosed the exact figure) didn\u2019tendupretweeting at all after reading. This is a huge shift in behaviour from a simple design intervention. The result is moreinformed users and a reduction in the virality of misin for mation, harassment and hate speech.",
+      "page": "9",
+      "page_start": 9,
+      "page_end": 9,
+      "pages": [
+        9
+      ],
+      "display_text": "Following a pilot in 2020, Twitter is planning to introduce a new design feature to encourage users to read articles before they retweet them, in an attempt tostemtheflow of viral misin for mation. In the pilot, Twitter prompted users who were about to retweet articles that they hadn\u2019treadtoread the content before sharing. The result was that people opened the article 40% more often after seeing the prompt, and some people (Twitter hasn\u2019t disclosed the exact figure) didn\u2019tendupretweeting at all after reading. This is a huge shift in behaviour from a simple design intervention. The result is moreinformed users and a reduction in the virality of misin for mation, harassment and hate speech.",
+      "chunk_id": "DOC_1029::c000009",
+      "chunk_hash": "d92a6cb2f9ea",
+      "prev_chunk_id": "DOC_1029::c000008",
+      "next_chunk_id": "DOC_1029::c000010"
+    },
+    {
+      "header": "Facebook\u2019s News Ecosystem Quality",
+      "text": "In the days following the 2020 US Presidential election, misin for mation about the election results flooded social media. In response, Facebook made a temporary change to its NewsFeed algorithm to give prominence to in for mation from mainstream media outlets. To achieve this, Facebook dialled up the weighting of its \u201cnews ecosystem quality\u201d (NEQ) score, a ranking Facebook assigns to news outlets based on signals about the quality of their journalism. According to internal sources at Facebook, the NEQ score usually plays a minor role in determining NewsFeed content, but concerns over the nature and scale of election disin for mation drove senior executives including Mark Zuckerberg to temporarily increase NEQ\u2019s weighting. This resulted in a spike in visibility for mainstream news outlets. This intervention is a nother example of how design choices canbemade to reduce the reach of harmful material, as well as counter false in for mation with that which is more verifiable. While it would undoubtedly be preferable for an independent regulator to determine which content is harmful, rather thanatech platform, this approach demonstrates that companies can respond atpacewhen focused on harm reduction, and that such design choices are a lready available to them.",
+      "page": "9",
+      "page_start": 9,
+      "page_end": 9,
+      "pages": [
+        9
+      ],
+      "display_text": "In the days following the 2020 US Presidential election, misin for mation about the election results flooded social media. In response, Facebook made a temporary change to its NewsFeed algorithm to give prominence to in for mation from mainstream media outlets. To achieve this, Facebook dialled up the weighting of its \u201cnews ecosystem quality\u201d (NEQ) score, a ranking Facebook assigns to news outlets based on signals about the quality of their journalism. According to internal sources at Facebook, the NEQ score usually plays a minor role in determining NewsFeed content, but concerns over the nature and scale of election disin for mation drove senior executives including Mark Zuckerberg to temporarily increase NEQ\u2019s weighting. This resulted in a spike in visibility for mainstream news outlets. This intervention is a nother example of how design choices canbemade to reduce the reach of harmful material, as well as counter false in for mation with that which is more verifiable. While it would undoubtedly be preferable for an independent regulator to determine which content is harmful, rather thanatech platform, this approach demonstrates that companies can respond atpacewhen focused on harm reduction, and that such design choices are a lready available to them.",
+      "chunk_id": "DOC_1029::c000010",
+      "chunk_hash": "6e738ab8db8a",
+      "prev_chunk_id": "DOC_1029::c000009",
+      "next_chunk_id": "DOC_1029::c000011"
+    },
+    {
+      "header": "disinformation",
+      "text": "In April 2021, BuzzFeed published an internal report by Facebook employees summarising the company\u2019s analysis of, andefforts to engage with, the social media fallout following the 2020 presidential election. The report explains howatask for ce was created to analyse and respond to electoral disin for mation. In the report, members from thetaskforce state: We werealsoable to add friction to the evolution of harmful movements and coordination through Break the Glass measures (BTGs). We soft actioned Groups that users joined en masse after a group was disabled for PP or StS, this allowed us to inject friction at a critical moment to prevent growth of another alternative after PP was designated, when speed was critical. We werealsoable to add temporary feature limits to the actors engaging in coordinating behaviors, such as the super posters and super-inviters in the Groups that were removed, to prevent them from spreading the movement on other surfaces. These sets of temporary feature limits allowed us to put the breaks on growth during a critical moment, in order to slow the evolution of adversarial movements, and the development ofnewones. Our ongoing work through the disaggregating networks taskforcewill helpustomake more nuanced calls about soft actions in the future in order to apply friction to harmful movements.",
+      "page": "9-10",
+      "page_start": 9,
+      "page_end": 10,
+      "pages": [
+        9,
+        10
+      ],
+      "display_text": "In April 2021, BuzzFeed published an internal report by Facebook employees summarising the company\u2019s analysis of, andefforts to engage with, the social media fallout following the 2020 presidential election. The report explains howatask for ce was created to analyse and respond to electoral disin for mation. In the report, members from thetaskforce state: We werealsoable to add friction to the evolution of harmful movements and coordination through Break the Glass measures (BTGs). We soft actioned Groups that users joined en masse after a group was disabled for PP or StS, this allowed us to inject friction at a critical moment to prevent growth of another alternative after PP was designated, when speed was critical. We werealsoable to add temporary feature limits to the actors engaging in coordinating behaviors, such as the super posters and super-inviters in the Groups that were removed, to prevent them from spreading the movement on other surfaces. These sets of temporary feature limits allowed us to put the breaks on growth during a critical moment, in order to slow the evolution of adversarial movements, and the development ofnewones. Our ongoing work through the disaggregating networks taskforcewill helpustomake more nuanced calls about soft actions in the future in order to apply friction to harmful movements.",
+      "chunk_id": "DOC_1029::c000011",
+      "chunk_hash": "69e3b62e88cb",
+      "prev_chunk_id": "DOC_1029::c000010",
+      "next_chunk_id": "DOC_1029::c000012"
+    },
+    {
+      "header": "Removing direct messaging feature for under-16s",
+      "text": "In April 2020, TikTok removed its direct messaging features for users under the age of 16 in an attempt to reduce the amount of grooming and bullying taking place in close conversations. It was the first time a major social-media platform has blocked private messaging by teenagers, on a global scale.",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "In April 2020, TikTok removed its direct messaging features for users under the age of 16 in an attempt to reduce the amount of grooming and bullying taking place in close conversations. It was the first time a major social-media platform has blocked private messaging by teenagers, on a global scale.",
+      "chunk_id": "DOC_1029::c000012",
+      "chunk_hash": "194235b1fb97",
+      "prev_chunk_id": "DOC_1029::c000011",
+      "next_chunk_id": "DOC_1029::c000013"
+    },
+    {
+      "header": "WhatsApp limits forwards",
+      "text": "During the first wave of the Covid-19 pandemic, WhatsApp sought to address the \u201cinfodemic\u201d by imposing a limit on message forwarding to slow the spread of mis and disin for mation. Any frequently forwarded message: ie: forwarded morethanfive times, would get slowed down with users abletoonly forward that ontooneuser at a time.",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "During the first wave of the Covid-19 pandemic, WhatsApp sought to address the \u201cinfodemic\u201d by imposing a limit on message forwarding to slow the spread of mis and disin for mation. Any frequently forwarded message: ie: forwarded morethanfive times, would get slowed down with users abletoonly forward that ontooneuser at a time.",
+      "chunk_id": "DOC_1029::c000013",
+      "chunk_hash": "fb402d2d5a0f",
+      "prev_chunk_id": "DOC_1029::c000012",
+      "next_chunk_id": "DOC_1029::c000014"
+    },
+    {
+      "header": "YouTube search results on Covid",
+      "text": "YouTube also took steps to address the massive spread of Covid-19 conspiracy videos on its site by prominently placing authoritative sources on the top of the search page. For instance, a search for \u201cThe truth about Covid-19\u201d hasalink at the top to an official NHS source.",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "YouTube also took steps to address the massive spread of Covid-19 conspiracy videos on its site by prominently placing authoritative sources on the top of the search page. For instance, a search for \u201cThe truth about Covid-19\u201d hasalink at the top to an official NHS source.",
+      "chunk_id": "DOC_1029::c000014",
+      "chunk_hash": "3033ee7ef41f",
+      "prev_chunk_id": "DOC_1029::c000013",
+      "next_chunk_id": "DOC_1029::c000015"
+    },
+    {
+      "header": "Warning messages for sensitive media",
+      "text": "Mostofthemain platformsuse warning messages to inform users about sensitive content. These messages are overlaid on specific Tweets or Posts, warning users about the nature of the content and requiring them to click through before they can view it. The messages stayonthesite - content is not removed. These are generally applied to content that has been marked (either by the person Tweeting it or following reports by other users) as \u201csensitive\u201d, such as media that includes adult content, excessive gore or violence. This reduces the risk of users inadvertently witnessing content they might find harmful or distressing, but allows users whodowant tofindsuch content to access it. Users can choose whether to turn this feature on/off, sotheydon\u2019t have to click through to view sensitive content.",
+      "page": "11",
+      "page_start": 11,
+      "page_end": 11,
+      "pages": [
+        11
+      ],
+      "display_text": "Mostofthemain platformsuse warning messages to inform users about sensitive content. These messages are overlaid on specific Tweets or Posts, warning users about the nature of the content and requiring them to click through before they can view it. The messages stayonthesite - content is not removed. These are generally applied to content that has been marked (either by the person Tweeting it or following reports by other users) as \u201csensitive\u201d, such as media that includes adult content, excessive gore or violence. This reduces the risk of users inadvertently witnessing content they might find harmful or distressing, but allows users whodowant tofindsuch content to access it. Users can choose whether to turn this feature on/off, sotheydon\u2019t have to click through to view sensitive content.",
+      "chunk_id": "DOC_1029::c000015",
+      "chunk_hash": "3b2f40680515",
+      "prev_chunk_id": "DOC_1029::c000014",
+      "next_chunk_id": "DOC_1029::c000016"
+    },
+    {
+      "header": "Twitter\u2019s warning messages - public exemption policy media",
+      "text": "In June 2020, Twitter applied for the first time its \u201cpublic exemption policy\u201d. The policy states that when a Tweet contains harmful content but is deemed to be in the public interest, the Tweet will be placed behind a notice. Such content would include harassment or hateful conduct, content which is in breach of Twitter\u2019s T&Csandforthe majority of users would have to be taken down. Instead, in such instances, the notice would be a pplied which still \u201callows people to click through to see the Tweet\u201d but \u201climits the ability to engage with the Tweet through likes, Retweets, or sharing on Twitter, and makes sure the Tweet isn't algorithmically recommended by Twitter\u201d. This is an example of what it means to protect free speech while challenging unlimited reach. The exception only applies to elected or government officials with over 100,000 followers, and aims to \u201climit the Tweet\u2019s reach while maintaining the public\u2019s ability to view and discuss it \u201d.",
+      "page": "11",
+      "page_start": 11,
+      "page_end": 11,
+      "pages": [
+        11
+      ],
+      "display_text": "In June 2020, Twitter applied for the first time its \u201cpublic exemption policy\u201d. The policy states that when a Tweet contains harmful content but is deemed to be in the public interest, the Tweet will be placed behind a notice. Such content would include harassment or hateful conduct, content which is in breach of Twitter\u2019s T&Csandforthe majority of users would have to be taken down. Instead, in such instances, the notice would be a pplied which still \u201callows people to click through to see the Tweet\u201d but \u201climits the ability to engage with the Tweet through likes, Retweets, or sharing on Twitter, and makes sure the Tweet isn't algorithmically recommended by Twitter\u201d. This is an example of what it means to protect free speech while challenging unlimited reach. The exception only applies to elected or government officials with over 100,000 followers, and aims to \u201climit the Tweet\u2019s reach while maintaining the public\u2019s ability to view and discuss it \u201d.",
+      "chunk_id": "DOC_1029::c000016",
+      "chunk_hash": "792377a3cd14",
+      "prev_chunk_id": "DOC_1029::c000015",
+      "next_chunk_id": "DOC_1029::c000017"
+    },
+    {
+      "header": "Facebook old story pop-up",
+      "text": "In 2020, Facebook announced that it would introduce a notification screen warning users iftheytry to share content that\u2019smorethan 90 days old. They\u2019ll be given the choice to \u201cgo back\u201d or to click through if they\u2019d still like to share the story knowing that it isn\u2019t fresh. Facebook acknowledged that old stories shared out of their original context playarole in spreading misin for mation. The social media company said \u201cnews publishers in particular\u201d have expressed concern about old stories being recirculated as though they\u2019re breaking news.",
+      "page": "11-12",
+      "page_start": 11,
+      "page_end": 12,
+      "pages": [
+        11,
+        12
+      ],
+      "display_text": "In 2020, Facebook announced that it would introduce a notification screen warning users iftheytry to share content that\u2019smorethan 90 days old. They\u2019ll be given the choice to \u201cgo back\u201d or to click through if they\u2019d still like to share the story knowing that it isn\u2019t fresh. Facebook acknowledged that old stories shared out of their original context playarole in spreading misin for mation. The social media company said \u201cnews publishers in particular\u201d have expressed concern about old stories being recirculated as though they\u2019re breaking news.",
+      "chunk_id": "DOC_1029::c000017",
+      "chunk_hash": "b0660426d51a",
+      "prev_chunk_id": "DOC_1029::c000016",
+      "next_chunk_id": "DOC_1029::c000018"
+    },
+    {
+      "header": "Twitter - Harmful tweets prompt",
+      "text": "In a recent blog post, Twitter announced the trial of a new product feature that temporarily autoblocks accounts using harmful language, such that they\u2019re stopped from being able to interact with a user\u2019s account. In the post, Twitter states: We are also continuing torollout our replies prompts, which encourage people to revise their replies to Tweets when it looks like the language they use could be harmful. We found that, if prompted, 34% of people revised their initial reply or decided not to send their reply at all and, after being prompted once, people composed on average 11% fewer potentially harmful replies in the future. ----About Reset Reset ( www. reset. tech ) was launched in March 2020 by Luminate in partnership with the Sandler Foundation. Reset seeks to improve the way in which digital in for mation markets are governed, regulated and ultimately how they serve the public. We will do this through new public policy across a variety of are as \u2013 including data privacy, competition, elections, content moderation, security, taxation and education. To achieve our mission, we make contracts and grants to accelerate activity in countries where specific opportunities for change arise. We hope to develop and support a network of partners that will inform the public and advocate for policy change. We are a lready working with a wide variety of organizations in government, philanthropy, civil society, industry and academia.",
+      "page": "12",
+      "page_start": 12,
+      "page_end": 12,
+      "pages": [
+        12
+      ],
+      "display_text": "In a recent blog post, Twitter announced the trial of a new product feature that temporarily autoblocks accounts using harmful language, such that they\u2019re stopped from being able to interact with a user\u2019s account. In the post, Twitter states: We are also continuing torollout our replies prompts, which encourage people to revise their replies to Tweets when it looks like the language they use could be harmful. We found that, if prompted, 34% of people revised their initial reply or decided not to send their reply at all and, after being prompted once, people composed on average 11% fewer potentially harmful replies in the future. ----About Reset Reset ( www. reset. tech ) was launched in March 2020 by Luminate in partnership with the Sandler Foundation. Reset seeks to improve the way in which digital in for mation markets are governed, regulated and ultimately how they serve the public. We will do this through new public policy across a variety of are as \u2013 including data privacy, competition, elections, content moderation, security, taxation and education. To achieve our mission, we make contracts and grants to accelerate activity in countries where specific opportunities for change arise. We hope to develop and support a network of partners that will inform the public and advocate for policy change. We are a lready working with a wide variety of organizations in government, philanthropy, civil society, industry and academia.",
+      "chunk_id": "DOC_1029::c000018",
+      "chunk_hash": "9360810e2a80",
+      "prev_chunk_id": "DOC_1029::c000017",
+      "next_chunk_id": null
+    }
+  ]
+}

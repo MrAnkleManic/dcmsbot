@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "id": "DOC_821",
+    "title": "Online Safety (Re-committed Clauses and Schedules) Bill",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Robin Wilton",
+    "date": "2022-12-12",
+    "url": "https://publications.parliament.uk/pa/cm5803/cmpublic/OnlineSafetyBill/memo/OSB111.htm",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Our use of cookies",
+      "text": "Section heading: Our use of cookies\n\n**Session 2022-23**",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Our use of cookies\n\n**Session 2022-23**",
+      "chunk_id": "DOC_821::c000000",
+      "chunk_hash": "ab40e031ba38",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_821::c000001"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 1/6)",
+      "text": "Section heading: Online Safety (Re-committed Clauses and Schedules) Bill\n\n**Written evidence submitted by Robin Wilton (OSB111)**\n\nThis submission is made in my personal capacity as an IT professional with over 35 years of experience as a specialist in encryption, online privacy, digital identity and the intersection of technology and policy. I am a member of the OECD\u2019s Internet Technical Advisory Committee (ITAC), an observer at the Council of Europe\u2019s Data Protection Working Group, and in conjunction with the African Union Commission, in 2018 I drafted the Privacy and Data Protection Guidelijnes for Africa.\n\nThis response sets out evidence relating to the Online Safety Bill under five headings, as follows:\n\n\u2043 Flawed technical assumptions\n\n\u2043 Inadequate impact assessment\n\n\u2043 Procedural and democratic shortfall\n\n\u2043 Threat to fundamental rights\n\n\u2043 References\n\n**1 - Flawed Technical Assumptions.**\n\n1.1 As a technologist, I have watched governments make technical proposals for undermining encryption, since the 90s - and when they are exposed to expert analysis and public debate, none of these proposals withstands scrutiny. Weakened encryption algorithms, key escrow, and more recently the so-called \"Ghost\" or silent listener proposal put forward by GCHQ all illustrate one thing: there is no \"safe back door\".\n\n1.2 If technology vendors now assure policymakers that automated scanning for illegal content is safe and infallible at scale, policymakers should treat that claim with similar scepticism. Professor Ross Anderson, Cambridge University, has analysed these flawed technical assumptions with great clarity in the UK context. \\[1\\]",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Section heading: Online Safety (Re-committed Clauses and Schedules) Bill\n\n**Written evidence submitted by Robin Wilton (OSB111)**\n\nThis submission is made in my personal capacity as an IT professional with over 35 years of experience as a specialist in encryption, online privacy, digital identity and the intersection of technology and policy. I am a member of the OECD\u2019s Internet Technical Advisory Committee (ITAC), an observer at the Council of Europe\u2019s Data Protection Working Group, and in conjunction with the African Union Commission, in 2018 I drafted the Privacy and Data Protection Guidelijnes for Africa.\n\nThis response sets out evidence relating to the Online Safety Bill under five headings, as follows:\n\n\u2043 Flawed technical assumptions\n\n\u2043 Inadequate impact assessment\n\n\u2043 Procedural and democratic shortfall\n\n\u2043 Threat to fundamental rights\n\n\u2043 References\n\n**1 - Flawed Technical Assumptions.**\n\n1.1 As a technologist, I have watched governments make technical proposals for undermining encryption, since the 90s - and when they are exposed to expert analysis and public debate, none of these proposals withstands scrutiny. Weakened encryption algorithms, key escrow, and more recently the so-called \"Ghost\" or silent listener proposal put forward by GCHQ all illustrate one thing: there is no \"safe back door\".\n\n1.2 If technology vendors now assure policymakers that automated scanning for illegal content is safe and infallible at scale, policymakers should treat that claim with similar scepticism. Professor Ross Anderson, Cambridge University, has analysed these flawed technical assumptions with great clarity in the UK context. \\[1\\]",
+      "chunk_id": "DOC_821::c000001",
+      "chunk_hash": "e5d877d59937",
+      "prev_chunk_id": "DOC_821::c000000",
+      "next_chunk_id": "DOC_821::c000002"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 2/6)",
+      "text": "no \"safe back door\". 1.2 If technology vendors now assure policymakers that automated scanning for illegal content is safe and infallible at scale, policymakers should treat that claim with similar scepticism. Professor Ross Anderson, Cambridge University, has analysed these flawed technical assumptions with great clarity in the UK context. \\[1\\] 1.3 One of the most bizarre aspects of the Government\u2019s pursuit of this legislation is their apparent disregard for the advice of senior national security professionals: the people whose job is literally to keep us safe against online harm and cyber-crime. (The emphasis is mine in all instances.) 1.4 These are direct quotations from Robert Hannigan, former director of GCHQ: *\" **Encryption is overwhelmingly a good thing, it keeps us all safe and secure**. Building in backdoors is a threat to everybody.\"* *\"I don't advocate building in backdoors, **it is not a good idea to weaken security for everybody in order to tackle a minority**.\"* *\"Trying to weaken the system, **trying to build in backdoors won't work** and is technically difficult.\"* 1.5 Here is the perspective of Ciaran Martin, founder and former Director of the National Cyber Security Centre: *\"The onus should be on the government to set out detailed technical options for scrutiny and debate.\"* *\" **If no solution commands widespread industry and expert confidence then security must win, and E2EE must expand,** legally unfettered, for the betterment of our digital homeland.\"* *\"surely there are better ways to spend the time \\[\u2026\\] than ordering Facebook not to emulate the rest of the industry.\"* 1.6 Jonathan Evans (Lord Evans of Weardale), former Director of MI5, also defends encrypted communication: *Encryption has hampered some efforts to access communications between extremists \"but **I\u2019m not one of those who thinks we should weaken encryption** \", \\[because of the parallel issue of cybersecurity\\].*",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "1.3 One of the most bizarre aspects of the Government\u2019s pursuit of this legislation is their apparent disregard for the advice of senior national security professionals: the people whose job is literally to keep us safe against online harm and cyber-crime. (The emphasis is mine in all instances.) 1.4 These are direct quotations from Robert Hannigan, former director of GCHQ: *\" **Encryption is overwhelmingly a good thing, it keeps us all safe and secure**. Building in backdoors is a threat to everybody.\"* *\"I don't advocate building in backdoors, **it is not a good idea to weaken security for everybody in order to tackle a minority**.\"* *\"Trying to weaken the system, **trying to build in backdoors won't work** and is technically difficult.\"* 1.5 Here is the perspective of Ciaran Martin, founder and former Director of the National Cyber Security Centre: *\"The onus should be on the government to set out detailed technical options for scrutiny and debate.\"* *\" **If no solution commands widespread industry and expert confidence then security must win, and E2EE must expand,** legally unfettered, for the betterment of our digital homeland.\"* *\"surely there are better ways to spend the time \\[\u2026\\] than ordering Facebook not to emulate the rest of the industry.\"* 1.6 Jonathan Evans (Lord Evans of Weardale), former Director of MI5, also defends encrypted communication: *Encryption has hampered some efforts to access communications between extremists \"but **I\u2019m not one of those who thinks we should weaken encryption** \", \\[because of the parallel issue of cybersecurity\\].*",
+      "chunk_id": "DOC_821::c000002",
+      "chunk_hash": "ba6775400942",
+      "prev_chunk_id": "DOC_821::c000001",
+      "next_chunk_id": "DOC_821::c000003"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 3/6)",
+      "text": "the rest of the industry.\"* 1.6 Jonathan Evans (Lord Evans of Weardale), former Director of MI5, also defends encrypted communication: *Encryption has hampered some efforts to access communications between extremists \"but **I\u2019m not one of those who thinks we should weaken encryption** \", \\[because of the parallel issue of cybersecurity\\].* 1.7 Richard Moore, Current Director of SIS (MI6) *\"The digital attack surface that criminals, terrorists and hostile states seek to exploit against us is growing exponentially.\"* 1.8 Their advice could not be clearer or more consistent, and yet it is not reflected in the Online Safety Bill in any respect. Legislators must not fall for the myth that it is possible to increase our safety by weakening the very thing that protects us all. **2 - Inadequate Impact Assessment.** 2.1 In 2020, the Internet Society commissioned an independent economic impact assessment of a law like the Online Safety Bill, namely the Telecoms and Other Legislation Amendment (Australia, 2018), TOLA for short. That study concluded that the negative economic impact of measures *actually less intrusive* than those set out in the Online Safety Bill would run into multiple billions. One service provider alone, in Australia, assessed its loss in sales revenue at around $AUS 1 billion. 2.2 The impact analysis for the OSB is inadequate. It estimates the cost at a total of \u00a32.5bn - but it only looks at what it will cost the 25,000 or so companies to understand and implement the rules. It does not try to quantify the OSB\u2019s effect on UK business, once companies, investors and consumers are aware that UK online products and services can no longer guarantee security or confidentiality. As a result, the impact analysis is not credible, especially in the light of the Internet Society\u2019s TOLA research findings. \\[2\\]",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "1.7 Richard Moore, Current Director of SIS (MI6) *\"The digital attack surface that criminals, terrorists and hostile states seek to exploit against us is growing exponentially.\"* 1.8 Their advice could not be clearer or more consistent, and yet it is not reflected in the Online Safety Bill in any respect. Legislators must not fall for the myth that it is possible to increase our safety by weakening the very thing that protects us all. **2 - Inadequate Impact Assessment.** 2.1 In 2020, the Internet Society commissioned an independent economic impact assessment of a law like the Online Safety Bill, namely the Telecoms and Other Legislation Amendment (Australia, 2018), TOLA for short. That study concluded that the negative economic impact of measures *actually less intrusive* than those set out in the Online Safety Bill would run into multiple billions. One service provider alone, in Australia, assessed its loss in sales revenue at around $AUS 1 billion. 2.2 The impact analysis for the OSB is inadequate. It estimates the cost at a total of \u00a32.5bn - but it only looks at what it will cost the 25,000 or so companies to understand and implement the rules. It does not try to quantify the OSB\u2019s effect on UK business, once companies, investors and consumers are aware that UK online products and services can no longer guarantee security or confidentiality. As a result, the impact analysis is not credible, especially in the light of the Internet Society\u2019s TOLA research findings. \\[2\\]",
+      "chunk_id": "DOC_821::c000003",
+      "chunk_hash": "5b53c4ea84f5",
+      "prev_chunk_id": "DOC_821::c000002",
+      "next_chunk_id": "DOC_821::c000004"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 4/6)",
+      "text": "try to quantify the OSB\u2019s effect on UK business, once companies, investors and consumers are aware that UK online products and services can no longer guarantee security or confidentiality. As a result, the impact analysis is not credible, especially in the light of the Internet Society\u2019s TOLA research findings. \\[2\\] 2.3 Placing limitations on the use of strong encryption will hamper growth at the exact moment when the UK faces the toughest economic conditions in recent history. **3 - Procedural and Democratic Shortfall.** 3.1 The fact that the Online Safety Bill is actually *regressing* in the normal Parliamentary process should be a warning to us all that it is fundamentally flawed and not fit for purpose. The Bill\u2019s stumbling progress is a symptom of two things: \u2022 It is overloaded. Even after the Committee stage, when supposedly the functions and scope of the Bill are settled, the Government continued to add new powers. This is not a good or safe way to make laws. \u2022 It suffers from over-reach. This Bill tries to do too much, and therefore there is something in there which MPs of all parties are willing to support, despite other powers which many MPs must, in all honesty, find objectionable. The impression this creates is that some have been willing to turn a blind eye to flawed parts of the Bill, because there are other parts in which they see something they like. 3.2 As a result, the Bill cannot possibly achieve all the objectives it sets for itself. Its future will be dogged by litigation and procedural challenges, just as previous UK mass surveillance laws have been.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "2.3 Placing limitations on the use of strong encryption will hamper growth at the exact moment when the UK faces the toughest economic conditions in recent history. **3 - Procedural and Democratic Shortfall.** 3.1 The fact that the Online Safety Bill is actually *regressing* in the normal Parliamentary process should be a warning to us all that it is fundamentally flawed and not fit for purpose. The Bill\u2019s stumbling progress is a symptom of two things: \u2022 It is overloaded. Even after the Committee stage, when supposedly the functions and scope of the Bill are settled, the Government continued to add new powers. This is not a good or safe way to make laws. \u2022 It suffers from over-reach. This Bill tries to do too much, and therefore there is something in there which MPs of all parties are willing to support, despite other powers which many MPs must, in all honesty, find objectionable. The impression this creates is that some have been willing to turn a blind eye to flawed parts of the Bill, because there are other parts in which they see something they like. 3.2 As a result, the Bill cannot possibly achieve all the objectives it sets for itself. Its future will be dogged by litigation and procedural challenges, just as previous UK mass surveillance laws have been.",
+      "chunk_id": "DOC_821::c000004",
+      "chunk_hash": "218459b6ecee",
+      "prev_chunk_id": "DOC_821::c000003",
+      "next_chunk_id": "DOC_821::c000005"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 5/6)",
+      "text": "of the Bill, because there are other parts in which they see something they like. 3.2 As a result, the Bill cannot possibly achieve all the objectives it sets for itself. Its future will be dogged by litigation and procedural challenges, just as previous UK mass surveillance laws have been. 3.3 The Bill must be redrafted to do less, better, and it must acknowledge that technology is not a fix for deep-rooted societal problems, such as racism and child abuse. The misguided belief in technology as a miracle fix for society\u2019s ills will lead to the misapplication of public funds, effort and resources, when those resources could and should be better used addressing systemic, societal problems of which technology is not the cause, but is at most an amplifier. 3.4 It is extraordinary that a Bill with such a profound impact on the security and confidentiality of citizens\u2019 personal privacy and private conversations *at no point* mentions the encryption of those communications. It is clear that the Government does not wish to be transparent about the purpose or function of the Bill\u2019s powers (see, for instance, the tortuous drafting of sections 104, 188 and 192). A logical conclusion is that the Government knows it *cannot* be transparent and still command support for the Bill, because it has lost previous public debates about encryption \"back doors\", even when those have been proposed by its own security experts. \\[3\\] \\[4\\] **4 - Threat To Fundamental Rights.**",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "3.3 The Bill must be redrafted to do less, better, and it must acknowledge that technology is not a fix for deep-rooted societal problems, such as racism and child abuse. The misguided belief in technology as a miracle fix for society\u2019s ills will lead to the misapplication of public funds, effort and resources, when those resources could and should be better used addressing systemic, societal problems of which technology is not the cause, but is at most an amplifier. 3.4 It is extraordinary that a Bill with such a profound impact on the security and confidentiality of citizens\u2019 personal privacy and private conversations *at no point* mentions the encryption of those communications. It is clear that the Government does not wish to be transparent about the purpose or function of the Bill\u2019s powers (see, for instance, the tortuous drafting of sections 104, 188 and 192). A logical conclusion is that the Government knows it *cannot* be transparent and still command support for the Bill, because it has lost previous public debates about encryption \"back doors\", even when those have been proposed by its own security experts. \\[3\\] \\[4\\] **4 - Threat To Fundamental Rights.**",
+      "chunk_id": "DOC_821::c000005",
+      "chunk_hash": "5e409dd93cbe",
+      "prev_chunk_id": "DOC_821::c000004",
+      "next_chunk_id": "DOC_821::c000006"
+    },
+    {
+      "header": "Online Safety (Re-committed Clauses and Schedules) Bill (Part 6/6)",
+      "text": "192). A logical conclusion is that the Government knows it *cannot* be transparent and still command support for the Bill, because it has lost previous public debates about encryption \"back doors\", even when those have been proposed by its own security experts. \\[3\\] \\[4\\] **4 - Threat To Fundamental Rights.** 4.1 As a citizen and a parent, I am deeply concerned at the extent to which the Online Safety Bill grants sweeping and intrusive powers, and weakens accountability for the use of those powers. The Bill seems to be predicated on a bet that the UK can either diverge from, or simply ignore, the obligation to ensure that its legal powers are necessary and proportionate: that is not a bet any of us should wish the Government to make. 4.2 Systemic weaknesses in mass market consumer products are never proportionate. And purely practically: you do not make at-risk children or vulnerable adults safer by taking away the means for them to reach help and advice securely and confidentially. **5 - References** \\[1\\] Rebuttals of \"client-side scanning\" proposals: International computer scientist and cryptographers\u2019 group: https://regmedia.co.uk/2021/10/14/key\\_risks\\_paper.pdf Prof. Ross Anderson: https://www.cl.cam.ac.uk/~rja14/Papers/chatcontrol.pdf \\[2\\] Economic impact analysis of TOLA: https://www.internetsociety.org/resources/doc/2021/the-economic-impact-of-laws-that-weaken-encryption/ \\[3\\] Levy and Robinson on \"Exceptional Access\": https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate \\[4\\] Rebuttal of mandatory government access to communications: https://dspace.mit.edu/handle/1721.1/97690 *12th December 2022*",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "4.1 As a citizen and a parent, I am deeply concerned at the extent to which the Online Safety Bill grants sweeping and intrusive powers, and weakens accountability for the use of those powers. The Bill seems to be predicated on a bet that the UK can either diverge from, or simply ignore, the obligation to ensure that its legal powers are necessary and proportionate: that is not a bet any of us should wish the Government to make. 4.2 Systemic weaknesses in mass market consumer products are never proportionate. And purely practically: you do not make at-risk children or vulnerable adults safer by taking away the means for them to reach help and advice securely and confidentially. **5 - References** \\[1\\] Rebuttals of \"client-side scanning\" proposals: International computer scientist and cryptographers\u2019 group: https://regmedia.co.uk/2021/10/14/key\\_risks\\_paper.pdf Prof. Ross Anderson: https://www.cl.cam.ac.uk/~rja14/Papers/chatcontrol.pdf \\[2\\] Economic impact analysis of TOLA: https://www.internetsociety.org/resources/doc/2021/the-economic-impact-of-laws-that-weaken-encryption/ \\[3\\] Levy and Robinson on \"Exceptional Access\": https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate \\[4\\] Rebuttal of mandatory government access to communications: https://dspace.mit.edu/handle/1721.1/97690 *12th December 2022*",
+      "chunk_id": "DOC_821::c000006",
+      "chunk_hash": "c18a87e685b4",
+      "prev_chunk_id": "DOC_821::c000005",
+      "next_chunk_id": null
+    }
+  ]
+}

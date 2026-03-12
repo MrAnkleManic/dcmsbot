@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_1712",
+    "title": "red-teaming-for-genai-harms",
+    "category": "04_Regulator",
+    "type": "Information for Industry",
+    "author": "red teaming",
+    "date": "2024-07-23",
+    "url": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/red-teaming-for-genai-harms",
+    "encoding": "ascii",
+    "authority_tag": "OFFICIAL_GUIDANCE",
+    "authority_weight": 9
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Red Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety\nRed Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety\nOnline safety\nIllegal and harmful content\nSafety technology\nInformation for industry\nPublished:\n23 July 2024\nMillions of people use Generative AI (GenAI) every day. While GenAI applications are creating significant benefits for users, they also pose risks. For example, we know that bad actors have used GenAI to create child sexual abuse material, low-cost deepfake adverts and synthetic terrorist content. \u00a0\n\u00a0\nAs the new regulator for online safety, Ofcom is exploring how online services could employ safety measures to protect their users from harm posed by GenAI. One such safety intervention is red teaming, a type of evaluation method that seeks to find vulnerabilities in AI models. Put simply, this involves \u2018attacking\u2019 a model to see if it can generate harmful content. The red team can then seek to fix those vulnerabilities by introducing new and additional safeguards, for example, filters that can block such content. \u00a0\n\u00a0\nMany of the major model developers now claim to conduct red teaming of some form and red teaming is seen by many as a critical tool to ensure the safe deployment of GenAI models. However, there is not yet a clear consensus on its strengths and weaknesses, how it should be conducted, the skills and resources required to do so, and what outcomes it should lead to. \u00a0\n\u00a0\nIn our discussion paper, Red Teaming for GenAI Harms, we:\nExplore how red teaming \u2013 a type of AI model evaluation - differs from other evaluation techniques \u00a0\nUnpack the steps involved in a red team exercise\u00a0\nOutline a case study which illustrates the potential resource required\u00a0\nAssess the strengths and limitations of this method \u00a0\nSet out 10 practices that firms can adopt today to maximise the impact of red teaming exercises they already conduct\nWe will continue to examine the merits and limitations of red teaming, and in our paper, highlight several questions that we welcome stakeholders\u2019 views on.\u00a0\n\u00a0\nDiscussion papers allow us to share our research and encourage debate in areas of our remit. This discussion paper does not constitute official guidance. \u00a0\nRead our research\nRed Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety (PDF)",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Red Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety\nRed Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety\nOnline safety\nIllegal and harmful content\nSafety technology\nInformation for industry\nPublished:\n23 July 2024\nMillions of people use Generative AI (GenAI) every day. While GenAI applications are creating significant benefits for users, they also pose risks. For example, we know that bad actors have used GenAI to create child sexual abuse material, low-cost deepfake adverts and synthetic terrorist content. \u00a0\n\u00a0\nAs the new regulator for online safety, Ofcom is exploring how online services could employ safety measures to protect their users from harm posed by GenAI. One such safety intervention is red teaming, a type of evaluation method that seeks to find vulnerabilities in AI models. Put simply, this involves \u2018attacking\u2019 a model to see if it can generate harmful content. The red team can then seek to fix those vulnerabilities by introducing new and additional safeguards, for example, filters that can block such content. \u00a0\n\u00a0\nMany of the major model developers now claim to conduct red teaming of some form and red teaming is seen by many as a critical tool to ensure the safe deployment of GenAI models. However, there is not yet a clear consensus on its strengths and weaknesses, how it should be conducted, the skills and resources required to do so, and what outcomes it should lead to. \u00a0\n\u00a0\nIn our discussion paper, Red Teaming for GenAI Harms, we:\nExplore how red teaming \u2013 a type of AI model evaluation - differs from other evaluation techniques \u00a0\nUnpack the steps involved in a red team exercise\u00a0\nOutline a case study which illustrates the potential resource required\u00a0\nAssess the strengths and limitations of this method \u00a0\nSet out 10 practices that firms can adopt today to maximise the impact of red teaming exercises they already conduct\nWe will continue to examine the merits and limitations of red teaming, and in our paper, highlight several questions that we welcome stakeholders\u2019 views on.\u00a0\n\u00a0\nDiscussion papers allow us to share our research and encourage debate in areas of our remit. This discussion paper does not constitute official guidance. \u00a0\nRead our research\nRed Teaming for GenAI Harms - Revealing the Risks and Rewards for Online Safety (PDF)",
+      "chunk_id": "DOC_1712::c000000",
+      "chunk_hash": "b480d045092b",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

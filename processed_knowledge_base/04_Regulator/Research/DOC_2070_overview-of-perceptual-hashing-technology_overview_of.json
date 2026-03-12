@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_2070",
+    "title": "overview-of-perceptual-hashing-technology",
+    "category": "04_Regulator",
+    "type": "Research",
+    "author": "overview of",
+    "date": "2022-11-22",
+    "url": "https://www.ofcom.org.uk/online-safety/safety-technology/overview-of-perceptual-hashing-technology",
+    "encoding": "ascii",
+    "authority_tag": "EVIDENCE_RESEARCH",
+    "authority_weight": 7
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Overview of Perceptual Hashing Technology\nOverview of Perceptual Hashing Technology\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n22 November 2022\nLast updated:\n16 March 2023\nHashing is an umbrella term for techniques to create fingerprints of files on a computer system. An algorithm known as a hash function is used to compute a fingerprint, known as a hash, from a file. Comparing such a hash with another hash stored in a database is called hash matching. In the context of online safety, hash matching can be a primary means for the detection of known illegal or otherwise harmful images and videos.\nHashing functions belong to either of two categories: cryptographic or perceptual hashing. Cryptographic hashing can be used to identify exact matches, while perceptual hashing can be used to determine whether images (or videos) are very similar. Importantly, perceptual hashing assesses the similarity of the images, not of the content depicted in the images: for example, very similar images of different items could be determined to be a match, while very different images of the same items would not.\nIn this paper, we explain how perceptual hashing technologies can used for the detection of known illegal or harmful visual media items. We also discuss some of the issues that may arise where perceptual hashing technology is used, including its reported limitations and the potential implications should hashing be deployed inappropriately and without considering the risks from adversarial exploitation.\nOverview of Perceptual Hashing Technology (PDF, 2.1 MB)\nExploring Safety in the Online Content Journey\nThe online ecosystem is becoming ever more relevant to Ofcom\u2019s work, and our remit has recently expanded to explicitly include online content for the first time.\nThe A-SPARC model of online platforms\nUnderstanding user and content journeys as consumers access services on online platforms is crucial for a clear and consistent regulation of relevant aspects of the platforms.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Overview of Perceptual Hashing Technology\nOverview of Perceptual Hashing Technology\nOnline safety\nSafety technology\nResearch, statistics and data\nPublished:\n22 November 2022\nLast updated:\n16 March 2023\nHashing is an umbrella term for techniques to create fingerprints of files on a computer system. An algorithm known as a hash function is used to compute a fingerprint, known as a hash, from a file. Comparing such a hash with another hash stored in a database is called hash matching. In the context of online safety, hash matching can be a primary means for the detection of known illegal or otherwise harmful images and videos.\nHashing functions belong to either of two categories: cryptographic or perceptual hashing. Cryptographic hashing can be used to identify exact matches, while perceptual hashing can be used to determine whether images (or videos) are very similar. Importantly, perceptual hashing assesses the similarity of the images, not of the content depicted in the images: for example, very similar images of different items could be determined to be a match, while very different images of the same items would not.\nIn this paper, we explain how perceptual hashing technologies can used for the detection of known illegal or harmful visual media items. We also discuss some of the issues that may arise where perceptual hashing technology is used, including its reported limitations and the potential implications should hashing be deployed inappropriately and without considering the risks from adversarial exploitation.\nOverview of Perceptual Hashing Technology (PDF, 2.1 MB)\nExploring Safety in the Online Content Journey\nThe online ecosystem is becoming ever more relevant to Ofcom\u2019s work, and our remit has recently expanded to explicitly include online content for the first time.\nThe A-SPARC model of online platforms\nUnderstanding user and content journeys as consumers access services on online platforms is crucial for a clear and consistent regulation of relevant aspects of the platforms.",
+      "chunk_id": "DOC_2070::c000000",
+      "chunk_hash": "e86684a0b985",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

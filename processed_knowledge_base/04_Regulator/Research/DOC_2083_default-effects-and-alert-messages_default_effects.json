@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "DOC_2083",
+    "title": "default-effects-and-alert-messages",
+    "category": "04_Regulator",
+    "type": "Research",
+    "author": "default effects",
+    "date": "2023-07-14",
+    "url": "https://www.ofcom.org.uk/online-safety/safety-technology/default-effects-and-alert-messages",
+    "encoding": "Windows-1252",
+    "authority_tag": "EVIDENCE_RESEARCH",
+    "authority_weight": 7
+  },
+  "chunks": [
+    {
+      "header": "HTML Content",
+      "text": "Default effects and alert messages\nDefault effects and alert messages\nOnline safety\nSafety technology\nResearch, statistics and data\nBehavioural insights\nPublished:\n14 July 2023\nThis is a discussion paper by Ofcom\u2019s Behavioural Insight team setting out the results of an online randomised controlled trial.\nThe team ran a trial to examine the impact on user behaviour of default settings in alert messages which either opted viewers in or out of watching potentially harmful content. They did this by designing and testing alert message interventions on a mocked-up video sharing platform with research participants. They tested three forms of alert messages:\u00a0an \u2018active choice\u2019; an \u2018auto-play\u2019; and an \u2018auto-skip\u2019.\nOverall, we did not find that an alert message combined with an auto-play default reduced the probability of participants skipping potentially harmful content. However, our research suggested that the auto-play default could have an impact on when people skip videos \u2013\u00a0\u00a0we observed more participants starting to watch the potentially harmful content and then skipping compared to just the active choice alert message. Conversely, we found that an auto-skip alert\u00a0significantly increased participants\u2019 skipping of potentially harmful content overall. Our research also suggests that the auto-skip alert led to more participants skipping potentially harmful content before starting to watch it and so avoiding the potentially harmful content altogether. However, further research would be needed to confirm these findings about the timing of when participants skipped the potentially harmful content.\nRead the report\nDefault effects and alert messages:\nThe impact of auto-play and auto-skip defaults on the effectiveness of alert messages\n(PDF, 444.6 KB)\nTechnical Annex (PDF, 1.7 MB)",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Default effects and alert messages\nDefault effects and alert messages\nOnline safety\nSafety technology\nResearch, statistics and data\nBehavioural insights\nPublished:\n14 July 2023\nThis is a discussion paper by Ofcom\u2019s Behavioural Insight team setting out the results of an online randomised controlled trial.\nThe team ran a trial to examine the impact on user behaviour of default settings in alert messages which either opted viewers in or out of watching potentially harmful content. They did this by designing and testing alert message interventions on a mocked-up video sharing platform with research participants. They tested three forms of alert messages:\u00a0an \u2018active choice\u2019; an \u2018auto-play\u2019; and an \u2018auto-skip\u2019.\nOverall, we did not find that an alert message combined with an auto-play default reduced the probability of participants skipping potentially harmful content. However, our research suggested that the auto-play default could have an impact on when people skip videos \u2013\u00a0\u00a0we observed more participants starting to watch the potentially harmful content and then skipping compared to just the active choice alert message. Conversely, we found that an auto-skip alert\u00a0significantly increased participants\u2019 skipping of potentially harmful content overall. Our research also suggests that the auto-skip alert led to more participants skipping potentially harmful content before starting to watch it and so avoiding the potentially harmful content altogether. However, further research would be needed to confirm these findings about the timing of when participants skipped the potentially harmful content.\nRead the report\nDefault effects and alert messages:\nThe impact of auto-play and auto-skip defaults on the effectiveness of alert messages\n(PDF, 444.6 KB)\nTechnical Annex (PDF, 1.7 MB)",
+      "chunk_id": "DOC_2083::c000000",
+      "chunk_hash": "d03babe6bb3e",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

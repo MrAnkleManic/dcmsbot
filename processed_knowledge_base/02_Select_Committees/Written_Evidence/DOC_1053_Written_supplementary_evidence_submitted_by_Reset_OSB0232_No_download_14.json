@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "id": "DOC_1053",
+    "title": "Written supplementary evidence submitted by Reset (OSB0232) November 2021 Dear Joint Committee on th",
+    "category": "02_Select_Committees",
+    "type": "Written Evidence",
+    "author": "download (14)",
+    "date": "Unknown",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 10,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text",
+      "text": "Written supplementary evidence submitted by Reset (OSB0232) November 2021 Dear Joint Committee on the draft Online Safety Bill, As you finalise your report, we want to summarise our position onwhatagood Bill looks like. As you know, Reset advocates for \u201charm reduction by design\u201d and content neutral interventions which stem the frictionless virality of harmful content (both legal and illegal). By addressing the mechanisms of recommender systems and algorithmic amplification rather than the content they carry, changes to product and practice reduce harms to the public while protecting freedom of speech. This view is shared by many in civil society. The Bill must contain a legally binding requirement forplatforms to implement content agnostic solutions to reduce harm through changes to product design, feature and practices. Examples of these should be set out by the regulator and include measures to slow virality and amplification. Platformsmust also demonstrate -- using these new mitigation measures -- how they will reduce harms to public safety, national security and election integrity. They must evidence this by providing a risk mitigation report and implementation plan to the regulator. These documents must meet, but ideally go beyond, standardsset by the regulators in a Code. Toenforce this, the regulator should set out binding transparency measures which shed light on how companies monitor, measure and prevent harm. Crucially, the regulator must have unequivocal powers to investigate the systems and processes (including the algorithmic systems and the data that feeds them) of companies in scope. In addition, the Bill should mandate data access to the regulator and vetted third party researchers to anonymized data streams and internal product safety research. Without the above, the Bill becomes a content Bill - hinging on the deletion (or not) of content. A policy limited to the removal of illegal content that fails to address the systems of recommendation and amplification will fail to provide adequate protection for public health, safety, and security. Both the Government and the Joint Committee have stated repeatedly that the Bill should go far beyond content, and focus on harm in the system ofplatforms. The above proposals would ensure that the Bill meets those objectives. For specific examples of both content neutral interventions and radical transparency, we refer you to both the testimony of Frances Haugen and the open resources of the Integrity Institute. In addition, research conducted at MIT has demonstrated that simple accuracy prompts can have dramatic effects in reducing the proliferation of disin for mation online. Poppy Wood UK Director, Reset",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Written supplementary evidence submitted by Reset (OSB0232) November 2021 Dear Joint Committee on the draft Online Safety Bill, As you finalise your report, we want to summarise our position onwhatagood Bill looks like. As you know, Reset advocates for \u201charm reduction by design\u201d and content neutral interventions which stem the frictionless virality of harmful content (both legal and illegal). By addressing the mechanisms of recommender systems and algorithmic amplification rather than the content they carry, changes to product and practice reduce harms to the public while protecting freedom of speech. This view is shared by many in civil society. The Bill must contain a legally binding requirement forplatforms to implement content agnostic solutions to reduce harm through changes to product design, feature and practices. Examples of these should be set out by the regulator and include measures to slow virality and amplification. Platformsmust also demonstrate -- using these new mitigation measures -- how they will reduce harms to public safety, national security and election integrity. They must evidence this by providing a risk mitigation report and implementation plan to the regulator. These documents must meet, but ideally go beyond, standardsset by the regulators in a Code. Toenforce this, the regulator should set out binding transparency measures which shed light on how companies monitor, measure and prevent harm. Crucially, the regulator must have unequivocal powers to investigate the systems and processes (including the algorithmic systems and the data that feeds them) of companies in scope. In addition, the Bill should mandate data access to the regulator and vetted third party researchers to anonymized data streams and internal product safety research. Without the above, the Bill becomes a content Bill - hinging on the deletion (or not) of content. A policy limited to the removal of illegal content that fails to address the systems of recommendation and amplification will fail to provide adequate protection for public health, safety, and security. Both the Government and the Joint Committee have stated repeatedly that the Bill should go far beyond content, and focus on harm in the system ofplatforms. The above proposals would ensure that the Bill meets those objectives. For specific examples of both content neutral interventions and radical transparency, we refer you to both the testimony of Frances Haugen and the open resources of the Integrity Institute. In addition, research conducted at MIT has demonstrated that simple accuracy prompts can have dramatic effects in reducing the proliferation of disin for mation online. Poppy Wood UK Director, Reset",
+      "chunk_id": "DOC_1053::c000000",
+      "chunk_hash": "4bf74e001ef8",
+      "prev_chunk_id": null,
+      "next_chunk_id": null
+    }
+  ]
+}

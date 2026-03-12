@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "id": "DOC_132",
+    "title": "Letter from Lord Parkinson to All Peers regarding Government Amendments at Third Reading- Secretary of State\u2019s powers, remote access for algorithmic testing, threatening communications.",
+    "category": "01_Legislation",
+    "type": "Ministerial Correspondence",
+    "author": "Letter from",
+    "date": "2023-09-04",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "GOV_COMMS",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdftotext",
+    "pdfplumber_mode": null,
+    "pdf_artifact_score": 31,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text",
+      "text": "Lord Parkinson of Whitley Bay Minister for Arts & Heritage 1st Floor 100 Parliament Street London SW1A 2BQ E: enquiries@dcms. gov. uk www. gov. uk/dcms\n\n4 September 2023 To: All Peers INT2023/09074/DC",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Lord Parkinson of Whitley Bay Minister for Arts & Heritage 1st Floor 100 Parliament Street London SW1A 2BQ E: enquiries@dcms. gov. uk www. gov. uk/dcms\n\n4 September 2023 To: All Peers INT2023/09074/DC",
+      "chunk_id": "DOC_132::c000000",
+      "chunk_hash": "f5b126d73517",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_132::c000001"
+    },
+    {
+      "header": "Introductory Text",
+      "text": "Lord Parkinson of Whitley Bay Minister for Arts & Heritage 1st Floor 100 Parliament Street London SW1A 2BQ E: enquiries@dcms. gov. uk www. gov. uk/dcms 4 September 2023 To: All Peers INT2023/09074/DC ONLINE SAFETY BILL: Government Amendments at Third Reading HM Government is tabling a number of amendments for consideration at Third Reading of the Online Safety Bill, which is due to take place on Wednesday 6 September. These amendments seek to make changes to the Bill in a number of areas which were discussed during our debates at Report Stage. These amendments are as follows. Secretary of State\u2019s powers These amendments seek to increase the transparency of the use of the Secretary of State\u2019s power to issue a direction to Ofcom regarding codes of practice. I would like to thank Baroness Stowell of Beeston for her engagement and considered proposals regarding this issue. The amendments we are making will, in most cases, require a direction to be laid before Parliament at the time it is issued. There may be some exceptional cases where the Secretary of State thinks it necessary to withhold some information: for example, if disclosing it would be against the interests of national security. Our amendments ensure that, in these cases, the Secretary of State will be required to lay a statement before Parliament setting out that a direction has been made, the type of code for which it has been made, and the reasons for withholding information. Our amendments will make sure that Parliament is always aware a direction has been made. Remote access for algorithmic testing Regarding Ofcom\u2019s power to view information and observe tests run on companies\u2019 systems remotely, I am grateful to Lord Knight of Weymouth, Lord Allan of Hallam, Lord Moylan, and Baroness Fox of Buckley for raising their concerns about the perceived breadth of the power, and their desire for robust safeguards to ensure that it is used appropriately by the regulator. To ensure that the drafting of the power meets the Government\u2019s policy intention, we have tabled amendments to change the drafting from a power of \u2018remote access\u2019 to a power \u2018remotely [to] view information\u2019. This clarifies that Ofcom cannot use the power to require companies to give access to their systems, addressing concerns that the power as drafted was too broad and could be used in a way that might create security risks.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Lord Parkinson of Whitley Bay Minister for Arts & Heritage 1st Floor 100 Parliament Street London SW1A 2BQ E: enquiries@dcms. gov. uk www. gov. uk/dcms 4 September 2023 To: All Peers INT2023/09074/DC ONLINE SAFETY BILL: Government Amendments at Third Reading HM Government is tabling a number of amendments for consideration at Third Reading of the Online Safety Bill, which is due to take place on Wednesday 6 September. These amendments seek to make changes to the Bill in a number of areas which were discussed during our debates at Report Stage. These amendments are as follows. Secretary of State\u2019s powers These amendments seek to increase the transparency of the use of the Secretary of State\u2019s power to issue a direction to Ofcom regarding codes of practice. I would like to thank Baroness Stowell of Beeston for her engagement and considered proposals regarding this issue. The amendments we are making will, in most cases, require a direction to be laid before Parliament at the time it is issued. There may be some exceptional cases where the Secretary of State thinks it necessary to withhold some information: for example, if disclosing it would be against the interests of national security. Our amendments ensure that, in these cases, the Secretary of State will be required to lay a statement before Parliament setting out that a direction has been made, the type of code for which it has been made, and the reasons for withholding information. Our amendments will make sure that Parliament is always aware a direction has been made. Remote access for algorithmic testing Regarding Ofcom\u2019s power to view information and observe tests run on companies\u2019 systems remotely, I am grateful to Lord Knight of Weymouth, Lord Allan of Hallam, Lord Moylan, and Baroness Fox of Buckley for raising their concerns about the perceived breadth of the power, and their desire for robust safeguards to ensure that it is used appropriately by the regulator. To ensure that the drafting of the power meets the Government\u2019s policy intention, we have tabled amendments to change the drafting from a power of \u2018remote access\u2019 to a power \u2018remotely [to] view information\u2019. This clarifies that Ofcom cannot use the power to require companies to give access to their systems, addressing concerns that the power as drafted was too broad and could be used in a way that might create security risks.",
+      "chunk_id": "DOC_132::c000001",
+      "chunk_hash": "b7576cadc74f",
+      "prev_chunk_id": "DOC_132::c000000",
+      "next_chunk_id": "DOC_132::c000002"
+    },
+    {
+      "header": "Introductory Text",
+      "text": "power of \u2018remote access\u2019 to a power \u2018remotely [to] view information\u2019. This clarifies that Ofcom cannot use the power to require companies to give access to their systems, addressing concerns that the power as drafted was too broad and could be used in a way that might create security risks. Our amendments would also limit the power so that Ofcom may only remotely view information demonstrating the operation of systems, processes or features, including algorithms, or to observe tests or demonstrations remotely. In addition, this package provides further safeguards by ensuring that this power can only be exercised by persons authorised by Ofcom, and requiring Ofcom to issue a seven-day notice before exercising this power. Our amendments seek to address the concerns raised at Report Stage while ensuring that Ofcom has the powers it needs to assess compliance effectively \u2013 in particular, to hold providers to account for their algorithms. Threatening communications The Government has tabled an amendment to make it explicit that the threatening communications offence captures threats which could be carried out by third parties. The offence as currently drafted would already capture threats where the recipient fears that someone other than the person sending the message will carry out the threat, but our amendment will put this beyond doubt. I am grateful to Baroness Kennedy of The Shaws for her work and collaboration on this issue. The Government has also tabled a number of minor and technical amendments to improve drafting quality. Additionally, Noble Lords have requested that the clarificatory letters which I sent during the Bill\u2019s Committee and Report stages be deposited in the House of Lords Library. I am very happy to do that and can confirm that these letters will be deposited in the Library shortly. I will also deposit this letter in the House of Lords Library. As ever, I am very happy to speak to Noble Lords who have any questions before our debate on Wednesday \u2013 and am grateful to all those who have given this important Bill such careful and thoughtful scrutiny.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "power of \u2018remote access\u2019 to a power \u2018remotely [to] view information\u2019. This clarifies that Ofcom cannot use the power to require companies to give access to their systems, addressing concerns that the power as drafted was too broad and could be used in a way that might create security risks. Our amendments would also limit the power so that Ofcom may only remotely view information demonstrating the operation of systems, processes or features, including algorithms, or to observe tests or demonstrations remotely. In addition, this package provides further safeguards by ensuring that this power can only be exercised by persons authorised by Ofcom, and requiring Ofcom to issue a seven-day notice before exercising this power. Our amendments seek to address the concerns raised at Report Stage while ensuring that Ofcom has the powers it needs to assess compliance effectively \u2013 in particular, to hold providers to account for their algorithms. Threatening communications The Government has tabled an amendment to make it explicit that the threatening communications offence captures threats which could be carried out by third parties. The offence as currently drafted would already capture threats where the recipient fears that someone other than the person sending the message will carry out the threat, but our amendment will put this beyond doubt. I am grateful to Baroness Kennedy of The Shaws for her work and collaboration on this issue. The Government has also tabled a number of minor and technical amendments to improve drafting quality. Additionally, Noble Lords have requested that the clarificatory letters which I sent during the Bill\u2019s Committee and Report stages be deposited in the House of Lords Library. I am very happy to do that and can confirm that these letters will be deposited in the Library shortly. I will also deposit this letter in the House of Lords Library. As ever, I am very happy to speak to Noble Lords who have any questions before our debate on Wednesday \u2013 and am grateful to all those who have given this important Bill such careful and thoughtful scrutiny.",
+      "chunk_id": "DOC_132::c000002",
+      "chunk_hash": "5b632c7345d3",
+      "prev_chunk_id": "DOC_132::c000001",
+      "next_chunk_id": "DOC_132::c000003"
+    },
+    {
+      "header": "Introductory Text",
+      "text": "I will also deposit this letter in the House of Lords Library. As ever, I am very happy to speak to Noble Lords who have any questions before our debate on Wednesday \u2013 and am grateful to all those who have given this important Bill such careful and thoughtful scrutiny. With best wishes, Lord Parkinson of Whitley Bay Minister for Arts & Heritage",
+      "page": "2",
+      "page_start": 2,
+      "page_end": 2,
+      "pages": [
+        2
+      ],
+      "display_text": "I will also deposit this letter in the House of Lords Library. As ever, I am very happy to speak to Noble Lords who have any questions before our debate on Wednesday \u2013 and am grateful to all those who have given this important Bill such careful and thoughtful scrutiny. With best wishes, Lord Parkinson of Whitley Bay Minister for Arts & Heritage",
+      "chunk_id": "DOC_132::c000003",
+      "chunk_hash": "d47e291cb987",
+      "prev_chunk_id": "DOC_132::c000002",
+      "next_chunk_id": null
+    }
+  ]
+}

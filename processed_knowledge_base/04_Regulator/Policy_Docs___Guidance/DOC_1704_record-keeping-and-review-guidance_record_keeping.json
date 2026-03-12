@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "id": "DOC_1704",
+    "title": "record-keeping-and-review-guidance",
+    "category": "04_Regulator",
+    "type": "Policy Docs & Guidance",
+    "author": "record keeping",
+    "date": "2025-04-24",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "OFFICIAL_GUIDANCE",
+    "authority_weight": 9,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 113,
+    "pdf_layout": "two_column"
+  },
+  "chunks": [
+    {
+      "header": "Introduction ........................................................................................................................ 3",
+      "text": "2. Guidance on written records.............................................................................................. 5 3. Making and keeping written records of risk assessments ................................................. 6 4. Records of measures taken in compliance with a relevant duty which are recommended in Ofcom\u2019s Code of Practice ..................................................................................................... 11 5. Records of alternative measures taken to comply with a relevant duty ......................... 13 6. Reviewing compliance ...................................................................................................... 15",
+      "page": "2",
+      "page_start": 2,
+      "page_end": 2,
+      "pages": [
+        2
+      ],
+      "display_text": "2. Guidance on written records.............................................................................................. 5 3. Making and keeping written records of risk assessments ................................................. 6 4. Records of measures taken in compliance with a relevant duty which are recommended in Ofcom\u2019s Code of Practice ..................................................................................................... 11 5. Records of alternative measures taken to comply with a relevant duty ......................... 13 6. Reviewing compliance ...................................................................................................... 15",
+      "chunk_id": "DOC_1704::c000000",
+      "chunk_hash": "97f33dee8437",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_1704::c000001"
+    },
+    {
+      "header": "1. Introduction",
+      "text": "1.1 Under the Online Safety Act 2023 (the Act), providers of regulated user-to-user (U2U) services and regulated search services are required to keep records of their risk assessments and the measures taken to comply with someofthenew duties and to review them regularly. This guidance is intended to assist providers with doing so.",
+      "page": "3",
+      "page_start": 3,
+      "page_end": 3,
+      "pages": [
+        3
+      ],
+      "display_text": "1.1 Under the Online Safety Act 2023 (the Act), providers of regulated user-to-user (U2U) services and regulated search services are required to keep records of their risk assessments and the measures taken to comply with someofthenew duties and to review them regularly. This guidance is intended to assist providers with doing so.",
+      "chunk_id": "DOC_1704::c000001",
+      "chunk_hash": "c200b5d5388b",
+      "prev_chunk_id": "DOC_1704::c000000",
+      "next_chunk_id": "DOC_1704::c000002"
+    },
+    {
+      "header": "What does this guidance cover? (Part 1/2)",
+      "text": "1.3 This guidance covers the duties on service providers that are setout in sections 23 and 34 of the Act. These comprise: a) the \u2018record-keeping duties\u2019, namely the duties to: i) keep written records of their illegal content risk assessments and, if applicable, their children\u2019s risk assessments; i i) keep written records of measures taken as described in a Code of Practice to comply with a relevant duty; i i i) where the measure described in a Code of Practice has not been taken, keep a written record of the alternative measure taken and how that fulfils the relevant duty; and b) the \u2018review duties\u2019, namely the duties to: i) review compliance with the relevant online safety duties regularly; and This guidance does not cover the record-keeping duties that apply to providers which provide an online service on which pornographic content is published or displayed by or on behalf of that provider (\u2018Part 5 providers\u2019). Guidance on those duties is included in our Guidance on highly effective age assurance and other Part 5 duties . This guidance also does not cover guidance on written records for children\u2019s access assessments (conducted under section 36). This is covered in our Children\u2019s Access Assessments Guidance . See section 9 or section 26 (as applicable) for illegal content risk assessment duties. All providers of regulated U2U and search services are required to carry out children\u2019s access assessments, under section 36 of the Act. If a service is likely to be a ccessed by children, the provider must conduct a children\u2019s risk assessment; see section 11 or section 28 (as applicable) for children\u2019s risk assessment duties. We have produced guidance on children\u2019s access assessments and children\u2019s risk assessments . A \u2018relevant duty\u2019 for regulated U2U services means the duties set out in: section 10 (illegal content); section 12 (children\u2019s online safety); section 15 (user empowerment); section 17 (content of democratic importance); section 19 (journalistic content); section 20 (content reporting); and section 21 (complaints procedures). A \u2018relevant duty\u2019 for regulated search services means the duties set out in: section 27 (illegal content); section 29 (children\u2019s online safety); section 31 (content reporting); and section 32 (complaints procedures). For regulated U2U services, these are the duties set out in: section 10 (illegal content); section 12 (children\u2019s online safety); section 15 (user empowerment); section 17 (content of democratic importance); section 18 (news publisher content); section 19 (journalistic content); section 20 (content reporting); section 21 (complaints procedures); section 71 and section 72 (terms of service); and section 75 (disclosure of in for mation about use of service by deceased child users). For regulated search services, these are the duties set out in: section 27 (illegal content); section 29 (children\u2019s online safety); section 31 (content reporting); i i) review compliance with the relevant online safety duties as soon as practicable after making a significant change to the design or operation of the service.",
+      "page": "3-4",
+      "page_start": 3,
+      "page_end": 4,
+      "pages": [
+        3,
+        4
+      ],
+      "display_text": "1.3 This guidance covers the duties on service providers that are setout in sections 23 and 34 of the Act. These comprise: a) the \u2018record-keeping duties\u2019, namely the duties to: i) keep written records of their illegal content risk assessments and, if applicable, their children\u2019s risk assessments; i i) keep written records of measures taken as described in a Code of Practice to comply with a relevant duty; i i i) where the measure described in a Code of Practice has not been taken, keep a written record of the alternative measure taken and how that fulfils the relevant duty; and b) the \u2018review duties\u2019, namely the duties to: i) review compliance with the relevant online safety duties regularly; and This guidance does not cover the record-keeping duties that apply to providers which provide an online service on which pornographic content is published or displayed by or on behalf of that provider (\u2018Part 5 providers\u2019). Guidance on those duties is included in our Guidance on highly effective age assurance and other Part 5 duties . This guidance also does not cover guidance on written records for children\u2019s access assessments (conducted under section 36). This is covered in our Children\u2019s Access Assessments Guidance . See section 9 or section 26 (as applicable) for illegal content risk assessment duties. All providers of regulated U2U and search services are required to carry out children\u2019s access assessments, under section 36 of the Act. If a service is likely to be a ccessed by children, the provider must conduct a children\u2019s risk assessment; see section 11 or section 28 (as applicable) for children\u2019s risk assessment duties. We have produced guidance on children\u2019s access assessments and children\u2019s risk assessments . A \u2018relevant duty\u2019 for regulated U2U services means the duties set out in: section 10 (illegal content); section 12 (children\u2019s online safety); section 15 (user empowerment); section 17 (content of democratic importance); section 19 (journalistic content); section 20 (content reporting); and section 21 (complaints procedures). A \u2018relevant duty\u2019 for regulated search services means the duties set out in: section 27 (illegal content); section 29 (children\u2019s online safety); section 31 (content reporting); and section 32 (complaints procedures). For regulated U2U services, these are the duties set out in: section 10 (illegal content); section 12 (children\u2019s online safety); section 15 (user empowerment); section 17 (content of democratic importance); section 18 (news publisher content); section 19 (journalistic content); section 20 (content reporting); section 21 (complaints procedures); section 71 and section 72 (terms of service); and section 75 (disclosure of in for mation about use of service by deceased child users). For regulated search services, these are the duties set out in: section 27 (illegal content); section 29 (children\u2019s online safety); section 31 (content reporting); i i) review compliance with the relevant online safety duties as soon as practicable after making a significant change to the design or operation of the service.",
+      "chunk_id": "DOC_1704::c000002",
+      "chunk_hash": "9f82ae7e5d68",
+      "prev_chunk_id": "DOC_1704::c000001",
+      "next_chunk_id": "DOC_1704::c000003"
+    },
+    {
+      "header": "What does this guidance cover? (Part 2/2)",
+      "text": "regulated search services, these are the duties set out in: section 27 (illegal content); section 29 (children\u2019s online safety); section 31 (content reporting); i i) review compliance with the relevant online safety duties as soon as practicable after making a significant change to the design or operation of the service. 1.4 Our guidance also references the duties on service providers of Category 1 U2U services and Category 2A search services to provide the written records of their risk assessments to Ofcom. 1.5 For duties relating to illegal content, this guidance should be read alongside the Illegal Content Codes of Practice and our guidance on illegal content risk assessments (Risk Assessment Guidance and Risk Profiles). 1.6 For duties relating to the protection of children, this guidance should be read alongside the relevant Protection of Children Code of Practice and our guidance on children\u2019s risk assessments.",
+      "page": "3-4",
+      "page_start": 3,
+      "page_end": 4,
+      "pages": [
+        3,
+        4
+      ],
+      "display_text": "1.4 Our guidance also references the duties on service providers of Category 1 U2U services and Category 2A search services to provide the written records of their risk assessments to Ofcom. 1.5 For duties relating to illegal content, this guidance should be read alongside the Illegal Content Codes of Practice and our guidance on illegal content risk assessments (Risk Assessment Guidance and Risk Profiles). 1.6 For duties relating to the protection of children, this guidance should be read alongside the relevant Protection of Children Code of Practice and our guidance on children\u2019s risk assessments.",
+      "chunk_id": "DOC_1704::c000003",
+      "chunk_hash": "c54be677b2d6",
+      "prev_chunk_id": "DOC_1704::c000002",
+      "next_chunk_id": "DOC_1704::c000004"
+    },
+    {
+      "header": "Why is this guidance important?",
+      "text": "1.7 This guidance is designed to help service providers understand what is expected in relation to keeping written records of risk assessments and the measures taken to comply with the relevant duties and reviewing compliance with the relevant duties. 1.8 Well-maintained, clear records, and regular, timely reviews will assist service providers to keep track of compliance with the relevant duties and ensure that the measures taken are fit for purpose. The records will also provide a useful resource for Ofcom in monitoring how the relevant duties are being fulfilled.",
+      "page": "4",
+      "page_start": 4,
+      "page_end": 4,
+      "pages": [
+        4
+      ],
+      "display_text": "1.7 This guidance is designed to help service providers understand what is expected in relation to keeping written records of risk assessments and the measures taken to comply with the relevant duties and reviewing compliance with the relevant duties. 1.8 Well-maintained, clear records, and regular, timely reviews will assist service providers to keep track of compliance with the relevant duties and ensure that the measures taken are fit for purpose. The records will also provide a useful resource for Ofcom in monitoring how the relevant duties are being fulfilled.",
+      "chunk_id": "DOC_1704::c000004",
+      "chunk_hash": "5d7a4d1aae0b",
+      "prev_chunk_id": "DOC_1704::c000003",
+      "next_chunk_id": "DOC_1704::c000005"
+    },
+    {
+      "header": "Failure to keep records or review compliance",
+      "text": "1.9 The record-keeping and review duties are en for ceable by Ofcom. When considering whether a service provider has complied with the duties, we willtakeinto account whether it has acted in accordance with this guidance. Any en for cement action will be taken in line with the procedures set out in our Online Safety En for cement Guidance. 1.10 Ifwefind a service provider to be in breach of these duties, we have the power to fine service providers up to \u00a318 million or 10% of qualifying worldwide revenue, whichever is the greater. This guidance was originally published on 16 December 2024. This updated version was published on 24 April 2025. We have added a section on guidance specific to record-keeping of children\u2019s risk assessments and updated the \u2018what does this guidance cover?\u2019 section to reflect this. We have aligned the guidance with our Children\u2019s Risk Assessment Guidance. section 32 (complaints procedures); and section 75 (disclosure of in for mation about use of service by deceased child users). Section 23(10) and section 34(9) respectively of the Act. Category 1 U2U services and Category 2A search services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. See our regulatory documents: Illegal Content Codes of Practice for U2U services ; Illegal Content Codes of Practice for search services ; and Risk Assessment Guidance and Risk Profiles . See our regulatory documents: Protection of Children Code of Practice for user-to-user services ; Protection of Children Code of Practice for search services ; and Children\u2019s Risk Assessment Guidance and Risk Profiles. Online Safety En for cement Guidance .",
+      "page": "4",
+      "page_start": 4,
+      "page_end": 4,
+      "pages": [
+        4
+      ],
+      "display_text": "1.9 The record-keeping and review duties are en for ceable by Ofcom. When considering whether a service provider has complied with the duties, we willtakeinto account whether it has acted in accordance with this guidance. Any en for cement action will be taken in line with the procedures set out in our Online Safety En for cement Guidance. 1.10 Ifwefind a service provider to be in breach of these duties, we have the power to fine service providers up to \u00a318 million or 10% of qualifying worldwide revenue, whichever is the greater. This guidance was originally published on 16 December 2024. This updated version was published on 24 April 2025. We have added a section on guidance specific to record-keeping of children\u2019s risk assessments and updated the \u2018what does this guidance cover?\u2019 section to reflect this. We have aligned the guidance with our Children\u2019s Risk Assessment Guidance. section 32 (complaints procedures); and section 75 (disclosure of in for mation about use of service by deceased child users). Section 23(10) and section 34(9) respectively of the Act. Category 1 U2U services and Category 2A search services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. See our regulatory documents: Illegal Content Codes of Practice for U2U services ; Illegal Content Codes of Practice for search services ; and Risk Assessment Guidance and Risk Profiles . See our regulatory documents: Protection of Children Code of Practice for user-to-user services ; Protection of Children Code of Practice for search services ; and Children\u2019s Risk Assessment Guidance and Risk Profiles. Online Safety En for cement Guidance .",
+      "chunk_id": "DOC_1704::c000005",
+      "chunk_hash": "a8e125dd803a",
+      "prev_chunk_id": "DOC_1704::c000004",
+      "next_chunk_id": "DOC_1704::c000006"
+    },
+    {
+      "header": "Durability and accessibility",
+      "text": "2.2 Written records should be madeandkept in a durable medium of the provider\u2019s choice (for example, on a computer or using any storage device such as a CD-ROM, USB memory stick, cloud storage, a network drive, or a paper copy), which is capable of being provided easily and quickly to Ofcom if required.",
+      "page": "5",
+      "page_start": 5,
+      "page_end": 5,
+      "pages": [
+        5
+      ],
+      "display_text": "2.2 Written records should be madeandkept in a durable medium of the provider\u2019s choice (for example, on a computer or using any storage device such as a CD-ROM, USB memory stick, cloud storage, a network drive, or a paper copy), which is capable of being provided easily and quickly to Ofcom if required.",
+      "chunk_id": "DOC_1704::c000006",
+      "chunk_hash": "42fdee0ac223",
+      "prev_chunk_id": "DOC_1704::c000005",
+      "next_chunk_id": "DOC_1704::c000007"
+    },
+    {
+      "header": "Easy to understand",
+      "text": "2.3 Written records should be legible and written in as simple and clear language as possible. They should not include jargon, encryption, shorthand, orcodesuch that Ofcom cannot understand whattheysay. 2.4 Where reasonably practicable, written records should be kept in English (or for service providers based in Wales, in English or Welsh). If this is not reasonably practicable, it should be possible for an English translation of records to be provided.",
+      "page": "5",
+      "page_start": 5,
+      "page_end": 5,
+      "pages": [
+        5
+      ],
+      "display_text": "2.3 Written records should be legible and written in as simple and clear language as possible. They should not include jargon, encryption, shorthand, orcodesuch that Ofcom cannot understand whattheysay. 2.4 Where reasonably practicable, written records should be kept in English (or for service providers based in Wales, in English or Welsh). If this is not reasonably practicable, it should be possible for an English translation of records to be provided.",
+      "chunk_id": "DOC_1704::c000007",
+      "chunk_hash": "5b5559c7c4e1",
+      "prev_chunk_id": "DOC_1704::c000006",
+      "next_chunk_id": "DOC_1704::c000008"
+    },
+    {
+      "header": "Up to date",
+      "text": "2.5 A written record mustbekept of current risk assessments and any measures taken to comply with a relevant duty. While the record must be updated to capture changes madetotherisk assessment or measure in question, it is important that earlier versions of the record are retained so that the provider is able to provide both current and historic records of how it has complied with the relevant duties. 2.6 Unless the record in question has been provided to Ofcom, written records that are no longer current should be retained in accordance with the service provider\u2019s record retention policies, or a minimum of three years (either calendar or financial), whichever is longer. 2.7 The written record should be dated whenitismade and on each occasion that it is updated. See paragraphs 6.1 to 6.8 for guidance on the service provider\u2019s duty to conduct a review of a measure when there has been a significant change to any aspect of the design or operation of a regulated service. We set out in paragraphs 3.9, 3.18, 4.5, and 5.6 when the respective written records should be made.",
+      "page": "5",
+      "page_start": 5,
+      "page_end": 5,
+      "pages": [
+        5
+      ],
+      "display_text": "2.5 A written record mustbekept of current risk assessments and any measures taken to comply with a relevant duty. While the record must be updated to capture changes madetotherisk assessment or measure in question, it is important that earlier versions of the record are retained so that the provider is able to provide both current and historic records of how it has complied with the relevant duties. 2.6 Unless the record in question has been provided to Ofcom, written records that are no longer current should be retained in accordance with the service provider\u2019s record retention policies, or a minimum of three years (either calendar or financial), whichever is longer. 2.7 The written record should be dated whenitismade and on each occasion that it is updated. See paragraphs 6.1 to 6.8 for guidance on the service provider\u2019s duty to conduct a review of a measure when there has been a significant change to any aspect of the design or operation of a regulated service. We set out in paragraphs 3.9, 3.18, 4.5, and 5.6 when the respective written records should be made.",
+      "chunk_id": "DOC_1704::c000008",
+      "chunk_hash": "94d154bc012b",
+      "prev_chunk_id": "DOC_1704::c000007",
+      "next_chunk_id": "DOC_1704::c000009"
+    },
+    {
+      "header": "records of risk assessments",
+      "text": "3.1 This section first provides guidance on keeping written records of illegal content risk assessments, then provides guidance on keeping written records of children\u2019s risk assessments, thensetsoutsome of the additional duties related to risk assessments that apply to Category 1 U2U services and Category 2A services. To note, the additional duties for categorised services apply for both illegal content risk assessments and children\u2019s risk assessments.",
+      "page": "6",
+      "page_start": 6,
+      "page_end": 6,
+      "pages": [
+        6
+      ],
+      "display_text": "3.1 This section first provides guidance on keeping written records of illegal content risk assessments, then provides guidance on keeping written records of children\u2019s risk assessments, thensetsoutsome of the additional duties related to risk assessments that apply to Category 1 U2U services and Category 2A services. To note, the additional duties for categorised services apply for both illegal content risk assessments and children\u2019s risk assessments.",
+      "chunk_id": "DOC_1704::c000009",
+      "chunk_hash": "d38d3566dcbc",
+      "prev_chunk_id": "DOC_1704::c000008",
+      "next_chunk_id": "DOC_1704::c000010"
+    },
+    {
+      "header": "What must all service providers do?",
+      "text": "3.2 Service providers are required tomakeandkeep a written record, in easily underst andableform, for all aspects of every illegal content risk assessment. 3.3 The record should include details of how the illegal content risk assessment was carried out and its findings, including: a) how a service provider has consulted Ofcom\u2019s Risk Profiles; b) the evidence used to assess risks; and c) the outcomes of the illegal content risk assessment. 3.4 The record should help to demonstrate that a provider\u2019s illegal content risk assessment is suitable and sufficient. It should include how the provider has considered the required elements in section 9 or section 26 (as applicable) of the Act and the evidence the provider has relied on to assess the risks relevant to the provider\u2019s service.",
+      "page": "6",
+      "page_start": 6,
+      "page_end": 6,
+      "pages": [
+        6
+      ],
+      "display_text": "3.2 Service providers are required tomakeandkeep a written record, in easily underst andableform, for all aspects of every illegal content risk assessment. 3.3 The record should include details of how the illegal content risk assessment was carried out and its findings, including: a) how a service provider has consulted Ofcom\u2019s Risk Profiles; b) the evidence used to assess risks; and c) the outcomes of the illegal content risk assessment. 3.4 The record should help to demonstrate that a provider\u2019s illegal content risk assessment is suitable and sufficient. It should include how the provider has considered the required elements in section 9 or section 26 (as applicable) of the Act and the evidence the provider has relied on to assess the risks relevant to the provider\u2019s service.",
+      "chunk_id": "DOC_1704::c000010",
+      "chunk_hash": "14a79813e24a",
+      "prev_chunk_id": "DOC_1704::c000009",
+      "next_chunk_id": "DOC_1704::c000011"
+    },
+    {
+      "header": "include? (Part 1/2)",
+      "text": "3.5 A regulated provider\u2019s record of its illegal content risk assessment must provide details about how it was carried out and its findings. 3.6 The record of the illegal content risk assessment should include the following in for mation: a) the service to which the risk assessment relates; b) thedatetherisk assessment was completed; c) if applicable, thedatetherisk assessment was reviewed or updated; d) who completed the risk assessment, and the named person responsible for the risk assessment; and Categorised services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. See section 9 or section 26 of the Act (as applicable). All providers must take account of the relevant Risk Profiles for their service when conducting the risk assessment. There is a separate set of risks for U2U services and for search services. The Risk Profiles are a vailable in our Risk Assessment Guidance and Risk Profiles published document. e) who approved the risk assessment. 3.7 A record of an illegal content risk assessment should also include the following in for mation regarding how a service provider has undertaken the risk assessment, and its findings: a) confirmation that a service provider has consulted Ofcom\u2019s Risk Profiles. A service provider may do this by recording the outcomes of the Risk Profiles questionnaire in Part 3 Section 1 of the Risk Assessment Guidance and Risk Profiles document; b) a record ofanyrisk factors from Ofcom\u2019s Risk Profiles that are relevant to the regulated provider\u2019s service; c) if applicable, a listofany additional characteristics (including user base, business models, functionalities, governance, and systems and processes) the regulated provider has considered alongside the risk factors identified in Ofcom\u2019s Risk Profiles; d) where a service provider has considered theroleofany existing controls already in operation on the service at the timeoftherisk assessment, what these controls are, what risks they are intended to mitigate and how they do this, and how the consideration of the existing controls has impacted the risk level assigned by the provider to a kind of illegal content; e) the level of risk (high, medium, low, negligible) assigned to each of the 17 kinds of priority illegal content (and, for U2U services, a risk level foreachkind of child sexual abuse material (CSAM)) and any relevant other illegal content, and an evidence-based explanation of the decision.",
+      "page": "6-7",
+      "page_start": 6,
+      "page_end": 7,
+      "pages": [
+        6,
+        7
+      ],
+      "display_text": "3.5 A regulated provider\u2019s record of its illegal content risk assessment must provide details about how it was carried out and its findings. 3.6 The record of the illegal content risk assessment should include the following in for mation: a) the service to which the risk assessment relates; b) thedatetherisk assessment was completed; c) if applicable, thedatetherisk assessment was reviewed or updated; d) who completed the risk assessment, and the named person responsible for the risk assessment; and Categorised services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. See section 9 or section 26 of the Act (as applicable). All providers must take account of the relevant Risk Profiles for their service when conducting the risk assessment. There is a separate set of risks for U2U services and for search services. The Risk Profiles are a vailable in our Risk Assessment Guidance and Risk Profiles published document. e) who approved the risk assessment. 3.7 A record of an illegal content risk assessment should also include the following in for mation regarding how a service provider has undertaken the risk assessment, and its findings: a) confirmation that a service provider has consulted Ofcom\u2019s Risk Profiles. A service provider may do this by recording the outcomes of the Risk Profiles questionnaire in Part 3 Section 1 of the Risk Assessment Guidance and Risk Profiles document; b) a record ofanyrisk factors from Ofcom\u2019s Risk Profiles that are relevant to the regulated provider\u2019s service; c) if applicable, a listofany additional characteristics (including user base, business models, functionalities, governance, and systems and processes) the regulated provider has considered alongside the risk factors identified in Ofcom\u2019s Risk Profiles; d) where a service provider has considered theroleofany existing controls already in operation on the service at the timeoftherisk assessment, what these controls are, what risks they are intended to mitigate and how they do this, and how the consideration of the existing controls has impacted the risk level assigned by the provider to a kind of illegal content; e) the level of risk (high, medium, low, negligible) assigned to each of the 17 kinds of priority illegal content (and, for U2U services, a risk level foreachkind of child sexual abuse material (CSAM)) and any relevant other illegal content, and an evidence-based explanation of the decision.",
+      "chunk_id": "DOC_1704::c000011",
+      "chunk_hash": "e0c509709c8c",
+      "prev_chunk_id": "DOC_1704::c000010",
+      "next_chunk_id": "DOC_1704::c000012"
+    },
+    {
+      "header": "include? (Part 2/2)",
+      "text": "of illegal content; e) the level of risk (high, medium, low, negligible) assigned to each of the 17 kinds of priority illegal content (and, for U2U services, a risk level foreachkind of child sexual abuse material (CSAM)) and any relevant other illegal content, and an evidence-based explanation of the decision. Where appropriate, this should also include the level of risk assigned to sub-categories of harm (including image-based CSAM, CSAM URLs, and Grooming); f) a list of the evidence, and summary of the reasoning, that hasinformed the assessment of likelihood and impact of each of the 17 kinds of priority illegal content and any relevant other illegal content; g) confirmation that the findings of the risk assessment have been reported, and recorded, through appropriate governance channels; and h) in for mation regarding how a service provider takes appropriate steps tokeeptherisk assessment uptodate (for example, a written policy). 3.8 Providers should refer to the Risk Assessment Guidance and Risk Profiles regulatory document for more detailed guidance on how to carry out an illegal content risk assessment.",
+      "page": "6-7",
+      "page_start": 6,
+      "page_end": 7,
+      "pages": [
+        6,
+        7
+      ],
+      "display_text": "Where appropriate, this should also include the level of risk assigned to sub-categories of harm (including image-based CSAM, CSAM URLs, and Grooming); f) a list of the evidence, and summary of the reasoning, that hasinformed the assessment of likelihood and impact of each of the 17 kinds of priority illegal content and any relevant other illegal content; g) confirmation that the findings of the risk assessment have been reported, and recorded, through appropriate governance channels; and h) in for mation regarding how a service provider takes appropriate steps tokeeptherisk assessment uptodate (for example, a written policy). 3.8 Providers should refer to the Risk Assessment Guidance and Risk Profiles regulatory document for more detailed guidance on how to carry out an illegal content risk assessment.",
+      "chunk_id": "DOC_1704::c000012",
+      "chunk_hash": "d4ff9dd1d0cd",
+      "prev_chunk_id": "DOC_1704::c000011",
+      "next_chunk_id": "DOC_1704::c000013"
+    },
+    {
+      "header": "made?",
+      "text": "3.9 The written record of the illegal content risk assessment (or a revision to the risk assessment) should be made contemporaneously to ensure it is a ccurate anduptodate. Risk Assessment Guidance and Risk Profiles . Risk Assessment Guidance and Risk Profiles .",
+      "page": "7",
+      "page_start": 7,
+      "page_end": 7,
+      "pages": [
+        7
+      ],
+      "display_text": "3.9 The written record of the illegal content risk assessment (or a revision to the risk assessment) should be made contemporaneously to ensure it is a ccurate anduptodate. Risk Assessment Guidance and Risk Profiles . Risk Assessment Guidance and Risk Profiles .",
+      "chunk_id": "DOC_1704::c000013",
+      "chunk_hash": "d20aa6cf9ed2",
+      "prev_chunk_id": "DOC_1704::c000012",
+      "next_chunk_id": "DOC_1704::c000014"
+    },
+    {
+      "header": "What must all service providers do?",
+      "text": "3.10 All providers of regulated U2U and search services are required to carry out children\u2019s access assessments, as per section 36 of the Act. 3.11 If a service is likely to be a ccessed by children, the service provider must conduct a children\u2019s risk assessment. The service provider mustmakeandkeep a written record, in easily underst andableform, for all aspects of every children\u2019s risk assessment. 3.12 The record should include details of how the children\u2019s risk assessment was carried out and its findings, including: a) how a service provider has consulted Ofcom\u2019s Children\u2019s Risk Profiles; b) the evidence used to assess risks; and c) the outcomes of the children\u2019s risk assessment. 3.13 The record should help to demonstrate that a provider\u2019s children\u2019s risk assessment is suitable and sufficient. It should include how the provider has considered the required elements in section 11 or section 28 (as applicable) of the Act and the evidence the provider has relied on to assess the risks relevant to the provider\u2019s service.",
+      "page": "8",
+      "page_start": 8,
+      "page_end": 8,
+      "pages": [
+        8
+      ],
+      "display_text": "3.10 All providers of regulated U2U and search services are required to carry out children\u2019s access assessments, as per section 36 of the Act. 3.11 If a service is likely to be a ccessed by children, the service provider must conduct a children\u2019s risk assessment. The service provider mustmakeandkeep a written record, in easily underst andableform, for all aspects of every children\u2019s risk assessment. 3.12 The record should include details of how the children\u2019s risk assessment was carried out and its findings, including: a) how a service provider has consulted Ofcom\u2019s Children\u2019s Risk Profiles; b) the evidence used to assess risks; and c) the outcomes of the children\u2019s risk assessment. 3.13 The record should help to demonstrate that a provider\u2019s children\u2019s risk assessment is suitable and sufficient. It should include how the provider has considered the required elements in section 11 or section 28 (as applicable) of the Act and the evidence the provider has relied on to assess the risks relevant to the provider\u2019s service.",
+      "chunk_id": "DOC_1704::c000014",
+      "chunk_hash": "119ad93efb10",
+      "prev_chunk_id": "DOC_1704::c000013",
+      "next_chunk_id": "DOC_1704::c000015"
+    },
+    {
+      "header": "What should the children\u2019s risk assessment record include? (Part 1/2)",
+      "text": "3.14 A regulated provider\u2019s record of its children\u2019s risk assessment must provide details about how it was carried out and its findings. 3.15 The record of the children\u2019s risk assessment should include the following in for mation: a) the service to which the children\u2019s risk assessment relates; b) the date the children\u2019s risk assessment was completed; c) if applicable, the date the children\u2019s risk assessment was reviewed or updated; d) who completed the children\u2019s risk assessment, and the named person responsible for the risk assessment; e) who approved the children\u2019s risk assessment. 3.16 A record of a children\u2019s risk assessment should also include the following in for mation regarding how a service provider has undertaken the risk assessment, and its findings: a) confirmation that the service provider has consulted Ofcom\u2019s Children\u2019s Risk Profiles. A service provider may do this by recording the outcomes of the Children\u2019s Risk Profiles questionnaire in Part 3 of the Children\u2019s Risk Assessment Guidance and Risk Profiles document; See our guidance on children\u2019s access assessments for more detail on thedutyandhow to conduct such an assessment. Record-keeping in relation to children\u2019s access assessments is covered in that guidance. Section 37 of the Act explains the meaning of \u201clikely to be a ccessed by children\u201d. Section 11 or section 28 of the Act (as applicable). All providers must take account of the relevant Children\u2019s Risk Profiles for their service when conducting the risk assessment. There is a separate set of risks for U2U services and for search services. The Children\u2019s Risk Profiles are a vailable in our Children\u2019s Risk Assessment Guidance and Risk Profiles document. Children\u2019s Risk Assessment Guidance and Risk Profiles . b) a record ofanyrisk factors from Ofcom\u2019s Children\u2019s Risk Profiles that are relevant to the regulated provider\u2019s service; c) a record of the kind(s) of non-designated content that the service provider has identified for assessment, and how the provider has considered the risk of children encountering non-designated content by means of their service; d) where applicable, a listofany additional characteristics (including user base, business models, functionalities, governance, and systems and processes) that the regulated provider has considered alongside the risk factors identified in Ofcom\u2019s Children\u2019s Risk Profiles.",
+      "page": "8-9",
+      "page_start": 8,
+      "page_end": 9,
+      "pages": [
+        8,
+        9
+      ],
+      "display_text": "3.14 A regulated provider\u2019s record of its children\u2019s risk assessment must provide details about how it was carried out and its findings. 3.15 The record of the children\u2019s risk assessment should include the following in for mation: a) the service to which the children\u2019s risk assessment relates; b) the date the children\u2019s risk assessment was completed; c) if applicable, the date the children\u2019s risk assessment was reviewed or updated; d) who completed the children\u2019s risk assessment, and the named person responsible for the risk assessment; e) who approved the children\u2019s risk assessment. 3.16 A record of a children\u2019s risk assessment should also include the following in for mation regarding how a service provider has undertaken the risk assessment, and its findings: a) confirmation that the service provider has consulted Ofcom\u2019s Children\u2019s Risk Profiles. A service provider may do this by recording the outcomes of the Children\u2019s Risk Profiles questionnaire in Part 3 of the Children\u2019s Risk Assessment Guidance and Risk Profiles document; See our guidance on children\u2019s access assessments for more detail on thedutyandhow to conduct such an assessment. Record-keeping in relation to children\u2019s access assessments is covered in that guidance. Section 37 of the Act explains the meaning of \u201clikely to be a ccessed by children\u201d. Section 11 or section 28 of the Act (as applicable). All providers must take account of the relevant Children\u2019s Risk Profiles for their service when conducting the risk assessment. There is a separate set of risks for U2U services and for search services. The Children\u2019s Risk Profiles are a vailable in our Children\u2019s Risk Assessment Guidance and Risk Profiles document. Children\u2019s Risk Assessment Guidance and Risk Profiles . b) a record ofanyrisk factors from Ofcom\u2019s Children\u2019s Risk Profiles that are relevant to the regulated provider\u2019s service; c) a record of the kind(s) of non-designated content that the service provider has identified for assessment, and how the provider has considered the risk of children encountering non-designated content by means of their service; d) where applicable, a listofany additional characteristics (including user base, business models, functionalities, governance, and systems and processes) that the regulated provider has considered alongside the risk factors identified in Ofcom\u2019s Children\u2019s Risk Profiles.",
+      "chunk_id": "DOC_1704::c000015",
+      "chunk_hash": "fa86c6428f6c",
+      "prev_chunk_id": "DOC_1704::c000014",
+      "next_chunk_id": "DOC_1704::c000016"
+    },
+    {
+      "header": "What should the children\u2019s risk assessment record include? (Part 2/2)",
+      "text": "the provider has considered the risk of children encountering non-designated content by means of their service; d) where applicable, a listofany additional characteristics (including user base, business models, functionalities, governance, and systems and processes) that the regulated provider has considered alongside the risk factors identified in Ofcom\u2019s Children\u2019s Risk Profiles. This should include how the provider has identified and assessed those functionalities that present higher levels of risk, such as recommender systems, functionalities which enable adults to search for and/or contact children, and predicting search functionalities, as well as features and functionalities which affect how much children use the service; e) if a service provider has considered theroleofany existing controls already in operation on their service at the timeoftherisk assessment, what these controls are, what risks they are intended to mitigate and how they do this, and how the consideration of the existing controls has impacted the risk level assigned by the provider to a kind of content harmful to children; f) a list of the evidence, and summary of the reasoning, that hasinformed the assessment of likelihood and impact ofeachkind of primary priority content, each kind of priority content, andeachkind of non-designated content. This should include relevant evidence about the design and use of the service, and how different age groups of children have been considered; g) the level of risk assigned to eachofthefour kinds of primary priority content, each of the eight kinds of priority content, and for anykind(s) of non-designated content the provider has assessed on the service, and an evidence-based explanation of the decision; h) confirmation that the findings of the children\u2019s risk assessment have been reported, and recorded, through appropriate governance and accountability channels; and i) in for mation regarding how the service provider takes appropriate steps to keep the children\u2019sriskassessmentup to date (for example, a written policy). 3.17 Service providers should refer to the Children\u2019s Risk Assessment Guidance and Risk Profiles regulatory document for more detailed guidance on how to carry out a children\u2019s risk assessment.",
+      "page": "8-9",
+      "page_start": 8,
+      "page_end": 9,
+      "pages": [
+        8,
+        9
+      ],
+      "display_text": "This should include how the provider has identified and assessed those functionalities that present higher levels of risk, such as recommender systems, functionalities which enable adults to search for and/or contact children, and predicting search functionalities, as well as features and functionalities which affect how much children use the service; e) if a service provider has considered theroleofany existing controls already in operation on their service at the timeoftherisk assessment, what these controls are, what risks they are intended to mitigate and how they do this, and how the consideration of the existing controls has impacted the risk level assigned by the provider to a kind of content harmful to children; f) a list of the evidence, and summary of the reasoning, that hasinformed the assessment of likelihood and impact ofeachkind of primary priority content, each kind of priority content, andeachkind of non-designated content. This should include relevant evidence about the design and use of the service, and how different age groups of children have been considered; g) the level of risk assigned to eachofthefour kinds of primary priority content, each of the eight kinds of priority content, and for anykind(s) of non-designated content the provider has assessed on the service, and an evidence-based explanation of the decision; h) confirmation that the findings of the children\u2019s risk assessment have been reported, and recorded, through appropriate governance and accountability channels; and i) in for mation regarding how the service provider takes appropriate steps to keep the children\u2019sriskassessmentup to date (for example, a written policy). 3.17 Service providers should refer to the Children\u2019s Risk Assessment Guidance and Risk Profiles regulatory document for more detailed guidance on how to carry out a children\u2019s risk assessment.",
+      "chunk_id": "DOC_1704::c000016",
+      "chunk_hash": "e5949adac790",
+      "prev_chunk_id": "DOC_1704::c000015",
+      "next_chunk_id": "DOC_1704::c000017"
+    },
+    {
+      "header": "When should the children\u2019s risk assessment record be made?",
+      "text": "3.18 The written record of the children\u2019s risk assessment (or a revision to the risk assessment) should be made contemporaneously to ensure it is a ccurate anduptodate. Section 60 setsoutwhat constitutes \u201cnon-designated content\u201d. See also: \u2018Table 1: list of content harmful to children to assess\u2019 in our Children\u2019s Risk Assessment Guidance . Section 61 setsoutwhat constitutes \u201cprimary priority content\u201d. Section 62 setsoutwhat constitutes \u201cpriority content\u201d. \u2018Table 1: list of content harmful to children to assess\u2019 in our Children\u2019s Risk Assessment Guidance also explains what primary priority content, priority content, and non-designated content is. Children\u2019s Risk Assessment Guidance and Risk Profiles .",
+      "page": "9",
+      "page_start": 9,
+      "page_end": 9,
+      "pages": [
+        9
+      ],
+      "display_text": "3.18 The written record of the children\u2019s risk assessment (or a revision to the risk assessment) should be made contemporaneously to ensure it is a ccurate anduptodate. Section 60 setsoutwhat constitutes \u201cnon-designated content\u201d. See also: \u2018Table 1: list of content harmful to children to assess\u2019 in our Children\u2019s Risk Assessment Guidance . Section 61 setsoutwhat constitutes \u201cprimary priority content\u201d. Section 62 setsoutwhat constitutes \u201cpriority content\u201d. \u2018Table 1: list of content harmful to children to assess\u2019 in our Children\u2019s Risk Assessment Guidance also explains what primary priority content, priority content, and non-designated content is. Children\u2019s Risk Assessment Guidance and Risk Profiles .",
+      "chunk_id": "DOC_1704::c000017",
+      "chunk_hash": "f3adfb6d31ca",
+      "prev_chunk_id": "DOC_1704::c000016",
+      "next_chunk_id": "DOC_1704::c000018"
+    },
+    {
+      "header": "services",
+      "text": "3.19 Ofcom will publish a register of categorised services. The providers of the services that are categorised as Category 1 U2U services and Category 2A search services will have certain additional duties, including the duty to provide risk assessments to Ofcom and the duty to publicly summarise the findings of the most recent risk assessment.",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "3.19 Ofcom will publish a register of categorised services. The providers of the services that are categorised as Category 1 U2U services and Category 2A search services will have certain additional duties, including the duty to provide risk assessments to Ofcom and the duty to publicly summarise the findings of the most recent risk assessment.",
+      "chunk_id": "DOC_1704::c000018",
+      "chunk_hash": "97f6af73e78c",
+      "prev_chunk_id": "DOC_1704::c000017",
+      "next_chunk_id": "DOC_1704::c000019"
+    },
+    {
+      "header": "Duty to provide risk assessments to Ofcom",
+      "text": "3.20 As soon as reasonably practicable after making or revising a written record of an illegal content or a children\u2019s risk assessment, Category 1 U2U service providers and Category 2A search service providers are required to provide this written record (in full) to Ofcom. The record should be sent to Ofcom in electronic format to the dedicated Ofcom email address, as published on Ofcom\u2019s website at the time of submission. 3.21 We anticipate that a service provider will make a record of its risk assessment as it is being carried out, so the provider should be a bletosend the record to Ofcom as soonastherisk assessment, or revision to it, is concluded.",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "3.20 As soon as reasonably practicable after making or revising a written record of an illegal content or a children\u2019s risk assessment, Category 1 U2U service providers and Category 2A search service providers are required to provide this written record (in full) to Ofcom. The record should be sent to Ofcom in electronic format to the dedicated Ofcom email address, as published on Ofcom\u2019s website at the time of submission. 3.21 We anticipate that a service provider will make a record of its risk assessment as it is being carried out, so the provider should be a bletosend the record to Ofcom as soonastherisk assessment, or revision to it, is concluded.",
+      "chunk_id": "DOC_1704::c000019",
+      "chunk_hash": "18ee69f283ef",
+      "prev_chunk_id": "DOC_1704::c000018",
+      "next_chunk_id": "DOC_1704::c000020"
+    },
+    {
+      "header": "assessment",
+      "text": "3.22 Providers of Category 1 U2U services must summarise in their terms of service the findings of the most recent risk assessment of their service (including levels of risk, and the nature and severity of potential harm to individuals). 3.23 Providers of Category 2A search services must summarise in a publicly available statement the findings of their most recent risk assessment (including levels of risk, and the nature and severity of potential harm to individuals). Categorised services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. Section 23(10) and section 34(9) of the Act respectively. Section 10(9) or section 12(14) of the Act (as applicable). Section 27(9) or 29(9) of the Act (as applicable).",
+      "page": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "pages": [
+        10
+      ],
+      "display_text": "3.22 Providers of Category 1 U2U services must summarise in their terms of service the findings of the most recent risk assessment of their service (including levels of risk, and the nature and severity of potential harm to individuals). 3.23 Providers of Category 2A search services must summarise in a publicly available statement the findings of their most recent risk assessment (including levels of risk, and the nature and severity of potential harm to individuals). Categorised services are services that Ofcom considers meet the applicable threshold conditions set out in regulations to be made by the Secretary of State under Schedule 11 of the Actandthatare entered in a public register to be kept by Ofcom under section 95 of the Act. Section 23(10) and section 34(9) of the Act respectively. Section 10(9) or section 12(14) of the Act (as applicable). Section 27(9) or 29(9) of the Act (as applicable).",
+      "chunk_id": "DOC_1704::c000020",
+      "chunk_hash": "de828705c0c0",
+      "prev_chunk_id": "DOC_1704::c000019",
+      "next_chunk_id": "DOC_1704::c000021"
+    },
+    {
+      "header": "What must service providers do?",
+      "text": "4.1 Where the service provider adopts measures set out in Ofcom\u2019s Code of Practice for the purpose of compliance with one ormore of the relevant duties set out in Table 1, the provider should keep a written record of the measures taken. Table 1: relevant duties for service providers: \u2018Relevant duties\u2019 for regulated U2U services \u2018Relevant duties\u2019 for regulated search services a) illegal content (section 10) b) children\u2019s online safety (section 12) c) user empowerment (section 15) d) content of democratic importance (section 17) e) journalistic content (section 19) f) content reporting (section 20) g) complaints procedures (section 21) a) illegal content (section 27) b) children\u2019s online safety (section 29) c) content reporting (section 31) d) complaints procedures (section 32)",
+      "page": "11",
+      "page_start": 11,
+      "page_end": 11,
+      "pages": [
+        11
+      ],
+      "display_text": "4.1 Where the service provider adopts measures set out in Ofcom\u2019s Code of Practice for the purpose of compliance with one ormore of the relevant duties set out in Table 1, the provider should keep a written record of the measures taken. Table 1: relevant duties for service providers: \u2018Relevant duties\u2019 for regulated U2U services \u2018Relevant duties\u2019 for regulated search services a) illegal content (section 10) b) children\u2019s online safety (section 12) c) user empowerment (section 15) d) content of democratic importance (section 17) e) journalistic content (section 19) f) content reporting (section 20) g) complaints procedures (section 21) a) illegal content (section 27) b) children\u2019s online safety (section 29) c) content reporting (section 31) d) complaints procedures (section 32)",
+      "chunk_id": "DOC_1704::c000021",
+      "chunk_hash": "77b7bee453f0",
+      "prev_chunk_id": "DOC_1704::c000020",
+      "next_chunk_id": "DOC_1704::c000022"
+    },
+    {
+      "header": "What should the record include?",
+      "text": "4.2 There must be a written record of each measure that is taken or is in use as described in the Code of Practice, which should: a) provide a description of the measure in question; b) identify the relevant Code of Practice; and c) givethedate that the measure takes effect. 4.3 To help service providers record this in for mation, for each of the measures Ofcom recommends, we set out which duty it relates to in the relevant Code of Practice. 4.4 Where a measure in a Code of Practice provides for a document to be made or in for mation to be recorded (such as a written policy or statistical records), the document or in for mation in question (or a copy) should be kept and maintained as part of the record made for the purposes of the record-keeping duty under section 23(3) or section 34(3).",
+      "page": "11-12",
+      "page_start": 11,
+      "page_end": 12,
+      "pages": [
+        11,
+        12
+      ],
+      "display_text": "4.2 There must be a written record of each measure that is taken or is in use as described in the Code of Practice, which should: a) provide a description of the measure in question; b) identify the relevant Code of Practice; and c) givethedate that the measure takes effect. 4.3 To help service providers record this in for mation, for each of the measures Ofcom recommends, we set out which duty it relates to in the relevant Code of Practice. 4.4 Where a measure in a Code of Practice provides for a document to be made or in for mation to be recorded (such as a written policy or statistical records), the document or in for mation in question (or a copy) should be kept and maintained as part of the record made for the purposes of the record-keeping duty under section 23(3) or section 34(3).",
+      "chunk_id": "DOC_1704::c000022",
+      "chunk_hash": "760980bcfa9e",
+      "prev_chunk_id": "DOC_1704::c000021",
+      "next_chunk_id": "DOC_1704::c000023"
+    },
+    {
+      "header": "When should the record of a Code measure be made?",
+      "text": "4.5 The written record of a Code measure should be made promptly. Where the measure is a lready in effect prior to the relevant duty coming in to force, the written record should be made promptly after thedutyhascome in to effect. Such document or in for mation should be durable, accessible, easy to understand, anduptodate, in line with this guidance.",
+      "page": "12",
+      "page_start": 12,
+      "page_end": 12,
+      "pages": [
+        12
+      ],
+      "display_text": "4.5 The written record of a Code measure should be made promptly. Where the measure is a lready in effect prior to the relevant duty coming in to force, the written record should be made promptly after thedutyhascome in to effect. Such document or in for mation should be durable, accessible, easy to understand, anduptodate, in line with this guidance.",
+      "chunk_id": "DOC_1704::c000023",
+      "chunk_hash": "3971259245e3",
+      "prev_chunk_id": "DOC_1704::c000022",
+      "next_chunk_id": "DOC_1704::c000024"
+    },
+    {
+      "header": "What must service providers do?",
+      "text": "5.1 Codes of Practice describe the measures that Ofcom recommends service providers take to comply with the relevant duties to which the Code of Practice applies. However, a service provider has the option of taking alternative measures to those set out a Code of Practice to comply with a relevant duty. 5.2 If a service provider adopts, or has already adopted, alternative measures to those set out in the Code of Practice to comply with its relevant duties (see Table 1) thenitmustmake and keep a written record of the alternative measures.",
+      "page": "13",
+      "page_start": 13,
+      "page_end": 13,
+      "pages": [
+        13
+      ],
+      "display_text": "5.1 Codes of Practice describe the measures that Ofcom recommends service providers take to comply with the relevant duties to which the Code of Practice applies. However, a service provider has the option of taking alternative measures to those set out a Code of Practice to comply with a relevant duty. 5.2 If a service provider adopts, or has already adopted, alternative measures to those set out in the Code of Practice to comply with its relevant duties (see Table 1) thenitmustmake and keep a written record of the alternative measures.",
+      "chunk_id": "DOC_1704::c000024",
+      "chunk_hash": "9e771e875d4c",
+      "prev_chunk_id": "DOC_1704::c000023",
+      "next_chunk_id": "DOC_1704::c000025"
+    },
+    {
+      "header": "include?",
+      "text": "5.3 Written records must include: a) the measures in a Code of Practice that have been recommended based on the outcome of the risk assessment but have not been taken or are not inuse; b) the alternative measures that have been taken orareinuse, and thedatetheytake effect; c) how those alternative measures amount to compliance with the duty in question; and d) how the provider has complied with section 49(5) (freedom of expression and privacy). 5.4 Where service providers adopt alternative measures to comply with the safety duties in relation to illegal content, or the safety duties protecting children, the written record must also state whether the alternative measures have been taken orareinuse in every are a listed in Table 2 (to the extent there are a pplicable measures in a Code of Practice). These are measures set out by Ofcom in a Code of Practice which apply to the relevant service provider. There is no obligation on a service provider to keep a written record of a measure (from the Code of Practice) that does not apply to it (for example, where particular measures only apply to a subset of services based onsizeorrisk of a particular harm). Specifically, the duties in section 10(2) and (3) for U2U services and section 27(2) and (3) for search services in relation to safety duties about illegal content; and the duties in section 12(2) and (3) for U2U services and section 29(2) and (3) for search services in relation to safety duties protecting children. See section 23(5) and section 34(5) of the Actforwhatmust be recorded in relation to alternative measures. Table 2: are as in which alternative measures can be taken: Are as listed in respect of U2U services Sections 10(4) and 12(8) of the Act Are as listed in respect of search services Sections 27(4) and 29(4) of the Act a) regulatory compliance and risk management arrangements; b) design of functionalities, algorithms and other features; c) policies on terms of use; d) policies on user access to the service or to particular content present on the service; including blocking users from accessing the service or particular content; especially by children; down content; f) functionalities allowing users to control the content they encounter, including those functionalities for content encountered especially by children; g) user support measures; and, h) staff policies and practices. a) regulatory compliance and risk management arrangements; b) design of functionalities, algorithms and other features relating to the search engine; c) functionalities allowing users to control the content they encounter in search results, including those functionalities for content encountered in search results especially by children; d) content prioritisation; e) user support measures; and, f) staff policies and practices. 5.5 A provider should include in its written records the date that its alternative measures came in to effect.",
+      "page": "13-14",
+      "page_start": 13,
+      "page_end": 14,
+      "pages": [
+        13,
+        14
+      ],
+      "display_text": "5.3 Written records must include: a) the measures in a Code of Practice that have been recommended based on the outcome of the risk assessment but have not been taken or are not inuse; b) the alternative measures that have been taken orareinuse, and thedatetheytake effect; c) how those alternative measures amount to compliance with the duty in question; and d) how the provider has complied with section 49(5) (freedom of expression and privacy). 5.4 Where service providers adopt alternative measures to comply with the safety duties in relation to illegal content, or the safety duties protecting children, the written record must also state whether the alternative measures have been taken orareinuse in every are a listed in Table 2 (to the extent there are a pplicable measures in a Code of Practice). These are measures set out by Ofcom in a Code of Practice which apply to the relevant service provider. There is no obligation on a service provider to keep a written record of a measure (from the Code of Practice) that does not apply to it (for example, where particular measures only apply to a subset of services based onsizeorrisk of a particular harm). Specifically, the duties in section 10(2) and (3) for U2U services and section 27(2) and (3) for search services in relation to safety duties about illegal content; and the duties in section 12(2) and (3) for U2U services and section 29(2) and (3) for search services in relation to safety duties protecting children. See section 23(5) and section 34(5) of the Actforwhatmust be recorded in relation to alternative measures. Table 2: are as in which alternative measures can be taken: Are as listed in respect of U2U services Sections 10(4) and 12(8) of the Act Are as listed in respect of search services Sections 27(4) and 29(4) of the Act a) regulatory compliance and risk management arrangements; b) design of functionalities, algorithms and other features; c) policies on terms of use; d) policies on user access to the service or to particular content present on the service; including blocking users from accessing the service or particular content; especially by children; down content; f) functionalities allowing users to control the content they encounter, including those functionalities for content encountered especially by children; g) user support measures; and, h) staff policies and practices. a) regulatory compliance and risk management arrangements; b) design of functionalities, algorithms and other features relating to the search engine; c) functionalities allowing users to control the content they encounter in search results, including those functionalities for content encountered in search results especially by children; d) content prioritisation; e) user support measures; and, f) staff policies and practices. 5.5 A provider should include in its written records the date that its alternative measures came in to effect.",
+      "chunk_id": "DOC_1704::c000025",
+      "chunk_hash": "f9dd6235ba09",
+      "prev_chunk_id": "DOC_1704::c000024",
+      "next_chunk_id": "DOC_1704::c000026"
+    },
+    {
+      "header": "measures be made?",
+      "text": "5.6 The written record of an alternative measure should be made promptly after the alternative measure has been taken. Where the alternative measure is a lready in effect prior to the duty coming in to force, the written record should be made promptly after thedutyhascome in to effect.",
+      "page": "14",
+      "page_start": 14,
+      "page_end": 14,
+      "pages": [
+        14
+      ],
+      "display_text": "5.6 The written record of an alternative measure should be made promptly after the alternative measure has been taken. Where the alternative measure is a lready in effect prior to the duty coming in to force, the written record should be made promptly after thedutyhascome in to effect.",
+      "chunk_id": "DOC_1704::c000026",
+      "chunk_hash": "d557adff184b",
+      "prev_chunk_id": "DOC_1704::c000025",
+      "next_chunk_id": "DOC_1704::c000027"
+    },
+    {
+      "header": "What must service providers do?",
+      "text": "6.1 A service provider is required to regularly review its compliance with each of the online safety duties set out in Table 3. A provider must also review its compliance as soon as reasonably practicable after making any significant change to any aspect of the design or operation of the service. Table 3: a service provider must review its compliance with the following online safety duties: For regulated U2U services For regulated search services a) illegal content (section 10) b) children\u2019s online safety (section 12) c) user empowerment (section 15) d) content of democratic importance (section 17) e) news publisher content (section 18) f) journalistic content (section 19) g) content reporting (section 20) h) complaints procedures (section 21) i) terms of service (section 71 and section 72) j) disclosure of in for mation about use of service by deceased child users (section 75) a) illegal content (section 27) b) children\u2019s online safety (section 29) c) content reporting (section 31) d) complaints procedures (section 32) e) disclosure of in for mation about use of service by deceased child users (section 75) 6.2 In conducting a review of compliance, the service provider should consider: a) whether there have been any changes affecting the service which may have an impact on the duties that apply to it (for example, if the service is designated a Category 1 or Category 2A provider); b) whether the measures it has adopted are sufficient to secure compliance with the relevant online safety duties as they apply to the service provider; and, if not, c) what further measures it must take to secure compliance.",
+      "page": "15",
+      "page_start": 15,
+      "page_end": 15,
+      "pages": [
+        15
+      ],
+      "display_text": "6.1 A service provider is required to regularly review its compliance with each of the online safety duties set out in Table 3. A provider must also review its compliance as soon as reasonably practicable after making any significant change to any aspect of the design or operation of the service. Table 3: a service provider must review its compliance with the following online safety duties: For regulated U2U services For regulated search services a) illegal content (section 10) b) children\u2019s online safety (section 12) c) user empowerment (section 15) d) content of democratic importance (section 17) e) news publisher content (section 18) f) journalistic content (section 19) g) content reporting (section 20) h) complaints procedures (section 21) i) terms of service (section 71 and section 72) j) disclosure of in for mation about use of service by deceased child users (section 75) a) illegal content (section 27) b) children\u2019s online safety (section 29) c) content reporting (section 31) d) complaints procedures (section 32) e) disclosure of in for mation about use of service by deceased child users (section 75) 6.2 In conducting a review of compliance, the service provider should consider: a) whether there have been any changes affecting the service which may have an impact on the duties that apply to it (for example, if the service is designated a Category 1 or Category 2A provider); b) whether the measures it has adopted are sufficient to secure compliance with the relevant online safety duties as they apply to the service provider; and, if not, c) what further measures it must take to secure compliance.",
+      "chunk_id": "DOC_1704::c000027",
+      "chunk_hash": "a2c4991ceab9",
+      "prev_chunk_id": "DOC_1704::c000026",
+      "next_chunk_id": "DOC_1704::c000028"
+    },
+    {
+      "header": "When should a review be carried out?",
+      "text": "6.3 A service provider must review its compliance with the relevant online safety duties at regular intervals. The frequency of such reviews should take in to account, in particular: the service being provided; the online safety duties identified in Table 3 that apply to the service; the findings of the provider\u2019s most recent illegal content and, where applicable, children\u2019s risk assessment; and the outcome of the provider\u2019s last compliance review. 6.4 Reviews should be scheduled by providers and occur with a frequency that allows for a continuous cycle of implementation, monitoring, and review. 6.5 As a minimum, we consider that service providers should undertake a compliance review onceayear. This aligns with the frequency of the annual and financial reporting cycle for companies (which may entail a review of the compliance and regulatory duties) and the guidance we have issued to providers on the frequency with which risk assessments should be conducted. 6.6 Where a service provider becomes aware of compliance concerns, or implements new measures, it may be a ppropriate to conduct earlier or more frequent reviews. 6.7 Service providers are also required to carry out a review whenever there is a significant change to the design or operation of their service. We have included guidance on when a change is likely to be significant in both our Risk Assessment Guidance and Risk Profiles and Children\u2019s Risk Assessment and Risk Profiles regulatory documents, which service providers should refer to for more detail. 6.8 Both documents set out principles and considerations to help service providers decide if a proposed change is likely to amount to a significant change. Both documents also provide a list of examples of design and operational changes that are likely to be significant for these purposes. Such examples include the operation of a new recommender system, the addition or removal of a functionality, and changes to a service\u2019s content rules or content prioritisation. See \u2018Part 1: Duties and carrying out an illegal content risk assessment\u2019 in Risk Assessment Guidance and Risk Profiles , specifically the section titled \u2018Review and update at least every 12 months\u2019; and \u2018Part 1: Duties and carrying out a children\u2019s risk assessment\u2019 in Children\u2019s Risk Assessment and Risk Profiles , specifically the section titled \u2018Review and update at least every 12 months\u2019. Additionally, service providers required to complete a Children\u2019s Access Assessment must re-do these at least every 12 months (see section 36(3) of the Act). SeePart 3, Section 4 of Risk Assessment Guidance and Risk Profiles and Part 3, Section 5 of Children\u2019s Risk Assessment Guidance and Risk Profiles .",
+      "page": "15-16",
+      "page_start": 15,
+      "page_end": 16,
+      "pages": [
+        15,
+        16
+      ],
+      "display_text": "6.3 A service provider must review its compliance with the relevant online safety duties at regular intervals. The frequency of such reviews should take in to account, in particular: the service being provided; the online safety duties identified in Table 3 that apply to the service; the findings of the provider\u2019s most recent illegal content and, where applicable, children\u2019s risk assessment; and the outcome of the provider\u2019s last compliance review. 6.4 Reviews should be scheduled by providers and occur with a frequency that allows for a continuous cycle of implementation, monitoring, and review. 6.5 As a minimum, we consider that service providers should undertake a compliance review onceayear. This aligns with the frequency of the annual and financial reporting cycle for companies (which may entail a review of the compliance and regulatory duties) and the guidance we have issued to providers on the frequency with which risk assessments should be conducted. 6.6 Where a service provider becomes aware of compliance concerns, or implements new measures, it may be a ppropriate to conduct earlier or more frequent reviews. 6.7 Service providers are also required to carry out a review whenever there is a significant change to the design or operation of their service. We have included guidance on when a change is likely to be significant in both our Risk Assessment Guidance and Risk Profiles and Children\u2019s Risk Assessment and Risk Profiles regulatory documents, which service providers should refer to for more detail. 6.8 Both documents set out principles and considerations to help service providers decide if a proposed change is likely to amount to a significant change. Both documents also provide a list of examples of design and operational changes that are likely to be significant for these purposes. Such examples include the operation of a new recommender system, the addition or removal of a functionality, and changes to a service\u2019s content rules or content prioritisation. See \u2018Part 1: Duties and carrying out an illegal content risk assessment\u2019 in Risk Assessment Guidance and Risk Profiles , specifically the section titled \u2018Review and update at least every 12 months\u2019; and \u2018Part 1: Duties and carrying out a children\u2019s risk assessment\u2019 in Children\u2019s Risk Assessment and Risk Profiles , specifically the section titled \u2018Review and update at least every 12 months\u2019. Additionally, service providers required to complete a Children\u2019s Access Assessment must re-do these at least every 12 months (see section 36(3) of the Act). SeePart 3, Section 4 of Risk Assessment Guidance and Risk Profiles and Part 3, Section 5 of Children\u2019s Risk Assessment Guidance and Risk Profiles .",
+      "chunk_id": "DOC_1704::c000028",
+      "chunk_hash": "34c712ab4282",
+      "prev_chunk_id": "DOC_1704::c000027",
+      "next_chunk_id": null
+    }
+  ]
+}

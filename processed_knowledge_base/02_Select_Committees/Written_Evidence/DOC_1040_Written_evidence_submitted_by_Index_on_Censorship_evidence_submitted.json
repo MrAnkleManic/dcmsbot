@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "id": "DOC_1040",
+    "title": "Written evidence submitted by Index on Censorship",
+    "category": "02_Select_Committees",
+    "type": "Written Evidence",
+    "author": "evidence submitted",
+    "date": "Unknown",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 18,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "About Mobile UK",
+      "text": "1. Mobile UK is the trade association for the UK\u2019s mobile network operators \u2013 EE (a member of BT Group), Three, Virgin Media O2 and Vodafone. Our goal is to realise the power of mobile to improve the lives of our customers and the prosperity of the UK. 2. As mobile increasingly becomes the device of choice for running daily lifebothathome and at work, customers have come to expect more extensive coverage, more capacity and greater capabilities. Our role is to identify the barriers to progress, andworkwithall relevant parties to bring about change, be they the Government, regulators, industry, consumers or citizens more generally.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "1. Mobile UK is the trade association for the UK\u2019s mobile network operators \u2013 EE (a member of BT Group), Three, Virgin Media O2 and Vodafone. Our goal is to realise the power of mobile to improve the lives of our customers and the prosperity of the UK. 2. As mobile increasingly becomes the device of choice for running daily lifebothathome and at work, customers have come to expect more extensive coverage, more capacity and greater capabilities. Our role is to identify the barriers to progress, andworkwithall relevant parties to bring about change, be they the Government, regulators, industry, consumers or citizens more generally.",
+      "chunk_id": "DOC_1040::c000000",
+      "chunk_hash": "788f20319859",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_1040::c000001"
+    },
+    {
+      "header": "Introduction",
+      "text": "3. Mobile UK welcomes the opportunity to make a submission to the Digital, Culture, Media and Sport Sub-Committee\u2019s call for evidence on online safety and online harms. 4. For roughly the last 17 years, the mobile operators in the UK have worked both individually and jointly in the field of child protection, mainly in respect of their role as Internet Service Providers for access to the [mobile] internet, where they have sought to mitigate the risk of children coming in to contact with inappropriate content. 5. As wellasthework undertaken as individual operators, partnering with NGOs such as NSPCC and Childnet, they jointly published the world\u2019s first Code of Practice for the self-regulation of content on mobile in 2004. As the successor body to the original publisher, Mobile UK has taken on responsibility for the management of the Code of Practice. 6. The principal feature of the Code is that operators apply a filter to the Internet access service by default for consumer customers. Thus, consumers cannot get access to inappropriate content until the filter has been removed. It can only be removed once a customer has been through a robust age verification process. 7. We partner with the British Board of Film Classification (BBFC), who act as the independent body that provides the framework by which the filter was set and calibrated (i. e. helped operators with the tricky editorial decisions about what is not appropriate for children.) 8. The BBFC sets the framework and acts as an appeal body if a customer, mobile operator or website owner believes that a website is being incorrectly categorised, resulting in either under or over-blocking. Each quarter, the BBFC publishes a summary of the decisions it has taken.",
+      "page": "1-2",
+      "page_start": 1,
+      "page_end": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "display_text": "3. Mobile UK welcomes the opportunity to make a submission to the Digital, Culture, Media and Sport Sub-Committee\u2019s call for evidence on online safety and online harms. 4. For roughly the last 17 years, the mobile operators in the UK have worked both individually and jointly in the field of child protection, mainly in respect of their role as Internet Service Providers for access to the [mobile] internet, where they have sought to mitigate the risk of children coming in to contact with inappropriate content. 5. As wellasthework undertaken as individual operators, partnering with NGOs such as NSPCC and Childnet, they jointly published the world\u2019s first Code of Practice for the self-regulation of content on mobile in 2004. As the successor body to the original publisher, Mobile UK has taken on responsibility for the management of the Code of Practice. 6. The principal feature of the Code is that operators apply a filter to the Internet access service by default for consumer customers. Thus, consumers cannot get access to inappropriate content until the filter has been removed. It can only be removed once a customer has been through a robust age verification process. 7. We partner with the British Board of Film Classification (BBFC), who act as the independent body that provides the framework by which the filter was set and calibrated (i. e. helped operators with the tricky editorial decisions about what is not appropriate for children.) 8. The BBFC sets the framework and acts as an appeal body if a customer, mobile operator or website owner believes that a website is being incorrectly categorised, resulting in either under or over-blocking. Each quarter, the BBFC publishes a summary of the decisions it has taken.",
+      "chunk_id": "DOC_1040::c000001",
+      "chunk_hash": "8e5840929a42",
+      "prev_chunk_id": "DOC_1040::c000000",
+      "next_chunk_id": "DOC_1040::c000002"
+    },
+    {
+      "header": "Moving with the times",
+      "text": "9. The mobile operators will continue to invest in child protection. Still, we recognise that other parties in the value chain havearole to play in keeping customers \u2013 both children and adults - safe online, and we thus support the broad thrust of what the Government is trying to achieve. 10. For one thing, the increased use by customers of encrypted Apps, VPN services and upcoming features such as Apple Private Relay significantly reduce the ability of ISPs to protect customers by moderating the internet access point. The protection has to happen on theplatforms and content services directly.",
+      "page": "2",
+      "page_start": 2,
+      "page_end": 2,
+      "pages": [
+        2
+      ],
+      "display_text": "9. The mobile operators will continue to invest in child protection. Still, we recognise that other parties in the value chain havearole to play in keeping customers \u2013 both children and adults - safe online, and we thus support the broad thrust of what the Government is trying to achieve. 10. For one thing, the increased use by customers of encrypted Apps, VPN services and upcoming features such as Apple Private Relay significantly reduce the ability of ISPs to protect customers by moderating the internet access point. The protection has to happen on theplatforms and content services directly.",
+      "chunk_id": "DOC_1040::c000002",
+      "chunk_hash": "18cd690bc16e",
+      "prev_chunk_id": "DOC_1040::c000001",
+      "next_chunk_id": "DOC_1040::c000003"
+    },
+    {
+      "header": "Mobile UK\u2019s Responses to the Questions in the Call For Evidence:",
+      "text": "11. How has the shifting focus between \u2018online harms\u2019 and \u2018online safety\u2019 influenced the development of the new regime and draft Bill? 12. Mobile UK would not regard this distinction as particularly significant; protecting people from harm and ensuring they aresafeare essentially two sides ofthesamecoin. 13. Is it necessary to have an explicit definition and process for determining harm to children and adults in the Online Safety Bill, and what should it be? 14. The Government has set itself an enormous tasktosetup the regulator for the businesses in scope. 15. It has been our experience, through our partnership with the BBFC, that being transparent about the framework and the decisions taken by the independent body is necessary for the framework to be strongly supported by stakeholders. We encourage that the fundamental definition and process for establishing harm should be part of the parliamentary process and the Bill, leaving sufficient scope for the regulator to use its discretion in applying the definitions to what is likely to be a very broad set of circumstances. 16. Does the draft Bill focus enough onthewaystech companies could be encouraged to consider safety and/or theriskofharm in platform design and the systems and processes that they put in place? 17. No comments 18. Whatarethekey omissions to the draft Bill, such as a general safety duty or powers to deal with urgent security threats, and (how) could they be practically included without compromising rights such as freedom of expression? 19. The Government has signalled that it plans to introduce further measures in the Bill to address the online scams that cause such financial and psychological harm to people. These have not been brought forward. Subject to seeing the detail, Mobile UK is supportive in principle that the Bill should cover these aspects. 20. The mobile sector invests heavily in measures designed to protect customers from SMS (text message) Spam and Scams. Still, it would undoubtedly be helpful ifthetechplat for ms could work alongside other industry actors to minimise the risk of consumer harm, including financial loss. 21. Are there any contested inclusions, tensions or contradictions in the draft Billthatneed to be more carefully considered before the final Billisput to Parliament? 22. No comments 23. What are the lessons that the Government should learn when directly comparing the draft Bill to existing and proposed legislation around the world? 24. Mobile UK\u2019s main recommendation in this regard is that any legislation will have to underpin measures that will be practical and workable toputintouse. The matter inhandlies at a complex intersection of technology and law; previous effortshave foundered in the past (e. g. age verification for adult sites). All stakeholders \u2013 Government, Parliament, industry and customers must draw on this and ensure that any enacted legislation is proportionate, addresses actual harms and is practical to implement.",
+      "page": "2-3",
+      "page_start": 2,
+      "page_end": 3,
+      "pages": [
+        2,
+        3
+      ],
+      "display_text": "11. How has the shifting focus between \u2018online harms\u2019 and \u2018online safety\u2019 influenced the development of the new regime and draft Bill? 12. Mobile UK would not regard this distinction as particularly significant; protecting people from harm and ensuring they aresafeare essentially two sides ofthesamecoin. 13. Is it necessary to have an explicit definition and process for determining harm to children and adults in the Online Safety Bill, and what should it be? 14. The Government has set itself an enormous tasktosetup the regulator for the businesses in scope. 15. It has been our experience, through our partnership with the BBFC, that being transparent about the framework and the decisions taken by the independent body is necessary for the framework to be strongly supported by stakeholders. We encourage that the fundamental definition and process for establishing harm should be part of the parliamentary process and the Bill, leaving sufficient scope for the regulator to use its discretion in applying the definitions to what is likely to be a very broad set of circumstances. 16. Does the draft Bill focus enough onthewaystech companies could be encouraged to consider safety and/or theriskofharm in platform design and the systems and processes that they put in place? 17. No comments 18. Whatarethekey omissions to the draft Bill, such as a general safety duty or powers to deal with urgent security threats, and (how) could they be practically included without compromising rights such as freedom of expression? 19. The Government has signalled that it plans to introduce further measures in the Bill to address the online scams that cause such financial and psychological harm to people. These have not been brought forward. Subject to seeing the detail, Mobile UK is supportive in principle that the Bill should cover these aspects. 20. The mobile sector invests heavily in measures designed to protect customers from SMS (text message) Spam and Scams. Still, it would undoubtedly be helpful ifthetechplat for ms could work alongside other industry actors to minimise the risk of consumer harm, including financial loss. 21. Are there any contested inclusions, tensions or contradictions in the draft Billthatneed to be more carefully considered before the final Billisput to Parliament? 22. No comments 23. What are the lessons that the Government should learn when directly comparing the draft Bill to existing and proposed legislation around the world? 24. Mobile UK\u2019s main recommendation in this regard is that any legislation will have to underpin measures that will be practical and workable toputintouse. The matter inhandlies at a complex intersection of technology and law; previous effortshave foundered in the past (e. g. age verification for adult sites). All stakeholders \u2013 Government, Parliament, industry and customers must draw on this and ensure that any enacted legislation is proportionate, addresses actual harms and is practical to implement.",
+      "chunk_id": "DOC_1040::c000003",
+      "chunk_hash": "83afcbbcf4c7",
+      "prev_chunk_id": "DOC_1040::c000002",
+      "next_chunk_id": null
+    }
+  ]
+}

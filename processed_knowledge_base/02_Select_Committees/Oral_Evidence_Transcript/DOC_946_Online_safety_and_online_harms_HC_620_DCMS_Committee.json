@@ -1,0 +1,1244 @@
+{
+  "metadata": {
+    "id": "DOC_946",
+    "title": "Online safety and online harms, HC 620",
+    "category": "02_Select_Committees",
+    "type": "Oral Evidence Transcript",
+    "author": "DCMS Committee",
+    "date": "2022-02-01",
+    "url": "https://committees.parliament.uk/oralevidence/3377/html/",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6
+  },
+  "chunks": [
+    {
+      "header": "Speaker Turn",
+      "text": "#\n\n!HoC 85mm(Green).tif\n\nDigital, Culture, Media and Sport Committee\n\nSub-committee on Online Harms and Disinformation\n\nOral evidence: Online safety and online harms, HC 620\n\nTuesday 1 February 2022\n\nOrdered by the House of Commons to be published on 1 February 2022.\n\nWatch the meeting\n\nMembers present: Julian Knight (Chair); Steve Brine; Clive Efford; Julie Elliott; Damian Green; Simon Jupp; John Nicolson; Jane Stevenson.\n\nQuestions 299 - 345\n\nWitnesses\n\nI: Chris Philp MP, Minister for Tech nology and the Digital Economy, Department for Digital, Culture, Media and Sport; Sarah Connolly, Director, Security and Online Harms, Department for Digital, Culture, Media and Sport; and Katie Morris, Head, Online Harms Regulatory Framework, Department for Digital, Culture, Media and Sport.\n\nWritten evidence from witnesses:\n\n\u2013 \\[Add names of witnesses and hyperlink to submissions\\]\n\nExamination of witnesses\n\nWitnesses: Chris Philp MP, Sarah Connolly and Katie Morris.\n\nQ299 Chair: This is the Digital, Culture, Media and Sport Select Committee and this is our second panel, which looks specifically at online safety and online harms. We are still joined by Chris Philp, Minister, and Sarah Connolly, but we are also now joined by Katie Morris, the head of Online Harms Regulatory Framework at the DCMS. Katie, hello, thank you very much for joining us this morning.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": null,
+      "turn_part_index": 0,
+      "display_text": "#\n\n!HoC 85mm(Green).tif\n\nDigital, Culture, Media and Sport Committee\n\nSub-committee on Online Harms and Disinformation\n\nOral evidence: Online safety and online harms, HC 620\n\nTuesday 1 February 2022\n\nOrdered by the House of Commons to be published on 1 February 2022.\n\nWatch the meeting\n\nMembers present: Julian Knight (Chair); Steve Brine; Clive Efford; Julie Elliott; Damian Green; Simon Jupp; John Nicolson; Jane Stevenson.\n\nQuestions 299 - 345\n\nWitnesses\n\nI: Chris Philp MP, Minister for Tech nology and the Digital Economy, Department for Digital, Culture, Media and Sport; Sarah Connolly, Director, Security and Online Harms, Department for Digital, Culture, Media and Sport; and Katie Morris, Head, Online Harms Regulatory Framework, Department for Digital, Culture, Media and Sport.\n\nWritten evidence from witnesses:\n\n\u2013 \\[Add names of witnesses and hyperlink to submissions\\]\n\nExamination of witnesses\n\nWitnesses: Chris Philp MP, Sarah Connolly and Katie Morris.\n\nQ299 Chair: This is the Digital, Culture, Media and Sport Select Committee and this is our second panel, which looks specifically at online safety and online harms. We are still joined by Chris Philp, Minister, and Sarah Connolly, but we are also now joined by Katie Morris, the head of Online Harms Regulatory Framework at the DCMS. Katie, hello, thank you very much for joining us this morning.",
+      "chunk_id": "DOC_946::c000000",
+      "chunk_hash": "56f8628e74af",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_946::c000001"
+    },
+    {
+      "header": "Speaker Turn",
+      "text": "which looks specifically at online safety and online harms. We are still joined by Chris Philp, Minister, and Sarah Connolly, but we are also now joined by Katie Morris, the head of Online Harms Regulatory Framework at the DCMS. Katie, hello, thank you very much for joining us this morning. Minister Philp, you have been in situ now for nearly half a year, and you have had this huge piece of legislation, getting bigger almost by the minute. What do you think is the biggest challenge you are facing and where have you been able to challenge? What do you think you have changed in the Bill before the House during your time so far in the hot seat.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": null,
+      "turn_part_index": 1,
+      "display_text": "which looks specifically at online safety and online harms. We are still joined by Chris Philp, Minister, and Sarah Connolly, but we are also now joined by Katie Morris, the head of Online Harms Regulatory Framework at the DCMS. Katie, hello, thank you very much for joining us this morning. Minister Philp, you have been in situ now for nearly half a year, and you have had this huge piece of legislation, getting bigger almost by the minute. What do you think is the biggest challenge you are facing and where have you been able to challenge? What do you think you have changed in the Bill before the House during your time so far in the hot seat.",
+      "chunk_id": "DOC_946::c000001",
+      "chunk_hash": "d998a2a34642",
+      "prev_chunk_id": "DOC_946::c000000",
+      "next_chunk_id": "DOC_946::c000002"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Thank you. It feels like a lot longer than four and a half months, if I am allowed to say that. The legislation we are discussing, the Online Safety Bill, is a genuinely ground-breaking and world-leading piece of legislation designed to make sure that the United Kingdom is the safest place to be online anywhere in the world. I do not think any other country has tentative legislation yet of the scope, the breadth and the impact of the legislation that we are discussing this morning.\n\nIt has been quite a long time in gestation. I t has passed through the hands of a number of Ministers prior to the publication of the draft Bill in May last year. It has benefited from quite extensive parliamentary pre \\- legislative scrutiny. I would just like to take the opportunity to particularly thank this Committee and you, as Chair of the Committee, for the work that you have done in scrutinising this piece of legislation, and for the report you published a couple of weeks ago, which, as you can imagine, we have been reading very carefully and digesting.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "Thank you. It feels like a lot longer than four and a half months, if I am allowed to say that. The legislation we are discussing, the Online Safety Bill, is a genuinely ground-breaking and world-leading piece of legislation designed to make sure that the United Kingdom is the safest place to be online anywhere in the world. I do not think any other country has tentative legislation yet of the scope, the breadth and the impact of the legislation that we are discussing this morning.\n\nIt has been quite a long time in gestation. I t has passed through the hands of a number of Ministers prior to the publication of the draft Bill in May last year. It has benefited from quite extensive parliamentary pre \\- legislative scrutiny. I would just like to take the opportunity to particularly thank this Committee and you, as Chair of the Committee, for the work that you have done in scrutinising this piece of legislation, and for the report you published a couple of weeks ago, which, as you can imagine, we have been reading very carefully and digesting.",
+      "chunk_id": "DOC_946::c000002",
+      "chunk_hash": "61a35ec6282a",
+      "prev_chunk_id": "DOC_946::c000001",
+      "next_chunk_id": "DOC_946::c000003"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "opportunity to particularly thank this Committee and you, as Chair of the Committee, for the work that you have done in scrutinising this piece of legislation, and for the report you published a couple of weeks ago, which, as you can imagine, we have been reading very carefully and digesting. I want to say that w hen we present an updated Bill, which we intend to do relatively shortly \u2014 so in the current Session \u2014 by which I mean the next small number of months, it will be significantly updated compared with the draft Bill that was tabled in May last year. The updates that will be going in there derive almost entirely from the work that has been done by Members of Parliament, including on this Committee. There is clearly a huge reservoir of expertise and knowledge in the House, on both sides of the House, and I have been very anxious to make sure that we absorb, take on board and act on the suggestions and recommendations made by Members. I think that t his Bill will be a lot stronger as a result. It is one of those Bills that is critically important for our constituents and, thankfully, it is one that is not really party political. Obviously, there will be different views on different elements of it but it is not really ideological. I t is a Bill that I think all of us have the same objective. We may have slightly different ideas about how to accomplish them but I think all of us, regardless of party, have the same objectives.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "opportunity to particularly thank this Committee and you, as Chair of the Committee, for the work that you have done in scrutinising this piece of legislation, and for the report you published a couple of weeks ago, which, as you can imagine, we have been reading very carefully and digesting. I want to say that w hen we present an updated Bill, which we intend to do relatively shortly \u2014 so in the current Session \u2014 by which I mean the next small number of months, it will be significantly updated compared with the draft Bill that was tabled in May last year. The updates that will be going in there derive almost entirely from the work that has been done by Members of Parliament, including on this Committee. There is clearly a huge reservoir of expertise and knowledge in the House, on both sides of the House, and I have been very anxious to make sure that we absorb, take on board and act on the suggestions and recommendations made by Members. I think that t his Bill will be a lot stronger as a result. It is one of those Bills that is critically important for our constituents and, thankfully, it is one that is not really party political. Obviously, there will be different views on different elements of it but it is not really ideological. I t is a Bill that I think all of us have the same objective. We may have slightly different ideas about how to accomplish them but I think all of us, regardless of party, have the same objectives.",
+      "chunk_id": "DOC_946::c000003",
+      "chunk_hash": "bfc4adf0c6ae",
+      "prev_chunk_id": "DOC_946::c000002",
+      "next_chunk_id": "DOC_946::c000004"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "on different elements of it but it is not really ideological. I t is a Bill that I think all of us have the same objective. We may have slightly different ideas about how to accomplish them but I think all of us, regardless of party, have the same objectives. I hope i t is going to be a Bill that unites the House. I t is something that Parliament as a whole can be proud of. It is in that spirit we are going to be taking forward. Q300 Chair: What in our report do you think will unite Parliament?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 0,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 2,
+      "display_text": "on different elements of it but it is not really ideological. I t is a Bill that I think all of us have the same objective. We may have slightly different ideas about how to accomplish them but I think all of us, regardless of party, have the same objectives. I hope i t is going to be a Bill that unites the House. I t is something that Parliament as a whole can be proud of. It is in that spirit we are going to be taking forward. Q300 Chair: What in our report do you think will unite Parliament?",
+      "chunk_id": "DOC_946::c000004",
+      "chunk_hash": "22168cad248d",
+      "prev_chunk_id": "DOC_946::c000003",
+      "next_chunk_id": "DOC_946::c000005"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Well, there are many good proposals that have been brought forward in the report. I am in a slightly awkward position, because obviously we only received your report a couple of weeks ago and we have not completely finalised or fixed all the changes that are going to get made, and where we are fairly sure that we are going to make changes, we have not announced them publicly. There are a number of areas where I can give some hints about direction of travel but I cannot make firm\u2014\n\nChair:Hint away, Minister.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 1,
+      "speaker_name": "Chris Philp",
+      "display_text": "Well, there are many good proposals that have been brought forward in the report. I am in a slightly awkward position, because obviously we only received your report a couple of weeks ago and we have not completely finalised or fixed all the changes that are going to get made, and where we are fairly sure that we are going to make changes, we have not announced them publicly. There are a number of areas where I can give some hints about direction of travel but I cannot make firm\u2014\n\nChair:Hint away, Minister.",
+      "chunk_id": "DOC_946::c000005",
+      "chunk_hash": "5bed51d99ddd",
+      "prev_chunk_id": "DOC_946::c000004",
+      "next_chunk_id": "DOC_946::c000006"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Having said that, I think there are comments made by both Committees that we have listened to very carefully \u2014f or example, concerning the need to be very clear about the kinds of illegal activity and harm that we would want to make absolutely sure are prevented. We have heard the messages about the need for Ofcom to have proper powers to gather information and to properly enforce, and we have heard the messages around things like fraud where there seems to be a very widespread consensus that more needs to be done.\n\nAs I say, I cannot pre-announce policy but I can say that we have heard the Committee\u2019s messages very clearly in those areas.\n\nQ301 Chair: What about legal but harmful content? What are your thoughts on that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 2,
+      "speaker_name": "Chris Philp",
+      "display_text": "Having said that, I think there are comments made by both Committees that we have listened to very carefully \u2014f or example, concerning the need to be very clear about the kinds of illegal activity and harm that we would want to make absolutely sure are prevented. We have heard the messages about the need for Ofcom to have proper powers to gather information and to properly enforce, and we have heard the messages around things like fraud where there seems to be a very widespread consensus that more needs to be done.\n\nAs I say, I cannot pre-announce policy but I can say that we have heard the Committee\u2019s messages very clearly in those areas.\n\nQ301 Chair: What about legal but harmful content? What are your thoughts on that?",
+      "chunk_id": "DOC_946::c000006",
+      "chunk_hash": "541e4049566c",
+      "prev_chunk_id": "DOC_946::c000005",
+      "next_chunk_id": "DOC_946::c000007"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "The legal but harmful content is the most difficult area of the Bill. T he stuff that we discussed with John a second ago is straight up illegal. I think there is absolute unanimity that the Bill\u2019s position on that is the right position: if it is illegal offline it is illegal online and there should be a duty on social media firms to stop it happening. There is agreement on that.\n\nIn relation to content that is legal but harmful to children, I think again there is broad unanimity that there should be a duty on social media firms used by children, or significantly used by children, to take action to prevent that harm from occurring. Therefore, I think there is agreement in that area as well.\n\nLegal but harmful is the most difficult area because, by definition, the content being proposed or being produced and disseminated is not content that Parliament has legislated to make illegal. Parliament has made a choice not to make it illegal and if you sa w this stuff offline there would be no legal consequence.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 3,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "The legal but harmful content is the most difficult area of the Bill. T he stuff that we discussed with John a second ago is straight up illegal. I think there is absolute unanimity that the Bill\u2019s position on that is the right position: if it is illegal offline it is illegal online and there should be a duty on social media firms to stop it happening. There is agreement on that.\n\nIn relation to content that is legal but harmful to children, I think again there is broad unanimity that there should be a duty on social media firms used by children, or significantly used by children, to take action to prevent that harm from occurring. Therefore, I think there is agreement in that area as well.\n\nLegal but harmful is the most difficult area because, by definition, the content being proposed or being produced and disseminated is not content that Parliament has legislated to make illegal. Parliament has made a choice not to make it illegal and if you sa w this stuff offline there would be no legal consequence.",
+      "chunk_id": "DOC_946::c000007",
+      "chunk_hash": "042ac78727e4",
+      "prev_chunk_id": "DOC_946::c000006",
+      "next_chunk_id": "DOC_946::c000008"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "the most difficult area because, by definition, the content being proposed or being produced and disseminated is not content that Parliament has legislated to make illegal. Parliament has made a choice not to make it illegal and if you sa w this stuff offline there would be no legal consequence. I would say that there are some Law Commission recommendations, which the Committee will be aware of, where the proposals tighten up a number of existing communication \\- based offences that we are considering very carefully \u2014 those are essentially criminal matters \u2014 and that clarif y the boundary between what is legal and what is illegal. I think t hose Law Commission recommendations do help because it just make s clearer and better define s where that legal versus illegal boundary is. O n the stuff that might remain legal, people have expressed a variety of views and there was debate around this. On the one hand people say, \u201cIf it is legal just let people say whatever they want regardless of what harm they may cause others,\u201d w hereas other people say, \u201cWell, even if it is legal, you should none the less have regard to whether it causes harm and even prevent it in some cases.\u201d Q302 Chair:What is the case, Minister, for deepfake pornography being accept able?At the moment it is legal but it is undoubtedly harmful.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 3,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "the most difficult area because, by definition, the content being proposed or being produced and disseminated is not content that Parliament has legislated to make illegal. Parliament has made a choice not to make it illegal and if you sa w this stuff offline there would be no legal consequence. I would say that there are some Law Commission recommendations, which the Committee will be aware of, where the proposals tighten up a number of existing communication \\- based offences that we are considering very carefully \u2014 those are essentially criminal matters \u2014 and that clarif y the boundary between what is legal and what is illegal. I think t hose Law Commission recommendations do help because it just make s clearer and better define s where that legal versus illegal boundary is. O n the stuff that might remain legal, people have expressed a variety of views and there was debate around this. On the one hand people say, \u201cIf it is legal just let people say whatever they want regardless of what harm they may cause others,\u201d w hereas other people say, \u201cWell, even if it is legal, you should none the less have regard to whether it causes harm and even prevent it in some cases.\u201d Q302 Chair:What is the case, Minister, for deepfake pornography being accept able?At the moment it is legal but it is undoubtedly harmful.",
+      "chunk_id": "DOC_946::c000008",
+      "chunk_hash": "7e69f4b2bbd9",
+      "prev_chunk_id": "DOC_946::c000007",
+      "next_chunk_id": "DOC_946::c000009"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "That is a very good question. In relation to the question on deepfake pornography in particular, I make a couple of points. First of all, there are some existing criminal offences that are likely to cover many forms of deepfake pornography, which Sarah will talk us through in a moment. There are two pieces of legislation.\n\nSecondly, one of the recommendations from the Law Commission relates to harm-based communications and the proposed offence\u2014well actually, in law at the moment under the Malicious Communications Act 1988, if the sender\u2019s purpose is to cause distress or anxiety, it will be caught by the Malicious Communications Act 1988. The 2003 Act, which may be the one Sarah refers to, criminalises sending via public electronic communication networks a message that is grossly offensive or indecent.\n\nM any of the deepfake cases one comes across would be criminal under the existing law and certainly criminal under the proposed law. The proposed law changes the definition to \u201cintended to cause harm to a likely audience\u201d and harm is defined as \u201cincluding psychological harm amounting to at least serious distress\u201d.At a simple level, I would say deepfakes would be criminalised under those existing and proposed piece s of legislation.\n\nQ303 Chair: The key word in that description was \u201csome\u201d, Minister, s o there are many aspects of this that will not be criminalised under current legislation. The question is: if you are criminally liable for the deepfake pornography now, why isn\u2019t it being prosecuted?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "That is a very good question. In relation to the question on deepfake pornography in particular, I make a couple of points. First of all, there are some existing criminal offences that are likely to cover many forms of deepfake pornography, which Sarah will talk us through in a moment. There are two pieces of legislation.\n\nSecondly, one of the recommendations from the Law Commission relates to harm-based communications and the proposed offence\u2014well actually, in law at the moment under the Malicious Communications Act 1988, if the sender\u2019s purpose is to cause distress or anxiety, it will be caught by the Malicious Communications Act 1988. The 2003 Act, which may be the one Sarah refers to, criminalises sending via public electronic communication networks a message that is grossly offensive or indecent.\n\nM any of the deepfake cases one comes across would be criminal under the existing law and certainly criminal under the proposed law. The proposed law changes the definition to \u201cintended to cause harm to a likely audience\u201d and harm is defined as \u201cincluding psychological harm amounting to at least serious distress\u201d.At a simple level, I would say deepfakes would be criminalised under those existing and proposed piece s of legislation.\n\nQ303 Chair: The key word in that description was \u201csome\u201d, Minister, s o there are many aspects of this that will not be criminalised under current legislation. The question is: if you are criminally liable for the deepfake pornography now, why isn\u2019t it being prosecuted?",
+      "chunk_id": "DOC_946::c000009",
+      "chunk_hash": "30cf0f2a868d",
+      "prev_chunk_id": "DOC_946::c000008",
+      "next_chunk_id": "DOC_946::c000010"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "proposed piece s of legislation. Q303 Chair: The key word in that description was \u201csome\u201d, Minister, s o there are many aspects of this that will not be criminalised under current legislation. The question is: if you are criminally liable for the deepfake pornography now, why isn\u2019t it being prosecuted? What I would say as we go forward, as this expands, is that not all aspects of this are illegal under current legislation. That is correct, isn\u2019t it, Sarah?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 4,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "proposed piece s of legislation. Q303 Chair: The key word in that description was \u201csome\u201d, Minister, s o there are many aspects of this that will not be criminalised under current legislation. The question is: if you are criminally liable for the deepfake pornography now, why isn\u2019t it being prosecuted? What I would say as we go forward, as this expands, is that not all aspects of this are illegal under current legislation. That is correct, isn\u2019t it, Sarah?",
+      "chunk_id": "DOC_946::c000010",
+      "chunk_hash": "7238f254d37f",
+      "prev_chunk_id": "DOC_946::c000009",
+      "next_chunk_id": "DOC_946::c000011"
+    },
+    {
+      "header": "Sarah Connolly",
+      "text": "It is correct. As the Minister said, there are bits of legislation on the statute books that criminalise some of this. The Minister mentioned the Criminal Justice and Courts Act. T here are others.However, you are also absolutely correct that there is not one piece of legislation that blanket criminalises deepfake pornography.\n\nAs the Minister mentioned, there are proposals being worked through by the Law Commission at the moment. Those proposals should result in a report reasonably soon \u2014I think spring is the target. That will take a look obviously at the totality of the law and where there are gaps and, if there are gaps, make recommendations.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 5,
+      "speaker_name": "Sarah Connolly",
+      "display_text": "It is correct. As the Minister said, there are bits of legislation on the statute books that criminalise some of this. The Minister mentioned the Criminal Justice and Courts Act. T here are others.However, you are also absolutely correct that there is not one piece of legislation that blanket criminalises deepfake pornography.\n\nAs the Minister mentioned, there are proposals being worked through by the Law Commission at the moment. Those proposals should result in a report reasonably soon \u2014I think spring is the target. That will take a look obviously at the totality of the law and where there are gaps and, if there are gaps, make recommendations.",
+      "chunk_id": "DOC_946::c000011",
+      "chunk_hash": "d5a48a7e6317",
+      "prev_chunk_id": "DOC_946::c000010",
+      "next_chunk_id": "DOC_946::c000012"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "It is important to say that, even under the law as it stands, before you even introduce the new Law Commission proposed offence, the law as it stands\u2014it is worth just spelling out what the Malicious Communications Act 1 9 88 says\u2014criminalises the sending of communications that are indecent, grossly offensive, a threat, or false, because of course deepfake is false, to another person where the sender\u2019s purpose is to cause distress or anxiety to the recipient or to another person.\n\nI would say any deepfake pornography particularly, at face value, would meet that test because it is\u2014\n\nQ304 Chair:Minister, only if it is disseminated as a means probably for embarrassment. I will give you an example where that would not be the case. There are websites available right now that are offering users the opportunity to create their own deepfake pornography using images of friends or acquaintances \u2014 a sort of buil d your own, DIY, kit of deepfake pornography. That is something that I do not see is within the scope of the Malicious Communications Act but looks like something that is deeply harmful, even if it is not widely disseminated, as a act of deepfake pornography. Do you get my point on this?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 6,
+      "speaker_name": "Chris Philp",
+      "display_text": "It is important to say that, even under the law as it stands, before you even introduce the new Law Commission proposed offence, the law as it stands\u2014it is worth just spelling out what the Malicious Communications Act 1 9 88 says\u2014criminalises the sending of communications that are indecent, grossly offensive, a threat, or false, because of course deepfake is false, to another person where the sender\u2019s purpose is to cause distress or anxiety to the recipient or to another person.\n\nI would say any deepfake pornography particularly, at face value, would meet that test because it is\u2014\n\nQ304 Chair:Minister, only if it is disseminated as a means probably for embarrassment. I will give you an example where that would not be the case. There are websites available right now that are offering users the opportunity to create their own deepfake pornography using images of friends or acquaintances \u2014 a sort of buil d your own, DIY, kit of deepfake pornography. That is something that I do not see is within the scope of the Malicious Communications Act but looks like something that is deeply harmful, even if it is not widely disseminated, as a act of deepfake pornography. Do you get my point on this?",
+      "chunk_id": "DOC_946::c000012",
+      "chunk_hash": "84d8508f8e1d",
+      "prev_chunk_id": "DOC_946::c000011",
+      "next_chunk_id": "DOC_946::c000013"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, I do. The current offence criminalises the sending of communications, so the act of making it alone may not be criminalised currently. On my reading of the Malicious Communications Act 1988, if you sent it to anyone, even one person and even if that person was not the subject because it is the recipient or another person, that would be criminal.On a casual reading of the Act, the act of making it is not criminal under that particular clause, the act of sending it to anyone would be.\n\nChair: I do have a few more questions but I will bring Julie Elliott in.\n\nQ305 Julie Elliott: I want to come in on the Malicious Communications Act because this is an Act that has been used extensively about aggression towards Members of Parliament, particularly women Members of Parliament. Proving distress, which is what you have read out, is 50/50 at most. How do you prove distress? I am not convinced the Malicious Communications Act in practice is operating in a way that should catch things, so that even weakens what you are suggesting that this will help with the deepfake stuff.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 7,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, I do. The current offence criminalises the sending of communications, so the act of making it alone may not be criminalised currently. On my reading of the Malicious Communications Act 1988, if you sent it to anyone, even one person and even if that person was not the subject because it is the recipient or another person, that would be criminal.On a casual reading of the Act, the act of making it is not criminal under that particular clause, the act of sending it to anyone would be.\n\nChair: I do have a few more questions but I will bring Julie Elliott in.\n\nQ305 Julie Elliott: I want to come in on the Malicious Communications Act because this is an Act that has been used extensively about aggression towards Members of Parliament, particularly women Members of Parliament. Proving distress, which is what you have read out, is 50/50 at most. How do you prove distress? I am not convinced the Malicious Communications Act in practice is operating in a way that should catch things, so that even weakens what you are suggesting that this will help with the deepfake stuff.",
+      "chunk_id": "DOC_946::c000013",
+      "chunk_hash": "373d251d295e",
+      "prev_chunk_id": "DOC_946::c000012",
+      "next_chunk_id": "DOC_946::c000014"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "That is an important point you are raising. I think that is why the Law Commission ha s proposed updating those provisions in the Malicious Communications Act 1988 and the 2003 Act, to create a new offence that is defined slightly more widely in order to address the point that you are quite rightly raising. Again, I am not confirming that we are going to legislate for it at what time, but it is being studied very closely.\n\nThe new proposed offence is based on a communication where the defendant intended to cause harm to a likely audience. Harm is defined widely as including psychological harm. The commission ha s deliberately drawn that more widely to address the problem you are articulating with the existing offence.\n\nQ306 Julie Elliott: I do not think that will solve the problem.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 8,
+      "speaker_name": "Chris Philp",
+      "display_text": "That is an important point you are raising. I think that is why the Law Commission ha s proposed updating those provisions in the Malicious Communications Act 1988 and the 2003 Act, to create a new offence that is defined slightly more widely in order to address the point that you are quite rightly raising. Again, I am not confirming that we are going to legislate for it at what time, but it is being studied very closely.\n\nThe new proposed offence is based on a communication where the defendant intended to cause harm to a likely audience. Harm is defined widely as including psychological harm. The commission ha s deliberately drawn that more widely to address the problem you are articulating with the existing offence.\n\nQ306 Julie Elliott: I do not think that will solve the problem.",
+      "chunk_id": "DOC_946::c000014",
+      "chunk_hash": "4f702c24980e",
+      "prev_chunk_id": "DOC_946::c000013",
+      "next_chunk_id": "DOC_946::c000015"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "The Law Commission are obviously legal experts who have studied this in quite a lot of detail over a period of a couple of years. They are all expert lawyers who have been commissioned by the Ministry of Justice, and we and they have come up with this solution. Generally speaking, when the Law Commission come s up with a proposals, one takes those pretty seriously.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 9,
+      "speaker_name": "Chris Philp",
+      "display_text": "The Law Commission are obviously legal experts who have studied this in quite a lot of detail over a period of a couple of years. They are all expert lawyers who have been commissioned by the Ministry of Justice, and we and they have come up with this solution. Generally speaking, when the Law Commission come s up with a proposals, one takes those pretty seriously.",
+      "chunk_id": "DOC_946::c000015",
+      "chunk_hash": "6cb7c97f17c3",
+      "prev_chunk_id": "DOC_946::c000014",
+      "next_chunk_id": "DOC_946::c000016"
+    },
+    {
+      "header": "Julie Elliott",
+      "text": "The Law Commission is trying.\n\nQ307 Chair: This is something that goes to the heart of things, to do with the fact that, generally,with legal but harmful content we know there is a degree of resistance within the Department, also frankly from the social media companies themselves, because they see this as potentially just expanding their duties of care. Do you think that we listen too much to the Nick Cleggs of this world and the people who try to lobby Government and have done so quite successfully over the last few years? What will you d o to challenge them to look at areas such as this?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 10,
+      "speaker_name": "Julie Elliott",
+      "display_text": "The Law Commission is trying.\n\nQ307 Chair: This is something that goes to the heart of things, to do with the fact that, generally,with legal but harmful content we know there is a degree of resistance within the Department, also frankly from the social media companies themselves, because they see this as potentially just expanding their duties of care. Do you think that we listen too much to the Nick Cleggs of this world and the people who try to lobby Government and have done so quite successfully over the last few years? What will you d o to challenge them to look at areas such as this?",
+      "chunk_id": "DOC_946::c000016",
+      "chunk_hash": "bc99c5271002",
+      "prev_chunk_id": "DOC_946::c000015",
+      "next_chunk_id": "DOC_946::c000017"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "There are duties in the Bill that cover the legal but harmful content that John Nicolson and I discussed at some length at the end of the previous session. Those are real provisions that will have a real effect. I t will end the current practice of social media firms either ignoring the harms they are creating, or having policies they publish to which they pay lip service but don\u2019t implement in practice. Many people have had experience of that.\n\nOn our general attitude and stance towards the very large social media firms, my view\u2014and I said this in the House in response to your statement, Chairman, last week or the week before\u2014is that the large social media firms for many years now have been prioritising their own profit over people.Nothing illustrated that more powerfully than Frances Haugen\u2019s testimony to the US Senate, The Wall Street Journal and here in Parliament, where she described that Facebook designed algorithms that were optimised for what it call s engagement \u2014 basically getting people to look at the stuff and share it and like it and all that kind of thing \u2014 simply because that is what makes money for Facebook. Even though Facebook knew that it was promoting content that was harmful, it intentionally and knowingly chose to do nothing simply because it wanted to make more money.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "There are duties in the Bill that cover the legal but harmful content that John Nicolson and I discussed at some length at the end of the previous session. Those are real provisions that will have a real effect. I t will end the current practice of social media firms either ignoring the harms they are creating, or having policies they publish to which they pay lip service but don\u2019t implement in practice. Many people have had experience of that.\n\nOn our general attitude and stance towards the very large social media firms, my view\u2014and I said this in the House in response to your statement, Chairman, last week or the week before\u2014is that the large social media firms for many years now have been prioritising their own profit over people.Nothing illustrated that more powerfully than Frances Haugen\u2019s testimony to the US Senate, The Wall Street Journal and here in Parliament, where she described that Facebook designed algorithms that were optimised for what it call s engagement \u2014 basically getting people to look at the stuff and share it and like it and all that kind of thing \u2014 simply because that is what makes money for Facebook. Even though Facebook knew that it was promoting content that was harmful, it intentionally and knowingly chose to do nothing simply because it wanted to make more money.",
+      "chunk_id": "DOC_946::c000017",
+      "chunk_hash": "38c1c9a3261b",
+      "prev_chunk_id": "DOC_946::c000016",
+      "next_chunk_id": "DOC_946::c000018"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "and share it and like it and all that kind of thing \u2014 simply because that is what makes money for Facebook. Even though Facebook knew that it was promoting content that was harmful, it intentionally and knowingly chose to do nothing simply because it wanted to make more money. In my view, that is completely unacceptable and I think that we as parliamentarians have a moral duty to take action against those companies\u2014in this example Facebook\u2014who have failed so miserably to protect their own users. There are many cases but the one that sticks most powerfully in my mind is the tragic case of Molly Russell, only 14 years old, who tragically committed suicide. H aving been on Instagram and searched on one or two occasions for content about self-harm and suicide, t he algorithm noticed this and Molly Russell was then bombarded with content promoting self-harm and suicide, and she tragically took her own life. That sort of flagrant disregard in this case for the safety and wellbeing of a child is morally abhorrent and unacceptable. It has been raised for a number of years now and these firms have failed to act of their own volition. That is why we must legislate now. Q308 Chair: The UK wants to be a centre of data, as you well know, post Brexit. That was Dominic Cummings, if we can dare mention that name\u2014he is still around, I can assure you\u2014and that percolated across Government. How does being a centre of data fit in with the robust online safety regime?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 11,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "and share it and like it and all that kind of thing \u2014 simply because that is what makes money for Facebook. Even though Facebook knew that it was promoting content that was harmful, it intentionally and knowingly chose to do nothing simply because it wanted to make more money. In my view, that is completely unacceptable and I think that we as parliamentarians have a moral duty to take action against those companies\u2014in this example Facebook\u2014who have failed so miserably to protect their own users. There are many cases but the one that sticks most powerfully in my mind is the tragic case of Molly Russell, only 14 years old, who tragically committed suicide. H aving been on Instagram and searched on one or two occasions for content about self-harm and suicide, t he algorithm noticed this and Molly Russell was then bombarded with content promoting self-harm and suicide, and she tragically took her own life. That sort of flagrant disregard in this case for the safety and wellbeing of a child is morally abhorrent and unacceptable. It has been raised for a number of years now and these firms have failed to act of their own volition. That is why we must legislate now. Q308 Chair: The UK wants to be a centre of data, as you well know, post Brexit. That was Dominic Cummings, if we can dare mention that name\u2014he is still around, I can assure you\u2014and that percolated across Government. How does being a centre of data fit in with the robust online safety regime?",
+      "chunk_id": "DOC_946::c000018",
+      "chunk_hash": "c06df0579c08",
+      "prev_chunk_id": "DOC_946::c000017",
+      "next_chunk_id": "DOC_946::c000019"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I don\u2019t see a contradiction between saying that we will make sure the UK is a safe place to be online versus our desire to be a centre for tech innovation. Those things are not mutually exclusive and I don\u2019t think that there is anything unreasonable or anti-tech about saying that we expect particularly the category 1, the very biggest, social media firms to take a bit of care of their users. There is no contradiction there at all.\n\nWe are looking at data laws again. That is Julia Lopez rather than me, but I think there are opportunities to create an environment where data can be used by tech firms innovatively, where we are looking to actively encourage tech firms to locate here and scale here. We are doing a huge amount in Government to support them via the tax system, visas, investment in R&D, all kinds of different things, b ut that is in no way contradicted by our desire to keep people safe. Tech firms can and should do both.\n\nQ309 Julie Elliott: Thank you, Minister, for answering and talking about this issue. I get the feeling that you are really interested in trying to address the problems that we have been looking at.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "I don\u2019t see a contradiction between saying that we will make sure the UK is a safe place to be online versus our desire to be a centre for tech innovation. Those things are not mutually exclusive and I don\u2019t think that there is anything unreasonable or anti-tech about saying that we expect particularly the category 1, the very biggest, social media firms to take a bit of care of their users. There is no contradiction there at all.\n\nWe are looking at data laws again. That is Julia Lopez rather than me, but I think there are opportunities to create an environment where data can be used by tech firms innovatively, where we are looking to actively encourage tech firms to locate here and scale here. We are doing a huge amount in Government to support them via the tax system, visas, investment in R&D, all kinds of different things, b ut that is in no way contradicted by our desire to keep people safe. Tech firms can and should do both.\n\nQ309 Julie Elliott: Thank you, Minister, for answering and talking about this issue. I get the feeling that you are really interested in trying to address the problems that we have been looking at.",
+      "chunk_id": "DOC_946::c000019",
+      "chunk_hash": "3943bc18caf9",
+      "prev_chunk_id": "DOC_946::c000018",
+      "next_chunk_id": "DOC_946::c000020"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "way contradicted by our desire to keep people safe. Tech firms can and should do both. Q309 Julie Elliott: Thank you, Minister, for answering and talking about this issue. I get the feeling that you are really interested in trying to address the problems that we have been looking at. I am concerned at some of the statements that have come out from the Department, which seem in direct conflict with what you are saying today. All of the statements that you have made about our report have said that you are very much in listening mode. You have repeated that here today, that you are looking at what we have been doing and so on. But t he statement that came out from the DCMS spokesperson after our report was published is, \u201cWe do not agree with the criticism of the committee\u201d and carried on to go into some detail, basically rubbishing our report. That clearly is not acceptable us. We can provide you with the comment but it came from a spokesperson from your Department \u2014 not directly from you but from DCMS. There seems to be a bit of a disconnect between what Ministers like you are saying and what officials or spokespeople for the Department are saying about the Bill.Can I ask you to clarify that we are to believe that Ministers are in listening mode and taking what we have said in our report seriously?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 12,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "way contradicted by our desire to keep people safe. Tech firms can and should do both. Q309 Julie Elliott: Thank you, Minister, for answering and talking about this issue. I get the feeling that you are really interested in trying to address the problems that we have been looking at. I am concerned at some of the statements that have come out from the Department, which seem in direct conflict with what you are saying today. All of the statements that you have made about our report have said that you are very much in listening mode. You have repeated that here today, that you are looking at what we have been doing and so on. But t he statement that came out from the DCMS spokesperson after our report was published is, \u201cWe do not agree with the criticism of the committee\u201d and carried on to go into some detail, basically rubbishing our report. That clearly is not acceptable us. We can provide you with the comment but it came from a spokesperson from your Department \u2014 not directly from you but from DCMS. There seems to be a bit of a disconnect between what Ministers like you are saying and what officials or spokespeople for the Department are saying about the Bill.Can I ask you to clarify that we are to believe that Ministers are in listening mode and taking what we have said in our report seriously?",
+      "chunk_id": "DOC_946::c000020",
+      "chunk_hash": "2b72ef457264",
+      "prev_chunk_id": "DOC_946::c000019",
+      "next_chunk_id": "DOC_946::c000021"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, categorically. I said that at the beginning and I said that in the House in response to the Chairman\u2019s statement last week or the week before. Yes, absolutely.\n\nWe are very grateful to the Committee for the work it has done. We are studying the report very carefully. There is a number of proposals that we are working on taking forward and I think it was a very good and constructive piece of work. I am certainly not aware of any statement that dismisses the Committee\u2019s work. I hope that word was not used in any press release but maybe after the session you can show me.\n\nQ310 Chair: The exact wording was, \u201cWe do not agree with the criticism of the committee.It has strict measures including a duty of care to stamp out child sexual abuse, grooming and illegal and harmful content \u201d. Then, \u201cThe Bill will make the UK the safest place to go online while protecting freedom of speech\u201d. That, of course, is an ambition. The Bill in draft form does not do that. I think we can all agree with that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 13,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, categorically. I said that at the beginning and I said that in the House in response to the Chairman\u2019s statement last week or the week before. Yes, absolutely.\n\nWe are very grateful to the Committee for the work it has done. We are studying the report very carefully. There is a number of proposals that we are working on taking forward and I think it was a very good and constructive piece of work. I am certainly not aware of any statement that dismisses the Committee\u2019s work. I hope that word was not used in any press release but maybe after the session you can show me.\n\nQ310 Chair: The exact wording was, \u201cWe do not agree with the criticism of the committee.It has strict measures including a duty of care to stamp out child sexual abuse, grooming and illegal and harmful content \u201d. Then, \u201cThe Bill will make the UK the safest place to go online while protecting freedom of speech\u201d. That, of course, is an ambition. The Bill in draft form does not do that. I think we can all agree with that.",
+      "chunk_id": "DOC_946::c000021",
+      "chunk_hash": "65b79b86ebed",
+      "prev_chunk_id": "DOC_946::c000020",
+      "next_chunk_id": "DOC_946::c000022"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "There were some criticisms of the Bill in the report, not all of which we agree with, but there were many good ideas that we would like to take forward.\n\nChair: That is a much better response than the one that your press people did. As I joked at the time, I think they got out of bed the wrong side that particular morning, but maybe that is something to take back.\n\nQ311 Julie Elliott: If I can carry on, our report called for the Bill to reflect international human rights law and include insidious harms associated with child sexual exploitation and abuse and violence against women and girls. Does DCMS ostensibly agree or disagree with that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 14,
+      "speaker_name": "Chris Philp",
+      "display_text": "There were some criticisms of the Bill in the report, not all of which we agree with, but there were many good ideas that we would like to take forward.\n\nChair: That is a much better response than the one that your press people did. As I joked at the time, I think they got out of bed the wrong side that particular morning, but maybe that is something to take back.\n\nQ311 Julie Elliott: If I can carry on, our report called for the Bill to reflect international human rights law and include insidious harms associated with child sexual exploitation and abuse and violence against women and girls. Does DCMS ostensibly agree or disagree with that?",
+      "chunk_id": "DOC_946::c000022",
+      "chunk_hash": "a7768754c5a7",
+      "prev_chunk_id": "DOC_946::c000021",
+      "next_chunk_id": "DOC_946::c000023"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "First, on international human rights, the Bill has been drafted in a manner that is consistent with the European Convention on Human Rights and we anticipate making an affirmative statement under section 19(1)(a) of the Human Rights Act 1998, meaning that the Minister affirms that the Bill is consistent with the ECHR. We anticipate making a 19(1)(a) statement.\n\nOn the point about child sexual exploitation and abuse, that is clearly illegal, rightly. T he Bill in its first pillar, the bit that deals with illegal matters and illegal content, will prohibit firms where children are using the service from carrying or propagating or any way facilitating CSEA-related activity. I can give a categoric answer to that question.\n\nOn the latter point about misogyny and so on, which is hugely serious\u2014\n\nQ312 Julie Elliott: Violence against women and girls is much wider than misogyny.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 15,
+      "speaker_name": "Chris Philp",
+      "display_text": "First, on international human rights, the Bill has been drafted in a manner that is consistent with the European Convention on Human Rights and we anticipate making an affirmative statement under section 19(1)(a) of the Human Rights Act 1998, meaning that the Minister affirms that the Bill is consistent with the ECHR. We anticipate making a 19(1)(a) statement.\n\nOn the point about child sexual exploitation and abuse, that is clearly illegal, rightly. T he Bill in its first pillar, the bit that deals with illegal matters and illegal content, will prohibit firms where children are using the service from carrying or propagating or any way facilitating CSEA-related activity. I can give a categoric answer to that question.\n\nOn the latter point about misogyny and so on, which is hugely serious\u2014\n\nQ312 Julie Elliott: Violence against women and girls is much wider than misogyny.",
+      "chunk_id": "DOC_946::c000023",
+      "chunk_hash": "e8a334e0c7ef",
+      "prev_chunk_id": "DOC_946::c000022",
+      "next_chunk_id": "DOC_946::c000024"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, it is. Sorry, you are quite right. Violence against women and girls is clearly illegal as well. That is an illegal act, rightly, and that will also get caught by the first pillar, the provisions against illegal content. Social media firms will have an obligation to stop that.\n\nQ313 Julie Elliott: We have looked at some things and there is certainly some evidence to suggest that something that is legal but harmful can lead to violence against women and girls. It is a grey, nuanced area but there is no doubting that there is definitely some connection there.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 16,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, it is. Sorry, you are quite right. Violence against women and girls is clearly illegal as well. That is an illegal act, rightly, and that will also get caught by the first pillar, the provisions against illegal content. Social media firms will have an obligation to stop that.\n\nQ313 Julie Elliott: We have looked at some things and there is certainly some evidence to suggest that something that is legal but harmful can lead to violence against women and girls. It is a grey, nuanced area but there is no doubting that there is definitely some connection there.",
+      "chunk_id": "DOC_946::c000024",
+      "chunk_hash": "15008b2c4ec3",
+      "prev_chunk_id": "DOC_946::c000023",
+      "next_chunk_id": "DOC_946::c000025"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, you are right to point to that. There are bits of content that are theoretically legal but can lead to various risks, and you described one of those risks just then. That is where the third pillar, the legal but harmful provisions, comes in. The obligation will be on category 1 companies, the biggest companies, to do a risk assessment that will have to cover issues like those you mentioned: misogyny, racism, potential for content to lead to later violence even if not illegal at the point of post. Companies will have to do that risk assessment and have policies to address those risks. If they don\u2019t implement those policies, they will be subject to enforcement action, and if they don\u2019t have the proper risk assessment they will be subject to enforcement action as well.\n\nThe companies that have, historically in some cases, either not addressed the issue or pretended to address it through their policies but then in practice done nothing, will no longer be able to hide in the way they have been hiding so far.\n\nQ314 Julie Elliott: Are you confident that the legislation will address that, will make that happen?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 17,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, you are right to point to that. There are bits of content that are theoretically legal but can lead to various risks, and you described one of those risks just then. That is where the third pillar, the legal but harmful provisions, comes in. The obligation will be on category 1 companies, the biggest companies, to do a risk assessment that will have to cover issues like those you mentioned: misogyny, racism, potential for content to lead to later violence even if not illegal at the point of post. Companies will have to do that risk assessment and have policies to address those risks. If they don\u2019t implement those policies, they will be subject to enforcement action, and if they don\u2019t have the proper risk assessment they will be subject to enforcement action as well.\n\nThe companies that have, historically in some cases, either not addressed the issue or pretended to address it through their policies but then in practice done nothing, will no longer be able to hide in the way they have been hiding so far.\n\nQ314 Julie Elliott: Are you confident that the legislation will address that, will make that happen?",
+      "chunk_id": "DOC_946::c000025",
+      "chunk_hash": "2d39501bb774",
+      "prev_chunk_id": "DOC_946::c000024",
+      "next_chunk_id": "DOC_946::c000026"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, it will. I think it will. Sarah, do you want to add to that?\n\nQ315 Julie Elliott: Finally, our report was received well by children\u2019s advocacy groups and women\u2019s rights campaigners, and our recommendations on Ofcom and free speech were derived from Ofcom\u2019s letters to us and testimony from legal scholars. Do you recognise that our report had cross-sector consensus behind it?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 18,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, it will. I think it will. Sarah, do you want to add to that?\n\nQ315 Julie Elliott: Finally, our report was received well by children\u2019s advocacy groups and women\u2019s rights campaigners, and our recommendations on Ofcom and free speech were derived from Ofcom\u2019s letters to us and testimony from legal scholars. Do you recognise that our report had cross-sector consensus behind it?",
+      "chunk_id": "DOC_946::c000026",
+      "chunk_hash": "63a68dbf6508",
+      "prev_chunk_id": "DOC_946::c000025",
+      "next_chunk_id": "DOC_946::c000027"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, I recognise that the Committee was very thorough and comprehensive in the way that it took evidence and compiled the report. We recognise the points raised around freedom of speech but there is, of course, a tension between freedom of speech considerations that pull you in one direction, which pull you towards the direction that essentially says if it is legal let it happen, a permissive direction, and in the other direction, which is somewhat along the lines of your previous questions, which is saying it may be legal but it can have adverse consequences, it can cause harm and so we should do something about it. Those two points pull in opposite directions and what we have to try to do in the Bill is reconcile those competing considerations.\n\nQ316 Julie Elliott: I am particularly interested in the Bill addressing the issues for children in this regard.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 19,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, I recognise that the Committee was very thorough and comprehensive in the way that it took evidence and compiled the report. We recognise the points raised around freedom of speech but there is, of course, a tension between freedom of speech considerations that pull you in one direction, which pull you towards the direction that essentially says if it is legal let it happen, a permissive direction, and in the other direction, which is somewhat along the lines of your previous questions, which is saying it may be legal but it can have adverse consequences, it can cause harm and so we should do something about it. Those two points pull in opposite directions and what we have to try to do in the Bill is reconcile those competing considerations.\n\nQ316 Julie Elliott: I am particularly interested in the Bill addressing the issues for children in this regard.",
+      "chunk_id": "DOC_946::c000027",
+      "chunk_hash": "7e4495f09402",
+      "prev_chunk_id": "DOC_946::c000026",
+      "next_chunk_id": "DOC_946::c000028"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "On legal but harmful for children, we are very clear that the requirement to prevent children suffering harm is a requirement and there is no free speech argument that excuses anything causing harm to children. The balancing act I described is for adults. For children who suffer harm, the requirement to protect children is a sacrosanct one.Sarah, do you want to amplify that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 22,
+      "speaker_name": "Chris Philp",
+      "display_text": "On legal but harmful for children, we are very clear that the requirement to prevent children suffering harm is a requirement and there is no free speech argument that excuses anything causing harm to children. The balancing act I described is for adults. For children who suffer harm, the requirement to protect children is a sacrosanct one.Sarah, do you want to amplify that?",
+      "chunk_id": "DOC_946::c000028",
+      "chunk_hash": "b15607226944",
+      "prev_chunk_id": "DOC_946::c000027",
+      "next_chunk_id": "DOC_946::c000029"
+    },
+    {
+      "header": "Sarah Connolly",
+      "text": "We have talked a lot about illegal and we have talked, as the Minister said, about the legal but harmful threshold for adults. The pillar that we have talked much less about is the third one of child protection, which is at the heart of the Bill. It goes across all services that are caught by this. Every service needs to work out whether or not children are on its platform or service. It needs to understand the risks to children and then take robust action and prevent children accessing things that are unsuitable for them. It is absolutely fundamental of the legislation.\n\nQ317 Jane Stevenson: First I want to say that I don\u2019t envy you trying to draft this Bill because of just the concept of what is harmful to people, legal but harmful. W hat could be water off a duck\u2019s back to me could cause significant harm to someone else. I don\u2019t see where we get that balance in legislation. I think it is a huge challenge.\n\nThere have been concerns raised that algorithms might pull down too much content in their net and that the response to legal but potentially harmful things could stifle freedom of expressions and freedom of speech. Have you considered the Committee\u2019s suggestion of compliance officers to make sure that algorithms are balanced across platforms?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 23,
+      "speaker_name": "Sarah Connolly",
+      "display_text": "We have talked a lot about illegal and we have talked, as the Minister said, about the legal but harmful threshold for adults. The pillar that we have talked much less about is the third one of child protection, which is at the heart of the Bill. It goes across all services that are caught by this. Every service needs to work out whether or not children are on its platform or service. It needs to understand the risks to children and then take robust action and prevent children accessing things that are unsuitable for them. It is absolutely fundamental of the legislation.\n\nQ317 Jane Stevenson: First I want to say that I don\u2019t envy you trying to draft this Bill because of just the concept of what is harmful to people, legal but harmful. W hat could be water off a duck\u2019s back to me could cause significant harm to someone else. I don\u2019t see where we get that balance in legislation. I think it is a huge challenge.\n\nThere have been concerns raised that algorithms might pull down too much content in their net and that the response to legal but potentially harmful things could stifle freedom of expressions and freedom of speech. Have you considered the Committee\u2019s suggestion of compliance officers to make sure that algorithms are balanced across platforms?",
+      "chunk_id": "DOC_946::c000029",
+      "chunk_hash": "82660fcb5d0c",
+      "prev_chunk_id": "DOC_946::c000028",
+      "next_chunk_id": "DOC_946::c000030"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Thank you, Jane. There are two points there, the first about freedom of expression. In the Bill as drafted there are some quite strong provisions that relate to freedom of expression, which is obviously very important. First, all service providers, big and small, have to have regard to freedom of expression when implementing their safety duties. I think that is a point that this Committee made in its report. In addition to that, category 1 services, the big ones, also have express duties to protect democratic and journalistic content. In considering content of democratic and journalistic importance, they must consider the public interest when they are weighing that against any harm that may be caused. Those protections for free speech are baked into the Bill already.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "Thank you, Jane. There are two points there, the first about freedom of expression. In the Bill as drafted there are some quite strong provisions that relate to freedom of expression, which is obviously very important. First, all service providers, big and small, have to have regard to freedom of expression when implementing their safety duties. I think that is a point that this Committee made in its report. In addition to that, category 1 services, the big ones, also have express duties to protect democratic and journalistic content. In considering content of democratic and journalistic importance, they must consider the public interest when they are weighing that against any harm that may be caused. Those protections for free speech are baked into the Bill already.",
+      "chunk_id": "DOC_946::c000030",
+      "chunk_hash": "d287cb792570",
+      "prev_chunk_id": "DOC_946::c000029",
+      "next_chunk_id": "DOC_946::c000031"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "the big ones, also have express duties to protect democratic and journalistic content. In considering content of democratic and journalistic importance, they must consider the public interest when they are weighing that against any harm that may be caused. Those protections for free speech are baked into the Bill already. You have raised a question about compliance and monitoring and whether they should have internal compliance officers. Ofcom have extremely wide-ranging powers, enforcement powers to levy fines for breaches but also information-gathering powers to make sure that social media firms are transparent and basically produce all of the required information when asked to by Ofcom. The duties are the strongest in relation to providing information, because there not only do Ofcom have the power to fine the company but there is also a named individual concept where there is a named individual in the company\u2014it is very tempting to mention names that might fall into the frame\u2014and if that named individual fails to produce the information required, they will be personally liable. The concept of a named individual being responsible and liable for that critical part of the Bill is enshrined in it. To meet the duties imposed on the big companies, particularly like Facebook and so on, they will have to resource up to deliver the duties that Ofcom will require them to meet. Q318 Jane Stevenson: Within Ofcom do we need compliance regulators of the compliance people inside each of the platforms?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 24,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "the big ones, also have express duties to protect democratic and journalistic content. In considering content of democratic and journalistic importance, they must consider the public interest when they are weighing that against any harm that may be caused. Those protections for free speech are baked into the Bill already. You have raised a question about compliance and monitoring and whether they should have internal compliance officers. Ofcom have extremely wide-ranging powers, enforcement powers to levy fines for breaches but also information-gathering powers to make sure that social media firms are transparent and basically produce all of the required information when asked to by Ofcom. The duties are the strongest in relation to providing information, because there not only do Ofcom have the power to fine the company but there is also a named individual concept where there is a named individual in the company\u2014it is very tempting to mention names that might fall into the frame\u2014and if that named individual fails to produce the information required, they will be personally liable. The concept of a named individual being responsible and liable for that critical part of the Bill is enshrined in it. To meet the duties imposed on the big companies, particularly like Facebook and so on, they will have to resource up to deliver the duties that Ofcom will require them to meet. Q318 Jane Stevenson: Within Ofcom do we need compliance regulators of the compliance people inside each of the platforms?",
+      "chunk_id": "DOC_946::c000031",
+      "chunk_hash": "549fd9b86cbf",
+      "prev_chunk_id": "DOC_946::c000030",
+      "next_chunk_id": "DOC_946::c000032"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Ofcom will be resourced up. There is a funding package over the first three years amounting to \u00a3110 million, which is partly for our internal resources but mostly for Ofcom. It will be resourcing up and it will require the social media firms, the large ones in particular, to deliver their new duties. The social media firms will have to resource accordingly or they will fall foul of those duties. They will be subject to regulatory action if they don\u2019t meet those duties. The homework of the social media firms will be getting marked by Ofcom and they will get fined if they don\u2019t meet it.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 25,
+      "speaker_name": "Chris Philp",
+      "display_text": "Ofcom will be resourced up. There is a funding package over the first three years amounting to \u00a3110 million, which is partly for our internal resources but mostly for Ofcom. It will be resourcing up and it will require the social media firms, the large ones in particular, to deliver their new duties. The social media firms will have to resource accordingly or they will fall foul of those duties. They will be subject to regulatory action if they don\u2019t meet those duties. The homework of the social media firms will be getting marked by Ofcom and they will get fined if they don\u2019t meet it.",
+      "chunk_id": "DOC_946::c000032",
+      "chunk_hash": "33298993b55c",
+      "prev_chunk_id": "DOC_946::c000031",
+      "next_chunk_id": "DOC_946::c000033"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "The Bill very explicitly says that companies need to risk assess for their corporate governance structures and then mitigate that. Ofcom\u2019s codes will set out what the risk governance processes and compliance processes should look like. Ofcom has the very clear role that it will need to be overseeing that and can get that information from companies and check that they really are doing what they say they are.\n\nQ319 Jane Stevenson: Do you think that Ofcom will be able to ensure consistency of content that is removed, the benchmark of freedom of expression versus potential harm?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 26,
+      "speaker_name": "Katie Morris",
+      "display_text": "The Bill very explicitly says that companies need to risk assess for their corporate governance structures and then mitigate that. Ofcom\u2019s codes will set out what the risk governance processes and compliance processes should look like. Ofcom has the very clear role that it will need to be overseeing that and can get that information from companies and check that they really are doing what they say they are.\n\nQ319 Jane Stevenson: Do you think that Ofcom will be able to ensure consistency of content that is removed, the benchmark of freedom of expression versus potential harm?",
+      "chunk_id": "DOC_946::c000033",
+      "chunk_hash": "4ab37e113273",
+      "prev_chunk_id": "DOC_946::c000032",
+      "next_chunk_id": "DOC_946::c000034"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "On the freedom of expression side, on top of all the safeguards that the Minister said, the category 1 services, who are the only ones with the legal but harmful duties, also have to undertake an assessment of the impact of their policies on freedom of expression and publish it. That provides much greater transparency on what they are doing to protect free speech, but it comes back to the principle that they are able to decide what they do here. Government have made the decision that it would not be appropriate for Government to be drawing that line if it is legal where it must or must not stay up. That is for companies to be clear on and then to deliver against.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 27,
+      "speaker_name": "Katie Morris",
+      "display_text": "On the freedom of expression side, on top of all the safeguards that the Minister said, the category 1 services, who are the only ones with the legal but harmful duties, also have to undertake an assessment of the impact of their policies on freedom of expression and publish it. That provides much greater transparency on what they are doing to protect free speech, but it comes back to the principle that they are able to decide what they do here. Government have made the decision that it would not be appropriate for Government to be drawing that line if it is legal where it must or must not stay up. That is for companies to be clear on and then to deliver against.",
+      "chunk_id": "DOC_946::c000034",
+      "chunk_hash": "4843621ac1b5",
+      "prev_chunk_id": "DOC_946::c000033",
+      "next_chunk_id": "DOC_946::c000035"
+    },
+    {
+      "header": "Jane Stevenson",
+      "text": "Thank you for the explanation. With such a vast amount of content I have concerns that consistency of what is being drawn down and what is being selected as appropriate can be maintained, but thank you.\n\nQ320 Chair: I share concerns about the potential for a fall down between Ofcom and the individual firms. We know that Ofcom is not particularly covering itself with glory on BBC complaints at the moment. This is like that many times over, and I think the concern that this Committee has is that there needs to be some form of someone in these organisations, on the ground, who is not just a named individual but someone who is paid for by the company but is effectively acting as the agent of the regulator to ensure best practice. I don\u2019t quite understand the resistance to that because it seems to be a win/win. First, we have this facility anyway in financial services and, secondly, the companies themselves will be paying for this.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 28,
+      "speaker_name": "Jane Stevenson",
+      "display_text": "Thank you for the explanation. With such a vast amount of content I have concerns that consistency of what is being drawn down and what is being selected as appropriate can be maintained, but thank you.\n\nQ320 Chair: I share concerns about the potential for a fall down between Ofcom and the individual firms. We know that Ofcom is not particularly covering itself with glory on BBC complaints at the moment. This is like that many times over, and I think the concern that this Committee has is that there needs to be some form of someone in these organisations, on the ground, who is not just a named individual but someone who is paid for by the company but is effectively acting as the agent of the regulator to ensure best practice. I don\u2019t quite understand the resistance to that because it seems to be a win/win. First, we have this facility anyway in financial services and, secondly, the companies themselves will be paying for this.",
+      "chunk_id": "DOC_946::c000035",
+      "chunk_hash": "e6056276e1c6",
+      "prev_chunk_id": "DOC_946::c000034",
+      "next_chunk_id": "DOC_946::c000036"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "On payment, I believe once the regime is up and running there will be fees paid by the companies to Ofcom to cover Ofcom\u2019s costs. It will get funding to cover the regulatory costs once the thing is up and running. The \u00a3110 million for three years is to cover the ramp-up period while the whole thing gets booted up, during which time fees may not be paid. Once it is up and running, they will pay fees to cover Ofcom\u2019s additional costs.\n\nOn the idea of inserting someone who is answerable to Ofcom, the named individual, wh o will be an employee of the social media firm, will be responsible personally to deliver up the information. Ofcom will have rights of inspection and audit, so Ofcom can go in and demand information, poke around, get hold of reports, get hold of copies of the algorithms, whatever may be required. I think that is what was so powerful about Frances Haugen\u2019s testimony, because she released loads of this stuff into the public domain. Ofcom will have its own powers now to go and gather that. I think it achieves that same effect.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 29,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "On payment, I believe once the regime is up and running there will be fees paid by the companies to Ofcom to cover Ofcom\u2019s costs. It will get funding to cover the regulatory costs once the thing is up and running. The \u00a3110 million for three years is to cover the ramp-up period while the whole thing gets booted up, during which time fees may not be paid. Once it is up and running, they will pay fees to cover Ofcom\u2019s additional costs.\n\nOn the idea of inserting someone who is answerable to Ofcom, the named individual, wh o will be an employee of the social media firm, will be responsible personally to deliver up the information. Ofcom will have rights of inspection and audit, so Ofcom can go in and demand information, poke around, get hold of reports, get hold of copies of the algorithms, whatever may be required. I think that is what was so powerful about Frances Haugen\u2019s testimony, because she released loads of this stuff into the public domain. Ofcom will have its own powers now to go and gather that. I think it achieves that same effect.",
+      "chunk_id": "DOC_946::c000036",
+      "chunk_hash": "63415dc0ea70",
+      "prev_chunk_id": "DOC_946::c000035",
+      "next_chunk_id": "DOC_946::c000037"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "copies of the algorithms, whatever may be required. I think that is what was so powerful about Frances Haugen\u2019s testimony, because she released loads of this stuff into the public domain. Ofcom will have its own powers now to go and gather that. I think it achieves that same effect. Q321 Chair: It is different from, for example, the financial services sector\u2014as you know well, Minister\u2014which is recognised internationally as very well regulated indeed. One of the key aspects of that is the compliance regime. They do not do the named individual in that; t hey do a compliance officer who reports to the board but also has a fiduciary duty of care, not to whistleblow, but at least to communicate with the Financial Conduct Authority. That is how that system works. N aming one person in the organisation, \u201cThe buck stops with you,\u201d is not quite the same as having day-to-day involvement and interaction between someone who to a degree is feared within the company. This is how it worked with financial services for many years and it is now in the bloodstream that people say, \u201cOur compliance officer may not agree with that.\u201d That is an important ongoing issue rather than just saying, \u201cMr Clegg here is ultimately responsible\u201d. Do you get the point of that?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 29,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "copies of the algorithms, whatever may be required. I think that is what was so powerful about Frances Haugen\u2019s testimony, because she released loads of this stuff into the public domain. Ofcom will have its own powers now to go and gather that. I think it achieves that same effect. Q321 Chair: It is different from, for example, the financial services sector\u2014as you know well, Minister\u2014which is recognised internationally as very well regulated indeed. One of the key aspects of that is the compliance regime. They do not do the named individual in that; t hey do a compliance officer who reports to the board but also has a fiduciary duty of care, not to whistleblow, but at least to communicate with the Financial Conduct Authority. That is how that system works. N aming one person in the organisation, \u201cThe buck stops with you,\u201d is not quite the same as having day-to-day involvement and interaction between someone who to a degree is feared within the company. This is how it worked with financial services for many years and it is now in the bloodstream that people say, \u201cOur compliance officer may not agree with that.\u201d That is an important ongoing issue rather than just saying, \u201cMr Clegg here is ultimately responsible\u201d. Do you get the point of that?",
+      "chunk_id": "DOC_946::c000037",
+      "chunk_hash": "8bbe00f60cf6",
+      "prev_chunk_id": "DOC_946::c000036",
+      "next_chunk_id": "DOC_946::c000038"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Yes, I do see the analogy with financial services. The way that we have constructed this is to impose the duty on the companies and to fine the companies for non-compliance and have the personal liability for the information provision. What you are proposing is in the same spirit, I guess. The firm is clearly on the hook for any breach. The question you are asking is whether there should be a further named individual or named individuals in the company responsible for overseeing compliance with this regime.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 30,
+      "speaker_name": "Chris Philp",
+      "display_text": "Yes, I do see the analogy with financial services. The way that we have constructed this is to impose the duty on the companies and to fine the companies for non-compliance and have the personal liability for the information provision. What you are proposing is in the same spirit, I guess. The firm is clearly on the hook for any breach. The question you are asking is whether there should be a further named individual or named individuals in the company responsible for overseeing compliance with this regime.",
+      "chunk_id": "DOC_946::c000038",
+      "chunk_hash": "b35aecdb29ba",
+      "prev_chunk_id": "DOC_946::c000037",
+      "next_chunk_id": "DOC_946::c000039"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "I think part of the challenge is that financial services relies on the ir licensing and they have to do this as part of their licensing agreement. When you look at applying that to the online space, the number of companies there and the free expression concerns of allowing people to deliver these services makes it extremely challenging. That is why we have taken this approach of making proper corporate governance, proper risk governance, an absolutely critical part of the safety duties. Bearing in mind the absolute range of companies in scope, it will look very different for a small start-up that may be high risk but has only five employees.\n\nQ322 Chair: That is the tiering system, though. You have already differentiated what they will have by the tiering system, so I don\u2019t think that point really stands. The number of companies that you are proposing to have the full regulatory regime is infinitely smaller than is the case in even a small section of financial services.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 31,
+      "speaker_name": "Katie Morris",
+      "display_text": "I think part of the challenge is that financial services relies on the ir licensing and they have to do this as part of their licensing agreement. When you look at applying that to the online space, the number of companies there and the free expression concerns of allowing people to deliver these services makes it extremely challenging. That is why we have taken this approach of making proper corporate governance, proper risk governance, an absolutely critical part of the safety duties. Bearing in mind the absolute range of companies in scope, it will look very different for a small start-up that may be high risk but has only five employees.\n\nQ322 Chair: That is the tiering system, though. You have already differentiated what they will have by the tiering system, so I don\u2019t think that point really stands. The number of companies that you are proposing to have the full regulatory regime is infinitely smaller than is the case in even a small section of financial services.",
+      "chunk_id": "DOC_946::c000039",
+      "chunk_hash": "3b6f65bcdea7",
+      "prev_chunk_id": "DOC_946::c000038",
+      "next_chunk_id": "DOC_946::c000040"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "There is a huge amount on the illegal and child safety, and they are pretty big duties. We are saying that services will need to make sure that, depending on their size, they have the appropriate corporate governance structures in place and Ofcom will set out in its codes what that looks like that. Then Ofcom can take its full enforcement against a service that fails to have those risk management structures in place. That is really baked in, but it is a different way of coming at the problem to take account of the different sector that we are regulating.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 32,
+      "speaker_name": "Katie Morris",
+      "display_text": "There is a huge amount on the illegal and child safety, and they are pretty big duties. We are saying that services will need to make sure that, depending on their size, they have the appropriate corporate governance structures in place and Ofcom will set out in its codes what that looks like that. Then Ofcom can take its full enforcement against a service that fails to have those risk management structures in place. That is really baked in, but it is a different way of coming at the problem to take account of the different sector that we are regulating.",
+      "chunk_id": "DOC_946::c000040",
+      "chunk_hash": "d8ecd594e607",
+      "prev_chunk_id": "DOC_946::c000039",
+      "next_chunk_id": "DOC_946::c000041"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "For a large company, a category 1 company, it is very likely that Ofcom\u2019s code of practice w ill require the establishment of some kind of internal compliance function of the kind you are describing. Although it is not set out on the face of the Bill\u2014\n\nQ323 Chair: Why not make that explicit? If you accept that it could happen or should happen, why not make it explicit and tell them to do it?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 33,
+      "speaker_name": "Chris Philp",
+      "display_text": "For a large company, a category 1 company, it is very likely that Ofcom\u2019s code of practice w ill require the establishment of some kind of internal compliance function of the kind you are describing. Although it is not set out on the face of the Bill\u2014\n\nQ323 Chair: Why not make that explicit? If you accept that it could happen or should happen, why not make it explicit and tell them to do it?",
+      "chunk_id": "DOC_946::c000041",
+      "chunk_hash": "dfa69122770e",
+      "prev_chunk_id": "DOC_946::c000040",
+      "next_chunk_id": "DOC_946::c000042"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "The approach we have tried to take in general is to specify the duties under which the social media companies are obliged to act and then leave it to Ofcom\u2019s codes of practice to specify exactly how that happens. The reason for that is it is quite difficult for us in primary legislation to envisage all of the details that may be necessary in codes of practice or changes that may be needed over time. We discussed in the previous session how things change rapidly in the online world and what is suitable today may not be suitable tomorrow. There is a degree of futureproofing in the architecture to give Ofcom the flexibility to make changes. I think that is broadly\u2014\n\nQ324 Chair: The futureproofing here appears to be absent.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 34,
+      "speaker_name": "Chris Philp",
+      "display_text": "The approach we have tried to take in general is to specify the duties under which the social media companies are obliged to act and then leave it to Ofcom\u2019s codes of practice to specify exactly how that happens. The reason for that is it is quite difficult for us in primary legislation to envisage all of the details that may be necessary in codes of practice or changes that may be needed over time. We discussed in the previous session how things change rapidly in the online world and what is suitable today may not be suitable tomorrow. There is a degree of futureproofing in the architecture to give Ofcom the flexibility to make changes. I think that is broadly\u2014\n\nQ324 Chair: The futureproofing here appears to be absent.",
+      "chunk_id": "DOC_946::c000042",
+      "chunk_hash": "a35bd22ce373",
+      "prev_chunk_id": "DOC_946::c000041",
+      "next_chunk_id": "DOC_946::c000043"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "No, because the duty, as Katie said, is there. Facebook or whoever has to set out how it will go about implementing this regime internally and the corporate governance it will have. There will be a code of practice specifying how that could be achieved, and they have to satisfy Ofcom on an ongoing basis that, either by implementing the code of practice or otherwise, they have met their duty; if they don\u2019t Ofcom can fine them. It is likely they will be forced to set up proper internal mechanisms anyway.\n\nThe question you are asking is whether we should put that on the face of the Bill rather than leav e it to Ofcom to specify in codes of practice.The point I am making is that it is good to have some degree of flexibility for two reasons. First, we are unlikely, however good we are as legislators, to think of everything in primary legislation; and secondly, when circumstances change we want Ofcom to be able to update their codes of practice and update the way that they enforce social media rather than us having to come back to Parliament to relegislate in primary legislation.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 35,
+      "speaker_name": "Chris Philp",
+      "display_text": "No, because the duty, as Katie said, is there. Facebook or whoever has to set out how it will go about implementing this regime internally and the corporate governance it will have. There will be a code of practice specifying how that could be achieved, and they have to satisfy Ofcom on an ongoing basis that, either by implementing the code of practice or otherwise, they have met their duty; if they don\u2019t Ofcom can fine them. It is likely they will be forced to set up proper internal mechanisms anyway.\n\nThe question you are asking is whether we should put that on the face of the Bill rather than leav e it to Ofcom to specify in codes of practice.The point I am making is that it is good to have some degree of flexibility for two reasons. First, we are unlikely, however good we are as legislators, to think of everything in primary legislation; and secondly, when circumstances change we want Ofcom to be able to update their codes of practice and update the way that they enforce social media rather than us having to come back to Parliament to relegislate in primary legislation.",
+      "chunk_id": "DOC_946::c000043",
+      "chunk_hash": "bb8dfcde2926",
+      "prev_chunk_id": "DOC_946::c000042",
+      "next_chunk_id": "DOC_946::c000044"
+    },
+    {
+      "header": "Sarah Connolly",
+      "text": "To the Minister\u2019s and Katie\u2019s points before, we have tried to get at what I think you are also after but we have come at it from a different route. I think it might be quite helpful\u2014\n\nQ325 Chair: I suggest strongly it is a slightly more showy route but may not dot the i\u2019s and cross the t\u2019s that we see in other sectors. I am concerned that what we are seeing here is the named individual rather than what we should be seeing, which is where it is in the bloodstream of the organisation that they are compliant in that regard.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 36,
+      "speaker_name": "Sarah Connolly",
+      "display_text": "To the Minister\u2019s and Katie\u2019s points before, we have tried to get at what I think you are also after but we have come at it from a different route. I think it might be quite helpful\u2014\n\nQ325 Chair: I suggest strongly it is a slightly more showy route but may not dot the i\u2019s and cross the t\u2019s that we see in other sectors. I am concerned that what we are seeing here is the named individual rather than what we should be seeing, which is where it is in the bloodstream of the organisation that they are compliant in that regard.",
+      "chunk_id": "DOC_946::c000044",
+      "chunk_hash": "fd37d92f407c",
+      "prev_chunk_id": "DOC_946::c000043",
+      "next_chunk_id": "DOC_946::c000045"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "It will have to be in the bloodstream, otherwise they will be in breach of their duties and Ofcom will fine them enormously.\n\nChair: There is also the issue of whether or not specifically, although we recommend the fining regime and that is a blunt instrument. we need pre-emptive action, for example the oversight of algorithms via, for example, compliance officers before you get to a harm situation. We are going right the way down our own algorithm there, so I call on John Nicolson.\n\nQ326 John Nicolson: Minister, I have sat on this Committee and also on the Joint Committee, so I have heard lots of detail about this. One of the things that keeps recurring cross-party is a concern about the scope of the Secretary of State\u2019s part. We are not talking about the current Secretary of State. We are talking about Secretaries of State going forward into the future from both parties. What will you do to address the problems that I have heard, that you have heard repeatedly, about the scope of these powers?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 37,
+      "speaker_name": "Chris Philp",
+      "display_text": "It will have to be in the bloodstream, otherwise they will be in breach of their duties and Ofcom will fine them enormously.\n\nChair: There is also the issue of whether or not specifically, although we recommend the fining regime and that is a blunt instrument. we need pre-emptive action, for example the oversight of algorithms via, for example, compliance officers before you get to a harm situation. We are going right the way down our own algorithm there, so I call on John Nicolson.\n\nQ326 John Nicolson: Minister, I have sat on this Committee and also on the Joint Committee, so I have heard lots of detail about this. One of the things that keeps recurring cross-party is a concern about the scope of the Secretary of State\u2019s part. We are not talking about the current Secretary of State. We are talking about Secretaries of State going forward into the future from both parties. What will you do to address the problems that I have heard, that you have heard repeatedly, about the scope of these powers?",
+      "chunk_id": "DOC_946::c000045",
+      "chunk_hash": "88ac24ec1bc6",
+      "prev_chunk_id": "DOC_946::c000044",
+      "next_chunk_id": "DOC_946::c000046"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "We have heard comments on that and, as you say, it was discussed in some detail at the Joint Committee session we had in about November, although it feels like rather longer ago. We have heard those. I don\u2019t want to pre-announce policy today but I think there are ways that one could potentially address those concerns by, for example, taking some of those powers that in the current draft of the Bill are vested in the Secretary of State and making them subject to parliamentary procedures, particularly affirmative parliamentary procedures and in that way introduce an element of positive parliamentary oversight. I don\u2019t want to pre-announce policy but that is one way in which the issue you are raising could be ameliorated.\n\nQ327 John Nicolson: Yes, because one of the concerns was the way that the Bill was drafted it looked as if a Secretary of State could instruct Ofcom to change the way it applied some of the restrictions or controls or limitations, based on changing government policy. That would seem to be a very short-term reaction to what should probably be a more long-term set of strategic objectives.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 38,
+      "speaker_name": "Chris Philp",
+      "display_text": "We have heard comments on that and, as you say, it was discussed in some detail at the Joint Committee session we had in about November, although it feels like rather longer ago. We have heard those. I don\u2019t want to pre-announce policy today but I think there are ways that one could potentially address those concerns by, for example, taking some of those powers that in the current draft of the Bill are vested in the Secretary of State and making them subject to parliamentary procedures, particularly affirmative parliamentary procedures and in that way introduce an element of positive parliamentary oversight. I don\u2019t want to pre-announce policy but that is one way in which the issue you are raising could be ameliorated.\n\nQ327 John Nicolson: Yes, because one of the concerns was the way that the Bill was drafted it looked as if a Secretary of State could instruct Ofcom to change the way it applied some of the restrictions or controls or limitations, based on changing government policy. That would seem to be a very short-term reaction to what should probably be a more long-term set of strategic objectives.",
+      "chunk_id": "DOC_946::c000046",
+      "chunk_hash": "bf5bbce22b2d",
+      "prev_chunk_id": "DOC_946::c000045",
+      "next_chunk_id": "DOC_946::c000047"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I think that the interaction with Parliament is a critical part of addressing that point.\n\nQ328 John Nicolson: Minister, you are responsible for online harms and we all agree that disinformation is a scourge. I want to ask you about something topical. Too often disinformation crosses over from the online world to the offline world. Yesterday the Prime Minister repeated an online trope that Keir Starmer chose, as DPP, not to prosecute the prolific paedophile Jimmy Savile. This was online disinformation entering the offline world. The Culture Secretary chose to defend the Prime Minister last night and this morning we had the Justice Secretary choosing not to dissociate himself from this completely untrue allegation. As disinformation Minister, will you do so now?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 39,
+      "speaker_name": "Chris Philp",
+      "display_text": "I think that the interaction with Parliament is a critical part of addressing that point.\n\nQ328 John Nicolson: Minister, you are responsible for online harms and we all agree that disinformation is a scourge. I want to ask you about something topical. Too often disinformation crosses over from the online world to the offline world. Yesterday the Prime Minister repeated an online trope that Keir Starmer chose, as DPP, not to prosecute the prolific paedophile Jimmy Savile. This was online disinformation entering the offline world. The Culture Secretary chose to defend the Prime Minister last night and this morning we had the Justice Secretary choosing not to dissociate himself from this completely untrue allegation. As disinformation Minister, will you do so now?",
+      "chunk_id": "DOC_946::c000047",
+      "chunk_hash": "61a7c7f0ede0",
+      "prev_chunk_id": "DOC_946::c000046",
+      "next_chunk_id": "DOC_946::c000048"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I have come to this Committee this afternoon to talk about the Bill rather than to debate contentious matters.\n\nQ329 John Nicolson: I was hoping we wouldn\u2019t debate. I was hoping that you would just say, \u201cIt is absolutely untrue, I do,\u201d and I would have happily handed back to the Chair.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 40,
+      "speaker_name": "Chris Philp",
+      "display_text": "I have come to this Committee this afternoon to talk about the Bill rather than to debate contentious matters.\n\nQ329 John Nicolson: I was hoping we wouldn\u2019t debate. I was hoping that you would just say, \u201cIt is absolutely untrue, I do,\u201d and I would have happily handed back to the Chair.",
+      "chunk_id": "DOC_946::c000048",
+      "chunk_hash": "c2b354df8659",
+      "prev_chunk_id": "DOC_946::c000047",
+      "next_chunk_id": "DOC_946::c000049"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I am not going to use this session, which is for the purpose of prelegislative scrutiny and to look at the Bill, to comment on current political controversies that I think are separate to the matters we are scrutinising.\n\nQ330 John Nicolson:That is disappointing. Dominic Raab said it was part of the cut and thrust of parliamentary life. I deeply disagree with that. Keir Starmer is a political opponent of mine, but I am happy to go on record saying that is utterly untrue and to double down on the smear just feeds online disinformation. I really advise you guys to back away from this because it is beneath the dignity of a Minister of the Crown to defend this in any way.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 41,
+      "speaker_name": "Chris Philp",
+      "display_text": "I am not going to use this session, which is for the purpose of prelegislative scrutiny and to look at the Bill, to comment on current political controversies that I think are separate to the matters we are scrutinising.\n\nQ330 John Nicolson:That is disappointing. Dominic Raab said it was part of the cut and thrust of parliamentary life. I deeply disagree with that. Keir Starmer is a political opponent of mine, but I am happy to go on record saying that is utterly untrue and to double down on the smear just feeds online disinformation. I really advise you guys to back away from this because it is beneath the dignity of a Minister of the Crown to defend this in any way.",
+      "chunk_id": "DOC_946::c000049",
+      "chunk_hash": "4943fb391bf0",
+      "prev_chunk_id": "DOC_946::c000048",
+      "next_chunk_id": "DOC_946::c000050"
+    },
+    {
+      "header": "John Nicolson",
+      "text": "T hat in itself is not worthy.\n\nQ331 Clive Efford: Before I come to the question I was about to ask can I go back to the response to the issue about the comments from a spokesperson in the Department in response to this Committee\u2019s report and your own comments last Thursday? I was struck by the puzzled looks on your faces when the quote was read out from the spokesperson from DCMS who said, \u201cWe do not agree with the criticism of the Committee.\u201d I think those expressions of puzzlement were genuine.\n\nYou are the people who are responsible for this area of the Department and who have come before us to answer our questions about this piece of legislation. It puzzles me that you were not aware that that comment had been made by a spokesperson. One of the things that we as a Committee have been concerned about going forward is a certain amount of dysfunctionality in the DCMS \u2014 about the appointment of the Chair of the Charity Commission, the debacle over the appointment of the Chair of Ofcom, the Post-Legislative Scrutiny Committee that was floated from we know not where, somewhere out in the ether. Is there a dysfunctional Department here? Who is responsible for signing off a quote from a spokesperson, unnamed, within the Department? Where does that buck stop?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 43,
+      "speaker_name": "John Nicolson",
+      "display_text": "T hat in itself is not worthy.\n\nQ331 Clive Efford: Before I come to the question I was about to ask can I go back to the response to the issue about the comments from a spokesperson in the Department in response to this Committee\u2019s report and your own comments last Thursday? I was struck by the puzzled looks on your faces when the quote was read out from the spokesperson from DCMS who said, \u201cWe do not agree with the criticism of the Committee.\u201d I think those expressions of puzzlement were genuine.\n\nYou are the people who are responsible for this area of the Department and who have come before us to answer our questions about this piece of legislation. It puzzles me that you were not aware that that comment had been made by a spokesperson. One of the things that we as a Committee have been concerned about going forward is a certain amount of dysfunctionality in the DCMS \u2014 about the appointment of the Chair of the Charity Commission, the debacle over the appointment of the Chair of Ofcom, the Post-Legislative Scrutiny Committee that was floated from we know not where, somewhere out in the ether. Is there a dysfunctional Department here? Who is responsible for signing off a quote from a spokesperson, unnamed, within the Department? Where does that buck stop?",
+      "chunk_id": "DOC_946::c000050",
+      "chunk_hash": "7396d199ede5",
+      "prev_chunk_id": "DOC_946::c000049",
+      "next_chunk_id": "DOC_946::c000051"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I do not agree with the thesis that the Department is dysfunctional. Most of the things you just mentioned are not in my area, but my experience of having been a Minister in the Department since mid-September is not that it is a dysfunctional Department. On the contrary, I think it is staffed and populated by extremely dedicated, hardworking and public-spirited civil servants working unbelievably hard in the public interest. I am sitting next to two of them this afternoon. I do not recognise that description.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 44,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "I do not agree with the thesis that the Department is dysfunctional. Most of the things you just mentioned are not in my area, but my experience of having been a Minister in the Department since mid-September is not that it is a dysfunctional Department. On the contrary, I think it is staffed and populated by extremely dedicated, hardworking and public-spirited civil servants working unbelievably hard in the public interest. I am sitting next to two of them this afternoon. I do not recognise that description.",
+      "chunk_id": "DOC_946::c000051",
+      "chunk_hash": "3a97cd8b67bc",
+      "prev_chunk_id": "DOC_946::c000050",
+      "next_chunk_id": "DOC_946::c000052"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "mid-September is not that it is a dysfunctional Department. On the contrary, I think it is staffed and populated by extremely dedicated, hardworking and public-spirited civil servants working unbelievably hard in the public interest. I am sitting next to two of them this afternoon. I do not recognise that description. On the question of the quote that you mentioned, the point being made in the quote was that as far as I can tell, and I need to get the whole thing and read it, the quote is saying that there were some criticisms of the Bill in the Committee\u2019s report that the Department does not agree with, and that is a statement I would associate myself with, but I also say that there are many proposals made in your report that we do agree with, and that we are studying very actively, as I said to the Chair. I would need to get a copy of the raw thing and see if I approved it or not. My view, to be completely clear on the record in public, is that there are some criticisms that you made of the Bill that I do not agree with but there are many recommendations you made that I think are very good recommendations, very constructive recommendations that we are studying how we can take forward. Q332 Clive Efford: You are saying there is a possibility that you signed off on this?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 44,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "mid-September is not that it is a dysfunctional Department. On the contrary, I think it is staffed and populated by extremely dedicated, hardworking and public-spirited civil servants working unbelievably hard in the public interest. I am sitting next to two of them this afternoon. I do not recognise that description. On the question of the quote that you mentioned, the point being made in the quote was that as far as I can tell, and I need to get the whole thing and read it, the quote is saying that there were some criticisms of the Bill in the Committee\u2019s report that the Department does not agree with, and that is a statement I would associate myself with, but I also say that there are many proposals made in your report that we do agree with, and that we are studying very actively, as I said to the Chair. I would need to get a copy of the raw thing and see if I approved it or not. My view, to be completely clear on the record in public, is that there are some criticisms that you made of the Bill that I do not agree with but there are many recommendations you made that I think are very good recommendations, very constructive recommendations that we are studying how we can take forward. Q332 Clive Efford: You are saying there is a possibility that you signed off on this?",
+      "chunk_id": "DOC_946::c000052",
+      "chunk_hash": "44801bc834f9",
+      "prev_chunk_id": "DOC_946::c000051",
+      "next_chunk_id": "DOC_946::c000053"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I do not have the whole thing in front of me, but there are some criticisms that you made of the Bill that I do not agree with, but there are also a lot of very good recommendations that we want to take forward. That is my view. If the thing you have in front of you reflects what I just said then it may well be my view, but I would need to read the whole thing to tell you.\n\nQ333 Clive Efford: Okay. It does underline the point about there is a certain amount of dysfunctionality in the DCMS, the fact that this quote is out there and it causes all of you to be puzzled when it is quoted to you. Let us move on.\n\nMy question relates to the cross-platform collaboration and the need for the platforms to collaborate when dealing with child and sexual exploitation and abuse cases. Are you satisfied that there is enough cross-platform co-operation? It seems to me that they are prepared to co-operate in terms of reporting it, reporting incidents to the authorities, but not to share information among themselves to track down and deal with and take down harms that are going across from one platform to another.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 45,
+      "speaker_name": "Chris Philp",
+      "display_text": "I do not have the whole thing in front of me, but there are some criticisms that you made of the Bill that I do not agree with, but there are also a lot of very good recommendations that we want to take forward. That is my view. If the thing you have in front of you reflects what I just said then it may well be my view, but I would need to read the whole thing to tell you.\n\nQ333 Clive Efford: Okay. It does underline the point about there is a certain amount of dysfunctionality in the DCMS, the fact that this quote is out there and it causes all of you to be puzzled when it is quoted to you. Let us move on.\n\nMy question relates to the cross-platform collaboration and the need for the platforms to collaborate when dealing with child and sexual exploitation and abuse cases. Are you satisfied that there is enough cross-platform co-operation? It seems to me that they are prepared to co-operate in terms of reporting it, reporting incidents to the authorities, but not to share information among themselves to track down and deal with and take down harms that are going across from one platform to another.",
+      "chunk_id": "DOC_946::c000053",
+      "chunk_hash": "dc5f3934fd23",
+      "prev_chunk_id": "DOC_946::c000052",
+      "next_chunk_id": "DOC_946::c000054"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "The short answer is no, there is not enough work being done to look at the cross-platform risks that exist. That is why Ofcom will be publishing, under the new regime, a sectorial risk assessment, to look at the cross-platform risks that exist and where there are particular companies whose users are likely to fall victim to these risks then they will have to take action to protect them. In addition to that companies will have a duty to proactively alert Ofcom if they think that there are cross-platform risks that are arising and in addition to that Ofcom will proactively undertake research and horizon scanning to identify any cross-platform risks that emerge. Yes, there is a problem, and the measures I have just mentioned are what the Bill intends to do to fix it.\n\nQ334 Clive Efford: Are there any areas of regulation or legislation that may be constraining the ability to deal with this area? For instance, the competition law may constrain any potential harm reduction approaches. Are there any regulatory areas that you are looking at to change to facilitate this?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 46,
+      "speaker_name": "Chris Philp",
+      "display_text": "The short answer is no, there is not enough work being done to look at the cross-platform risks that exist. That is why Ofcom will be publishing, under the new regime, a sectorial risk assessment, to look at the cross-platform risks that exist and where there are particular companies whose users are likely to fall victim to these risks then they will have to take action to protect them. In addition to that companies will have a duty to proactively alert Ofcom if they think that there are cross-platform risks that are arising and in addition to that Ofcom will proactively undertake research and horizon scanning to identify any cross-platform risks that emerge. Yes, there is a problem, and the measures I have just mentioned are what the Bill intends to do to fix it.\n\nQ334 Clive Efford: Are there any areas of regulation or legislation that may be constraining the ability to deal with this area? For instance, the competition law may constrain any potential harm reduction approaches. Are there any regulatory areas that you are looking at to change to facilitate this?",
+      "chunk_id": "DOC_946::c000054",
+      "chunk_hash": "332d8c873975",
+      "prev_chunk_id": "DOC_946::c000053",
+      "next_chunk_id": "DOC_946::c000055"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "I am not aware of there being competition law ones, but it would be helpful to understand a bit more what that is getting at. The only other thing I would add is that it is important to remember the duty on platforms is to prevent harm to children, either on their service or by means of their service. That means that if their service is being used, for instance, to meet a child and then take them off somewhere else, they do need to be aware of those pathways as part of their risk assessment and then look to mitigate that. It is built in, and this is often our answer, the codes of practice and their risk assessment will require them to look into that in more detail and then have those comprehensive strategies to look at the joined-up nature of harm and how it proliferates across services.\n\nQ335 Clive Efford: Your quote for competition law comes from evidence that was presented to us by the NSPCC and their concern about that being a constraint.\n\nChair: Sharing of information, effectively.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 47,
+      "speaker_name": "Katie Morris",
+      "display_text": "I am not aware of there being competition law ones, but it would be helpful to understand a bit more what that is getting at. The only other thing I would add is that it is important to remember the duty on platforms is to prevent harm to children, either on their service or by means of their service. That means that if their service is being used, for instance, to meet a child and then take them off somewhere else, they do need to be aware of those pathways as part of their risk assessment and then look to mitigate that. It is built in, and this is often our answer, the codes of practice and their risk assessment will require them to look into that in more detail and then have those comprehensive strategies to look at the joined-up nature of harm and how it proliferates across services.\n\nQ335 Clive Efford: Your quote for competition law comes from evidence that was presented to us by the NSPCC and their concern about that being a constraint.\n\nChair: Sharing of information, effectively.",
+      "chunk_id": "DOC_946::c000055",
+      "chunk_hash": "af3bdbea148a",
+      "prev_chunk_id": "DOC_946::c000054",
+      "next_chunk_id": "DOC_946::c000056"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "Under data sharing of information.\n\nChair: Yes, because we know that these companies do not share data with each other. We know that right across a whole series of harms. They specifically do not do it. What they do is they just dump this data and information basically with the law enforcement officers and they do not talk to each other. That is the issue that Clive is talking about.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 48,
+      "speaker_name": "Katie Morris",
+      "display_text": "Under data sharing of information.\n\nChair: Yes, because we know that these companies do not share data with each other. We know that right across a whole series of harms. They specifically do not do it. What they do is they just dump this data and information basically with the law enforcement officers and they do not talk to each other. That is the issue that Clive is talking about.",
+      "chunk_id": "DOC_946::c000056",
+      "chunk_hash": "f3539439e495",
+      "prev_chunk_id": "DOC_946::c000055",
+      "next_chunk_id": "DOC_946::c000057"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "Is that a Competition Act issue or is that an Information Commission\u2014\n\nChair: That is what they say.\n\nQ336 Clive Efford: It was used as an example of where there could be barriers in the way of dealing with it. It was not the only one.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 49,
+      "speaker_name": "Chris Philp",
+      "display_text": "Is that a Competition Act issue or is that an Information Commission\u2014\n\nChair: That is what they say.\n\nQ336 Clive Efford: It was used as an example of where there could be barriers in the way of dealing with it. It was not the only one.",
+      "chunk_id": "DOC_946::c000057",
+      "chunk_hash": "e3e3c532a099",
+      "prev_chunk_id": "DOC_946::c000056",
+      "next_chunk_id": "DOC_946::c000058"
+    },
+    {
+      "header": "Katie Morris",
+      "text": "When we have spoken to them it has been more focused on the Information Commissioner side and data protection. It is right that it should not be able to hand over people\u2019s data between platforms. We have data protection legislation for a reason, but it is important to remember that the Bill does require platforms to share that information with Ofcom, so Ofcom has that role to look across the sector and then to set out how companies can co-operate to address that.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 50,
+      "speaker_name": "Katie Morris",
+      "display_text": "When we have spoken to them it has been more focused on the Information Commissioner side and data protection. It is right that it should not be able to hand over people\u2019s data between platforms. We have data protection legislation for a reason, but it is important to remember that the Bill does require platforms to share that information with Ofcom, so Ofcom has that role to look across the sector and then to set out how companies can co-operate to address that.",
+      "chunk_id": "DOC_946::c000058",
+      "chunk_hash": "e2efa57a710f",
+      "prev_chunk_id": "DOC_946::c000057",
+      "next_chunk_id": "DOC_946::c000059"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "The ICO in other contexts has given some recent rulings making clear that data sharing between companies for the purpose of preventing harm is legitimate. To give you an example of elsewhere in my portfolio, in the context of gambling, you will be aware that there is this concept of the single customer view where gambling operators basically share data on people who have a gambling problem. If William Hill think you have a gambling problem, they put it into a central database, and if you try to bet with bet365 they do not let you.\n\nInitially, in an effort to delay matters the gambling companies tried to say, \u201cOh, well, there might be a data protection issue,\u201d and the ICO I think it was in the autumn or last year came out and said clearly, \u201cThere is not a data protection issue. It is a legitimate purpose to prevent harm,\u201d in this case gambling harm, and here it is an obviously different harm, but it is legitimate to share data. I would strongly hope and expect that purported data protection issues would not stop relevant data sharing. That has certainly been the case in the gambling example.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 51,
+      "speaker_name": "Chris Philp",
+      "display_text": "The ICO in other contexts has given some recent rulings making clear that data sharing between companies for the purpose of preventing harm is legitimate. To give you an example of elsewhere in my portfolio, in the context of gambling, you will be aware that there is this concept of the single customer view where gambling operators basically share data on people who have a gambling problem. If William Hill think you have a gambling problem, they put it into a central database, and if you try to bet with bet365 they do not let you.\n\nInitially, in an effort to delay matters the gambling companies tried to say, \u201cOh, well, there might be a data protection issue,\u201d and the ICO I think it was in the autumn or last year came out and said clearly, \u201cThere is not a data protection issue. It is a legitimate purpose to prevent harm,\u201d in this case gambling harm, and here it is an obviously different harm, but it is legitimate to share data. I would strongly hope and expect that purported data protection issues would not stop relevant data sharing. That has certainly been the case in the gambling example.",
+      "chunk_id": "DOC_946::c000059",
+      "chunk_hash": "c8d6f5357028",
+      "prev_chunk_id": "DOC_946::c000058",
+      "next_chunk_id": "DOC_946::c000060"
+    },
+    {
+      "header": "Sarah Connolly",
+      "text": "Could I add to that? The other thing that of course plays into this is Ofcom\u2019s ability to horizon scan for new risk, so where Ofcom is concerned that something has happened, or that there is a new harm to, for instance, children, then it can mandate the companies to go away and do some risk assessment and look at that platform to see whether that harm is currently being dealt with or not, and then mandate the companies to do something about it. Ofcom will act almost as a clearing house for risk and force the companies to work together in this space.\n\nQ337 Damian Green: I am fascinated by your Big Tech Unit. What is it meant to achieve?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 52,
+      "speaker_name": "Sarah Connolly",
+      "display_text": "Could I add to that? The other thing that of course plays into this is Ofcom\u2019s ability to horizon scan for new risk, so where Ofcom is concerned that something has happened, or that there is a new harm to, for instance, children, then it can mandate the companies to go away and do some risk assessment and look at that platform to see whether that harm is currently being dealt with or not, and then mandate the companies to do something about it. Ofcom will act almost as a clearing house for risk and force the companies to work together in this space.\n\nQ337 Damian Green: I am fascinated by your Big Tech Unit. What is it meant to achieve?",
+      "chunk_id": "DOC_946::c000060",
+      "chunk_hash": "98e72dff31f9",
+      "prev_chunk_id": "DOC_946::c000059",
+      "next_chunk_id": "DOC_946::c000061"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "We do a lot of work with tech companies in a number of contexts. The context we are discussing today is the harm context. We also work with tech companies to try to encourage investment into the UK and make sure that when they are considering where to make investments they look at making them here. We have seen in recent months a number of big tech companies choose to make investments in the UK, which is a good thing. We want to create jobs here and we actively encourage them to do that. We try to create an environment where they want to make investments in the UK, and a t the same time as discussing that with them, we have separate conversations on these kinds of topics.\n\nQ338 Damian Green: That is quite interesting. Therefore, it is facing them positively saying, \u201cPlease come here. Please invest here\u201d rather than a regulatory role?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 53,
+      "speaker_name": "Chris Philp",
+      "display_text": "We do a lot of work with tech companies in a number of contexts. The context we are discussing today is the harm context. We also work with tech companies to try to encourage investment into the UK and make sure that when they are considering where to make investments they look at making them here. We have seen in recent months a number of big tech companies choose to make investments in the UK, which is a good thing. We want to create jobs here and we actively encourage them to do that. We try to create an environment where they want to make investments in the UK, and a t the same time as discussing that with them, we have separate conversations on these kinds of topics.\n\nQ338 Damian Green: That is quite interesting. Therefore, it is facing them positively saying, \u201cPlease come here. Please invest here\u201d rather than a regulatory role?",
+      "chunk_id": "DOC_946::c000061",
+      "chunk_hash": "bff7ab757691",
+      "prev_chunk_id": "DOC_946::c000060",
+      "next_chunk_id": "DOC_946::c000062"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "We have both sets of conversations. I am responsible for interacting with many of these firms, and we have both conversations at the same time. They have a choice where they can invest, anywhere in the world. We obviously want them to do that here. Google has a massive centre in King\u2019s Cross and lots of these firms have a big presence in the UK; we want to encourage that. As I said right at the beginning to the Chair, that in no way mitigates or diminishes our desire to make sure we keep our own citizens safe. A ll the things we are proposing in this Bill that are requirements on big social media firms are,in my view \u2014 I hope the Committee and Parliament shares the view \u2014 completely reasonable things to ask these firms to do.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 54,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "We have both sets of conversations. I am responsible for interacting with many of these firms, and we have both conversations at the same time. They have a choice where they can invest, anywhere in the world. We obviously want them to do that here. Google has a massive centre in King\u2019s Cross and lots of these firms have a big presence in the UK; we want to encourage that. As I said right at the beginning to the Chair, that in no way mitigates or diminishes our desire to make sure we keep our own citizens safe. A ll the things we are proposing in this Bill that are requirements on big social media firms are,in my view \u2014 I hope the Committee and Parliament shares the view \u2014 completely reasonable things to ask these firms to do.",
+      "chunk_id": "DOC_946::c000062",
+      "chunk_hash": "0d35f56ad450",
+      "prev_chunk_id": "DOC_946::c000061",
+      "next_chunk_id": "DOC_946::c000063"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "to make sure we keep our own citizens safe. A ll the things we are proposing in this Bill that are requirements on big social media firms are,in my view \u2014 I hope the Committee and Parliament shares the view \u2014 completely reasonable things to ask these firms to do. Q339 Damian Green: That is an interesting statement in itself, because what I am concerned about is the potential imbalance between the power and clout of Google, Meta and the other very big operators in this space, and the UK Government. I am struck that you have advertised for a Head of Big Tech Expertise at \u00a350,000 a year. That is what Nick Clegg earns in a week. I hope you get the brightest and the best and that he or she is very good and conscientious, but t hat is the kind of monetary imbalance that the individuals will look at. How do you feel you can get a handle on these big tech companies? How can you assert control over them?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 54,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "to make sure we keep our own citizens safe. A ll the things we are proposing in this Bill that are requirements on big social media firms are,in my view \u2014 I hope the Committee and Parliament shares the view \u2014 completely reasonable things to ask these firms to do. Q339 Damian Green: That is an interesting statement in itself, because what I am concerned about is the potential imbalance between the power and clout of Google, Meta and the other very big operators in this space, and the UK Government. I am struck that you have advertised for a Head of Big Tech Expertise at \u00a350,000 a year. That is what Nick Clegg earns in a week. I hope you get the brightest and the best and that he or she is very good and conscientious, but t hat is the kind of monetary imbalance that the individuals will look at. How do you feel you can get a handle on these big tech companies? How can you assert control over them?",
+      "chunk_id": "DOC_946::c000063",
+      "chunk_hash": "118b5d1b03df",
+      "prev_chunk_id": "DOC_946::c000062",
+      "next_chunk_id": "DOC_946::c000064"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "It is a very good question. Clearly they are very big. They do have large amounts of money. They have a lot of lawyers and technical experts. They hire lots of people including, as we mentioned, one or two of our former confederates here. I think it is important first for Parliament to express its will extremely clearly. Parliament is sovereign \u2014 rightly sovereign \u2014 in the United Kingdom, not Facebook or Google. We pass laws and we expect them to follow those laws, because we have been elected by the public and they are a commercial company, so law passed by Parliament is sovereign. That is the first level of protection, parliamentary sovereignty and parliamentary legislation.\n\nThe second point is that I hope that, as Ministers and civil servants, our primary duty is to the public interest. There is no way that I would consider, speaking personally, allowing myself in any way to be cajoled by these firms to dilute the measures that we think are necessary. In fairness, in the four and a half months that I have done this, I have not been cajoled or coerced by any of these firms. Maybe that is because they do not think I am important enough; I do not know. Certainly, some of them have raised some issues they have with the legislation, but my priority is public protection and I think that is the view Parliament will take as well.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 55,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 0,
+      "display_text": "It is a very good question. Clearly they are very big. They do have large amounts of money. They have a lot of lawyers and technical experts. They hire lots of people including, as we mentioned, one or two of our former confederates here. I think it is important first for Parliament to express its will extremely clearly. Parliament is sovereign \u2014 rightly sovereign \u2014 in the United Kingdom, not Facebook or Google. We pass laws and we expect them to follow those laws, because we have been elected by the public and they are a commercial company, so law passed by Parliament is sovereign. That is the first level of protection, parliamentary sovereignty and parliamentary legislation.\n\nThe second point is that I hope that, as Ministers and civil servants, our primary duty is to the public interest. There is no way that I would consider, speaking personally, allowing myself in any way to be cajoled by these firms to dilute the measures that we think are necessary. In fairness, in the four and a half months that I have done this, I have not been cajoled or coerced by any of these firms. Maybe that is because they do not think I am important enough; I do not know. Certainly, some of them have raised some issues they have with the legislation, but my priority is public protection and I think that is the view Parliament will take as well.",
+      "chunk_id": "DOC_946::c000064",
+      "chunk_hash": "1cd68a11a67e",
+      "prev_chunk_id": "DOC_946::c000063",
+      "next_chunk_id": "DOC_946::c000065"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "of these firms. Maybe that is because they do not think I am important enough; I do not know. Certainly, some of them have raised some issues they have with the legislation, but my priority is public protection and I think that is the view Parliament will take as well. Q340 Damian Green: My slight fear is that accidentally this unit will turn into a very useful and convenient lobbying route so that the power and influence flows the other way.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 55,
+      "speaker_name": "Chris Philp",
+      "turn_part_index": 1,
+      "display_text": "of these firms. Maybe that is because they do not think I am important enough; I do not know. Certainly, some of them have raised some issues they have with the legislation, but my priority is public protection and I think that is the view Parliament will take as well. Q340 Damian Green: My slight fear is that accidentally this unit will turn into a very useful and convenient lobbying route so that the power and influence flows the other way.",
+      "chunk_id": "DOC_946::c000065",
+      "chunk_hash": "d488eb2e26a9",
+      "prev_chunk_id": "DOC_946::c000064",
+      "next_chunk_id": "DOC_946::c000066"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "That has not happened. To my observations in my experience in the last four and a half months, that has not happened. I have not been lobbied internally on this stuff. I have done lots of roundtables with the tech sector, big companies and small, and people like Facebook and Google have attended those sessions along with many others. I have listened to what they have had to say but just because they are very big does not let them dictate policy or have influence that is any different to that which any other organisation would have.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 56,
+      "speaker_name": "Chris Philp",
+      "display_text": "That has not happened. To my observations in my experience in the last four and a half months, that has not happened. I have not been lobbied internally on this stuff. I have done lots of roundtables with the tech sector, big companies and small, and people like Facebook and Google have attended those sessions along with many others. I have listened to what they have had to say but just because they are very big does not let them dictate policy or have influence that is any different to that which any other organisation would have.",
+      "chunk_id": "DOC_946::c000066",
+      "chunk_hash": "42c80fb35c48",
+      "prev_chunk_id": "DOC_946::c000065",
+      "next_chunk_id": "DOC_946::c000067"
+    },
+    {
+      "header": "Sarah Connolly",
+      "text": "I am not sure I would say aching, but I was simply going to add that the unit that you were discussing is relatively small. It does exactly what the Minister says. Lots of different bits of government talk to these companies, and so part of the function of this unit is to try to do a bit of co-ordination across Whitehall. It is about being clear so that we collectively know what we are saying to the companies, rather than any internal lobbying.\n\nQ341 Chair: Finally on the culture at DCMS, Oliver Dowden, the former Secretary of State stated at party conference, \u201cPeople need to get off their Pelotons and back to their desks.\u201d Later down in the B BC News story there is a rather telling comment, \u201cIt comes after top civil servant Sarah Healey said she preferred working from home because she could spend more time on her Peloton exercise bicycle.\u201d Minister, do civil servants need to get back to their desks?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 58,
+      "speaker_name": "Sarah Connolly",
+      "display_text": "I am not sure I would say aching, but I was simply going to add that the unit that you were discussing is relatively small. It does exactly what the Minister says. Lots of different bits of government talk to these companies, and so part of the function of this unit is to try to do a bit of co-ordination across Whitehall. It is about being clear so that we collectively know what we are saying to the companies, rather than any internal lobbying.\n\nQ341 Chair: Finally on the culture at DCMS, Oliver Dowden, the former Secretary of State stated at party conference, \u201cPeople need to get off their Pelotons and back to their desks.\u201d Later down in the B BC News story there is a rather telling comment, \u201cIt comes after top civil servant Sarah Healey said she preferred working from home because she could spend more time on her Peloton exercise bicycle.\u201d Minister, do civil servants need to get back to their desks?",
+      "chunk_id": "DOC_946::c000067",
+      "chunk_hash": "c72aae04cd77",
+      "prev_chunk_id": "DOC_946::c000066",
+      "next_chunk_id": "DOC_946::c000068"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "There is a very clear direction from the top of Government and I think the Prime Minister made this comment recently: the work from home restrictions across the economy have been relaxed because, thankfully, we appear to be moving into a happier place; t herefore, people across the economy \u2014 including the civil service \u2014 should be back in the office. Certainly, when I have meetings with colleagues in the civil service, I have said that I would like now to do that in person and that is what I now expect to happen.\n\nQ342 Chair: Is it working? What percentage of people on your floor are currently working from home?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 59,
+      "speaker_name": "Chris Philp",
+      "display_text": "There is a very clear direction from the top of Government and I think the Prime Minister made this comment recently: the work from home restrictions across the economy have been relaxed because, thankfully, we appear to be moving into a happier place; t herefore, people across the economy \u2014 including the civil service \u2014 should be back in the office. Certainly, when I have meetings with colleagues in the civil service, I have said that I would like now to do that in person and that is what I now expect to happen.\n\nQ342 Chair: Is it working? What percentage of people on your floor are currently working from home?",
+      "chunk_id": "DOC_946::c000068",
+      "chunk_hash": "7fe32a9f1b93",
+      "prev_chunk_id": "DOC_946::c000067",
+      "next_chunk_id": "DOC_946::c000069"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "No. The walk from the elevator\u2014\n\nQ344 Chair: You have seen The Daily Mail story on this where they photographed civil servants going in and they counted them? They did have a little clicker and it was about 60 into your Department.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 61,
+      "speaker_name": "Chris Philp",
+      "display_text": "No. The walk from the elevator\u2014\n\nQ344 Chair: You have seen The Daily Mail story on this where they photographed civil servants going in and they counted them? They did have a little clicker and it was about 60 into your Department.",
+      "chunk_id": "DOC_946::c000069",
+      "chunk_hash": "4364a6b6ff98",
+      "prev_chunk_id": "DOC_946::c000068",
+      "next_chunk_id": "DOC_946::c000070"
+    },
+    {
+      "header": "Chris Philp",
+      "text": "I have not done that exercise. Certainly, there are more people around now than there were a few weeks ago and I would expect that to rapidly and dramatically increase. As I have said as a Minister, I want to do my meetings in person because they facilitate better communication.\n\nQ345 Chair: Does the Secretary of State need to take a lead on this? Does she need to step away from Twitter and perhaps get a grip in terms of getting civil servants back into the DCMS?",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "turn_index": 62,
+      "speaker_name": "Chris Philp",
+      "display_text": "I have not done that exercise. Certainly, there are more people around now than there were a few weeks ago and I would expect that to rapidly and dramatically increase. As I have said as a Minister, I want to do my meetings in person because they facilitate better communication.\n\nQ345 Chair: Does the Secretary of State need to take a lead on this? Does she need to step away from Twitter and perhaps get a grip in terms of getting civil servants back into the DCMS?",
+      "chunk_id": "DOC_946::c000070",
+      "chunk_hash": "086ed96d7bb8",
+      "prev_chunk_id": "DOC_946::c000069",
+      "next_chunk_id": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "id": "DOC_784",
+    "title": "Amazon UK",
+    "category": "01_Legislation",
+    "type": "Public Bill Committee Evidence",
+    "author": "Amazon UK",
+    "date": "Unknown",
+    "url": "",
+    "encoding": null,
+    "authority_tag": "WITNESS_TESTIMONY",
+    "authority_weight": 6,
+    "pdf_extractor_used": "pdfplumber_words",
+    "pdfplumber_mode": "words",
+    "pdf_artifact_score": 9,
+    "pdf_layout": "single_column"
+  },
+  "chunks": [
+    {
+      "header": "Introductory Text (Part 1/2)",
+      "text": "AMAZON UK SERVICES LTD. REGISTERED OFFICE: 1 PRINCIPAL PLACE, WORSHIP STREET, LONDON EC2A 2FA, UNITED KINGDOM Registered in England and Wales \u2022 Company Registration No. 03223028 \u2022 VAT No. GB 680 737 022 Christina Rees MP and Sir Roger Gale MP Chairs of the Public Committee for the Online Safety Bill House of Commons SW1A 0AA Dear Chairs, I wanted to write to follow up on a mention of Amazon Alexa in a recent oral evidence session your Committee heard, as partofyourwork scrutinising the Online Safety Bill. The Chief Executive of the Anti-Semitism Policy Trust, Danny Stone, highlighted two inappropriate answers on Alexa. We wanted to follow up to explain a bit more about how Alexa works, and to reassure you of the robust policies, systems and processes we have in place to identify inappropriate content. We take any concerns raised extremely seriously and I can confirm Amazon took immediate action to block the responses to the questions raised to you on 26 th May. Asyoumayknow, Amazon Alexa is a voice service that powers Amazon Echo and other devices. Customerscan askAlexaforin for mation, to answer questions, play music, readthenews, set timers and alarms, check sports scores andmuchmore. With this service, we aim to provide customers with a helpful and in for mative experience. To support this, Alexa uses answers curated by our teamaswell as in for mation from a wide range of news sources, select websites, external contributors, and other services to generate responses for customers. Alexa does not, however, offer a possibility for customers to search the internet. We are keen to ensure transparency about where this in for mation comes from, and we often highlight the source (e. g. which website the in for mation is from) both in voice-only responses and on-screen. Whilst we strive to ensure Alexa draws in for mation from diverse sources, we wanttomakesure that the in for mation is a ccurate and appropriate. Our policies do not allow hate speech, content which is discriminatory, or that incites racial or gender hatred. We have automated filters in place to help prevent potentially offensive content from surfacing, such as profane or offensive words and topics. The automated tools are supplemented by dedicated teams who proactively review answers to ensure they comply with our guidelines too. While our systems capture the majority of offensive and profane content, there maybeveryrare occurrences where inappropriate content isn\u2019t identified. In addition to the automated tools and the human reviewers, we makeiteasy for people to report anything they\u2019re concerned about and have teams ready to promptly investigate. We have teams dedicated to continuously improving all filters and systems we have in place sotheyget better over time. We will use the concerns raised to continue to improve the accuracy and appropriateness of the in for mation provided too. I hope this in for mation helps butdolet usknowif you would like any further in for mation.",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "AMAZON UK SERVICES LTD. REGISTERED OFFICE: 1 PRINCIPAL PLACE, WORSHIP STREET, LONDON EC2A 2FA, UNITED KINGDOM Registered in England and Wales \u2022 Company Registration No. 03223028 \u2022 VAT No. GB 680 737 022 Christina Rees MP and Sir Roger Gale MP Chairs of the Public Committee for the Online Safety Bill House of Commons SW1A 0AA Dear Chairs, I wanted to write to follow up on a mention of Amazon Alexa in a recent oral evidence session your Committee heard, as partofyourwork scrutinising the Online Safety Bill. The Chief Executive of the Anti-Semitism Policy Trust, Danny Stone, highlighted two inappropriate answers on Alexa. We wanted to follow up to explain a bit more about how Alexa works, and to reassure you of the robust policies, systems and processes we have in place to identify inappropriate content. We take any concerns raised extremely seriously and I can confirm Amazon took immediate action to block the responses to the questions raised to you on 26 th May. Asyoumayknow, Amazon Alexa is a voice service that powers Amazon Echo and other devices. Customerscan askAlexaforin for mation, to answer questions, play music, readthenews, set timers and alarms, check sports scores andmuchmore. With this service, we aim to provide customers with a helpful and in for mative experience. To support this, Alexa uses answers curated by our teamaswell as in for mation from a wide range of news sources, select websites, external contributors, and other services to generate responses for customers. Alexa does not, however, offer a possibility for customers to search the internet. We are keen to ensure transparency about where this in for mation comes from, and we often highlight the source (e. g. which website the in for mation is from) both in voice-only responses and on-screen. Whilst we strive to ensure Alexa draws in for mation from diverse sources, we wanttomakesure that the in for mation is a ccurate and appropriate. Our policies do not allow hate speech, content which is discriminatory, or that incites racial or gender hatred. We have automated filters in place to help prevent potentially offensive content from surfacing, such as profane or offensive words and topics. The automated tools are supplemented by dedicated teams who proactively review answers to ensure they comply with our guidelines too. While our systems capture the majority of offensive and profane content, there maybeveryrare occurrences where inappropriate content isn\u2019t identified. In addition to the automated tools and the human reviewers, we makeiteasy for people to report anything they\u2019re concerned about and have teams ready to promptly investigate. We have teams dedicated to continuously improving all filters and systems we have in place sotheyget better over time. We will use the concerns raised to continue to improve the accuracy and appropriateness of the in for mation provided too. I hope this in for mation helps butdolet usknowif you would like any further in for mation.",
+      "chunk_id": "DOC_784::c000000",
+      "chunk_hash": "f62a23b6cf40",
+      "prev_chunk_id": null,
+      "next_chunk_id": "DOC_784::c000001"
+    },
+    {
+      "header": "Introductory Text (Part 2/2)",
+      "text": "all filters and systems we have in place sotheyget better over time. We will use the concerns raised to continue to improve the accuracy and appropriateness of the in for mation provided too. I hope this in for mation helps butdolet usknowif you would like any further in for mation. Best wishes AnnaAnna Hatfield | Public Policy UK & Ireland | Amazon Amazon, 1 Principal Place, Worship Street, London, EC2A 2FA",
+      "page": "1",
+      "page_start": 1,
+      "page_end": 1,
+      "pages": [
+        1
+      ],
+      "display_text": "Best wishes AnnaAnna Hatfield | Public Policy UK & Ireland | Amazon Amazon, 1 Principal Place, Worship Street, London, EC2A 2FA",
+      "chunk_id": "DOC_784::c000001",
+      "chunk_hash": "b4498d0c3c90",
+      "prev_chunk_id": "DOC_784::c000000",
+      "next_chunk_id": null
+    }
+  ]
+}

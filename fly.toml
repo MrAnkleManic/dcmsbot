@@ -1,0 +1,36 @@
+app = 'nickangel'
+primary_region = 'lhr'
+
+[build]
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = 'off'
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [[http_service.checks]]
+    grace_period = "30s"
+    interval = "15s"
+    method = "GET"
+    timeout = "5s"
+    path = "/healthz"
+
+[checks]
+  [checks.readyz]
+    type = "http"
+    port = 8080
+    method = "GET"
+    path = "/readyz"
+    interval = "30s"
+    timeout = "10s"
+    grace_period = "600s"
+
+[deploy]
+  wait_timeout = "600s"
+
+[[vm]]
+  memory = '4gb'
+  cpu_kind = 'shared'
+  cpus = 2
