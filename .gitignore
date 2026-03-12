@@ -1,1 +1,3 @@
 processed_knowledge_base/embeddings_cache.json
+backend/.env
+backend/.env.save
