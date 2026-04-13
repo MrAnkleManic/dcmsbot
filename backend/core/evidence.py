@@ -54,7 +54,10 @@ def _diversify_by_document(
     return diverse
 
 
-def build_evidence_pack(candidates: List[RetrievedChunk]) -> List[KBChunk]:
+def build_evidence_pack(
+    candidates: List[RetrievedChunk],
+    section_locked: bool = False,
+) -> List[KBChunk]:
     if not candidates:
         return []
 
@@ -67,7 +70,10 @@ def build_evidence_pack(candidates: List[RetrievedChunk]) -> List[KBChunk]:
     ]
 
     # Second pass: diversify so no single document dominates.
-    diverse = _diversify_by_document(viable)
+    # When section-locked, allow more chunks from the same document
+    # because legislative sections span multiple chunks.
+    per_doc = 5 if section_locked else config.MAX_CHUNKS_PER_DOC
+    diverse = _diversify_by_document(viable, max_per_doc=per_doc)
 
     # Third pass: deduplicate and enforce character budget.
     evidence: List[KBChunk] = []
@@ -111,11 +117,157 @@ def build_citations(evidence: List[KBChunk]) -> List[Citation]:
     return citations
 
 
+def build_parliament_citations(parliament_context: dict) -> List[Citation]:
+    """Build Citation objects from Parliament API results.
+
+    Uses prefixes: WA### for Written Answers, H### for Hansard, B### for Bills.
+    Authority weights: Written Answers (ministers) = 8.0, Hansard = 3.0, Bills = 7.0.
+    """
+    citations: List[Citation] = []
+
+    # Written Answers — ministerial positions rank high
+    for idx, wa in enumerate(parliament_context.get("written_answers", []), start=1):
+        citations.append(
+            Citation(
+                citation_id=f"WA{idx:03d}",
+                doc_id=f"parliament-wa-{wa.get('uin', idx)}",
+                title=wa.get("title", "Written Answer"),
+                source_type="Written Answer",
+                publisher=wa.get("answering_body", "UK Parliament"),
+                date_published=wa.get("date", None),
+                location_pointer=f"Written Answer — {wa.get('answering_body', 'DCMS')}",
+                chunk_id=f"wa-{wa.get('uin', idx)}",
+                excerpt=_excerpt(wa.get("answer_text", wa.get("question_text", ""))),
+                authority_weight=8.0,
+                source_url=wa.get("url"),
+                parliament_source_type="written_answer",
+                parliament_date=wa.get("date"),
+            )
+        )
+
+    # Hansard debates
+    for idx, h in enumerate(parliament_context.get("hansard_results", []), start=1):
+        citations.append(
+            Citation(
+                citation_id=f"H{idx:03d}",
+                doc_id=f"parliament-hansard-{h.get('external_id', idx)}",
+                title=h.get("title", "Hansard Debate"),
+                source_type="Hansard Debate",
+                publisher="UK Parliament",
+                date_published=h.get("date", None),
+                location_pointer=f"{h.get('house', 'Commons')} — {h.get('section', 'Debate')}",
+                chunk_id=f"hansard-{h.get('external_id', idx)}",
+                excerpt=h.get("title", "Parliamentary debate"),
+                authority_weight=3.0,
+                source_url=h.get("url"),
+                parliament_source_type="hansard_debate",
+                parliament_date=h.get("date"),
+            )
+        )
+
+    # Bills
+    for idx, b in enumerate(parliament_context.get("bills_data", []), start=1):
+        stage = b.get("current_stage", "Unknown stage")
+        status_label = "Act of Parliament" if b.get("is_act") else f"Bill — {stage}"
+        citations.append(
+            Citation(
+                citation_id=f"B{idx:03d}",
+                doc_id=f"parliament-bill-{idx}",
+                title=b.get("short_title", "Bill"),
+                source_type="Bill",
+                publisher="UK Parliament",
+                date_published=None,
+                location_pointer=status_label,
+                chunk_id=f"bill-{idx}",
+                excerpt=f"{b.get('short_title', 'Bill')} — {status_label}",
+                authority_weight=7.0,
+                source_url=b.get("url"),
+                parliament_source_type="bill",
+                parliament_date=None,
+            )
+        )
+
+    return citations
+
+
 def find_citation_for_chunk(chunk: KBChunk, citations: List[Citation]) -> Optional[Citation]:
     for citation in citations:
         if citation.chunk_id == chunk.chunk_id:
             return citation
     return None
+
+
+def format_parliament_evidence_context(parliament_context: dict, citations: List[Citation]) -> str:
+    """Format Parliament data as evidence context blocks for the LLM prompt.
+
+    Each block is labelled with its citation ID so the LLM can cite [WA001] etc.
+    """
+    parts: list[str] = []
+    cit_idx = 0
+
+    for wa in parliament_context.get("written_answers", []):
+        if cit_idx >= len(citations):
+            break
+        cit = citations[cit_idx]
+        cit_idx += 1
+        text = wa.get("answer_text", "")
+        if not text:
+            text = wa.get("question_text", "No answer text available.")
+        header = f"[{cit.citation_id}] Written Answer — {wa.get('answering_body', 'DCMS')}"
+        if wa.get("date"):
+            header += f" ({wa['date']})"
+        header += f" (source_type: Written Answer, authority_weight: {cit.authority_weight})"
+        q_text = wa.get("question_text", "")
+        block = f"Question: {q_text}\nAnswer: {text}" if q_text else text
+        parts.append(f"{header}\n{block}")
+
+    for h in parliament_context.get("hansard_results", []):
+        if cit_idx >= len(citations):
+            break
+        cit = citations[cit_idx]
+        cit_idx += 1
+        header = f"[{cit.citation_id}] Hansard Debate — {h.get('title', 'Debate')}"
+        if h.get("date"):
+            header += f" ({h['date']})"
+        header += f" (source_type: Hansard Debate, authority_weight: {cit.authority_weight})"
+        parts.append(f"{header}\n{h.get('title', 'Parliamentary debate')} — {h.get('house', '')} {h.get('section', '')}")
+
+    for b in parliament_context.get("bills_data", []):
+        if cit_idx >= len(citations):
+            break
+        cit = citations[cit_idx]
+        cit_idx += 1
+        stage = b.get("current_stage", "Unknown stage")
+        status = "Act of Parliament" if b.get("is_act") else f"Bill — {stage}"
+        header = f"[{cit.citation_id}] {b.get('short_title', 'Bill')} — {status}"
+        header += f" (source_type: Bill, authority_weight: {cit.authority_weight})"
+        parts.append(header)
+
+    return "\n\n---\n\n".join(parts)
+
+
+def compute_source_freshness(parliament_context: dict) -> str | None:
+    """Find the most recent date across all Parliament sources."""
+    dates: list[str] = []
+    for wa in parliament_context.get("written_answers", []):
+        d = wa.get("date")
+        if d:
+            dates.append(d)
+    for h in parliament_context.get("hansard_results", []):
+        d = h.get("date")
+        if d:
+            dates.append(d)
+    if not dates:
+        return None
+    dates.sort(reverse=True)
+    newest = dates[0]
+    # Try to format nicely
+    try:
+        from datetime import datetime
+        dt = datetime.strptime(newest[:10], "%Y-%m-%d")
+        return f"Most recent Parliament source: {dt.strftime('%d %B %Y')}"
+    except (ValueError, IndexError):
+        return f"Most recent Parliament source: {newest}"
 
 
 def _normalize_whitespace(text: str) -> str:
@@ -291,6 +443,10 @@ def generate_llm_answer(
     target_section: int | None = None,
     confidence_label: str = "medium",
     conversation_history: Optional[List[dict]] = None,
+    strategic: bool = False,
+    parliament_context_str: str = "",
+    parliament_note: str = "",
+    conflict_note: str | None = None,
 ) -> Answer:
     """Generate an answer using LLM synthesis over retrieved evidence."""
     if target_section is None:
@@ -303,6 +459,10 @@ def generate_llm_answer(
         target_section=target_section,
         confidence_label=confidence_label,
         conversation_history=conversation_history,
+        strategic=strategic,
+        parliament_context_str=parliament_context_str,
+        parliament_note=parliament_note,
+        conflict_note=conflict_note,
     )
 
 

@@ -50,6 +50,9 @@ class Citation(BaseModel):
     prev_chunk_id: Optional[str] = None
     next_chunk_id: Optional[str] = None
     source_format: Optional[str] = None
+    # Parliament-specific fields (set for WA/H/B citations, None for KB)
+    parliament_source_type: Optional[str] = None  # "written_answer", "hansard_debate", "bill"
+    parliament_date: Optional[str] = None  # date of the WA/debate/bill activity
 
 
 class Confidence(BaseModel):
@@ -160,6 +163,11 @@ class QueryResponse(BaseModel):
     closest_matches: Optional[List[KBChunk]] = None
     evidence_assessment: Optional[EvidenceAssessment] = None
     rewritten_question: Optional[str] = None
+    # Parliament integration fields
+    parliament_sources: Optional[List[Dict]] = None
+    parliament_health: Optional[List[Dict]] = None
+    source_freshness: Optional[str] = None
+    synthesis_mode: Optional[str] = None  # "factual" or "strategic"
 
 
 class RetrievedChunkDebug(BaseModel):

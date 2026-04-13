@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+backend/.env
+backend/.env.save
+.venv
+venv
+
+# Node (frontend rebuilds inside Docker)
+frontend-v2/node_modules
+node_modules
+
+# Large embeddings files — the .npy is pre-built locally;
+# the 932MB JSON must NEVER be sent to the builder.
+processed_knowledge_base/embeddings_cache.json
+processed_knowledge_base/.cache
+
+# IDE / OS
+.vscode
+.idea
+*.swp
+.DS_Store
+
+# Docs / misc
+*.md
+LICENSE

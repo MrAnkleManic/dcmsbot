@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Dict
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).parent / ".env")
+load_dotenv(Path(__file__).parent / ".env", override=True)
 
 KB_DIR = Path("processed_knowledge_base")
 LOG_DIR = Path("backend/logs")

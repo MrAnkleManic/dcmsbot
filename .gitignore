@@ -1,3 +1,15 @@
 processed_knowledge_base/embeddings_cache.json
+processed_knowledge_base/embeddings_cache.npy
+processed_knowledge_base/embeddings_cache_meta.json
+processed_knowledge_base/.cache/
 backend/.env
 backend/.env.save
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+backend/.DS_Store
+backend/logs/
+frontend-v2/dist/
+frontend-v2/node_modules/

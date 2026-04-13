@@ -39,7 +39,7 @@ class SectionLockOutcome:
         return f"s.{self.section_number}"
 
 
-def apply_section_lock(question: str, candidates: List[RetrievedChunk]) -> SectionLockOutcome:
+def apply_section_lock(question: str, candidates: List[RetrievedChunk], kb=None) -> SectionLockOutcome:
     section_number = parse_target_section(question)
     if section_number is None:
         return SectionLockOutcome(
@@ -56,6 +56,40 @@ def apply_section_lock(question: str, candidates: List[RetrievedChunk]) -> Secti
         if chunk_section_number(candidate.chunk) == section_number
         or chunk_belongs_to_section(_section_match_text(candidate.chunk), str(section_number))
     ]
+
+    # Legislative sections span multiple consecutive chunks but only
+    # the intro chunk has the section_number metadata. Fetch the
+    # continuation chunks directly from the KB so we get the full
+    # section content, not just the heading.
+    if matching and kb is not None:
+        seen = {m.chunk.chunk_id for m in matching}
+        for m in list(matching):
+            cid = m.chunk.chunk_id
+            if "::" not in cid:
+                continue
+            prefix, num_part = cid.rsplit("::", 1)
+            try:
+                num = int(num_part.lstrip("c"))
+            except ValueError:
+                continue
+            for offset in range(1, 6):
+                adj_id = f"{prefix}::c{num + offset:06d}"
+                if adj_id in seen:
+                    continue
+                adj_chunk = kb.get_chunk(adj_id)
+                if adj_chunk is None:
+                    break  # no more consecutive chunks
+                # Stop if we hit the next section heading
+                if adj_chunk.section_number:
+                    break
+                seen.add(adj_id)
+                matching.append(RetrievedChunk(
+                    chunk=adj_chunk,
+                    bm25_score=m.bm25_score * 0.9,
+                    embedding_score=m.embedding_score * 0.9,
+                    final_score=m.final_score * 0.9,
+                ))
+
     filtered = matching or candidates
     return SectionLockOutcome(
         section_number=section_number,

@@ -1,10 +1,10 @@
 import { Scale } from 'lucide-react';
 
 const examples = [
-  'What are the duties on Category 1 services?',
-  'What does Section 44 say about Ofcom\'s powers?',
-  'How does the Act define illegal content?',
-  'What are the transparency reporting requirements?',
+  'What patterns are emerging in how Ofcom prioritises its enforcement investigations?',
+  'How does Ofcom\'s approach to age assurance compare with what Parliament intended?',
+  'What should a compliance team at a mid-sized platform be doing right now?',
+  'What impact did the Select Committee\'s scrutiny have on the final shape of the Act?',
 ];
 
 export default function EmptyState({ onSelectExample }) {

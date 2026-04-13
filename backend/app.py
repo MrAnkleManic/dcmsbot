@@ -12,16 +12,31 @@ from backend.core import loader
 from backend.core.evidence import (
     build_citations,
     build_evidence_pack,
+    build_parliament_citations,
+    compute_source_freshness,
     enforce_response_consistency,
+    format_parliament_evidence_context,
     generate_answer,
     generate_llm_answer,
     log_usage,
     should_refuse,
 )
-from backend.core.evidence_sufficiency import assess_evidence_sufficiency, contextual_suggestions, default_suggestions
+from backend.core.evidence_sufficiency import (
+    assess_evidence_sufficiency,
+    assess_parliament_evidence,
+    contextual_suggestions,
+    default_suggestions,
+)
 from backend.core.guardrails import apply_section_lock
+from backend.core.parliament_fetch import fetch_parliament_context
 from backend.core.query_flow import run_retrieval_plan
-from backend.core.query_guard import QueryClassification, classify_query
+from backend.core.query_guard import (
+    QueryClassification,
+    classify_query,
+    is_in_scope,
+    needs_parliament_data,
+    needs_strategic_synthesis,
+)
 from backend.core.query_rewriter import rewrite_follow_up
 from backend.core.models import (
     Answer,
@@ -166,11 +181,17 @@ def query(req: QueryRequest) -> QueryResponse:
     logger.info("Incoming query", extra={"query_id": query_id, "filters": req.filters.dict()})
 
     classification = classify_query(req.question)
-    if classification != QueryClassification.IN_SCOPE:
+    if not is_in_scope(classification):
         refusal_reason = (
             "This question appears to be outside the Online Safety Act scope. Please ask about the Act."
             if classification == QueryClassification.OUT_OF_SCOPE
-            else "This system cannot perform counts, rankings, or analytics-style questions."
+            else (
+                "This system cannot perform counts, rankings, or analytics-style "
+                "questions. However, I can describe specific enforcement actions, "
+                "duties, or regulatory approaches. Try rephrasing your question — "
+                "for example, instead of 'how many platforms has Ofcom fined?', "
+                "ask 'what enforcement actions has Ofcom taken under the Online Safety Act?'"
+            )
         )
         answer = Answer(
             text=refusal_reason,
@@ -222,10 +243,27 @@ def query(req: QueryRequest) -> QueryResponse:
     candidates = retrieval_outcome.candidates
     retrieved_sources = [c.chunk for c in candidates]
 
-    section_lock = apply_section_lock(effective_question, candidates)
+    # --- Parliament data fetch (for strategic/parliamentary questions) ---
+    parliament_context: dict = {}
+    parliament_citations = []
+    parliament_context_str = ""
+    parliament_assessment: dict = {}
+    synthesis_mode = "strategic" if needs_strategic_synthesis(classification, effective_question) else "factual"
+
+    if needs_parliament_data(classification):
+        parliament_context = fetch_parliament_context(
+            effective_question, classification.value
+        )
+        parliament_citations = build_parliament_citations(parliament_context)
+        if parliament_citations:
+            parliament_context_str = format_parliament_evidence_context(
+                parliament_context, parliament_citations
+            )
+
+    section_lock = apply_section_lock(effective_question, candidates, kb=loader.kb)
     answer_candidates = section_lock.filtered_candidates if section_lock.active else candidates
     evidence_pack = (
-        build_evidence_pack(answer_candidates) if section_lock.active else retrieval_outcome.evidence_pack
+        build_evidence_pack(answer_candidates, section_locked=True) if section_lock.active else retrieval_outcome.evidence_pack
     )
     response_evidence = evidence_pack or []
     answer = None
@@ -236,6 +274,12 @@ def query(req: QueryRequest) -> QueryResponse:
     response_citations = []
     evidence_assessment = None
     evidence_signals = assess_evidence_sufficiency(effective_question, answer_candidates)
+
+    # Assess Parliament evidence alongside KB evidence
+    if parliament_context:
+        parliament_assessment = assess_parliament_evidence(
+            classification.value, parliament_context, evidence_signals
+        )
     get_logger(
         __name__,
         extra={
@@ -254,7 +298,16 @@ def query(req: QueryRequest) -> QueryResponse:
     evidence_insufficient = (
         evidence_signals.status == "insufficient_evidence" or not response_evidence
     )
+    # If KB evidence is insufficient but Parliament data was found, proceed anyway —
+    # Parliament sources can provide sufficient basis for an answer.
+    has_parliament_data = parliament_assessment.get("has_parliament_data", False)
+    if evidence_insufficient and has_parliament_data:
+        evidence_insufficient = False
+
     refusal = evidence_insufficient or should_refuse(answer_candidates, response_evidence)
+    # Similarly, Parliament data overrides refusal for thin KB results
+    if refusal and has_parliament_data:
+        refusal = False
     answer_citations = build_citations(response_evidence)
 
     if req.use_llm and not config.llm_configured():
@@ -295,6 +348,7 @@ def query(req: QueryRequest) -> QueryResponse:
     if not answer:
         use_llm = req.use_llm or config.llm_configured()
         if use_llm and config.llm_configured() and not refusal:
+            strategic = needs_strategic_synthesis(classification, effective_question)
             answer = generate_llm_answer(
                 effective_question,
                 response_evidence,
@@ -307,8 +361,13 @@ def query(req: QueryRequest) -> QueryResponse:
                     [t.dict() for t in req.conversation_history]
                     if req.conversation_history else None
                 ),
+                strategic=strategic,
+                parliament_context_str=parliament_context_str,
+                parliament_note=parliament_assessment.get("parliament_note", ""),
+                conflict_note=parliament_assessment.get("conflict_note"),
             )
-            response_citations = answer_citations
+            # Merge KB citations with Parliament citations
+            response_citations = answer_citations + parliament_citations
             # If the LLM call itself failed, degrade gracefully to extractive mode.
             if answer.refused and answer.refusal_reason == "LLM synthesis error.":
                 answer = generate_answer(
@@ -367,6 +426,19 @@ def query(req: QueryRequest) -> QueryResponse:
         else None
     )
 
+    # Compute source freshness from Parliament data
+    source_freshness = compute_source_freshness(parliament_context) if parliament_context else None
+
+    # Collect Parliament sources for transparency
+    parliament_sources_out = None
+    if parliament_context:
+        sources = []
+        sources.extend(parliament_context.get("written_answers", []))
+        sources.extend(parliament_context.get("hansard_results", []))
+        sources.extend(parliament_context.get("bills_data", []))
+        if sources:
+            parliament_sources_out = sources
+
     response = QueryResponse(
         answer=answer,
         citations=citations,
@@ -383,6 +455,10 @@ def query(req: QueryRequest) -> QueryResponse:
         closest_matches=closest_matches if status_value == "insufficient_evidence" else None,
         evidence_assessment=evidence_assessment,
         rewritten_question=rewritten_question,
+        parliament_sources=parliament_sources_out,
+        parliament_health=parliament_context.get("pipeline_health") if parliament_context else None,
+        source_freshness=source_freshness,
+        synthesis_mode=synthesis_mode,
     )
 
     logger.info(

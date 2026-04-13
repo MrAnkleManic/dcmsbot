@@ -35,6 +35,7 @@ def _clean_chunk_text(text: str) -> str:
 class KnowledgeBase:
     def __init__(self) -> None:
         self.chunks: List[KBChunk] = []
+        self._chunk_index: Dict[str, KBChunk] = {}
         self.validation_errors: List[str] = []
         self.doc_counts_by_type: Dict[str, int] = {}
         self.doc_counts_by_raw_type: Dict[str, int] = {}
@@ -43,8 +44,13 @@ class KnowledgeBase:
         self.last_refreshed: Optional[datetime] = None
         self.ingestion_summary: Dict[str, int] = {}
 
+    def get_chunk(self, chunk_id: str) -> Optional[KBChunk]:
+        """Look up a chunk by its ID."""
+        return self._chunk_index.get(chunk_id)
+
     def load(self, kb_dir: Path = config.KB_DIR) -> None:
         self.chunks.clear()
+        self._chunk_index.clear()
         self.validation_errors.clear()
         self.doc_counts_by_type.clear()
         self.doc_counts_by_raw_type.clear()
@@ -87,6 +93,7 @@ class KnowledgeBase:
                         continue
                     seen_chunk_ids.add(ch.chunk_id)
                     self.chunks.append(ch)
+                    self._chunk_index[ch.chunk_id] = ch
             except Exception as exc:  # noqa: BLE001
                 err = f"Failed to parse {file_path}: {exc}"
                 self.validation_errors.append(err)

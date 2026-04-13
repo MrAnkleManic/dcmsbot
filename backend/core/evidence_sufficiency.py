@@ -158,6 +158,54 @@ def assess_evidence_sufficiency(question: str, candidates: list[RetrievedChunk])
     )
 
 
+def assess_parliament_evidence(
+    classification: str,
+    parliament_context: dict,
+    kb_evidence_signals: EvidenceSignals,
+) -> dict:
+    """Assess Parliament evidence and produce supplementary notes for synthesis.
+
+    Returns dict with:
+        parliament_note: str — note to include in the LLM context about Parliament data
+        has_parliament_data: bool
+        freshness_note: str | None — date of most recent source
+        conflict_note: str | None — if KB and Parliament sources may conflict
+    """
+    from backend.core.evidence import compute_source_freshness
+
+    wa_count = len(parliament_context.get("written_answers", []))
+    hansard_count = len(parliament_context.get("hansard_results", []))
+    bills_count = len(parliament_context.get("bills_data", []))
+    has_data = wa_count > 0 or hansard_count > 0 or bills_count > 0
+
+    notes: list[str] = []
+    freshness = compute_source_freshness(parliament_context)
+
+    if classification == "IN_SCOPE_PARLIAMENTARY" and not has_data:
+        notes.append(
+            "No recent parliamentary activity found on this topic. "
+            "Answer is based on static legislation and guidance."
+        )
+    elif has_data and freshness:
+        notes.append(freshness)
+
+    # Note about combining sources
+    conflict_note = None
+    if has_data and kb_evidence_signals.status == "ok":
+        conflict_note = (
+            "Evidence includes both static KB sources and live Parliament data. "
+            "If these sources present different positions, surface both with dates. "
+            "Do not pick one — present the discrepancy clearly."
+        )
+
+    return {
+        "parliament_note": " ".join(notes) if notes else "",
+        "has_parliament_data": has_data,
+        "freshness_note": freshness,
+        "conflict_note": conflict_note,
+    }
+
+
 def default_suggestions() -> list[str]:
     return [
         'Try asking for a specific section (e.g., "What does section 12 say?").',

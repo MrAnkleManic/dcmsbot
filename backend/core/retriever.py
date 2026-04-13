@@ -2,6 +2,7 @@ import hashlib
 import json
 import math
 import re
+import threading
 from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import List, Tuple
@@ -128,7 +129,9 @@ class Retriever:
         self.kb = kb
         self.model: BM25Okapi | None = None
         self._tokenized_corpus: List[List[str]] = []
-        self._embeddings: List[List[float]] | None = None
+        self._embeddings: np.ndarray | None = None
+        self._embeddings_loading: bool = False
+        self._embeddings_lock = threading.Lock()
         self.index_ready: bool = False
         self.retrieval_mode: str = config.RETRIEVAL_MODE
         self._last_context: dict = {}
@@ -139,16 +142,34 @@ class Retriever:
             self.model = BM25Okapi(self._tokenized_corpus)
         else:
             self.model = None
+        # Mark index ready after BM25 builds — embeddings load lazily on
+        # first retrieval request so the app passes health checks before
+        # the memory-heavy embedding matrix is loaded.
         self.index_ready = bool(self.model)
-        self._embeddings = self._build_embeddings() if config.embeddings_configured() else None
         logger.info(
-            "Retriever index built",
+            "Retriever index built (embeddings deferred)",
             extra={
                 "chunks": len(self._tokenized_corpus),
-                "embeddings": bool(self._embeddings),
                 "mode": self.effective_mode(),
             },
         )
+
+    def _ensure_embeddings(self) -> None:
+        """Load embeddings on first use (lazy loading)."""
+        if self._embeddings is not None or not config.embeddings_configured():
+            return
+        with self._embeddings_lock:
+            if self._embeddings is not None:
+                return
+            self._embeddings_loading = True
+            try:
+                self._embeddings = self._build_embeddings()
+            finally:
+                self._embeddings_loading = False
+            logger.info(
+                "Embeddings loaded lazily",
+                extra={"embeddings": self._embeddings is not None, "mode": self.effective_mode()},
+            )
 
     @staticmethod
     def _embeddings_cache_key(texts: List[str], model: str) -> str:
@@ -160,8 +181,13 @@ class Retriever:
         return hasher.hexdigest()[:16]
 
     @staticmethod
+    def _committed_npy_path() -> Path:
+        """Pre-generated numpy cache for instant first boot (~167MB vs ~3.8GB JSON)."""
+        return Path(config.KB_DIR) / "embeddings_cache.npy"
+
+    @staticmethod
     def _committed_cache_path() -> Path:
-        """Pre-generated cache committed to git for instant first boot."""
+        """Legacy JSON cache (fallback if numpy not available)."""
         return Path(config.KB_DIR) / "embeddings_cache.json"
 
     @staticmethod
@@ -169,9 +195,41 @@ class Retriever:
         """Per-session cache in .cache/ (gitignored) for warm restarts."""
         cache_dir = Path(config.KB_DIR) / ".cache"
         cache_dir.mkdir(parents=True, exist_ok=True)
-        return cache_dir / f"embeddings_{cache_key}.json"
+        return cache_dir / f"embeddings_{cache_key}.npy"
 
-    def _load_cached_embeddings(self, cache_path: Path) -> List[List[float]] | None:
+    def _load_npy_cache(self, npy_path: Path, *, allow_mmap: bool = False) -> np.ndarray | None:
+        """Load embeddings from numpy binary format (memory-efficient).
+
+        When *allow_mmap* is True the file is memory-mapped read-only so the OS
+        pages data in on demand instead of copying the full array into the
+        Python heap.  This keeps RSS well below the 4 GB machine limit.
+        """
+        if not npy_path.exists():
+            return None
+        try:
+            arr = np.load(npy_path, mmap_mode="r" if allow_mmap else None)
+            if arr.shape[0] == len(self.kb.chunks):
+                logger.info(
+                    "Loaded embeddings from numpy cache",
+                    extra={
+                        "path": str(npy_path),
+                        "shape": list(arr.shape),
+                        "dtype": str(arr.dtype),
+                        "mmap": allow_mmap,
+                    },
+                )
+                return arr.astype(np.float32) if arr.dtype != np.float32 else arr
+            logger.info(
+                "Numpy cache size mismatch, will regenerate",
+                extra={"cached": arr.shape[0], "expected": len(self.kb.chunks)},
+            )
+            return None
+        except Exception:  # noqa: BLE001
+            logger.warning("Failed to read numpy embeddings cache", extra={"path": str(npy_path)})
+            return None
+
+    def _load_json_cache(self, cache_path: Path) -> np.ndarray | None:
+        """Fallback: load from JSON and convert to numpy array."""
         if not cache_path.exists():
             return None
         try:
@@ -179,53 +237,57 @@ class Retriever:
                 data = json.load(f)
             embeddings = data.get("embeddings")
             if embeddings and len(embeddings) == len(self.kb.chunks):
+                arr = np.array(embeddings, dtype=np.float32)
                 logger.info(
-                    "Loaded embeddings from cache",
+                    "Loaded embeddings from JSON cache (consider converting to numpy)",
                     extra={"path": str(cache_path), "chunks": len(embeddings)},
                 )
-                return embeddings
+                return arr
             logger.info(
-                "Cache size mismatch, will regenerate",
+                "JSON cache size mismatch, will regenerate",
                 extra={"cached": len(embeddings) if embeddings else 0, "expected": len(self.kb.chunks)},
             )
             return None
         except Exception:  # noqa: BLE001
-            logger.warning("Failed to read embeddings cache, will regenerate", extra={"path": str(cache_path)})
+            logger.warning("Failed to read JSON embeddings cache", extra={"path": str(cache_path)})
             return None
 
-    def _save_cached_embeddings(self, cache_path: Path, embeddings: List[List[float]], cache_key: str) -> None:
+    def _save_npy_cache(self, npy_path: Path, embeddings: np.ndarray) -> None:
         try:
-            with cache_path.open("w", encoding="utf-8") as f:
-                json.dump({"cache_key": cache_key, "model": config.EMBEDDINGS_MODEL, "chunks": len(embeddings), "embeddings": embeddings}, f)
-            logger.info("Saved embeddings cache", extra={"path": str(cache_path), "chunks": len(embeddings)})
+            np.save(npy_path, embeddings)
+            logger.info("Saved numpy embeddings cache", extra={"path": str(npy_path), "shape": list(embeddings.shape)})
         except Exception:  # noqa: BLE001
-            logger.warning("Failed to write embeddings cache", extra={"path": str(cache_path)})
+            logger.warning("Failed to write numpy embeddings cache", extra={"path": str(npy_path)})
 
-    def _build_embeddings(self) -> List[List[float]] | None:
+    def _build_embeddings(self) -> np.ndarray | None:
         if not self.kb.chunks:
             return None
 
         texts = [_chunk_index_text(c) for c in self.kb.chunks]
         cache_key = self._embeddings_cache_key(texts, config.EMBEDDINGS_MODEL)
 
-        # 1. Try the pre-committed cache (instant first boot for demos)
-        committed = self._committed_cache_path()
-        cached = self._load_cached_embeddings(committed)
+        # 1. Try pre-committed numpy cache with mmap (preferred — keeps RSS low)
+        npy_committed = self._committed_npy_path()
+        cached = self._load_npy_cache(npy_committed, allow_mmap=True)
         if cached is not None:
             return cached
 
-        # 2. Try the runtime cache in .cache/ (warm restarts after KB changes)
+        # 2. Try runtime numpy cache (written by a previous cold-start)
         runtime = self._runtime_cache_path(cache_key)
-        cached = self._load_cached_embeddings(runtime)
+        cached = self._load_npy_cache(runtime, allow_mmap=True)
         if cached is not None:
             return cached
+
+        # NOTE: Legacy JSON fallback removed — loading the 932 MB JSON into
+        # Python float objects requires ~3.8 GB of RAM and OOM-kills on a
+        # 4 GB machine.  Only numpy (.npy) caches are supported.
 
         # 3. Generate fresh embeddings via API (cold start with no cache)
         try:
             from openai import OpenAI
 
             client = OpenAI()
-            embeddings: List[List[float]] = []
+            all_embeddings: List[List[float]] = []
 
             # Token-aware batching: the embedding API has a per-request token
             # limit (8191 for text-embedding-3-small).  Legislative text
@@ -238,7 +300,7 @@ class Retriever:
                 text_len = len(text)
                 if batch and batch_chars + text_len > max_batch_chars:
                     response = client.embeddings.create(model=config.EMBEDDINGS_MODEL, input=batch)
-                    embeddings.extend([item.embedding for item in response.data])
+                    all_embeddings.extend([item.embedding for item in response.data])
                     batch = []
                     batch_chars = 0
                 batch.append(text)
@@ -246,11 +308,12 @@ class Retriever:
 
             if batch:
                 response = client.embeddings.create(model=config.EMBEDDINGS_MODEL, input=batch)
-                embeddings.extend([item.embedding for item in response.data])
+                all_embeddings.extend([item.embedding for item in response.data])
 
-            # Persist to runtime cache for next restart
-            self._save_cached_embeddings(runtime, embeddings, cache_key)
-            return embeddings
+            arr = np.array(all_embeddings, dtype=np.float32)
+            # Persist as numpy for next restart
+            self._save_npy_cache(runtime, arr)
+            return arr
         except Exception as exc:  # noqa: BLE001
             logger.exception("Failed to build embeddings index", extra={"error": str(exc)})
             return None
@@ -299,7 +362,7 @@ class Retriever:
         return filtered, indices
 
     def _embed_query(self, query: str) -> np.ndarray | None:
-        if not self._embeddings:
+        if self._embeddings is None:
             return None
         try:
             from openai import OpenAI
@@ -318,9 +381,9 @@ class Retriever:
         return float(np.dot(a, b) / denom)
 
     def effective_mode(self) -> str:
-        if self.retrieval_mode == "embeddings" and not self._embeddings:
+        if self.retrieval_mode == "embeddings" and self._embeddings is None:
             return "bm25"
-        if self.retrieval_mode == "hybrid" and not self._embeddings:
+        if self.retrieval_mode == "hybrid" and self._embeddings is None:
             return "bm25"
         if self.retrieval_mode in {"bm25", "hybrid", "embeddings"}:
             return self.retrieval_mode
@@ -337,6 +400,10 @@ class Retriever:
         self._last_context = {"section_value": None, "section_match": False}
         if not self.model:
             return []
+
+        # Lazy-load embeddings on first retrieval request
+        self._ensure_embeddings()
+
         filtered_chunks, indices = self._filter_chunks(
             filters, allowed_doc_types=allowed_doc_types, override_filters=override_filters
         )
@@ -361,8 +428,8 @@ class Retriever:
             bm25_norm = bm25_score / bm25_max if bm25_max else 0.0
             embedding_score = None
             embedding_norm = 0.0
-            if query_embedding is not None and self._embeddings:
-                chunk_vec = np.array(self._embeddings[chunk_idx], dtype=np.float32)
+            if query_embedding is not None and self._embeddings is not None:
+                chunk_vec = self._embeddings[chunk_idx]
                 embedding_score = self._cosine_similarity(chunk_vec, query_embedding)
                 embedding_norm = (embedding_score + 1) / 2  # scale to 0..1
 
@@ -483,7 +550,8 @@ class Retriever:
     def status(self) -> dict:
         return {
             "retrieval_mode": self.effective_mode(),
-            "embeddings_ready": bool(self._embeddings),
+            "embeddings_ready": self._embeddings is not None,
+            "embeddings_loading": self._embeddings_loading,
             "index_ready": self.index_ready,
         }
 

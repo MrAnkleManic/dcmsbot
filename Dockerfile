@@ -16,11 +16,24 @@ WORKDIR /app
 COPY backend/requirements.txt backend/requirements.txt
 RUN pip install --no-cache-dir -r backend/requirements.txt
 
+# Install bottl-commons from vendored wheel
+COPY vendor/ vendor/
+RUN pip install --no-cache-dir vendor/*.whl && rm -rf vendor/
+
 # Copy backend directory
 COPY backend/ backend/
 
-# Copy knowledge base into WORKDIR so config.py's Path("processed_knowledge_base") resolves
+# Copy knowledge base into WORKDIR so config.py's Path("processed_knowledge_base") resolves.
+# .dockerignore excludes the 932MB embeddings_cache.json — only the pre-built
+# 167MB .npy file (and chunk JSONs) are shipped, keeping the image small and
+# avoiding the 3.8GB peak-RAM JSON→numpy conversion inside the builder.
 COPY processed_knowledge_base/ processed_knowledge_base/
+
+# Safety net: if someone removes the .npy locally, re-generate it at build time.
+# In normal operation the .npy already exists and the script exits immediately.
+COPY scripts/convert_embeddings_to_npy.py scripts/convert_embeddings_to_npy.py
+RUN python scripts/convert_embeddings_to_npy.py --kb-dir processed_knowledge_base \
+    && rm -f processed_knowledge_base/embeddings_cache.json
 
 # Copy built frontend assets
 COPY --from=frontend-builder /frontend-v2/dist/ frontend-v2/dist/
