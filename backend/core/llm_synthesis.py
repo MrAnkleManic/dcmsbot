@@ -38,9 +38,11 @@ mentioning search service duties under sections 28-30, and 8 chunks about user-t
 service duties under sections 11-27, but none that directly compare the two regimes.")
    b) 2-3 specific alternative questions the user could ask instead, formatted as a \
 bullet list. Base these on the topics and sections you can see in the evidence chunks.
-   c) If the evidence chunks come from only one or two source types, suggest the user \
-check whether other document filters (e.g. Select Committee Evidence, Parliamentary \
-Debates, Regulator Guidance) might contain relevant material.
+   c) If the evidence comes from a narrow range of source types, note this limitation \
+(e.g. "The evidence I found is primarily from enforcement documents — parliamentary \
+debates may offer additional context on the policy intent"). Do NOT suggest the user \
+manually check filters or search other document types — the system handles retrieval \
+automatically.
    Do NOT guess or speculate about facts not in the evidence. Keep the refusal concise.
 5. Structure your answer clearly. For section-specific questions, lead with the \
 section content. For thematic questions, organise by topic.
@@ -60,13 +62,21 @@ not just factual retrieval. After presenting the evidence:
 have ministers said in Parliament? What has the Select \
 Committee found? Cite everything.
 
-2. Then offer analysis — clearly marked. Use [analysis] tags \
-for any interpretive claims that go beyond what a specific \
-source says. For example: "The minister's Written Answer of 14 March \
-suggests a shift in emphasis from platform liability toward \
-age-gating technology [WA003]. This is consistent with the \
-Ofcom consultation response [C045] but contradicts the \
-Select Committee's recommendation [H002] [analysis]."
+2. Then offer analysis in a SEPARATE section at the end. \
+You MUST wrap ALL interpretive content in [analysis] and [/analysis] \
+tags. This is critical — the frontend renders these as a visually \
+distinct panel. Any interpretation, inference, or strategic \
+observation that goes beyond what a specific source says must \
+appear between these tags. Example format:
+
+[analysis]
+The evidence suggests Ofcom is prioritising age assurance \
+enforcement over risk assessment compliance, as indicated by \
+the volume of investigations [C005] and the expansion of the \
+enforcement programme in July 2025 [C007]. This creates a \
+compliance risk for platforms that have focused their resources \
+on risk assessments while neglecting age assurance measures.
+[/analysis]
 
 3. Flag gaps and risks. What does the evidence NOT cover? \
 Where might the position change? What should officials \
@@ -90,7 +100,16 @@ def _build_system_prompt(
     conflict_note: str | None = None,
 ) -> str:
     """Assemble the system prompt from base + optional strategic supplement."""
+    from datetime import date
+
     prompt = _BASE_SYSTEM_PROMPT
+    prompt += (
+        f"\nToday's date is {date.today().strftime('%d %B %Y')}. "
+        "When citing deadlines or dates from the evidence, note whether "
+        "they are in the past or still upcoming. For example, if a "
+        "compliance deadline was March 2025, say it has now passed "
+        "rather than presenting it as a future requirement.\n"
+    )
 
     if parliament_note:
         prompt += f"\nNOTE: {parliament_note}\n"
@@ -242,13 +261,28 @@ def synthesise_answer(
             messages=messages,
         )
         answer_text = response.content[0].text
-    except Exception:
+    except Exception as exc:
         logger.exception("LLM synthesis failed")
+        err_str = str(exc).lower()
+        if "overloaded" in err_str or "529" in err_str:
+            msg = (
+                "Our AI synthesis service is temporarily busy. "
+                "The evidence has been retrieved successfully — "
+                "please try again in a moment for a fully synthesised answer."
+            )
+            reason = "LLM temporarily overloaded."
+        else:
+            msg = (
+                "AI synthesis encountered an error. "
+                "The evidence has been retrieved but could not be synthesised. "
+                "Please try again shortly."
+            )
+            reason = "LLM synthesis error."
         return Answer(
-            text="LLM synthesis encountered an error. Falling back to evidence excerpts.",
-            confidence=Confidence(level="low", reason="LLM call failed."),
+            text=msg,
+            confidence=Confidence(level="low", reason=reason),
             refused=True,
-            refusal_reason="LLM synthesis error.",
+            refusal_reason=reason,
             section_lock=section_lock,
         )
 

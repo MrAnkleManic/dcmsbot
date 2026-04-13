@@ -1,8 +1,8 @@
 import { Scale } from 'lucide-react';
 
 const examples = [
+  'What are the implications for platforms that have missed the illegal content risk assessment deadline?',
   'What patterns are emerging in how Ofcom prioritises its enforcement investigations?',
-  'How does Ofcom\'s approach to age assurance compare with what Parliament intended?',
   'What should a compliance team at a mid-sized platform be doing right now?',
   'What impact did the Select Committee\'s scrutiny have on the final shape of the Act?',
 ];

@@ -54,6 +54,27 @@ def _diversify_by_document(
     return diverse
 
 
+def _diversify_by_source_type(
+    candidates: List[RetrievedChunk],
+    max_per_type: int = config.MAX_CHUNKS_PER_SOURCE_TYPE,
+) -> List[RetrievedChunk]:
+    """Cap chunks per source_type so no single type dominates the pack.
+
+    Runs after document diversification. Preserves score ordering.
+    """
+    type_counts: dict[str, int] = {}
+    diverse: List[RetrievedChunk] = []
+
+    for cand in candidates:
+        st = cand.chunk.source_type or "Other"
+        count = type_counts.get(st, 0)
+        if count < max_per_type:
+            diverse.append(cand)
+            type_counts[st] = count + 1
+
+    return diverse
+
+
 def build_evidence_pack(
     candidates: List[RetrievedChunk],
     section_locked: bool = False,
@@ -75,7 +96,11 @@ def build_evidence_pack(
     per_doc = 5 if section_locked else config.MAX_CHUNKS_PER_DOC
     diverse = _diversify_by_document(viable, max_per_doc=per_doc)
 
-    # Third pass: deduplicate and enforce character budget.
+    # Third pass: diversify by source type so enforcement/debate/guidance
+    # each get fair representation.
+    diverse = _diversify_by_source_type(diverse)
+
+    # Fourth pass: deduplicate and enforce character budget.
     evidence: List[KBChunk] = []
     seen_keys: set[tuple[str, str | None]] = set()
     char_budget = 0

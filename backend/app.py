@@ -368,15 +368,13 @@ def query(req: QueryRequest) -> QueryResponse:
             )
             # Merge KB citations with Parliament citations
             response_citations = answer_citations + parliament_citations
-            # If the LLM call itself failed, degrade gracefully to extractive mode.
-            if answer.refused and answer.refusal_reason == "LLM synthesis error.":
-                answer = generate_answer(
-                    effective_question,
-                    response_evidence,
-                    answer_citations,
-                    section_lock=section_lock.label,
-                    target_section=section_lock.section_number if section_lock.active else None,
-                )
+            # If the LLM call itself failed, keep the helpful error message
+            # rather than falling back to raw chunk dumps.
+            if answer.refused and answer.refusal_reason in (
+                "LLM synthesis error.",
+                "LLM temporarily overloaded.",
+            ):
+                status_value = "llm_unavailable"
         else:
             answer = generate_answer(
                 effective_question,

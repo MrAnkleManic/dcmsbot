@@ -69,9 +69,21 @@ Last updated: 9 April 2026
 
 ### Medium priority
 
+- [ ] **LLM doesn't know today's date** — deadlines like
+  "16 March 2025" are quoted without noting they've already
+  passed. Fix: inject today's date into the system prompt so
+  the LLM can contextualise timelines (e.g. "this deadline
+  has now passed" vs "this is upcoming").
+
 - [ ] **Written Answers search too slow** — 15s for a single
   topic search. Consider parallel fetching of WA + Hansard,
   or per-source timeouts.
+
+- [ ] **Age assurance comparison retrieval** — "How does
+  Ofcom's approach compare with Parliament's intent?" produces
+  a weak answer because enforcement documents crowd out the
+  parliamentary debate chunks. Need to adjust retrieval ranking
+  or boost debate sources for comparison questions.
 
 - [ ] **Hansard returning 0 results** — connected and searching
   but finding nothing. May need broader search terms or

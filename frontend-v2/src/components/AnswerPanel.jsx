@@ -1,5 +1,6 @@
 import { useState, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
+import { Lightbulb } from 'lucide-react';
 import ConfidenceBadge from './ConfidenceBadge';
 import { parseCitations, toSuperscript } from '../lib/citations';
 
@@ -121,9 +122,57 @@ function makeMarkdownComponents(citations) {
   };
 }
 
+/**
+ * Split answer text into alternating segments of regular content
+ * and [analysis]...[/analysis] blocks.
+ */
+function splitAnalysisBlocks(text) {
+  const pattern = /\[analysis\]/gi;
+  const endPattern = /\[\/analysis\]/gi;
+  const segments = [];
+  let cursor = 0;
+
+  while (cursor < text.length) {
+    pattern.lastIndex = cursor;
+    const openMatch = pattern.exec(text);
+
+    if (!openMatch) {
+      segments.push({ type: 'content', text: text.slice(cursor) });
+      break;
+    }
+
+    // Content before the [analysis] tag
+    if (openMatch.index > cursor) {
+      segments.push({ type: 'content', text: text.slice(cursor, openMatch.index) });
+    }
+
+    // Find the closing tag
+    endPattern.lastIndex = openMatch.index + openMatch[0].length;
+    const closeMatch = endPattern.exec(text);
+
+    if (closeMatch) {
+      segments.push({
+        type: 'analysis',
+        text: text.slice(openMatch.index + openMatch[0].length, closeMatch.index).trim(),
+      });
+      cursor = closeMatch.index + closeMatch[0].length;
+    } else {
+      // No closing tag — treat rest as analysis
+      segments.push({
+        type: 'analysis',
+        text: text.slice(openMatch.index + openMatch[0].length).trim(),
+      });
+      cursor = text.length;
+    }
+  }
+
+  return segments.filter(s => s.text.trim());
+}
+
 export default function AnswerPanel({ data }) {
   const { answer, citations } = data;
   const components = makeMarkdownComponents(citations);
+  const segments = splitAnalysisBlocks(answer.text || '');
 
   return (
     <div className="space-y-4">
@@ -137,9 +186,33 @@ export default function AnswerPanel({ data }) {
       </div>
 
       <div className="prose dark:text-warm-200 light:text-dark-800 max-w-none">
-        <ReactMarkdown components={components}>
-          {answer.text}
-        </ReactMarkdown>
+        {segments.map((seg, i) =>
+          seg.type === 'analysis' ? (
+            <div
+              key={i}
+              className="my-4 rounded-lg border-l-4
+                dark:border-accent dark:bg-accent/5
+                light:border-accent light:bg-accent/5
+                px-5 py-4"
+            >
+              <div className="flex items-center gap-2 mb-2">
+                <Lightbulb size={16} className="text-accent shrink-0" />
+                <span className="text-xs font-semibold uppercase tracking-wider text-accent">
+                  Strategic Assessment
+                </span>
+              </div>
+              <div className="dark:text-warm-200 light:text-dark-700">
+                <ReactMarkdown components={components}>
+                  {seg.text}
+                </ReactMarkdown>
+              </div>
+            </div>
+          ) : (
+            <ReactMarkdown key={i} components={components}>
+              {seg.text}
+            </ReactMarkdown>
+          )
+        )}
       </div>
     </div>
   );

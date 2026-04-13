@@ -86,6 +86,10 @@ _STRATEGIC_PATTERNS = [
     re.compile(r"\bplay out\b", re.IGNORECASE),
     re.compile(r"\blikely\b", re.IGNORECASE),
     re.compile(r"\boutlook\b", re.IGNORECASE),
+    re.compile(r"\bcompare\b", re.IGNORECASE),
+    re.compile(r"\bdifferences?\b", re.IGNORECASE),
+    re.compile(r"\bassess\b", re.IGNORECASE),
+    re.compile(r"\bevaluat(e|ion)\b", re.IGNORECASE),
 ]
 
 
