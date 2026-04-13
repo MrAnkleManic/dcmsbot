@@ -1,9 +1,10 @@
 """LLM synthesis layer: generates answers from retrieved evidence chunks using Claude.
 
-Supports two synthesis registers:
-- Factual (base prompt): precise, evidence-only, researcher register
-- Strategic (base + supplement): evidence-first then analysis tagged [analysis],
-  senior policy adviser register
+All answers tag interpretive content with [analysis] markers so the frontend
+can visually separate fact from inference.  Two synthesis registers control
+depth and tone:
+- Factual (base prompt): precise, evidence-focused, researcher register
+- Strategic (base + supplement): deeper interpretation, policy-adviser register
 """
 
 from __future__ import annotations
@@ -49,6 +50,13 @@ section content. For thematic questions, organise by topic.
 6. Keep answers concise and focused on what was asked.
 7. When a chunk includes a location pointer (e.g. "Section 44"), reference it \
 naturally in your answer (e.g. "Section 44 of the Online Safety Act 2023 provides...").
+8. IMPORTANT: If your answer includes ANY interpretive content — conclusions \
+you've drawn, patterns you've identified, advice you're offering, or inferences \
+beyond what the sources directly state — wrap that content in [analysis] and \
+[/analysis] tags. This is not optional. The frontend renders these as a visually \
+distinct panel so the reader can always tell what is sourced fact and what is \
+your interpretation. Even a single sentence of interpretation should be tagged. \
+If your answer is purely factual with no interpretation, no tags are needed.
 """
 
 _STRATEGIC_SUPPLEMENT = """\
@@ -56,27 +64,16 @@ _STRATEGIC_SUPPLEMENT = """\
 STRATEGIC ANALYSIS MODE
 
 This question asks for interpretation or strategic assessment, \
-not just factual retrieval. After presenting the evidence:
+not just factual retrieval. Go deeper than usual:
 
 1. Lead with the facts. What does the legislation say? What \
 have ministers said in Parliament? What has the Select \
 Committee found? Cite everything.
 
-2. Then offer analysis in a SEPARATE section at the end. \
-You MUST wrap ALL interpretive content in [analysis] and [/analysis] \
-tags. This is critical — the frontend renders these as a visually \
-distinct panel. Any interpretation, inference, or strategic \
-observation that goes beyond what a specific source says must \
-appear between these tags. Example format:
-
-[analysis]
-The evidence suggests Ofcom is prioritising age assurance \
-enforcement over risk assessment compliance, as indicated by \
-the volume of investigations [C005] and the expansion of the \
-enforcement programme in July 2025 [C007]. This creates a \
-compliance risk for platforms that have focused their resources \
-on risk assessments while neglecting age assurance measures.
-[/analysis]
+2. Then offer substantial analysis. Identify patterns across \
+sources, draw connections, and assess implications. You have \
+permission to interpret more deeply here — the tagging rules \
+above ensure your interpretation is clearly marked.
 
 3. Flag gaps and risks. What does the evidence NOT cover? \
 Where might the position change? What should officials \
@@ -89,8 +86,7 @@ briefings, not academic papers or journalism.
 
 5. Never speculate beyond what the evidence supports. If you \
 cannot ground a strategic observation in at least one cited \
-source, do not make it. The [analysis] tag marks reasoned \
-inference from cited evidence, not imagination.
+source, do not make it.
 """
 
 

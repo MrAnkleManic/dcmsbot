@@ -90,6 +90,10 @@ _STRATEGIC_PATTERNS = [
     re.compile(r"\bdifferences?\b", re.IGNORECASE),
     re.compile(r"\bassess\b", re.IGNORECASE),
     re.compile(r"\bevaluat(e|ion)\b", re.IGNORECASE),
+    re.compile(r"\bpatterns?\b", re.IGNORECASE),
+    re.compile(r"\bemerging\b", re.IGNORECASE),
+    re.compile(r"\btrends?\b", re.IGNORECASE),
+    re.compile(r"\bevolv(e|ing)\b", re.IGNORECASE),
 ]
 
 

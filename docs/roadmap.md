@@ -54,6 +54,17 @@ Last updated: 9 April 2026
 
 ### High priority
 
+- [ ] **Analysis tagging must be universal** — the [analysis]
+  tags currently only appear when the strategic register is
+  activated by keyword matching. But any answer can contain
+  interpretation, and the line between fact and analysis must
+  ALWAYS be visible. This is core to the "AI that shows its
+  working" pitch. Fix: move the [analysis] tagging instruction
+  into the base system prompt so every answer separates fact
+  from interpretation, regardless of classification. The
+  strategic supplement controls depth of analysis, not whether
+  analysis is tagged.
+
 - [x] **Written Answers returning noise** — FIXED: filtered by
   DCMS/DSIT answering body in parliament_fetch.py.
 
