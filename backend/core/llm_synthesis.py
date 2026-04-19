@@ -127,6 +127,8 @@ def _format_chunk_context(evidence: List[KBChunk], citations: List[Citation]) ->
         if citation.location_pointer:
             header += f" — {citation.location_pointer}"
         header += f" (source_type: {citation.source_type}, authority_weight: {citation.authority_weight})"
+        if citation.is_expansion:
+            header += " [context: neighbouring chunk, not independently retrieved]"
         parts.append(f"{header}\n{chunk.chunk_text}")
     return "\n\n---\n\n".join(parts)
 

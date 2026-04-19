@@ -53,6 +53,9 @@ class Citation(BaseModel):
     # Parliament-specific fields (set for WA/H/B citations, None for KB)
     parliament_source_type: Optional[str] = None  # "written_answer", "hansard_debate", "bill"
     parliament_date: Optional[str] = None  # date of the WA/debate/bill activity
+    # True when this citation was pulled in as a K-1/K+1 neighbour of a primary
+    # to keep chunks from cutting off mid-sentence, not independently scored.
+    is_expansion: bool = False
 
 
 class Confidence(BaseModel):

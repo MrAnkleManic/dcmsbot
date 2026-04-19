@@ -1,6 +1,6 @@
 import math
 import re
-from typing import List, Optional
+from typing import TYPE_CHECKING, List, Optional, Set, Tuple
 
 from backend import config
 from backend.core.guardrails import detect_definition_target, find_definition_snippet
@@ -9,6 +9,9 @@ from backend.core.models import Answer, Citation, Confidence, KBChunk
 from backend.core.retriever import RetrievedChunk, chunk_belongs_to_section, _section_match_text
 from backend.core.sections import chunk_section_number, parse_target_section
 from backend.logging_config import get_logger
+
+if TYPE_CHECKING:
+    from backend.core.loader import KnowledgeBase
 
 logger = get_logger(__name__)
 _HEADING_PREFIX = re.compile(r"^Section heading:\s*", re.IGNORECASE)
@@ -118,7 +121,70 @@ def build_evidence_pack(
     return evidence
 
 
-def build_citations(evidence: List[KBChunk]) -> List[Citation]:
+def expand_with_neighbors(
+    evidence: List[KBChunk],
+    kb: "KnowledgeBase",
+    max_chars: int = config.MAX_CHARS_TO_LLM,
+) -> Tuple[List[KBChunk], Set[str]]:
+    """Insert K-1 and K+1 neighbour chunks adjacent to each primary.
+
+    Only same-DOC neighbours are pulled; a neighbour that is itself a primary
+    (independently selected) is not duplicated. Primaries stay in their
+    relevance order; expansions appear directly before/after their primary.
+    Expansions are skipped once the total character budget is exhausted, but
+    every primary is always kept.
+
+    Returns (expanded_pack, expansion_ids). ``expansion_ids`` identifies the
+    newly-added chunks so citations can mark them distinguishable from
+    primaries.
+    """
+    if not evidence:
+        return [], set()
+
+    primary_ids = {chunk.chunk_id for chunk in evidence}
+    added_neighbor_ids: Set[str] = set()
+    expansion_ids: Set[str] = set()
+    expanded: List[KBChunk] = []
+    char_budget = sum(len(chunk.chunk_text) for chunk in evidence)
+
+    def try_add(neighbor_id: Optional[str], doc_id: str) -> Optional[KBChunk]:
+        nonlocal char_budget
+        if not neighbor_id:
+            return None
+        if neighbor_id in primary_ids or neighbor_id in added_neighbor_ids:
+            return None
+        neighbor = kb.get_chunk(neighbor_id)
+        if neighbor is None:
+            return None
+        # Defensive: prev/next_chunk_id are same-DOC by construction, but we
+        # never want to pull a chunk from a different document.
+        if neighbor.doc_id != doc_id:
+            return None
+        extra = len(neighbor.chunk_text)
+        if char_budget + extra > max_chars:
+            return None
+        char_budget += extra
+        added_neighbor_ids.add(neighbor_id)
+        expansion_ids.add(neighbor_id)
+        return neighbor
+
+    for primary in evidence:
+        prev = try_add(primary.prev_chunk_id, primary.doc_id)
+        if prev is not None:
+            expanded.append(prev)
+        expanded.append(primary)
+        nxt = try_add(primary.next_chunk_id, primary.doc_id)
+        if nxt is not None:
+            expanded.append(nxt)
+
+    return expanded, expansion_ids
+
+
+def build_citations(
+    evidence: List[KBChunk],
+    expansion_ids: Optional[Set[str]] = None,
+) -> List[Citation]:
+    expansion_ids = expansion_ids or set()
     citations: List[Citation] = []
     for idx, chunk in enumerate(evidence, start=1):
         citations.append(
@@ -137,6 +203,7 @@ def build_citations(evidence: List[KBChunk]) -> List[Citation]:
                 prev_chunk_id=chunk.prev_chunk_id,
                 next_chunk_id=chunk.next_chunk_id,
                 source_format=chunk.source_format,
+                is_expansion=chunk.chunk_id in expansion_ids,
             )
         )
     return citations

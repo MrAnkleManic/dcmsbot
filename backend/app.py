@@ -15,6 +15,7 @@ from backend.core.evidence import (
     build_parliament_citations,
     compute_source_freshness,
     enforce_response_consistency,
+    expand_with_neighbors,
     format_parliament_evidence_context,
     generate_answer,
     generate_llm_answer,
@@ -262,9 +263,12 @@ def query(req: QueryRequest) -> QueryResponse:
 
     section_lock = apply_section_lock(effective_question, candidates, kb=loader.kb)
     answer_candidates = section_lock.filtered_candidates if section_lock.active else candidates
-    evidence_pack = (
-        build_evidence_pack(answer_candidates, section_locked=True) if section_lock.active else retrieval_outcome.evidence_pack
-    )
+    if section_lock.active:
+        evidence_pack = build_evidence_pack(answer_candidates, section_locked=True)
+        evidence_pack, expansion_ids = expand_with_neighbors(evidence_pack, loader.kb)
+    else:
+        evidence_pack = retrieval_outcome.evidence_pack
+        expansion_ids = retrieval_outcome.expansion_ids
     response_evidence = evidence_pack or []
     answer = None
     suggestions = None
@@ -308,7 +312,7 @@ def query(req: QueryRequest) -> QueryResponse:
     # Similarly, Parliament data overrides refusal for thin KB results
     if refusal and has_parliament_data:
         refusal = False
-    answer_citations = build_citations(response_evidence)
+    answer_citations = build_citations(response_evidence, expansion_ids=expansion_ids)
 
     if req.use_llm and not config.llm_configured():
         missing = ", ".join(config.missing_llm_env())
