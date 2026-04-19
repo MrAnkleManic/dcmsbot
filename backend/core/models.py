@@ -171,6 +171,10 @@ class QueryResponse(BaseModel):
     parliament_health: Optional[List[Dict]] = None
     source_freshness: Optional[str] = None
     synthesis_mode: Optional[str] = None  # "factual" or "strategic"
+    # Per-request LLM token usage + cost. Additive / backward-compatible;
+    # shape matches UsageAggregator.summary() and the persisted store
+    # record (calls[], totals{}, total_cost_usd).
+    api_usage: Optional[Dict] = None
 
 
 class RetrievedChunkDebug(BaseModel):

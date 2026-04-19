@@ -9,13 +9,13 @@ depth and tone:
 
 from __future__ import annotations
 
-import os
 from typing import List, Optional
 
 import anthropic
 
 from backend import config
 from backend.core.models import Answer, Citation, Confidence, KBChunk
+from backend.core.usage import UsageAggregator
 from backend.logging_config import get_logger
 
 logger = get_logger(__name__)
@@ -221,6 +221,7 @@ def synthesise_answer(
     parliament_context_str: str = "",
     parliament_note: str = "",
     conflict_note: str | None = None,
+    usage_sink: Optional[UsageAggregator] = None,
 ) -> Answer:
     """Call Claude to synthesise an answer from retrieved evidence chunks.
 
@@ -248,16 +249,31 @@ def synthesise_answer(
 
     try:
         client = anthropic.Anthropic(
-            api_key=os.getenv("ANTHROPIC_API_KEY"),
+            api_key=config.anthropic_api_key(),
             timeout=config.LLM_TIMEOUT_SECONDS,
         )
+        # Mark the system prompt as cacheable (5-min ephemeral TTL).
+        # The static rules + register guidance are the dominant stable bytes
+        # across queries; the prompt is well over Sonnet's 1024-token
+        # minimum-cacheable threshold even without the strategic supplement.
+        # Evidence chunks are intentionally NOT cached (they're per-query).
         response = client.messages.create(
             model=config.ANTHROPIC_MODEL,
             max_tokens=config.LLM_MAX_TOKENS,
             temperature=config.LLM_TEMPERATURE,
-            system=system_prompt,
+            system=[
+                {
+                    "type": "text",
+                    "text": system_prompt,
+                    "cache_control": {"type": "ephemeral"},
+                }
+            ],
             messages=messages,
         )
+        if usage_sink is not None:
+            usage_sink.record_anthropic(
+                "synthesis", config.ANTHROPIC_MODEL, response.usage
+            )
         answer_text = response.content[0].text
     except Exception as exc:
         logger.exception("LLM synthesis failed")

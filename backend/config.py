@@ -88,8 +88,16 @@ DEFAULT_CORS_ALLOW_ORIGINS = [
 ]
 
 _LLM_REQUIRED_ENV_OPENAI = ["OPENAI_API_KEY"]
-_LLM_REQUIRED_ENV_ANTHROPIC = ["ANTHROPIC_API_KEY"]
+# For Anthropic, prefer ANTHROPIC_API_KEY_DCMS (product-scoped key for clean
+# cost attribution at the billing layer); fall back to ANTHROPIC_API_KEY so
+# existing local/Fly.io deployments keep working without a config flip.
+_LLM_REQUIRED_ENV_ANTHROPIC = ["ANTHROPIC_API_KEY_DCMS", "ANTHROPIC_API_KEY"]
 _EMBEDDINGS_REQUIRED_ENV = ["OPENAI_API_KEY"]
+
+
+def anthropic_api_key() -> str | None:
+    """Return the DCMS-scoped Anthropic key, falling back to the shared one."""
+    return os.getenv("ANTHROPIC_API_KEY_DCMS") or os.getenv("ANTHROPIC_API_KEY")
 
 
 def _llm_required_env() -> list[str]:
@@ -99,6 +107,9 @@ def _llm_required_env() -> list[str]:
 
 
 def missing_llm_env() -> list[str]:
+    # For Anthropic, the list is "one of these must be set", not "all set".
+    if LLM_PROVIDER == "anthropic":
+        return [] if anthropic_api_key() else [_LLM_REQUIRED_ENV_ANTHROPIC[0]]
     return [env for env in _llm_required_env() if not os.getenv(env)]
 
 

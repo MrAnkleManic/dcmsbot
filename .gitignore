@@ -13,3 +13,5 @@ backend/.DS_Store
 backend/logs/
 frontend-v2/dist/
 frontend-v2/node_modules/
+# Append-only LLM usage store — operational data, not source.
+data/cache/

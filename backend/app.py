@@ -52,6 +52,8 @@ from backend.core.models import (
     RetrievalDebugSummary,
 )
 from backend.core.retriever import Retriever, chunk_belongs_to_section, _section_match_text
+from backend.core.usage import UsageAggregator
+from backend.core.usage_store import append_usage_record
 from backend.logging_config import get_logger
 from backend.version import __version__
 
@@ -181,6 +183,12 @@ def query(req: QueryRequest) -> QueryResponse:
     query_id = str(uuid.uuid4())
     logger.info("Incoming query", extra={"query_id": query_id, "filters": req.filters.dict()})
 
+    # Per-request LLM cost sink. Every Anthropic call made while handling
+    # this request records against this aggregator; at the end we attach
+    # `api_usage` to the response and, if there was any cost at all, append
+    # one record to the monthly JSON store.
+    usage_sink = UsageAggregator()
+
     classification = classify_query(req.question)
     if not is_in_scope(classification):
         refusal_reason = (
@@ -217,6 +225,7 @@ def query(req: QueryRequest) -> QueryResponse:
             suggestions=None,
             closest_matches=[],
             evidence_assessment=None,
+            api_usage=usage_sink.summary(),
         )
         logger.info(
             "Query rejected by scope guard",
@@ -230,7 +239,7 @@ def query(req: QueryRequest) -> QueryResponse:
     if req.conversation_history and config.llm_configured():
         history_dicts = [turn.dict() for turn in req.conversation_history]
         effective_question, was_rewritten = rewrite_follow_up(
-            req.question, history_dicts
+            req.question, history_dicts, usage_sink=usage_sink
         )
         if was_rewritten:
             rewritten_question = effective_question
@@ -369,6 +378,7 @@ def query(req: QueryRequest) -> QueryResponse:
                 parliament_context_str=parliament_context_str,
                 parliament_note=parliament_assessment.get("parliament_note", ""),
                 conflict_note=parliament_assessment.get("conflict_note"),
+                usage_sink=usage_sink,
             )
             # Merge KB citations with Parliament citations
             response_citations = answer_citations + parliament_citations
@@ -441,6 +451,24 @@ def query(req: QueryRequest) -> QueryResponse:
         if sources:
             parliament_sources_out = sources
 
+    # Build per-request usage summary. Attach to response always (even when
+    # zero calls) so the field shape is predictable for the frontend.
+    # Persist to the monthly JSON store only when there was actually a
+    # billable call — no point logging refusals that never hit the API.
+    usage_summary = usage_sink.summary()
+    if usage_summary["calls"]:
+        try:
+            append_usage_record(
+                request_id=query_id,
+                query_text=req.question,
+                summary=usage_summary,
+            )
+        except Exception:
+            logger.exception(
+                "Failed to persist api_usage record",
+                extra={"query_id": query_id},
+            )
+
     response = QueryResponse(
         answer=answer,
         citations=citations,
@@ -461,6 +489,7 @@ def query(req: QueryRequest) -> QueryResponse:
         parliament_health=parliament_context.get("pipeline_health") if parliament_context else None,
         source_freshness=source_freshness,
         synthesis_mode=synthesis_mode,
+        api_usage=usage_summary,
     )
 
     logger.info(
@@ -469,6 +498,7 @@ def query(req: QueryRequest) -> QueryResponse:
             "query_id": query_id,
             "refused": answer.refused,
             "citations": [c.citation_id for c in citations],
+            "api_cost_usd": usage_summary["total_cost_usd"],
         },
     )
     return response

@@ -14,12 +14,12 @@ Design:
 
 from __future__ import annotations
 
-import os
 from typing import List, Optional, Tuple
 
 import anthropic
 
 from backend import config
+from backend.core.usage import UsageAggregator
 from backend.logging_config import get_logger
 
 logger = get_logger(__name__)
@@ -91,6 +91,7 @@ def _format_history_for_rewrite(history: List[dict], max_turns: int) -> str:
 def rewrite_follow_up(
     question: str,
     conversation_history: Optional[List[dict]] = None,
+    usage_sink: Optional[UsageAggregator] = None,
 ) -> Tuple[str, bool]:
     """Rewrite a follow-up question into a standalone question.
 
@@ -118,7 +119,7 @@ def rewrite_follow_up(
 
     try:
         client = anthropic.Anthropic(
-            api_key=os.getenv("ANTHROPIC_API_KEY"),
+            api_key=config.anthropic_api_key(),
             timeout=config.LLM_TIMEOUT_SECONDS,
         )
         response = client.messages.create(
@@ -128,6 +129,10 @@ def rewrite_follow_up(
             system=_REWRITE_SYSTEM_PROMPT,
             messages=[{"role": "user", "content": user_prompt}],
         )
+        if usage_sink is not None:
+            usage_sink.record_anthropic(
+                "rewriter", config.ANTHROPIC_MODEL, response.usage
+            )
         rewritten = response.content[0].text.strip()
 
         # Sanity checks: empty or suspiciously long output → fall back

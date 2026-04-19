@@ -8,6 +8,7 @@ from backend.core.llm_synthesis import synthesise_answer
 from backend.core.models import Answer, Citation, Confidence, KBChunk
 from backend.core.retriever import RetrievedChunk, chunk_belongs_to_section, _section_match_text
 from backend.core.sections import chunk_section_number, parse_target_section
+from backend.core.usage import UsageAggregator
 from backend.logging_config import get_logger
 
 if TYPE_CHECKING:
@@ -539,6 +540,7 @@ def generate_llm_answer(
     parliament_context_str: str = "",
     parliament_note: str = "",
     conflict_note: str | None = None,
+    usage_sink: Optional[UsageAggregator] = None,
 ) -> Answer:
     """Generate an answer using LLM synthesis over retrieved evidence."""
     if target_section is None:
@@ -555,6 +557,7 @@ def generate_llm_answer(
         parliament_context_str=parliament_context_str,
         parliament_note=parliament_note,
         conflict_note=conflict_note,
+        usage_sink=usage_sink,
     )
 
 
