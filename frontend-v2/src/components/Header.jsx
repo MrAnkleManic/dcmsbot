@@ -1,6 +1,6 @@
-import { Settings, Sun, Moon, Activity } from 'lucide-react';
+import { Settings, Sun, Moon, Activity, Archive } from 'lucide-react';
 
-export default function Header({ theme, toggleTheme, onOpenSettings, onOpenKbHealth }) {
+export default function Header({ theme, toggleTheme, onOpenSettings, onOpenKbHealth, onOpenArchive }) {
   return (
     <header className="border-b border-dark-600 dark:border-dark-600 light:border-warm-300">
       <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
@@ -19,6 +19,14 @@ export default function Header({ theme, toggleTheme, onOpenSettings, onOpenKbHea
             aria-label="Toggle theme"
           >
             {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
+          </button>
+          <button
+            onClick={onOpenArchive}
+            className="p-2 rounded-lg dark:text-dark-300 dark:hover:text-warm-200 dark:hover:bg-dark-600 light:text-warm-400 light:hover:text-dark-800 light:hover:bg-warm-100 transition-colors"
+            aria-label="Archive"
+            title="Past answers"
+          >
+            <Archive size={18} />
           </button>
           <button
             onClick={onOpenKbHealth}

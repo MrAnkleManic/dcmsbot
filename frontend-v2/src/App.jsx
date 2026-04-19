@@ -13,6 +13,7 @@ import SettingsDrawer from './components/SettingsDrawer';
 import KbStatsPanel from './components/KbStatsPanel';
 import KbHealthPanel from './components/KbHealthPanel';
 import ShareButtons from './components/ShareButtons';
+import ArchivePanel from './components/ArchivePanel';
 
 const MAX_CONVERSATION_TURNS = 6; // 3 exchanges (user + assistant pairs)
 
@@ -21,6 +22,7 @@ export default function App() {
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [scrollToFilters, setScrollToFilters] = useState(false);
   const [kbHealthOpen, setKbHealthOpen] = useState(false);
+  const [archiveOpen, setArchiveOpen] = useState(false);
 
   const [filters, setFilters] = useState({
     primary_only: false,
@@ -100,6 +102,16 @@ export default function App() {
     setLastQuery('');
   }, []);
 
+  // Load an archived record into the main view. We skip touching
+  // conversation history — re-displaying a past answer is a one-off
+  // inspection, not the start of a new multi-turn thread.
+  const handleLoadArchived = useCallback((record) => {
+    setLastQuery(record.query_text || '');
+    setResult(record);
+    setStatus(record?.answer?.refused ? 'refused' : 'success');
+    setError(null);
+  }, []);
+
   const handleOpenFilters = useCallback(() => {
     setScrollToFilters(true);
     setSettingsOpen(true);
@@ -121,10 +133,18 @@ export default function App() {
         toggleTheme={toggleTheme}
         onOpenSettings={() => setSettingsOpen(true)}
         onOpenKbHealth={() => setKbHealthOpen(true)}
+        onOpenArchive={() => setArchiveOpen(true)}
       />
 
       {kbHealthOpen && (
         <KbHealthPanel onClose={() => setKbHealthOpen(false)} />
+      )}
+
+      {archiveOpen && (
+        <ArchivePanel
+          onClose={() => setArchiveOpen(false)}
+          onSelect={handleLoadArchived}
+        />
       )}
 
       <div className="flex">
@@ -182,6 +202,7 @@ export default function App() {
                   title: m.title,
                   source_type: m.source_type || 'Unknown',
                 }))}
+                requestId={result.request_id}
               />
             </>
           )}
@@ -207,6 +228,7 @@ export default function App() {
                 question={lastQuery}
                 answerText={result.answer?.text}
                 citations={result.citations}
+                requestId={result.request_id}
               />
               <SourcesList citations={result.citations} />
 

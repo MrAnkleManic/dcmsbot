@@ -12,6 +12,14 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
+# Pango runtime for weasyprint (answer-export PDF pipeline). Kept minimal —
+# pango + gobject are what weasyprint actually dlopens; shared-mime-info lets
+# font fallback resolve cleanly. No build toolchain needed (weasyprint is pure
+# Python above these shared libs).
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b shared-mime-info \
+    && rm -rf /var/lib/apt/lists/*
+
 # Install dependencies first (cached layer)
 COPY backend/requirements.txt backend/requirements.txt
 RUN pip install --no-cache-dir -r backend/requirements.txt

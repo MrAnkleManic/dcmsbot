@@ -8,3 +8,7 @@ openai>=1.58.0
 anthropic>=0.40.0
 numpy>=2.0.0
 beautifulsoup4>=4.12.0
+# Answer-export to PDF (HTML → PDF). Requires pango system libs at runtime:
+# Dockerfile apt-installs libpango-1.0-0 / libpangoft2-1.0-0; macOS dev uses
+# `brew install pango`. Matches iron-resolve's choice for cross-product parity.
+weasyprint>=62

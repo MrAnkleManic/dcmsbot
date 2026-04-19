@@ -36,3 +36,27 @@ export async function fetchChunk(chunkId) {
   if (!res.ok) throw new Error(`Chunk fetch failed (${res.status})`);
   return res.json();
 }
+
+export async function fetchAnswers({ since, until, q, limit = 50 } = {}) {
+  const params = new URLSearchParams();
+  if (since) params.set('since', since);
+  if (until) params.set('until', until);
+  if (q) params.set('q', q);
+  if (limit) params.set('limit', String(limit));
+  const qs = params.toString();
+  const res = await fetch(`${API_BASE}/answers${qs ? `?${qs}` : ''}`);
+  if (!res.ok) throw new Error(`Archive list fetch failed (${res.status})`);
+  return res.json();
+}
+
+export async function fetchAnswer(requestId) {
+  const res = await fetch(`${API_BASE}/answers/${encodeURIComponent(requestId)}`);
+  if (!res.ok) throw new Error(`Archive record fetch failed (${res.status})`);
+  return res.json();
+}
+
+// Download URL for the server-rendered export. Opening in a new tab
+// triggers the browser's Content-Disposition: attachment save flow.
+export function answerExportUrl(requestId, format) {
+  return `${API_BASE}/answers/${encodeURIComponent(requestId)}/export?format=${format}`;
+}

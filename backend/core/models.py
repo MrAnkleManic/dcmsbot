@@ -175,6 +175,33 @@ class QueryResponse(BaseModel):
     # shape matches UsageAggregator.summary() and the persisted store
     # record (calls[], totals{}, total_cost_usd).
     api_usage: Optional[Dict] = None
+    # Echo the server-generated request_id so clients can export the
+    # archived record (GET /answers/{request_id}/export?format=...).
+    request_id: Optional[str] = None
+
+
+class AnswerSummary(BaseModel):
+    """Compact entry for the archive list view.
+
+    Full record (answer, citations, evidence_pack, api_usage) available
+    via GET /answers/{request_id}.
+    """
+    request_id: str
+    timestamp: str
+    query_text: str
+    answer_preview: str
+    refused: bool
+    total_cost_usd: Optional[float] = None
+
+
+class AnswersListResponse(BaseModel):
+    results: List[AnswerSummary]
+    count: int
+    # Filters echoed back so the frontend can display "Showing X
+    # results matching 'enforcement' between 2026-04-01 and today".
+    since: Optional[str] = None
+    until: Optional[str] = None
+    q: Optional[str] = None
 
 
 class RetrievedChunkDebug(BaseModel):

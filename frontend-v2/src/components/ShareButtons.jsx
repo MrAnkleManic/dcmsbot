@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { ClipboardCopy, Check, Mail } from 'lucide-react';
+import { ClipboardCopy, Check, Mail, FileDown, FileText } from 'lucide-react';
+import { answerExportUrl } from '../lib/api';
 
 function formatAnswerForSharing(question, answerText, citations) {
   const timestamp = new Date().toLocaleString('en-GB', {
@@ -25,7 +26,7 @@ function formatAnswerForSharing(question, answerText, citations) {
   return formatted;
 }
 
-export default function ShareButtons({ question, answerText, citations }) {
+export default function ShareButtons({ question, answerText, citations, requestId }) {
   const [copied, setCopied] = useState(false);
 
   if (!answerText) return null;
@@ -91,6 +92,37 @@ export default function ShareButtons({ question, answerText, citations }) {
         <Mail size={14} />
         Email This Answer
       </button>
+
+      {requestId && (
+        <>
+          <a
+            href={answerExportUrl(requestId, 'html')}
+            target="_blank"
+            rel="noopener"
+            aria-label="Download this answer as HTML"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md border
+              dark:border-dark-500 dark:text-warm-300 dark:hover:bg-dark-600
+              light:border-warm-300 light:text-warm-500 light:hover:bg-warm-100
+              transition-colors cursor-pointer"
+          >
+            <FileText size={14} />
+            Download HTML
+          </a>
+          <a
+            href={answerExportUrl(requestId, 'pdf')}
+            target="_blank"
+            rel="noopener"
+            aria-label="Download this answer as PDF"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md border
+              dark:border-dark-500 dark:text-warm-300 dark:hover:bg-dark-600
+              light:border-warm-300 light:text-warm-500 light:hover:bg-warm-100
+              transition-colors cursor-pointer"
+          >
+            <FileDown size={14} />
+            Download PDF
+          </a>
+        </>
+      )}
     </div>
   );
 }

@@ -1,10 +1,11 @@
 import uuid
 from dataclasses import asdict
 from collections import Counter
+from datetime import datetime, timezone
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, HTMLResponse, Response
 
 from backend import config
 from backend.core.doc_types import canonical_doc_type
@@ -41,6 +42,8 @@ from backend.core.query_guard import (
 from backend.core.query_rewriter import rewrite_follow_up
 from backend.core.models import (
     Answer,
+    AnswerSummary,
+    AnswersListResponse,
     Confidence,
     DebugRetrieveResponse,
     EvidenceAssessment,
@@ -54,6 +57,12 @@ from backend.core.models import (
 from backend.core.retriever import Retriever, chunk_belongs_to_section, _section_match_text
 from backend.core.usage import UsageAggregator
 from backend.core.usage_store import append_usage_record
+from backend.core.answers_store import (
+    append_answer_record,
+    list_answers,
+    load_answer_record,
+)
+from backend.core.answer_export import filename_for, render_html, render_pdf
 from backend.logging_config import get_logger
 from backend.version import __version__
 
@@ -226,6 +235,7 @@ def query(req: QueryRequest) -> QueryResponse:
             closest_matches=[],
             evidence_assessment=None,
             api_usage=usage_sink.summary(),
+            request_id=query_id,
         )
         logger.info(
             "Query rejected by scope guard",
@@ -469,6 +479,26 @@ def query(req: QueryRequest) -> QueryResponse:
                 extra={"query_id": query_id},
             )
 
+    # Archive this answered query. Scope-guard refusals return before
+    # here and are deliberately NOT archived (pure noise). Evidence-
+    # insufficient refusals ARE archived — useful "what couldn't I get
+    # answered?" signal. Persist failure is logged but never fails the
+    # response.
+    try:
+        append_answer_record(
+            request_id=query_id,
+            query_text=req.question,
+            answer=answer.model_dump() if answer else {},
+            citations=[c.model_dump() for c in citations],
+            evidence_pack=[c.model_dump() for c in (response_evidence or [])],
+            api_usage=usage_summary if usage_summary["calls"] else None,
+        )
+    except Exception:
+        logger.exception(
+            "Failed to persist answer archive record",
+            extra={"query_id": query_id},
+        )
+
     response = QueryResponse(
         answer=answer,
         citations=citations,
@@ -490,6 +520,7 @@ def query(req: QueryRequest) -> QueryResponse:
         source_freshness=source_freshness,
         synthesis_mode=synthesis_mode,
         api_usage=usage_summary,
+        request_id=query_id,
     )
 
     logger.info(
@@ -502,6 +533,116 @@ def query(req: QueryRequest) -> QueryResponse:
         },
     )
     return response
+
+
+# ---------------------------------------------------------------------------
+# Archive — browse past answered queries
+# ---------------------------------------------------------------------------
+
+def _parse_iso_date(value: str | None, *, field: str) -> datetime | None:
+    """Accept YYYY-MM-DD or full ISO; raise HTTPException on malformed input."""
+    if not value:
+        return None
+    try:
+        if len(value) == 10:
+            return datetime.fromisoformat(value).replace(tzinfo=timezone.utc)
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=400,
+            detail=f"invalid {field}: {value!r} (expected YYYY-MM-DD or ISO-8601)",
+        ) from exc
+
+
+@app.get("/answers", response_model=AnswersListResponse)
+@app.get("/api/answers", response_model=AnswersListResponse, include_in_schema=False)
+def answers_list(
+    since: str | None = None,
+    until: str | None = None,
+    q: str | None = None,
+    limit: int = 50,
+) -> AnswersListResponse:
+    """List archived answers, newest first.
+
+    Date filters are inclusive; `q` is a case-insensitive substring match
+    on the stored query_text. Scope is intentionally narrow per the brief
+    — no full-text search, no tagging, no pagination beyond `limit`.
+    """
+    since_dt = _parse_iso_date(since, field="since")
+    until_dt = _parse_iso_date(until, field="until")
+    capped_limit = max(1, min(int(limit), 500))
+    summaries = list_answers(
+        since=since_dt, until=until_dt, q=q, limit=capped_limit,
+    )
+    return AnswersListResponse(
+        results=[AnswerSummary(**s) for s in summaries],
+        count=len(summaries),
+        since=since, until=until, q=q,
+    )
+
+
+@app.get("/answers/{request_id}")
+@app.get("/api/answers/{request_id}", include_in_schema=False)
+def answers_get(request_id: str) -> dict:
+    """Return the full archived record for a single request."""
+    try:
+        record = load_answer_record(request_id)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    if record is None:
+        raise HTTPException(status_code=404, detail=f"no archived answer for {request_id}")
+    return record
+
+
+@app.get("/answers/{request_id}/export")
+@app.get("/api/answers/{request_id}/export", include_in_schema=False)
+def answers_export(request_id: str, format: str = "html") -> Response:
+    """Download an archived answer as standalone HTML or PDF.
+
+    `format=html` is cheap and zero-dependency. `format=pdf` requires
+    weasyprint + libpango (Dockerfile installs these; local dev needs
+    `brew install pango`). A missing weasyprint raises 501 with a
+    pointer — same actionable-error pattern as iron-resolve.
+    """
+    try:
+        record = load_answer_record(request_id)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    if record is None:
+        raise HTTPException(status_code=404, detail=f"no archived answer for {request_id}")
+
+    fmt = format.lower().strip()
+    if fmt == "html":
+        html = render_html(record)
+        return HTMLResponse(
+            content=html,
+            headers={
+                "Content-Disposition": f'attachment; filename="{filename_for(record, "html")}"',
+            },
+        )
+    if fmt == "pdf":
+        try:
+            pdf_bytes = render_pdf(record)
+        except ImportError as exc:
+            raise HTTPException(
+                status_code=501,
+                detail=(
+                    "PDF export requires weasyprint (pip install weasyprint) "
+                    "and system dependencies (brew install pango on macOS, "
+                    "apt-get install libpango-1.0-0 libpangoft2-1.0-0 on Debian)."
+                ),
+            ) from exc
+        except Exception as exc:
+            logger.exception("PDF rendering failed", extra={"request_id": request_id})
+            raise HTTPException(status_code=500, detail=f"PDF generation failed: {exc}") from exc
+        return Response(
+            content=pdf_bytes,
+            media_type="application/pdf",
+            headers={
+                "Content-Disposition": f'attachment; filename="{filename_for(record, "pdf")}"',
+            },
+        )
+    raise HTTPException(status_code=400, detail=f"unsupported format: {format!r} (use html or pdf)")
 
 
 @app.get("/status")
