@@ -1,9 +1,11 @@
 import hashlib
 import json
 import math
+import os
 import re
 import threading
 from dataclasses import dataclass, replace
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import List, Tuple
 
@@ -132,6 +134,7 @@ class Retriever:
         self._embeddings: np.ndarray | None = None
         self._embeddings_loading: bool = False
         self._embeddings_lock = threading.Lock()
+        self._embeddings_info: dict = {"chunk_count": 0, "dim": 0, "rebuilt_at": None}
         self.index_ready: bool = False
         self.retrieval_mode: str = config.RETRIEVAL_MODE
         self._last_context: dict = {}
@@ -142,9 +145,14 @@ class Retriever:
             self.model = BM25Okapi(self._tokenized_corpus)
         else:
             self.model = None
-        # Mark index ready after BM25 builds — embeddings load lazily on
-        # first retrieval request so the app passes health checks before
-        # the memory-heavy embedding matrix is loaded.
+        # Invalidate the previous embedding matrix — after a /refresh the
+        # loader may have added, removed, or reordered chunks, so the old
+        # matrix is no longer aligned with self.kb.chunks. Callers that
+        # need embeddings ready immediately (e.g. /refresh) must call
+        # rebuild_embeddings(); otherwise the next retrieve() will rebuild
+        # lazily via _ensure_embeddings.
+        self._embeddings = None
+        self._embeddings_info = {"chunk_count": 0, "dim": 0, "rebuilt_at": None}
         self.index_ready = bool(self.model)
         logger.info(
             "Retriever index built (embeddings deferred)",
@@ -153,6 +161,33 @@ class Retriever:
                 "mode": self.effective_mode(),
             },
         )
+
+    def rebuild_embeddings(self) -> dict:
+        """Eagerly (re)build the embedding matrix.
+
+        Chosen over lazy invalidation for /refresh so the response can report
+        the new matrix shape and the first post-refresh query is not penalised
+        by cold-start embedding generation.
+
+        Safe to call when embeddings are not configured (no OpenAI key) — the
+        matrix stays None and the info dict reports zero chunks.
+        """
+        self._ensure_embeddings()
+        if self._embeddings is not None:
+            shape = self._embeddings.shape
+            self._embeddings_info = {
+                "chunk_count": int(shape[0]),
+                "dim": int(shape[1]) if len(shape) > 1 else 0,
+                "rebuilt_at": datetime.now(timezone.utc).isoformat(),
+            }
+        else:
+            self._embeddings_info = {
+                "chunk_count": 0,
+                "dim": 0,
+                "rebuilt_at": datetime.now(timezone.utc).isoformat(),
+            }
+        logger.info("Embeddings rebuilt", extra=self._embeddings_info)
+        return dict(self._embeddings_info)
 
     def _ensure_embeddings(self) -> None:
         """Load embeddings on first use (lazy loading)."""
@@ -253,11 +288,25 @@ class Retriever:
             return None
 
     def _save_npy_cache(self, npy_path: Path, embeddings: np.ndarray) -> None:
+        # Write to a sibling temp file then rename into place. os.replace is
+        # atomic on POSIX, so concurrent readers (mmap) never see a partial
+        # file during a rebuild.
+        tmp_path = npy_path.with_name(f"{npy_path.name}.tmp.{os.getpid()}")
         try:
-            np.save(npy_path, embeddings)
-            logger.info("Saved numpy embeddings cache", extra={"path": str(npy_path), "shape": list(embeddings.shape)})
+            with tmp_path.open("wb") as fh:
+                np.save(fh, embeddings)
+            os.replace(tmp_path, npy_path)
+            logger.info(
+                "Saved numpy embeddings cache",
+                extra={"path": str(npy_path), "shape": list(embeddings.shape)},
+            )
         except Exception:  # noqa: BLE001
             logger.warning("Failed to write numpy embeddings cache", extra={"path": str(npy_path)})
+            if tmp_path.exists():
+                try:
+                    tmp_path.unlink()
+                except OSError:
+                    pass
 
     def _build_embeddings(self) -> np.ndarray | None:
         if not self.kb.chunks:
@@ -552,6 +601,7 @@ class Retriever:
             "retrieval_mode": self.effective_mode(),
             "embeddings_ready": self._embeddings is not None,
             "embeddings_loading": self._embeddings_loading,
+            "embeddings_info": dict(self._embeddings_info),
             "index_ready": self.index_ready,
         }
 

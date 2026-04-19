@@ -503,11 +503,20 @@ def readyz() -> dict:
 @app.post("/refresh")
 @app.post("/api/refresh", include_in_schema=False)
 def refresh() -> dict:
+    # Eager rebuild: build() invalidates the old embedding matrix,
+    # rebuild_embeddings() regenerates it from the reloaded corpus before we
+    # return. Front-loads the cost on the operator-triggered /refresh so the
+    # first subsequent query sees the new chunks without a restart. Lazy
+    # invalidation would keep refresh fast but shift the cost — and the
+    # visibility — to the next query.
     loader.kb.load(config.KB_DIR)
     retriever.build()
+    embeddings_rebuild = retriever.rebuild_embeddings()
     if not loader.kb.last_refreshed:
         raise HTTPException(status_code=500, detail="Failed to refresh knowledge base")
-    return _status_payload()
+    payload = _status_payload()
+    payload["embeddings_rebuild"] = embeddings_rebuild
+    return payload
 
 
 @app.post("/debug/retrieve", response_model=DebugRetrieveResponse)
