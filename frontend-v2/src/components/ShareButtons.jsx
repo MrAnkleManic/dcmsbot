@@ -110,7 +110,7 @@ export default function ShareButtons({ question, answerText, citations, requestI
           </a>
           <a
             href={answerExportUrl(requestId, 'pdf')}
-            target="_blank"
+            download
             rel="noopener"
             aria-label="Download this answer as PDF"
             className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md border

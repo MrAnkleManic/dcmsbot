@@ -49,6 +49,8 @@ Last updated: 9 April 2026
 13. Analytics refusal now suggests a rephrased question
 14. Section lock expanded to fetch adjacent chunks from the KB —
     Section 12 now returns the actual duties, not just the heading
+15. PDF download no longer opens a flash-tab — swapped
+    `target="_blank"` for `download` attribute on the link
 
 ## Current issues — to fix
 
@@ -79,6 +81,8 @@ Last updated: 9 April 2026
   when section-locked.
 
 ### Medium priority
+
+
 
 - [ ] **LLM doesn't know today's date** — deadlines like
   "16 March 2025" are quoted without noting they've already
