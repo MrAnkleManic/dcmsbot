@@ -24,6 +24,94 @@ logger = get_logger(__name__)
 _TOKEN_PATTERN = re.compile(r"[A-Za-z0-9']+")
 _HYBRID_WEIGHT = 0.6
 _SECTION_RERANK_WEIGHT = 0.55
+
+# Brief 11 (open-threads #83 follow-up): discriminative corpus-match counter.
+# The Brief 9 implementation counted any chunk with BM25 > 0 — on the DCMS
+# corpus (mixed Act / Ofcom guidance / Hansard / Written Answers) that
+# would surface nearly every chunk for broad scaffolding tokens like
+# "section", "the", "online", "safety". The ratio is useless for honest-
+# framing ("5 of ~28,000 matching chunks" is not a meaningful denominator).
+#
+# Replacement: extract content tokens from the query (length >= 4, not
+# purely numeric, not in a compact stopword set of generic question /
+# regulatory / scaffolding words), then count chunks whose token sets
+# contain >=2 of them (threshold drops to >=1 when the query has only
+# one content token).
+#
+# DCMS adaptation vs iln_bot: the ILN-corpus-specific nouns ("iln",
+# "illustrated", "newspaper", "article", "story") are dropped — they
+# would be topic words in a DCMS context. Scaffolding / request verbs
+# / question words / common short prepositions are kept because they
+# are cross-corpus generic.
+_CORPUS_MATCH_STOPWORDS = frozenset({
+    # Question scaffolding
+    "what", "when", "where", "which", "who", "whom", "whose", "why", "how",
+    "does", "do", "did", "done", "can", "could", "would", "should", "will",
+    "were", "was", "been", "have", "has", "had", "are", "is", "be",
+    # Conjunctions / prepositions / determiners >=4 chars
+    "with", "from", "into", "onto", "over", "about", "during", "within",
+    "this", "that", "these", "those", "them", "they", "their", "there",
+    "here", "also", "each", "every", "some", "many", "such", "much",
+    "more", "most", "less", "least", "only", "else", "like", "than",
+    "then", "your", "mine", "ours", "hers", "yourselves",
+    # Generic reporting / coverage words — they describe how something
+    # is referenced, not the topic itself.
+    "report", "reports", "reported", "reporting", "mention", "mentioned",
+    "mentions", "cover", "covered", "coverage", "covering", "happen",
+    "happened", "said", "saying", "discuss", "discussed", "discussing",
+    # Generic editorial adjectives (don't narrow the corpus)
+    "recent", "latest", "other", "various", "please",
+    # Request verbs / prompt shaping — the user asking us to "draft a
+    # narrative" or "tell me about" isn't describing the TOPIC, they're
+    # describing the desired output shape.
+    "draft", "narrative", "write", "writing", "given", "tell", "telling",
+    "give", "show", "produce", "provide", "create", "compose", "compile",
+    "list", "summary", "summarise", "summarize", "describe", "description",
+    "explain", "explanation", "outline", "overview",
+})
+
+
+def _extract_content_tokens(tokens: list[str]) -> list[str]:
+    """Filter query tokens down to content-bearing ones for corpus_matches.
+
+    Expects *tokens* to already be normalised via _tokenize (lowercased).
+    Excludes short tokens (< 4 chars), purely numeric tokens (years like
+    "2023" match many chunks), and generic scaffolding from the stopword
+    set. Preserves order and collapses duplicates.
+    """
+    seen: set[str] = set()
+    content: list[str] = []
+    for tok in tokens:
+        if tok in seen:
+            continue
+        if len(tok) < 4:
+            continue
+        if tok.isdigit():
+            continue
+        if tok in _CORPUS_MATCH_STOPWORDS:
+            continue
+        seen.add(tok)
+        content.append(tok)
+    return content
+
+
+def _count_content_matches(
+    content_tokens: list[str],
+    chunk_token_sets: list[frozenset[str]],
+    filtered_indices: list[int],
+    threshold: int,
+) -> int:
+    """Count filtered chunks containing >=*threshold* of *content_tokens*."""
+    if not content_tokens or not filtered_indices:
+        return 0
+    needles = set(content_tokens)
+    hits = 0
+    for idx in filtered_indices:
+        if sum(1 for tok in needles if tok in chunk_token_sets[idx]) >= threshold:
+            hits += 1
+    return hits
+
+
 _SECTION_REF_PATTERNS: list[re.Pattern[str]] = [
     re.compile(r"\bsection\s+(?P<number>[\dA-Za-z]+)(?P<subsection>\([^)]+\))?", re.IGNORECASE),
     re.compile(r"\bsec\.?\s+(?P<number>[\dA-Za-z]+)(?P<subsection>\([^)]+\))?", re.IGNORECASE),
@@ -131,6 +219,10 @@ class Retriever:
         self.kb = kb
         self.model: BM25Okapi | None = None
         self._tokenized_corpus: List[List[str]] = []
+        # Brief 11: per-chunk token set, parallel to _tokenized_corpus, used
+        # by the discriminative corpus_matches counter. Built once at index
+        # build time; set-membership is O(1) per lookup.
+        self._chunk_token_sets: List[frozenset[str]] = []
         self._embeddings: np.ndarray | None = None
         self._embeddings_loading: bool = False
         self._embeddings_lock = threading.Lock()
@@ -141,6 +233,9 @@ class Retriever:
 
     def build(self) -> None:
         self._tokenized_corpus = [_tokenize(_chunk_index_text(c)) for c in self.kb.chunks]
+        # Brief 11: keep per-chunk token sets in sync with the tokenized
+        # corpus. Using frozenset so callers cannot mutate in place.
+        self._chunk_token_sets = [frozenset(toks) for toks in self._tokenized_corpus]
         if self._tokenized_corpus:
             self.model = BM25Okapi(self._tokenized_corpus)
         else:
@@ -466,6 +561,39 @@ class Retriever:
         filtered_bm25 = [bm25_scores_all[idx] for idx in indices]
         bm25_max = max(filtered_bm25) if filtered_bm25 else 1.0
 
+        # Discriminative corpus-matches counter (Brief 11 / open-threads #83
+        # follow-up). Extract content-bearing tokens from the query (>=4
+        # chars, non-numeric, non-stopword) then count filtered chunks that
+        # contain >=CORPUS_MATCH_MIN_CONTENT_OVERLAP of them. For single-
+        # content-token queries the threshold drops to 1.
+        #
+        # Legacy BM25-floor behaviour is kept as a fallback when the query
+        # has zero content tokens (pathological: a short function-word-only
+        # query). Also preserved when CORPUS_MATCH_MIN_CONTENT_OVERLAP is
+        # explicitly set to 0 — operators who want the old counter back
+        # can flip that env var.
+        content_tokens = _extract_content_tokens(tokenized_query)
+        threshold_cfg = getattr(config, "CORPUS_MATCH_MIN_CONTENT_OVERLAP", 2)
+        if content_tokens and threshold_cfg >= 1:
+            # Threshold sizing: use ceil(N/2) so the denominator counts
+            # chunks that mention at least half of the topic tokens. This
+            # keeps short editorial queries generous (1 or 2 content words
+            # → threshold 1, i.e. union) and scales up for topic-heavy
+            # queries (3-4 tokens → threshold 2) without demanding that
+            # every token appear in every chunk. Capped by threshold_cfg
+            # so operators can tighten (env-var raise) but never exceed
+            # the natural ceiling of the token count.
+            natural_threshold = max(1, (len(content_tokens) + 1) // 2)
+            threshold = min(threshold_cfg, natural_threshold, len(content_tokens))
+            corpus_matches = _count_content_matches(
+                content_tokens, self._chunk_token_sets, indices, threshold=threshold
+            )
+            corpus_match_method = f"content-overlap>={threshold}"
+        else:
+            floor = getattr(config, "CORPUS_MATCH_BM25_FLOOR", 0.0)
+            corpus_matches = sum(1 for s in filtered_bm25 if s > floor)
+            corpus_match_method = f"bm25>{floor}"
+
         query_embedding = None
         if self.effective_mode() in {"hybrid", "embeddings"}:
             query_embedding = self._embed_query(query)
@@ -541,6 +669,10 @@ class Retriever:
                 "pre_filter": len(base_candidates),
                 "post_filter": len(metadata_matches or heading_matches),
                 "match_type": match_type,
+                "corpus_matches": corpus_matches,
+                "corpus_match_method": corpus_match_method,
+                "content_tokens": content_tokens,
+                "requested_top_k": limit,
             }
             logger.info(
                 "Section lock applied",
@@ -559,6 +691,10 @@ class Retriever:
             "section_match": False,
             "section_lock": "off",
             "match_type": "none",
+            "corpus_matches": corpus_matches,
+            "corpus_match_method": corpus_match_method,
+            "content_tokens": content_tokens,
+            "requested_top_k": limit,
         }
         logger.info(
             "Retrieved candidates",

@@ -1,5 +1,6 @@
 import math
 import re
+from dataclasses import dataclass
 from typing import TYPE_CHECKING, List, Optional, Set, Tuple
 
 from backend import config
@@ -13,6 +14,39 @@ from backend.logging_config import get_logger
 
 if TYPE_CHECKING:
     from backend.core.loader import KnowledgeBase
+
+
+@dataclass(frozen=True)
+class PackConfig:
+    """Caps for build_evidence_pack. Default = the factual/precision path.
+
+    Survey queries swap in widened values via PackConfig.for_survey(). The
+    caller owns the kind decision (see query_classifier); evidence.py
+    only knows how to honour the caps it is handed.
+    """
+    max_chunks_to_llm: int
+    max_chunks_per_doc: int
+    max_chunks_per_source_type: int
+    max_chars_to_llm: int
+
+    @classmethod
+    def default(cls) -> "PackConfig":
+        return cls(
+            max_chunks_to_llm=config.MAX_CHUNKS_TO_LLM,
+            max_chunks_per_doc=config.MAX_CHUNKS_PER_DOC,
+            max_chunks_per_source_type=config.MAX_CHUNKS_PER_SOURCE_TYPE,
+            max_chars_to_llm=config.MAX_CHARS_TO_LLM,
+        )
+
+    @classmethod
+    def for_survey(cls) -> "PackConfig":
+        return cls(
+            max_chunks_to_llm=config.SURVEY_MAX_CHUNKS_TO_LLM,
+            max_chunks_per_doc=config.SURVEY_MAX_CHUNKS_PER_DOC,
+            max_chunks_per_source_type=config.SURVEY_MAX_CHUNKS_PER_SOURCE_TYPE,
+            max_chars_to_llm=config.SURVEY_MAX_CHARS_TO_LLM,
+        )
+
 
 logger = get_logger(__name__)
 _HEADING_PREFIX = re.compile(r"^Section heading:\s*", re.IGNORECASE)
@@ -34,8 +68,8 @@ def _excerpt(text: str, max_words: int = config.MAX_EXCERPT_WORDS) -> str:
 
 def _diversify_by_document(
     candidates: List[RetrievedChunk],
-    max_per_doc: int = config.MAX_CHUNKS_PER_DOC,
-    target_total: int = config.MAX_CHUNKS_TO_LLM,
+    max_per_doc: int,
+    target_total: int,
 ) -> List[RetrievedChunk]:
     """
     Ensure chunks come from diverse documents.
@@ -60,7 +94,7 @@ def _diversify_by_document(
 
 def _diversify_by_source_type(
     candidates: List[RetrievedChunk],
-    max_per_type: int = config.MAX_CHUNKS_PER_SOURCE_TYPE,
+    max_per_type: int,
 ) -> List[RetrievedChunk]:
     """Cap chunks per source_type so no single type dominates the pack.
 
@@ -82,9 +116,12 @@ def _diversify_by_source_type(
 def build_evidence_pack(
     candidates: List[RetrievedChunk],
     section_locked: bool = False,
+    pack_config: Optional[PackConfig] = None,
 ) -> List[KBChunk]:
     if not candidates:
         return []
+
+    cfg = pack_config or PackConfig.default()
 
     # First pass: drop chunks below the minimum score threshold.
     max_score = candidates[0].final_score
@@ -97,12 +134,14 @@ def build_evidence_pack(
     # Second pass: diversify so no single document dominates.
     # When section-locked, allow more chunks from the same document
     # because legislative sections span multiple chunks.
-    per_doc = 5 if section_locked else config.MAX_CHUNKS_PER_DOC
-    diverse = _diversify_by_document(viable, max_per_doc=per_doc)
+    per_doc = 5 if section_locked else cfg.max_chunks_per_doc
+    diverse = _diversify_by_document(
+        viable, max_per_doc=per_doc, target_total=cfg.max_chunks_to_llm
+    )
 
     # Third pass: diversify by source type so enforcement/debate/guidance
     # each get fair representation.
-    diverse = _diversify_by_source_type(diverse)
+    diverse = _diversify_by_source_type(diverse, max_per_type=cfg.max_chunks_per_source_type)
 
     # Fourth pass: deduplicate and enforce character budget.
     evidence: List[KBChunk] = []
@@ -114,7 +153,7 @@ def build_evidence_pack(
         if key in seen_keys:
             continue
         excerpt_len = len(chunk.chunk_text)
-        if char_budget + excerpt_len > config.MAX_CHARS_TO_LLM:
+        if char_budget + excerpt_len > cfg.max_chars_to_llm:
             break
         seen_keys.add(key)
         evidence.append(chunk)
@@ -125,7 +164,7 @@ def build_evidence_pack(
 def expand_with_neighbors(
     evidence: List[KBChunk],
     kb: "KnowledgeBase",
-    max_chars: int = config.MAX_CHARS_TO_LLM,
+    max_chars: Optional[int] = None,
 ) -> Tuple[List[KBChunk], Set[str]]:
     """Insert K-1 and K+1 neighbour chunks adjacent to each primary.
 
@@ -141,6 +180,9 @@ def expand_with_neighbors(
     """
     if not evidence:
         return [], set()
+
+    if max_chars is None:
+        max_chars = config.MAX_CHARS_TO_LLM
 
     primary_ids = {chunk.chunk_id for chunk in evidence}
     added_neighbor_ids: Set[str] = set()
@@ -541,6 +583,7 @@ def generate_llm_answer(
     parliament_note: str = "",
     conflict_note: str | None = None,
     usage_sink: Optional[UsageAggregator] = None,
+    retrieval_coverage: Optional[object] = None,
 ) -> Answer:
     """Generate an answer using LLM synthesis over retrieved evidence."""
     if target_section is None:
@@ -558,6 +601,7 @@ def generate_llm_answer(
         parliament_note=parliament_note,
         conflict_note=conflict_note,
         usage_sink=usage_sink,
+        retrieval_coverage=retrieval_coverage,
     )
 
 

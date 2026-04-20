@@ -35,6 +35,22 @@ MAX_RETRIEVAL_CANDIDATES = 50
 MAX_CHUNKS_PER_DOC = 1
 MAX_CHUNKS_PER_SOURCE_TYPE = _get_int_env("MAX_CHUNKS_PER_SOURCE_TYPE", 5, min_value=1)
 DEBUG_CANDIDATES_LIMIT = MAX_RETRIEVAL_CANDIDATES
+
+# Survey-query retrieval widening (Brief 9 sub-job A / open-threads #83).
+# When query_classifier.classify_query_kind() returns "survey", the pipeline
+# swaps these caps in for the usual ones. Defaults adapted from iln_bot but
+# tuned for DCMS's multi-source corpus (OSA KB chunks + Ofcom guidance +
+# Hansard debates + Written Answers + Bills): per-source-type cap kept at
+# 20 (vs iln_bot 30) so no single source type can monopolise a 40-chunk
+# pack — preserves Parliament / Ofcom / Act breadth on broad survey
+# queries like "main debates on online safety duties".
+SURVEY_RETRIEVAL_TOP_K = _get_int_env("SURVEY_RETRIEVAL_TOP_K", 150, min_value=1)
+SURVEY_MAX_CHUNKS_TO_LLM = _get_int_env("SURVEY_MAX_CHUNKS_TO_LLM", 40, min_value=1)
+SURVEY_MAX_CHUNKS_PER_DOC = _get_int_env("SURVEY_MAX_CHUNKS_PER_DOC", 3, min_value=1)
+SURVEY_MAX_CHUNKS_PER_SOURCE_TYPE = _get_int_env(
+    "SURVEY_MAX_CHUNKS_PER_SOURCE_TYPE", 20, min_value=1
+)
+SURVEY_MAX_CHARS_TO_LLM = _get_int_env("SURVEY_MAX_CHARS_TO_LLM", 80000, min_value=1000)
 MIN_SCORE_THRESHOLD = 0.15
 MIN_RELEVANCE_SCORE = _get_float_env("MIN_RELEVANCE_SCORE", "0.25")
 DEFINITION_DOC_TYPES = {"Act", "Explanatory Notes", "SI / Statutory Instrument"}
@@ -78,6 +94,63 @@ RETRIEVAL_MODE = os.getenv("RETRIEVAL_MODE", "hybrid").lower()
 # Conversation / multi-turn settings
 CONVERSATION_MAX_HISTORY_TURNS = _get_int_env("CONVERSATION_MAX_HISTORY_TURNS", 3, min_value=1)
 CONVERSATION_MAX_HISTORY_CHARS = _get_int_env("CONVERSATION_MAX_HISTORY_CHARS", 10000, min_value=1000)
+
+# Brief 9 sub-job B (open-threads #83): heuristic conversation-aware
+# retrieval. When a follow-up is detected ("is that all?", "tell me
+# more"), the retrieval-layer query is augmented with the previous user
+# turn so the retriever keeps the topic. Distinct from the LLM-backed
+# rewriter already in place (query_rewriter.rewrite_follow_up): this
+# path runs with no LLM call and is cheap to keep on by default. The
+# rewriter still runs after it when QUERY_REWRITE_ENABLED is true.
+CONVERSATION_AWARE_RETRIEVAL_ENABLED = (
+    os.getenv("CONVERSATION_AWARE_RETRIEVAL_ENABLED", "true").lower() == "true"
+)
+
+# Brief 9 sub-job C / Brief 11 (open-threads #83): corpus-match floor for
+# the BM25 fallback counter. Retained only as a fallback for pathological
+# function-word-only queries; the primary counter is content-token overlap
+# (see CORPUS_MATCH_MIN_CONTENT_OVERLAP below).
+CORPUS_MATCH_BM25_FLOOR = _get_float_env("CORPUS_MATCH_BM25_FLOOR", "0.0")
+
+# Brief 11 (open-threads #83 follow-up): primary corpus_matches counter
+# is content-token overlap. A chunk "matches" the query if its token set
+# contains at least this many distinct content-bearing query tokens
+# (length >= 4, non-numeric, not in the generic stopword set). Single-
+# content-token queries automatically fall back to threshold=1. Set to
+# 0 to disable content-overlap counting and revert to BM25-floor.
+CORPUS_MATCH_MIN_CONTENT_OVERLAP = _get_int_env(
+    "CORPUS_MATCH_MIN_CONTENT_OVERLAP", 2, min_value=0
+)
+
+# When evidence_pack / corpus_matches <= this ratio, the synthesis layer
+# is told retrieval is the constraint (not corpus sparsity) so it can
+# frame limitations honestly. 0.2 means a pack covering <=20% of the
+# corpus-matching chunks is flagged as retrieval-limited.
+RETRIEVAL_LIMITED_COVERAGE_THRESHOLD = _get_float_env(
+    "RETRIEVAL_LIMITED_COVERAGE_THRESHOLD", "0.2"
+)
+
+# Honest-framing system-prompt rule, appended to the base synthesis
+# prompt in llm_synthesis. Tunable via env so language can be re-worked
+# without a code change (Brief 9 requirement).
+HONEST_FRAMING_SYSTEM_RULE = os.getenv(
+    "HONEST_FRAMING_SYSTEM_RULE",
+    """\
+9. The user message below may include a RETRIEVAL METADATA block with \
+retrieval_coverage {requested, returned, pack_size, corpus_matches, \
+kind, coverage_ratio, is_retrieval_limited}. When is_retrieval_limited \
+is true (coverage_ratio is small and corpus_matches is large — the \
+retriever surfaced a small slice of the corpus-matching chunks on this \
+topic), frame any limitations as a retrieval-depth constraint, NOT \
+corpus sparsity: "retrieval surfaced {pack_size} of ~{corpus_matches} \
+matching chunks on this topic; a narrower or more specific query should \
+surface fuller coverage." Do NOT say "the corpus contains little about \
+X" in that case — the content is there, just not retrieved. When \
+corpus_matches is itself small (single-digit or low tens), the corpus \
+IS sparse on this topic; say so plainly. Factual queries (kind=factual) \
+generally don't need this framing; survey queries (kind=survey) with \
+is_retrieval_limited=true do.""",
+)
 DEFAULT_CORS_ALLOW_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",

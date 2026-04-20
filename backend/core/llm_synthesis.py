@@ -9,7 +9,8 @@ depth and tone:
 
 from __future__ import annotations
 
-from typing import List, Optional
+import json
+from typing import TYPE_CHECKING, List, Optional
 
 import anthropic
 
@@ -17,6 +18,9 @@ from backend import config
 from backend.core.models import Answer, Citation, Confidence, KBChunk
 from backend.core.usage import UsageAggregator
 from backend.logging_config import get_logger
+
+if TYPE_CHECKING:
+    from backend.core.query_flow import RetrievalCoverage
 
 logger = get_logger(__name__)
 
@@ -116,6 +120,13 @@ def _build_system_prompt(
     if strategic:
         prompt += _STRATEGIC_SUPPLEMENT
 
+    # Brief 9 sub-job C: honest framing when retrieval is the constraint
+    # rather than the corpus itself being sparse on the topic. Copy is
+    # env-tunable via HONEST_FRAMING_SYSTEM_RULE.
+    honest_rule = getattr(config, "HONEST_FRAMING_SYSTEM_RULE", "").strip()
+    if honest_rule:
+        prompt += "\n" + honest_rule + "\n"
+
     return prompt
 
 
@@ -133,11 +144,33 @@ def _format_chunk_context(evidence: List[KBChunk], citations: List[Citation]) ->
     return "\n\n---\n\n".join(parts)
 
 
-def _build_user_prompt(question: str, context: str, parliament_context_str: str = "") -> str:
+def _format_retrieval_metadata(coverage: "Optional[RetrievalCoverage]") -> str:
+    """Serialize retrieval_coverage for the user-turn prompt.
+
+    Returns an empty string when coverage is None (e.g. synthesis called
+    from a test or a path that hasn't threaded coverage through).
+    """
+    if coverage is None:
+        return ""
+    payload = coverage.to_dict()
+    return (
+        "RETRIEVAL METADATA:\n"
+        f"retrieval_coverage: {json.dumps(payload)}\n\n---\n\n"
+    )
+
+
+def _build_user_prompt(
+    question: str,
+    context: str,
+    parliament_context_str: str = "",
+    coverage: "Optional[RetrievalCoverage]" = None,
+) -> str:
+    metadata_block = _format_retrieval_metadata(coverage)
     evidence_section = f"EVIDENCE CHUNKS:\n\n{context}"
     if parliament_context_str:
         evidence_section += f"\n\n---\n\nPARLIAMENT DATA (live sources):\n\n{parliament_context_str}"
     return (
+        f"{metadata_block}"
         f"{evidence_section}\n\n---\n\n"
         f"QUESTION: {question}\n\n"
         "Answer the question using only the evidence above. "
@@ -151,6 +184,7 @@ def _build_messages(
     context: str,
     conversation_history: Optional[List[dict]] = None,
     parliament_context_str: str = "",
+    coverage: "Optional[RetrievalCoverage]" = None,
 ) -> list[dict]:
     """Build the messages array for the Claude API call.
 
@@ -189,8 +223,10 @@ def _build_messages(
                 "content": turn["content"],
             })
 
-    # Current turn: evidence chunks + question
-    user_prompt = _build_user_prompt(question, context, parliament_context_str)
+    # Current turn: evidence chunks + question (+ retrieval metadata if present).
+    user_prompt = _build_user_prompt(
+        question, context, parliament_context_str, coverage=coverage
+    )
     messages.append({"role": "user", "content": user_prompt})
 
     return messages
@@ -222,6 +258,7 @@ def synthesise_answer(
     parliament_note: str = "",
     conflict_note: str | None = None,
     usage_sink: Optional[UsageAggregator] = None,
+    retrieval_coverage: "Optional[RetrievalCoverage]" = None,
 ) -> Answer:
     """Call Claude to synthesise an answer from retrieved evidence chunks.
 
@@ -233,6 +270,8 @@ def synthesise_answer(
         parliament_context_str: Pre-formatted Parliament evidence context for inclusion.
         parliament_note: Note about Parliament data availability/freshness.
         conflict_note: Note about potential KB/Parliament conflicts.
+        retrieval_coverage: Brief 9 sub-job C honest-framing metadata; serialized
+            as a JSON block in the user prompt when present.
     """
     if not evidence and not parliament_context_str:
         return Answer(
@@ -245,7 +284,13 @@ def synthesise_answer(
 
     context = _format_chunk_context(evidence, citations) if evidence else ""
     system_prompt = _build_system_prompt(strategic, parliament_note, conflict_note)
-    messages = _build_messages(question, context, conversation_history, parliament_context_str)
+    messages = _build_messages(
+        question,
+        context,
+        conversation_history,
+        parliament_context_str,
+        coverage=retrieval_coverage,
+    )
 
     try:
         client = anthropic.Anthropic(

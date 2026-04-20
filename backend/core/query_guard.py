@@ -1,5 +1,6 @@
 import re
 from enum import Enum
+from typing import Optional
 
 _SCOPE_TERMS = [
     "online safety act",
@@ -24,15 +25,31 @@ _SCOPE_TERMS = [
     "provider duties",
 ]
 
-_ANALYTICS_PATTERNS = [
+# Brief 11 (open-threads #83 follow-up): patterns split into two groups:
+#
+# _STRICT_ANALYTICS_PATTERNS — genuinely quantitative ("how many platforms
+# has Ofcom fined?"). No curated KB answer can satisfy these; refusal
+# stays regardless of whether the caller classified the query as survey
+# or factual. The refusal is LEGITIMATE for DCMS — BM25 retrieval can't
+# count across qualitative chunks.
+#
+# _CURATION_COMPATIBLE_PATTERNS — phrasings like "top 5" or "rank" that
+# CAN mean editorial curation ("Top 5 main debates on online safety
+# duties") when paired with survey cues, or quantitative analytics when
+# not. Refusal is suppressed for these when kind=survey so survey
+# curation requests can return a curated pack rather than refuse.
+_STRICT_ANALYTICS_PATTERNS = [
     re.compile(r"\bhow many\b", re.IGNORECASE),
     re.compile(r"\bhow often\b", re.IGNORECASE),
     re.compile(r"\bmost often\b", re.IGNORECASE),
     re.compile(r"\bcount\b", re.IGNORECASE),
     re.compile(r"\bfrequency\b", re.IGNORECASE),
+    re.compile(r"\baverage\b", re.IGNORECASE),
+]
+
+_CURATION_COMPATIBLE_PATTERNS = [
     re.compile(r"\brank\b", re.IGNORECASE),
     re.compile(r"\btop\s+\d+", re.IGNORECASE),
-    re.compile(r"\baverage\b", re.IGNORECASE),
 ]
 
 # Current affairs that are genuinely out of scope.
@@ -105,12 +122,37 @@ class QueryClassification(str, Enum):
     UNSUPPORTED_ANALYTICS = "UNSUPPORTED_ANALYTICS"
 
 
-def classify_query(question: str) -> QueryClassification:
+def classify_query(
+    question: str, query_kind: Optional[str] = None
+) -> QueryClassification:
+    """Scope-guard classification.
+
+    Brief 11 (open-threads #83 follow-up): *query_kind* is the survey-
+    vs-factual label from ``query_classifier.classify_query_kind``. When
+    supplied and equal to "survey", the curation-compatible analytics
+    patterns ("top N", "rank") are NOT treated as refusals — the caller
+    is asking for editorial curation, not quantitative analytics.
+    Strictly-quantitative patterns ("how many", "how often", "count",
+    "frequency", "average", "most often") still refuse regardless of
+    kind. When *query_kind* is omitted (None), all analytics patterns
+    refuse — preserves pre-Brief-11 behaviour for any caller that hasn't
+    threaded the kind through yet.
+
+    Strategic / Parliamentary classification logic is unchanged: survey
+    routing is orthogonal to synthesis mode (a survey query can be
+    factual, strategic, or parliamentary — the classifier kind only
+    drives retrieval-depth widening).
+    """
     text = question.lower()
 
-    # Analytics check first — counts/rankings are unsupported regardless
-    if any(pattern.search(text) for pattern in _ANALYTICS_PATTERNS):
+    if any(pattern.search(text) for pattern in _STRICT_ANALYTICS_PATTERNS):
         return QueryClassification.UNSUPPORTED_ANALYTICS
+
+    # Curation-compatible analytics patterns refuse only when the caller
+    # didn't classify OR classified as factual. Survey queries bypass.
+    if query_kind != "survey":
+        if any(pattern.search(text) for pattern in _CURATION_COMPATIBLE_PATTERNS):
+            return QueryClassification.UNSUPPORTED_ANALYTICS
 
     # Check parliamentary patterns BEFORE current affairs.
     # "What did the minister say last week?" is parliamentary, not out-of-scope.

@@ -178,6 +178,11 @@ class QueryResponse(BaseModel):
     # Echo the server-generated request_id so clients can export the
     # archived record (GET /answers/{request_id}/export?format=...).
     request_id: Optional[str] = None
+    # Brief 9 sub-job C: honest-framing metadata. Shape matches
+    # RetrievalCoverage.to_dict() — {requested, returned, pack_size,
+    # corpus_matches, kind, coverage_ratio, is_retrieval_limited}. None
+    # when coverage wasn't computed (e.g. scope refusals).
+    retrieval_coverage: Optional[Dict] = None
 
 
 class AnswerSummary(BaseModel):

@@ -3,6 +3,7 @@ from dataclasses import asdict
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, HTMLResponse, Response
@@ -29,8 +30,14 @@ from backend.core.evidence_sufficiency import (
     contextual_suggestions,
     default_suggestions,
 )
+from backend.core.follow_up_detector import (
+    TurnKindResult,
+    classify_turn,
+    concat_for_retrieval,
+)
 from backend.core.guardrails import apply_section_lock
 from backend.core.parliament_fetch import fetch_parliament_context
+from backend.core.query_classifier import classify_query_kind
 from backend.core.query_flow import run_retrieval_plan
 from backend.core.query_guard import (
     QueryClassification,
@@ -198,7 +205,13 @@ def query(req: QueryRequest) -> QueryResponse:
     # one record to the monthly JSON store.
     usage_sink = UsageAggregator()
 
-    classification = classify_query(req.question)
+    # Brief 11 (open-threads #83): classify survey-vs-factual BEFORE the
+    # scope guard so editorial-curation shapes ("top 5 main debates on
+    # online safety duties") aren't refused as quantitative analytics.
+    # The same classification is passed into run_retrieval_plan below so
+    # the retriever widens the pack without classifying twice.
+    pre_kind = classify_query_kind(req.question)
+    classification = classify_query(req.question, query_kind=pre_kind.kind)
     if not is_in_scope(classification):
         refusal_reason = (
             "This question appears to be outside the Online Safety Act scope. Please ask about the Act."
@@ -243,13 +256,46 @@ def query(req: QueryRequest) -> QueryResponse:
         )
         return response
 
-    # --- Multi-turn: rewrite follow-up questions into standalone form ---
+    # --- Multi-turn: make the retrieval layer conversation-aware ---
+    #
+    # Two paths run in order (they do not conflict):
+    #
+    # 1. `classify_turn` — cheap heuristic (Brief 9 sub-job B). If the
+    #    current question is a follow-up ("is that all?", "tell me more",
+    #    pronoun-heavy short query, leading-conjunction continuation),
+    #    prepend the previous user question to the retrieval input so
+    #    BM25 + embeddings can score against the shared topic. The
+    #    synthesis layer still sees the user's original question plus
+    #    full conversation history, so the Frankenquestion only
+    #    influences retrieval.
+    #
+    # 2. `rewrite_follow_up` — existing LLM-backed rewriter. Runs after
+    #    the heuristic and can refine the concatenated string further.
     effective_question = req.question
+    turn_kind: Optional[TurnKindResult] = None
     rewritten_question = None
-    if req.conversation_history and config.llm_configured():
+    history_dicts: Optional[list[dict]] = None
+    if req.conversation_history:
         history_dicts = [turn.dict() for turn in req.conversation_history]
+        turn_kind = classify_turn(req.question, history_dicts)
+        if (
+            turn_kind.kind == "follow_up"
+            and getattr(config, "CONVERSATION_AWARE_RETRIEVAL_ENABLED", True)
+        ):
+            effective_question = concat_for_retrieval(req.question, history_dicts)
+            logger.info(
+                "Follow-up detected — retrieval input inherits prior topic",
+                extra={
+                    "query_id": query_id,
+                    "original": req.question,
+                    "retrieval_input": effective_question,
+                    "signals": turn_kind.signals,
+                },
+            )
+
+    if history_dicts and config.llm_configured():
         effective_question, was_rewritten = rewrite_follow_up(
-            req.question, history_dicts, usage_sink=usage_sink
+            effective_question, history_dicts, usage_sink=usage_sink
         )
         if was_rewritten:
             rewritten_question = effective_question
@@ -258,6 +304,10 @@ def query(req: QueryRequest) -> QueryResponse:
                 extra={"query_id": query_id, "original": req.question, "rewritten": effective_question},
             )
 
+    # Note: we do NOT pass pre_kind here because effective_question may
+    # differ from req.question (follow-up concat / LLM rewrite).
+    # run_retrieval_plan re-classifies on the effective question, which
+    # is the correct input for deciding retrieval-depth widening.
     retrieval_outcome = run_retrieval_plan(effective_question, req.filters, retriever)
     retrieval_context = retriever.last_context()
     candidates = retrieval_outcome.candidates
@@ -389,6 +439,7 @@ def query(req: QueryRequest) -> QueryResponse:
                 parliament_note=parliament_assessment.get("parliament_note", ""),
                 conflict_note=parliament_assessment.get("conflict_note"),
                 usage_sink=usage_sink,
+                retrieval_coverage=retrieval_outcome.retrieval_coverage,
             )
             # Merge KB citations with Parliament citations
             response_citations = answer_citations + parliament_citations
@@ -521,6 +572,10 @@ def query(req: QueryRequest) -> QueryResponse:
         synthesis_mode=synthesis_mode,
         api_usage=usage_summary,
         request_id=query_id,
+        retrieval_coverage=(
+            retrieval_outcome.retrieval_coverage.to_dict()
+            if retrieval_outcome.retrieval_coverage else None
+        ),
     )
 
     logger.info(
@@ -530,6 +585,15 @@ def query(req: QueryRequest) -> QueryResponse:
             "refused": answer.refused,
             "citations": [c.citation_id for c in citations],
             "api_cost_usd": usage_summary["total_cost_usd"],
+            "query_kind": retrieval_outcome.query_kind.kind,
+            "query_kind_signals": retrieval_outcome.query_kind.signals,
+            "evidence_pack_size": len(response_evidence),
+            "turn_kind": turn_kind.kind if turn_kind else "standalone",
+            "turn_kind_signals": turn_kind.signals if turn_kind else [],
+            "retrieval_coverage": (
+                retrieval_outcome.retrieval_coverage.to_dict()
+                if retrieval_outcome.retrieval_coverage else None
+            ),
         },
     )
     return response
