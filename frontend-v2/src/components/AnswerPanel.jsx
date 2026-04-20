@@ -2,6 +2,7 @@ import { useState, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { Lightbulb } from 'lucide-react';
 import ConfidenceBadge from './ConfidenceBadge';
+import ApiUsageFooter from './ApiUsageFooter';
 import { parseCitations, toSuperscript } from '../lib/citations';
 
 // Unique counter for citation anchors so "back to text" can find them
@@ -170,7 +171,7 @@ function splitAnalysisBlocks(text) {
 }
 
 export default function AnswerPanel({ data }) {
-  const { answer, citations } = data;
+  const { answer, citations, api_usage } = data;
   const components = makeMarkdownComponents(citations);
   const segments = splitAnalysisBlocks(answer.text || '');
 
@@ -214,6 +215,8 @@ export default function AnswerPanel({ data }) {
           )
         )}
       </div>
+
+      <ApiUsageFooter apiUsage={api_usage} />
     </div>
   );
 }
