@@ -4,8 +4,10 @@ from typing import List, Optional, Set
 from backend import config
 from backend.core.evidence import PackConfig, build_evidence_pack, expand_with_neighbors
 from backend.core.models import KBChunk, QueryFilters
+import re
+
 from backend.core.query_classifier import QueryKindResult, classify_query_kind
-from backend.core.query_guard import has_definition_intent
+from backend.core.query_guard import _STRATEGIC_PATTERNS, has_definition_intent
 from backend.core.retriever import RetrievedChunk, Retriever
 
 
@@ -76,8 +78,48 @@ class RetrievalOutcome:
     retrieval_coverage: Optional[RetrievalCoverage] = None
 
 
-def _pack_config_for(kind: str) -> PackConfig:
-    return PackConfig.for_survey() if kind == "survey" else PackConfig.default()
+_NARRATIVE_PATTERNS = [
+    re.compile(r"\bhappened\b", re.IGNORECASE),
+    re.compile(r"\bchanged\b", re.IGNORECASE),
+    re.compile(r"\bbecame\b", re.IGNORECASE),
+    re.compile(r"\bbetween\s+.*\band\b", re.IGNORECASE),
+    re.compile(r"\bduring the\s+(bill|act|passage|debate)", re.IGNORECASE),
+    re.compile(r"\bpassage of\b", re.IGNORECASE),
+    re.compile(r"\bfrom\s+(first|draft|introduction).*\bto\b", re.IGNORECASE),
+    re.compile(r"\bcriticism\b", re.IGNORECASE),
+    re.compile(r"\brespond(ed|ing)?\b", re.IGNORECASE),
+    re.compile(r"\bconcerns?\b", re.IGNORECASE),
+    re.compile(r"\bargu(ed|ment|ments)\b", re.IGNORECASE),
+    re.compile(r"\bposition(s)?\b", re.IGNORECASE),
+    re.compile(r"\bdisagree(d|ment)?\b", re.IGNORECASE),
+    re.compile(r"\bdebate(d|s)?\b", re.IGNORECASE),
+    re.compile(r"\bamend(ed|ment|ments)\b", re.IGNORECASE),
+    re.compile(r"\brecommend(ed|ation|ations)\b", re.IGNORECASE),
+    re.compile(r"\binfluenc(e|ed|ing)\b", re.IGNORECASE),
+    re.compile(r"\bshap(e|ed|ing)\b", re.IGNORECASE),
+    re.compile(r"\brole\b", re.IGNORECASE),
+]
+
+
+def _has_strategic_signal(question: str) -> bool:
+    """True when the question phrasing signals narrative/interpretive
+    intent — triggers the voice-rich pack tilt so Hansard and written
+    evidence surface alongside the Act and guidance. Covers both
+    strategic analysis language and narrative/evolution markers."""
+    if any(p.search(question) for p in _STRATEGIC_PATTERNS):
+        return True
+    return any(p.search(question) for p in _NARRATIVE_PATTERNS)
+
+
+def _pack_config_for(kind: str, question: str = "") -> PackConfig:
+    # Narrative tilt wins even on survey questions — a question like
+    # "what happened to X between the first draft and Royal Assent?"
+    # is both a survey AND needs voice-rich sources.
+    if question and _has_strategic_signal(question):
+        return PackConfig.for_narrative()
+    if kind == "survey":
+        return PackConfig.for_survey()
+    return PackConfig.default()
 
 
 def _top_k_for(kind: str) -> int:
@@ -96,7 +138,7 @@ def run_retrieval_plan(
     if query_kind is None:
         query_kind = classify_query_kind(question)
 
-    pack_cfg = _pack_config_for(query_kind.kind)
+    pack_cfg = _pack_config_for(query_kind.kind, question)
     top_k = _top_k_for(query_kind.kind)
 
     if definition_mode:

@@ -28,6 +28,10 @@ class PackConfig:
     max_chunks_per_doc: int
     max_chunks_per_source_type: int
     max_chars_to_llm: int
+    # Optional asymmetric caps — applied per source_type, falling back
+    # to max_chunks_per_source_type when a type isn't listed. Used by
+    # narrative mode to boost voice-rich types over technical ones.
+    per_type_caps: Optional[dict] = None
 
     @classmethod
     def default(cls) -> "PackConfig":
@@ -45,6 +49,39 @@ class PackConfig:
             max_chunks_per_doc=config.SURVEY_MAX_CHUNKS_PER_DOC,
             max_chunks_per_source_type=config.SURVEY_MAX_CHUNKS_PER_SOURCE_TYPE,
             max_chars_to_llm=config.SURVEY_MAX_CHARS_TO_LLM,
+        )
+
+    @classmethod
+    def for_narrative(cls) -> "PackConfig":
+        """Pack config for strategic/narrative questions — tilts toward
+        voice-rich sources (Hansard, Written Evidence, committee transcripts)
+        and caps technical sources (Explanatory Notes, Delegated Powers
+        Memos) more aggressively so named speakers and direct quotes
+        surface in the evidence pack."""
+        return cls(
+            max_chunks_to_llm=config.MAX_CHUNKS_TO_LLM,
+            max_chunks_per_doc=2,  # allow 2 chunks per doc so "gaping hole"-
+                                    # style quotes can reach the LLM alongside
+                                    # their document's summary chunk
+            max_chunks_per_source_type=config.MAX_CHUNKS_PER_SOURCE_TYPE,
+            max_chars_to_llm=config.MAX_CHARS_TO_LLM,
+            per_type_caps={
+                # Voice-rich — allow more
+                "Commons": 8,
+                "Lords": 8,
+                "Hansard": 8,
+                "Written Evidence": 8,
+                "Oral Evidence Transcript": 6,
+                "Public Bill Committee Evidence": 6,
+                "Public Bill Committee Debate": 6,
+                "Correspondence": 4,
+                "Ministerial Correspondence": 4,
+                # Technical — cap tighter
+                "Explanatory Notes": 2,
+                "Explanatory Memorandum": 2,
+                "Delegated Powers Memo": 2,
+                "Impact Assessment": 2,
+            },
         )
 
 
@@ -95,18 +132,25 @@ def _diversify_by_document(
 def _diversify_by_source_type(
     candidates: List[RetrievedChunk],
     max_per_type: int,
+    per_type_overrides: Optional[dict] = None,
 ) -> List[RetrievedChunk]:
     """Cap chunks per source_type so no single type dominates the pack.
 
     Runs after document diversification. Preserves score ordering.
+
+    per_type_overrides allows asymmetric caps: e.g. cap technical
+    source types (Explanatory Notes) lower than voice-rich types
+    (Hansard, Written Evidence) for narrative questions.
     """
     type_counts: dict[str, int] = {}
     diverse: List[RetrievedChunk] = []
+    overrides = per_type_overrides or {}
 
     for cand in candidates:
         st = cand.chunk.source_type or "Other"
+        cap = overrides.get(st, max_per_type)
         count = type_counts.get(st, 0)
-        if count < max_per_type:
+        if count < cap:
             diverse.append(cand)
             type_counts[st] = count + 1
 
@@ -140,8 +184,13 @@ def build_evidence_pack(
     )
 
     # Third pass: diversify by source type so enforcement/debate/guidance
-    # each get fair representation.
-    diverse = _diversify_by_source_type(diverse, max_per_type=cfg.max_chunks_per_source_type)
+    # each get fair representation. Narrative mode uses asymmetric caps
+    # to tilt toward voice-rich sources.
+    diverse = _diversify_by_source_type(
+        diverse,
+        max_per_type=cfg.max_chunks_per_source_type,
+        per_type_overrides=cfg.per_type_caps,
+    )
 
     # Fourth pass: deduplicate and enforce character budget.
     evidence: List[KBChunk] = []
