@@ -123,10 +123,28 @@ def assess_evidence_sufficiency(question: str, candidates: list[RetrievedChunk])
         top_k=config.EVIDENCE_TOP_K_FOR_COVERAGE,
     )
 
+    # Hybrid retrieval (BM25 + embeddings) needs relaxed thresholds:
+    #   - Tight separation is EXPECTED because embeddings return
+    #     semantically similar chunks with similar scores.
+    #   - Keyword coverage is a weak signal because the question's
+    #     vocabulary often differs from the source text (a question
+    #     about "criticism" matches debate chunks that don't contain
+    #     the word "criticism" because semantics match).
+    # Without relaxing, every hybrid query gets refused.
+    hybrid_active = any(
+        getattr(c, "embedding_score", 0) > 0 for c in candidates[:5]
+    )
+    if hybrid_active:
+        separation_threshold = 1.005
+        coverage_threshold = 0.2
+    else:
+        separation_threshold = config.EVIDENCE_MIN_SEPARATION
+        coverage_threshold = config.EVIDENCE_MIN_COVERAGE
+
     insufficient = (
         top_score < config.EVIDENCE_MIN_TOP_SCORE
-        or coverage < config.EVIDENCE_MIN_COVERAGE
-        or separation < config.EVIDENCE_MIN_SEPARATION
+        or coverage < coverage_threshold
+        or separation < separation_threshold
     )
 
     # Override: direct section match from high-authority source always passes
