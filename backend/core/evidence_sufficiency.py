@@ -132,7 +132,7 @@ def assess_evidence_sufficiency(question: str, candidates: list[RetrievedChunk])
     #     the word "criticism" because semantics match).
     # Without relaxing, every hybrid query gets refused.
     hybrid_active = any(
-        getattr(c, "embedding_score", 0) > 0 for c in candidates[:5]
+        (getattr(c, "embedding_score", 0) or 0) > 0 for c in candidates[:5]
     )
     if hybrid_active:
         separation_threshold = 1.005
