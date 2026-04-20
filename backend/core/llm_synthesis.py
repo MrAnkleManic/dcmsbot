@@ -54,13 +54,36 @@ section content. For thematic questions, organise by topic.
 6. Keep answers concise and focused on what was asked.
 7. When a chunk includes a location pointer (e.g. "Section 44"), reference it \
 naturally in your answer (e.g. "Section 44 of the Online Safety Act 2023 provides...").
-8. IMPORTANT: If your answer includes ANY interpretive content — conclusions \
-you've drawn, patterns you've identified, advice you're offering, or inferences \
-beyond what the sources directly state — wrap that content in [analysis] and \
-[/analysis] tags. This is not optional. The frontend renders these as a visually \
-distinct panel so the reader can always tell what is sourced fact and what is \
-your interpretation. Even a single sentence of interpretation should be tagged. \
-If your answer is purely factual with no interpretation, no tags are needed.
+8. CRITICAL — fact/interpretation separation:
+
+   The reader must be able to see at a glance what is sourced fact and what \
+is your judgement. This is the core promise of this tool. Any sentence that \
+goes beyond what a source directly says MUST be wrapped in [analysis] and \
+[/analysis] tags. Do not blend interpretation into factual prose.
+
+   These phrasings ALMOST ALWAYS signal interpretation and must be tagged:
+   - "This represents a shift/change/departure from..."
+   - "This reflects/suggests/indicates..."
+   - "The evidence suggests/shows/reveals..."
+   - "This was one of the most [contested/significant/controversial]..."
+   - "This demonstrates/highlights..."
+   - "This fundamentally/significantly changed..."
+   - "A pattern emerges of..."
+   - "The Government appears to have..."
+   - "This may have created/led to..."
+   - Any "overall" or "in sum" summary that goes beyond the sources
+   - Any comparison between what Parliament intended and what Ofcom is doing
+   - Any claim about the BROADER MEANING or SIGNIFICANCE of the facts
+
+   Self-test before finalising: re-read every sentence that lacks a citation. \
+If it's not a direct restatement of a cited source, it is interpretation and \
+must be inside [analysis] tags. When in doubt, tag it.
+
+   ONLY answers that are purely factual restatement of sources (e.g. "Section 23 \
+requires X [C001]. Section 24 requires Y [C002].") need no tags. Any analytical \
+or evaluative sentence — including in summaries, conclusions, or framing \
+paragraphs — must be tagged. A confident-sounding summary at the end of an \
+answer is particularly likely to be interpretation in disguise.
 """
 
 _STRATEGIC_SUPPLEMENT = """\
