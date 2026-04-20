@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import List, Tuple
 
 import numpy as np
+from nltk.stem.porter import PorterStemmer
 from rank_bm25 import BM25Okapi
 
 from backend import config
@@ -24,6 +25,62 @@ logger = get_logger(__name__)
 _TOKEN_PATTERN = re.compile(r"[A-Za-z0-9']+")
 _HYBRID_WEIGHT = 0.6
 _SECTION_RERANK_WEIGHT = 0.55
+
+# Brief 12 (iln_bot@b8dd70a): PorterStemmer collapses morphological
+# variants so BM25 treats "murdered" / "murders" / "murdering" as the
+# same token. DCMS equivalent: a user asking "were there any fines
+# imposed" gets chunks that say "fined" / "fining"; "enforcement
+# actions" matches chunks that say "enforced"; plural/past-tense drift
+# used to silently zero out BM25 for these shapes.
+#
+# Porter over Snowball: more conservative, less prone to false-positive
+# conflations like archive/archiv (Snowball). If a future query turns
+# up a real plural/past-tense miss that Porter doesn't catch, revisit.
+#
+# Disk-cache invalidation note: DCMS has a disk-backed embedding cache
+# (committed embeddings_cache.npy + runtime .cache/*.npy, introduced in
+# Brief 6 backport 6dffec5). The cache key is sha256(chunk_text concat +
+# embedding model) — chunk text and OpenAI's embedding tokenisation are
+# unaffected by our local BM25 stemmer swap, so the embedding cache does
+# NOT need invalidation. BM25 itself has no disk cache in this codebase
+# (the index is rebuilt in memory on every startup from self.kb.chunks)
+# so swapping the tokeniser auto-invalidates the BM25 index on next boot.
+# No cache files to delete.
+_STEMMER = PorterStemmer()
+
+# Porter is pure-Python and ~1us per call; on DCMS's 28,548-chunk corpus
+# that would add ~20s to index build. Token repetition is heavy ("the",
+# "of", "section", regulatory terms that recur across Ofcom codes and
+# Act provisions), so a plain dict cache cuts the work order-of-magnitude
+# without changing semantics. Cache is process-local and grows with
+# corpus vocabulary — bounded by English + regulatory tokens, so memory
+# is trivial.
+_STEM_CACHE: dict[str, str] = {}
+
+
+def _normalise_token(tok: str) -> str:
+    """Lowercase, strip possessive apostrophe-s, then stem.
+
+    Possessive stripping happens pre-stem because Porter is undefined on
+    embedded punctuation — "ofcom's" left intact stems to a different
+    token than "ofcom". Numeric tokens bypass the stemmer so year /
+    section tokens like "2023" or "64" survive unchanged.
+    """
+    tok = tok.lower()
+    if tok.endswith("'s"):
+        tok = tok[:-2]
+    elif tok.endswith("'"):
+        tok = tok[:-1]
+    if not tok:
+        return ""
+    if tok.isdigit():
+        return tok
+    cached = _STEM_CACHE.get(tok)
+    if cached is not None:
+        return cached
+    stemmed = _STEMMER.stem(tok)
+    _STEM_CACHE[tok] = stemmed
+    return stemmed
 
 # Brief 11 (open-threads #83 follow-up): discriminative corpus-match counter.
 # The Brief 9 implementation counted any chunk with BM25 > 0 — on the DCMS
@@ -71,13 +128,24 @@ _CORPUS_MATCH_STOPWORDS = frozenset({
 })
 
 
+# Brief 12: with stemming in _tokenize the corpus-matches filter sees
+# stemmed tokens, so the stopword set has to be compared stem-to-stem
+# too. Pre-stem the canonical set once at module load so lookups stay
+# O(1) and _CORPUS_MATCH_STOPWORDS remains the human-readable source of
+# truth (Brief 11 tests still pin it in surface form).
+_STEMMED_STOPWORDS: frozenset[str] = frozenset(
+    _normalise_token(w) for w in _CORPUS_MATCH_STOPWORDS
+)
+
+
 def _extract_content_tokens(tokens: list[str]) -> list[str]:
     """Filter query tokens down to content-bearing ones for corpus_matches.
 
-    Expects *tokens* to already be normalised via _tokenize (lowercased).
-    Excludes short tokens (< 4 chars), purely numeric tokens (years like
-    "2023" match many chunks), and generic scaffolding from the stopword
-    set. Preserves order and collapses duplicates.
+    Expects *tokens* to already be normalised via _tokenize (lowercased,
+    possessive-stripped, and Porter-stemmed). Excludes short tokens
+    (< 4 chars after stemming), purely numeric tokens, and generic
+    scaffolding from the stemmed stopword set. Preserves order and
+    collapses duplicates.
     """
     seen: set[str] = set()
     content: list[str] = []
@@ -88,7 +156,7 @@ def _extract_content_tokens(tokens: list[str]) -> list[str]:
             continue
         if tok.isdigit():
             continue
-        if tok in _CORPUS_MATCH_STOPWORDS:
+        if tok in _STEMMED_STOPWORDS:
             continue
         seen.add(tok)
         content.append(tok)
@@ -168,7 +236,12 @@ def chunk_matches_section(chunk: KBChunk, section_number: str) -> bool:
 
 
 def _tokenize(text: str) -> List[str]:
-    return [t.lower() for t in _TOKEN_PATTERN.findall(text)]
+    tokens: List[str] = []
+    for raw in _TOKEN_PATTERN.findall(text):
+        tok = _normalise_token(raw)
+        if tok:
+            tokens.append(tok)
+    return tokens
 
 
 # text-embedding-3-small has an 8191-token limit per text.

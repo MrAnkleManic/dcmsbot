@@ -3,6 +3,11 @@ uvicorn[standard]>=0.32.0
 pydantic>=2.10.0
 pydantic-settings>=2.6.0
 rank-bm25>=0.2.2
+# Brief 12 (iln_bot@b8dd70a): PorterStemmer for BM25 tokenisation so
+# morphological variants ("murdered" / "murders" / "fined" / "fines")
+# collapse to the same stem. NLTK's Porter implementation is pure-Python
+# and needs no corpus downloads.
+nltk>=3.9.0
 python-dotenv>=1.0.1
 openai>=1.58.0
 anthropic>=0.40.0
